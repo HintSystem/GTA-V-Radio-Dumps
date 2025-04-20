@@ -1,0 +1,2640 @@
+{
+  "Stations": {
+    "radio_03_hiphop_new": {
+      "Flags": "0xAA800A66",
+      "Genre": "4",
+      "AmbientRadioVol": "0",
+      "RadioName": "RADIO_03_HIPHOP_NEW",
+      "TrackLists": [
+        "radio_03_hiphop_new_dd_djsolo_launch",
+        "radio_03_hiphop_new_dd_djsolo_post_launch",
+        "radio_03_hiphop_new_dd_music_launch",
+        "radio_03_hiphop_new_dd_music_post_launch"
+      ]
+    },
+    "radio_09_hiphop_old": {
+      "Flags": "0xAA800A66",
+      "Genre": "4",
+      "AmbientRadioVol": "0",
+      "RadioName": "RADIO_09_HIPHOP_OLD",
+      "TrackLists": [
+        "radio_09_hiphop_old_dd_djsolo_post_launch",
+        "radio_09_hiphop_old_dd_idents_launch",
+        "radio_09_hiphop_old_dd_djsolo_launch",
+        "radio_09_hiphop_old_dd_music_post_launch",
+        "radio_09_hiphop_old_dd_music_launch"
+      ]
+    },
+    "radio_36_audioplayer": {
+      "Flags": "0xAA9009AA",
+      "Genre": "16",
+      "AmbientRadioVol": "0",
+      "RadioName": "RADIO_36_AUDIOPLAYER",
+      "TrackLists": [
+        "radio_ap_dre",
+        "fixer_ap_lowriders_mix",
+        "fixer_ap_dscvrbl_mix_1",
+        "fixer_ap_dscvrbl_mix_2"
+      ]
+    },
+    "radio_37_motomami": {
+      "Flags": "0xAA8006AA",
+      "Genre": "3",
+      "AmbientRadioVol": "0",
+      "RadioName": "RADIO_37_MOTOMAMI",
+      "TrackLists": [
+        "radio_37_motomami_music_ordered",
+        "radio_37_motomami_idents_ident",
+        "radio_37_motomami_djsolo_djsolo"
+      ]
+    }
+  },
+  "TrackLists": {
+    "radio_03_hiphop_new_dd_djsolo_launch": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "5",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_11",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_11",
+          "Duration": 49524
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_01",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_01",
+          "Duration": 19034
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_03",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_03",
+          "Duration": 17245
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_06",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_06",
+          "Duration": 15697
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_07",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_07",
+          "Duration": 15653
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_10",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_10",
+          "Duration": 34966
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_04",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_04",
+          "Duration": 24468
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_05",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_05",
+          "Duration": 16651
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_08",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_08",
+          "Duration": 16330
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_02",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_02",
+          "Duration": 17118
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_12",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_12",
+          "Duration": 45662
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_launch_09",
+          "Path": "dlc_security_music/dj_mono_solo_rls_launch_09",
+          "Duration": 16018
+        }
+      ]
+    },
+    "radio_03_hiphop_new_dd_djsolo_post_launch": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "5",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_30",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_30",
+          "Duration": 17701
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_02",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_02",
+          "Duration": 32768
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_04",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_04",
+          "Duration": 27340
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_32",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_32",
+          "Duration": 13168
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_07",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_07",
+          "Duration": 21848
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_11",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_11",
+          "Duration": 20978
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_13",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_13",
+          "Duration": 21709
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_08",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_08",
+          "Duration": 21889
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_16",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_16",
+          "Duration": 14677
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_18",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_18",
+          "Duration": 18557
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_20",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_20",
+          "Duration": 88666
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_05",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_05",
+          "Duration": 29021
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_22",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_22",
+          "Duration": 37061
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_01",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_01",
+          "Duration": 24323
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_23",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_23",
+          "Duration": 53669
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_17",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_17",
+          "Duration": 34526
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_24",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_24",
+          "Duration": 34766
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_26",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_26",
+          "Duration": 31592
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_15",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_15",
+          "Duration": 28753
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_29",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_29",
+          "Duration": 26794
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_27",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_27",
+          "Duration": 29129
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_06",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_06",
+          "Duration": 25391
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_19",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_19",
+          "Duration": 14748
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_09",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_09",
+          "Duration": 25386
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_03",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_03",
+          "Duration": 23881
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_28",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_28",
+          "Duration": 27200
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_14",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_14",
+          "Duration": 24878
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_12",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_12",
+          "Duration": 14549
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_21",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_21",
+          "Duration": 169633
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_25",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_25",
+          "Duration": 34641
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_10",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_10",
+          "Duration": 15580
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_dj_mono_solo_rls_post_launch_31",
+          "Path": "dlc_security_music/dj_mono_solo_rls_post_launch_31",
+          "Duration": 16724
+        }
+      ]
+    },
+    "radio_03_hiphop_new_dd_music_launch": {
+      "Flags": "0xAAAAAAA5",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_the_box",
+          "Path": "dlc_security_music/the_box",
+          "Duration": 196652,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "The Box",
+                "Artist": "RODDY RICCH"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_big_fish",
+          "Path": "dlc_security_music/big_fish",
+          "Duration": 195128,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Big Fish",
+                "Artist": "VINCE STAPLES FEAT. JUICY J"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_kung_fu",
+          "Path": "dlc_security_music/kung_fu",
+          "Duration": 201024,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Kung Fu",
+                "Artist": "CORDAE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_what_a_life",
+          "Path": "dlc_security_music/what_a_life",
+          "Duration": 177112,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "What A Life",
+                "Artist": "BIG SEAN & HIT-BOY"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_chrome_hearts",
+          "Path": "dlc_security_music/chrome_hearts",
+          "Duration": 247333,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Chrome Hearts",
+                "Artist": "D-BLOCK EUROPE FEAT. OFFSET"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_stir_fry",
+          "Path": "dlc_security_music/stir_fry",
+          "Duration": 191971,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Stir Fry",
+                "Artist": "MIGOS"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_go_live",
+          "Path": "dlc_security_music/go_live",
+          "Duration": 288711,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Go Live",
+                "Artist": "FREDO SANTANA FEAT. CHIEF KEEF, BALL OUT & TADOE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_wow_freestyle",
+          "Path": "dlc_security_music/wow_freestyle",
+          "Duration": 173966,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Wow Freestyle",
+                "Artist": "JAY ROCK FEAT. KENDRICK LAMAR"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_lockjaw",
+          "Path": "dlc_security_music/lockjaw",
+          "Duration": 221599,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Lockjaw",
+                "Artist": "FRENCH MONTANA FEAT. KODAK BLACK"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_zeze",
+          "Path": "dlc_security_music/zeze",
+          "Duration": 226829,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "ZEZE",
+                "Artist": "KODAK BLACK FEAT. TRAVIS SCOTT & OFFSET"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_low_life",
+          "Path": "dlc_security_music/low_life",
+          "Duration": 312433,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Low Life",
+                "Artist": "FUTURE FEAT. THE WEEKND"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_my_type",
+          "Path": "dlc_security_music/my_type",
+          "Duration": 125852,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "My Type",
+                "Artist": "SAWEETIE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_flex",
+          "Path": "dlc_security_music/flex",
+          "Duration": 164414,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Flex",
+                "Artist": "POLO G FEAT. JUICE WRLD"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_a_vibe",
+          "Path": "dlc_security_music/a_vibe",
+          "Duration": 209142,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "It's A Vibe",
+                "Artist": "2 CHAINZ FEAT. TY DOLLA $IGN, TREY SONGZ, JHENÉ AIKO"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_plain_jane",
+          "Path": "dlc_security_music/plain_jane",
+          "Duration": 171874,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Plain Jane",
+                "Artist": "A$AP FERG"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_feed_dope",
+          "Path": "dlc_security_music/feed_dope",
+          "Duration": 163677,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Feed Me Dope",
+                "Artist": "FUTURE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_ski",
+          "Path": "dlc_security_music/ski",
+          "Duration": 150743,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Ski",
+                "Artist": "YOUNG STONER LIFE, YOUNG THUG & GUNNA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_lemonhead",
+          "Path": "dlc_security_music/lemonhead",
+          "Duration": 131560,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "LEMONHEAD",
+                "Artist": "TYLER, THE CREATOR FEAT. 42 DUGG"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_big_subwoofer",
+          "Path": "dlc_security_music/big_subwoofer",
+          "Duration": 241028,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Big Subwoofer",
+                "Artist": "MOUNT WESTMORE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dscvrbl_mix_2_schoolboy_lets_get_it",
+          "Path": "dlc_security_music/schoolboy_lets_get_it",
+          "Duration": 162405,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Let's Get It",
+                "Artist": "SCHOOLBOY Q"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_pick_the_phone_up",
+          "Path": "dlc_security_music/pick_the_phone_up",
+          "Duration": 195998,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Pick The Phone Up",
+                "Artist": "FREDDIE GIBBS FEAT. JUICY J"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_miami_vice",
+          "Path": "dlc_security_music/miami_vice",
+          "Duration": 225864,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Miami Vice",
+                "Artist": "FREDDIE GIBBS FEAT. PUSHA T"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_xl",
+          "Path": "dlc_security_music/xl",
+          "Duration": 241694,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "XL",
+                "Artist": "HIT-BOY & DOM KENNEDY"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_so_fancy",
+          "Path": "dlc_security_music/so_fancy",
+          "Duration": 156032,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "So Fancy",
+                "Artist": "MIKE DEAN & OFFSET"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_blue_cheese",
+          "Path": "dlc_security_music/blue_cheese",
+          "Duration": 175274,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Blue Cheese",
+                "Artist": "RICH THE KID & MIKE DEAN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_hoppin_out",
+          "Path": "dlc_security_music/hoppin_out",
+          "Duration": 101036,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Hoppin' Out",
+                "Artist": "MOZZY & YG"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_coochie",
+          "Path": "dlc_security_music/coochie",
+          "Duration": 159020,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Coochie",
+                "Artist": "TIA CORINE"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "radio_03_hiphop_new_dd_music_post_launch": {
+      "Flags": "0xAAAAAAA5",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_black_privilege",
+          "Path": "dlc_security_music/ap_dre_black_privilege",
+          "Duration": 169472,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Black Privilege",
+                "Artist": "DR. DRE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_stir_fry",
+          "Path": "dlc_security_music/stir_fry",
+          "Duration": 191971,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Stir Fry",
+                "Artist": "MIGOS"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_ski",
+          "Path": "dlc_security_music/ski",
+          "Duration": 150743,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Ski",
+                "Artist": "YOUNG STONER LIFE, YOUNG THUG & GUNNA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_wow_freestyle",
+          "Path": "dlc_security_music/wow_freestyle",
+          "Duration": 173966,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Wow Freestyle",
+                "Artist": "JAY ROCK FEAT. KENDRICK LAMAR"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_a_vibe",
+          "Path": "dlc_security_music/a_vibe",
+          "Duration": 209142,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "It's A Vibe",
+                "Artist": "2 CHAINZ FEAT. TY DOLLA $IGN, TREY SONGZ, JHENÉ AIKO"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_diamond_mind",
+          "Path": "dlc_security_music/ap_dre_diamond_mind",
+          "Duration": 291640,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Diamond Mind",
+                "Artist": "DR. DRE FEAT. NIPSEY HUSSLE & TY DOLLA SIGN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_feed_dope",
+          "Path": "dlc_security_music/feed_dope",
+          "Duration": 163677,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Feed Me Dope",
+                "Artist": "FUTURE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_kung_fu",
+          "Path": "dlc_security_music/kung_fu",
+          "Duration": 201024,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Kung Fu",
+                "Artist": "CORDAE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_plain_jane",
+          "Path": "dlc_security_music/plain_jane",
+          "Duration": 171874,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Plain Jane",
+                "Artist": "A$AP FERG"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_eta",
+          "Path": "dlc_security_music/ap_dre_eta",
+          "Duration": 236042,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "ETA",
+                "Artist": "DR. DRE FEAT. SNOOP DOGG, BUSTA RHYMES & ANDERSON .PAAK"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_zeze",
+          "Path": "dlc_security_music/zeze",
+          "Duration": 226829,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "ZEZE",
+                "Artist": "KODAK BLACK FEAT. TRAVIS SCOTT & OFFSET"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_go_live",
+          "Path": "dlc_security_music/go_live",
+          "Duration": 288711,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Go Live",
+                "Artist": "FREDO SANTANA FEAT. CHIEF KEEF, BALL OUT & TADOE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_the_scenic_route",
+          "Path": "dlc_security_music/ap_dre_the_scenic_route",
+          "Duration": 179050,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "The Scenic Route",
+                "Artist": "DR. DRE FEAT. RICK ROSS & ANDERSON .PAAK"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_flex",
+          "Path": "dlc_security_music/flex",
+          "Duration": 164414,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Flex",
+                "Artist": "POLO G FEAT. JUICE WRLD"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_lemonhead",
+          "Path": "dlc_security_music/lemonhead",
+          "Duration": 131560,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "LEMONHEAD",
+                "Artist": "TYLER, THE CREATOR FEAT. 42 DUGG"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_my_type",
+          "Path": "dlc_security_music/my_type",
+          "Duration": 125852,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "My Type",
+                "Artist": "SAWEETIE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_big_subwoofer",
+          "Path": "dlc_security_music/big_subwoofer",
+          "Duration": 241028,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Big Subwoofer",
+                "Artist": "MOUNT WESTMORE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_gospel",
+          "Path": "dlc_security_music/ap_dre_gospel",
+          "Duration": 205145,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Gospel",
+                "Artist": "DR. DRE FEAT. EMINEM"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_big_fish",
+          "Path": "dlc_security_music/big_fish",
+          "Duration": 195128,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Big Fish",
+                "Artist": "VINCE STAPLES FEAT. JUICY J"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_chrome_hearts",
+          "Path": "dlc_security_music/chrome_hearts",
+          "Duration": 247333,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Chrome Hearts",
+                "Artist": "D-BLOCK EUROPE FEAT. OFFSET"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_fallin_up",
+          "Path": "dlc_security_music/ap_dre_fallin_up",
+          "Duration": 204108,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Fallin Up",
+                "Artist": "DR. DRE FEAT. THURZ & COCOA SARAI"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_the_box",
+          "Path": "dlc_security_music/the_box",
+          "Duration": 196652,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "The Box",
+                "Artist": "RODDY RICCH"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_low_life",
+          "Path": "dlc_security_music/low_life",
+          "Duration": 312433,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Low Life",
+                "Artist": "FUTURE FEAT. THE WEEKND"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_lockjaw",
+          "Path": "dlc_security_music/lockjaw",
+          "Duration": 221599,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Lockjaw",
+                "Artist": "FRENCH MONTANA FEAT. KODAK BLACK"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_what_a_life",
+          "Path": "dlc_security_music/what_a_life",
+          "Duration": 177112,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "What A Life",
+                "Artist": "BIG SEAN & HIT-BOY"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dscvrbl_mix_2_schoolboy_lets_get_it",
+          "Path": "dlc_security_music/schoolboy_lets_get_it",
+          "Duration": 162405,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Let's Get It",
+                "Artist": "SCHOOLBOY Q"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_pick_the_phone_up",
+          "Path": "dlc_security_music/pick_the_phone_up",
+          "Duration": 195998,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Pick The Phone Up",
+                "Artist": "FREDDIE GIBBS FEAT. JUICY J"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_miami_vice",
+          "Path": "dlc_security_music/miami_vice",
+          "Duration": 225864,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Miami Vice",
+                "Artist": "FREDDIE GIBBS FEAT. PUSHA T"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_xl",
+          "Path": "dlc_security_music/xl",
+          "Duration": 241694,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "XL",
+                "Artist": "HIT-BOY & DOM KENNEDY"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_so_fancy",
+          "Path": "dlc_security_music/so_fancy",
+          "Duration": 156032,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "So Fancy",
+                "Artist": "MIKE DEAN & OFFSET"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_blue_cheese",
+          "Path": "dlc_security_music/blue_cheese",
+          "Duration": 175274,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Blue Cheese",
+                "Artist": "RICH THE KID & MIKE DEAN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_hoppin_out",
+          "Path": "dlc_security_music/hoppin_out",
+          "Duration": 101036,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Hoppin' Out",
+                "Artist": "MOZZY & YG"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_coochie",
+          "Path": "dlc_security_music/coochie",
+          "Duration": 159020,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Coochie",
+                "Artist": "TIA CORINE"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "radio_09_hiphop_old_dd_djsolo_post_launch": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "5",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_01",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_01",
+          "Duration": 17621
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_02",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_02",
+          "Duration": 17307
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_03",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_03",
+          "Duration": 34983
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_04",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_04",
+          "Duration": 12636
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_05",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_05",
+          "Duration": 12456
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_06",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_06",
+          "Duration": 12684
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_07",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_07",
+          "Duration": 10642
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_08",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_08",
+          "Duration": 10873
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_09",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_09",
+          "Duration": 20505
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_10",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_10",
+          "Duration": 14860
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_11",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_11",
+          "Duration": 16846
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_12",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_12",
+          "Duration": 10834
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_13",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_13",
+          "Duration": 10091
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_14",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_14",
+          "Duration": 8159
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_post_launch_15",
+          "Path": "dlc_security_music/dj_mono_solo_post_launch_15",
+          "Duration": 10780
+        }
+      ]
+    },
+    "radio_09_hiphop_old_dd_idents_launch": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "1",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_01",
+          "Path": "dlc_security_music/id_01",
+          "Duration": 12373
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_02",
+          "Path": "dlc_security_music/id_02",
+          "Duration": 12053
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_03",
+          "Path": "dlc_security_music/id_03",
+          "Duration": 12394
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_04",
+          "Path": "dlc_security_music/id_04",
+          "Duration": 11306
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_05",
+          "Path": "dlc_security_music/id_05",
+          "Duration": 11690
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_06",
+          "Path": "dlc_security_music/id_06",
+          "Duration": 13077
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_07",
+          "Path": "dlc_security_music/id_07",
+          "Duration": 13546
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_08",
+          "Path": "dlc_security_music/id_08",
+          "Duration": 12096
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_09",
+          "Path": "dlc_security_music/id_09",
+          "Duration": 11882
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_10",
+          "Path": "dlc_security_music/id_10",
+          "Duration": 8928
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_11",
+          "Path": "dlc_security_music/id_11",
+          "Duration": 10282
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_12",
+          "Path": "dlc_security_music/id_12",
+          "Duration": 11786
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_13",
+          "Path": "dlc_security_music/id_13",
+          "Duration": 8384
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_14",
+          "Path": "dlc_security_music/id_14",
+          "Duration": 9653
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_15",
+          "Path": "dlc_security_music/id_15",
+          "Duration": 10880
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_16",
+          "Path": "dlc_security_music/id_16",
+          "Duration": 9397
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_17",
+          "Path": "dlc_security_music/id_17",
+          "Duration": 5619
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_18",
+          "Path": "dlc_security_music/id_18",
+          "Duration": 10000
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_19",
+          "Path": "dlc_security_music/id_19",
+          "Duration": 6250
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_20",
+          "Path": "dlc_security_music/id_20",
+          "Duration": 5848
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_21",
+          "Path": "dlc_security_music/id_21",
+          "Duration": 12602
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_22",
+          "Path": "dlc_security_music/id_22",
+          "Duration": 8693
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_23",
+          "Path": "dlc_security_music/id_23",
+          "Duration": 13152
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_24",
+          "Path": "dlc_security_music/id_24",
+          "Duration": 8944
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_id_25",
+          "Path": "dlc_security_music/id_25",
+          "Duration": 12030
+        }
+      ]
+    },
+    "radio_09_hiphop_old_dd_djsolo_launch": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "5",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_launch_01",
+          "Path": "dlc_security_music/dj_mono_solo_launch_01",
+          "Duration": 11513
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_launch_02",
+          "Path": "dlc_security_music/dj_mono_solo_launch_02",
+          "Duration": 15458
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_launch_03",
+          "Path": "dlc_security_music/dj_mono_solo_launch_03",
+          "Duration": 13251
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_launch_04",
+          "Path": "dlc_security_music/dj_mono_solo_launch_04",
+          "Duration": 14565
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_launch_06",
+          "Path": "dlc_security_music/dj_mono_solo_launch_06",
+          "Duration": 7320
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_launch_07",
+          "Path": "dlc_security_music/dj_mono_solo_launch_07",
+          "Duration": 9781
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_launch_08",
+          "Path": "dlc_security_music/dj_mono_solo_launch_08",
+          "Duration": 9351
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_launch_09",
+          "Path": "dlc_security_music/dj_mono_solo_launch_09",
+          "Duration": 11304
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_launch_10",
+          "Path": "dlc_security_music/dj_mono_solo_launch_10",
+          "Duration": 9304
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_dj_mono_solo_launch_11",
+          "Path": "dlc_security_music/dj_mono_solo_launch_11",
+          "Duration": 23761
+        }
+      ]
+    },
+    "radio_09_hiphop_old_dd_music_post_launch": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_u_better_recognize",
+          "Path": "dlc_security_music/u_better_recognize",
+          "Duration": 235298,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "U Better Recognize",
+                "Artist": "SAM SNEED FEAT. DR. DRE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_california_love_single",
+          "Path": "dlc_security_music/california_love_single",
+          "Duration": 240568,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "California Love (Single Version)",
+                "Artist": "2PAC FEAT. DR. DRE & ROGER TROUTMAN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_family_affair",
+          "Path": "dlc_security_music/family_affair",
+          "Duration": 266061,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Family Affair",
+                "Artist": "MARY J. BLIGE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_outta_control",
+          "Path": "dlc_security_music/outta_control",
+          "Duration": 241409,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Outta Control",
+                "Artist": "50 CENT FEAT. MOBB DEEP"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_hello",
+          "Path": "dlc_security_music/hello",
+          "Duration": 232029,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Hello",
+                "Artist": "ICE CUBE FEAT. DR. DRE & MC REN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_lil_ghetto_boy",
+          "Path": "dlc_security_music/lil_ghetto_boy",
+          "Duration": 327960,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Lil' Ghetto Boy",
+                "Artist": "DR. DRE FEAT. DAZ & SNOOP DOGG"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_nas_is_coming",
+          "Path": "dlc_security_music/nas_is_coming",
+          "Duration": 341848,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Nas Is Coming",
+                "Artist": "NAS FEAT. DR. DRE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_xxplosive",
+          "Path": "dlc_security_music/xxplosive",
+          "Duration": 215693,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Xxplosive",
+                "Artist": "DR. DRE FEAT. HITTMAN, SIX-TWO, NATE DOGG & KURUPT"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_addictive",
+          "Path": "dlc_security_music/addictive",
+          "Duration": 226293,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Addictive",
+                "Artist": "TRUTH HURTS FEAT. RAKIM"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_cant_c_me_radio",
+          "Path": "dlc_security_music/cant_c_me_radio",
+          "Duration": 330157,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Can't C Me",
+                "Artist": "2PAC"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_jayz_trouble",
+          "Path": "dlc_security_music/jayz_trouble",
+          "Duration": 289798,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Trouble",
+                "Artist": "JAY-Z"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_no_diggity",
+          "Path": "dlc_security_music/no_diggity",
+          "Duration": 305096,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "No Diggity",
+                "Artist": "BLACKSTREET FEAT. DR. DRE & QUEEN PEN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_papa_lil_soldier",
+          "Path": "dlc_security_music/papa_lil_soldier",
+          "Duration": 199680,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Papa's Lil Soldier",
+                "Artist": "40 GLOCC"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_keep_their_heads_ringin",
+          "Path": "dlc_security_music/keep_their_heads_ringin",
+          "Duration": 305016,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Keep Their Heads Ringin'",
+                "Artist": "DR. DRE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_shit_hits_the_fan",
+          "Path": "dlc_security_music/shit_hits_the_fan",
+          "Duration": 291022,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Shit Hits The Fan (Album Version)",
+                "Artist": "OBIE TRICE FEAT. DR. DRE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_in_da_club",
+          "Path": "dlc_security_music/in_da_club",
+          "Duration": 193917,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "In Da Club",
+                "Artist": "50 CENT"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "radio_09_hiphop_old_dd_music_launch": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_outta_control",
+          "Path": "dlc_security_music/outta_control",
+          "Duration": 241409,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Outta Control",
+                "Artist": "50 CENT FEAT. MOBB DEEP"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_california_love_single",
+          "Path": "dlc_security_music/california_love_single",
+          "Duration": 240568,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "California Love (Single Version)",
+                "Artist": "2PAC FEAT. DR. DRE & ROGER TROUTMAN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_lil_ghetto_boy",
+          "Path": "dlc_security_music/lil_ghetto_boy",
+          "Duration": 327960,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Lil' Ghetto Boy",
+                "Artist": "DR. DRE FEAT. DAZ & SNOOP DOGG"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_family_affair",
+          "Path": "dlc_security_music/family_affair",
+          "Duration": 266061,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Family Affair",
+                "Artist": "MARY J. BLIGE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_in_da_club",
+          "Path": "dlc_security_music/in_da_club",
+          "Duration": 193917,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "In Da Club",
+                "Artist": "50 CENT"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_keep_their_heads_ringin",
+          "Path": "dlc_security_music/keep_their_heads_ringin",
+          "Duration": 305016,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Keep Their Heads Ringin'",
+                "Artist": "DR. DRE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_next_episode",
+          "Path": "dlc_security_music/next_episode",
+          "Duration": 157578,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "The Next Episode",
+                "Artist": "DR. DRE FEAT. SNOOP DOGG"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_addictive",
+          "Path": "dlc_security_music/addictive",
+          "Duration": 226293,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Addictive",
+                "Artist": "TRUTH HURTS FEAT. RAKIM"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_u_better_recognize",
+          "Path": "dlc_security_music/u_better_recognize",
+          "Duration": 235298,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "U Better Recognize",
+                "Artist": "SAM SNEED FEAT. DR. DRE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_papa_lil_soldier",
+          "Path": "dlc_security_music/papa_lil_soldier",
+          "Duration": 199680,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Papa's Lil Soldier",
+                "Artist": "40 GLOCC"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_hello",
+          "Path": "dlc_security_music/hello",
+          "Duration": 232029,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Hello",
+                "Artist": "ICE CUBE FEAT. DR. DRE & MC REN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_nas_is_coming",
+          "Path": "dlc_security_music/nas_is_coming",
+          "Duration": 341848,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Nas Is Coming",
+                "Artist": "NAS FEAT. DR. DRE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_cant_c_me_radio",
+          "Path": "dlc_security_music/cant_c_me_radio",
+          "Duration": 330157,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Can't C Me",
+                "Artist": "2PAC"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_shit_hits_the_fan",
+          "Path": "dlc_security_music/shit_hits_the_fan",
+          "Duration": 291022,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Shit Hits The Fan (Album Version)",
+                "Artist": "OBIE TRICE FEAT. DR. DRE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_no_diggity",
+          "Path": "dlc_security_music/no_diggity",
+          "Duration": 305096,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "No Diggity",
+                "Artist": "BLACKSTREET FEAT. DR. DRE & QUEEN PEN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_jayz_trouble",
+          "Path": "dlc_security_music/jayz_trouble",
+          "Duration": 289798,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Trouble",
+                "Artist": "JAY-Z"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_09_hiphop_old_xxplosive",
+          "Path": "dlc_security_music/xxplosive",
+          "Duration": 215693,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Xxplosive",
+                "Artist": "DR. DRE FEAT. HITTMAN, SIX-TWO, NATE DOGG & KURUPT"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "radio_ap_dre": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_eta",
+          "Path": "dlc_security_music/ap_dre_eta",
+          "Duration": 236042,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "ETA",
+                "Artist": "DR. DRE FEAT. SNOOP DOGG, BUSTA RHYMES & ANDERSON .PAAK"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_black_privilege",
+          "Path": "dlc_security_music/ap_dre_black_privilege",
+          "Duration": 169472,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Black Privilege",
+                "Artist": "DR. DRE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_the_scenic_route",
+          "Path": "dlc_security_music/ap_dre_the_scenic_route",
+          "Duration": 179050,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "The Scenic Route",
+                "Artist": "DR. DRE FEAT. RICK ROSS & ANDERSON .PAAK"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_gospel",
+          "Path": "dlc_security_music/ap_dre_gospel",
+          "Duration": 205145,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Gospel",
+                "Artist": "DR. DRE FEAT. EMINEM"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_fallin_up",
+          "Path": "dlc_security_music/ap_dre_fallin_up",
+          "Duration": 204108,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Fallin Up",
+                "Artist": "DR. DRE FEAT. THURZ & COCOA SARAI"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_diamond_mind",
+          "Path": "dlc_security_music/ap_dre_diamond_mind",
+          "Duration": 291640,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Diamond Mind",
+                "Artist": "DR. DRE FEAT. NIPSEY HUSSLE & TY DOLLA SIGN"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "fixer_ap_lowriders_mix": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_black_privilege",
+          "Path": "dlc_security_music/ap_dre_black_privilege",
+          "Duration": 169472,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Black Privilege",
+                "Artist": "DR. DRE"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "fixer_ap_dscvrbl_mix_1": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_ap_dscvrbl_mix_1_nez_you_wanna",
+          "Path": "dlc_security_music/nez_you_wanna",
+          "Duration": 215625,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "You Wanna?",
+                "Artist": "NEZ"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "fixer_ap_dscvrbl_mix_2": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_ap_dscvrbl_mix_2_schoolboy_lets_get_it",
+          "Path": "dlc_security_music/schoolboy_lets_get_it",
+          "Duration": 162405,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Let's Get It",
+                "Artist": "SCHOOLBOY Q"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "radio_37_motomami_music_ordered": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_37_motomami_418",
+          "Path": "dlc_security_music/418",
+          "Duration": 186966,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 25,
+                "Title": "418 (Bounce Mix)",
+                "Artist": "DJ SLUGO"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_volando_voy",
+          "Path": "dlc_security_music/volando_voy",
+          "Duration": 198160,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 10,
+                "Title": "Volando Voy",
+                "Artist": "CAMARÓN DE LA ISLA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_con_altura",
+          "Path": "dlc_security_music/con_altura",
+          "Duration": 152854,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 173,
+                "Title": "Con Altura",
+                "Artist": "ROSALÍA FEAT. J BALVIN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_mystery_love",
+          "Path": "dlc_security_music/mystery_love",
+          "Duration": 422979,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Mystery of Love (2011) (Instrumental)",
+                "Artist": "MR. FINGERS"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_klk",
+          "Path": "dlc_security_music/klk",
+          "Duration": 221393,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1,
+                "Title": "KLK",
+                "Artist": "ARCA FEAT. ROSALÍA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_a_pale",
+          "Path": "dlc_security_music/a_pale",
+          "Duration": 102425,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 41,
+                "Title": "A Palé",
+                "Artist": "ROSALÍA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_linda",
+          "Path": "dlc_security_music/linda",
+          "Duration": 131096,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 7,
+                "Title": "Linda",
+                "Artist": "TOKISCHA & ROSALÍA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_dos_locos",
+          "Path": "dlc_security_music/dos_locos",
+          "Duration": 241713,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 20,
+                "Title": "Dos Locos",
+                "Artist": "MONCHY & ALEJANDRA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_vamos_disco",
+          "Path": "dlc_security_music/vamos_disco",
+          "Duration": 164200,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Vamos Pa la Disco",
+                "Artist": "LAS GUANABANAS"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_mi_coranzoncito",
+          "Path": "dlc_security_music/mi_coranzoncito",
+          "Duration": 226543,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 23,
+                "Title": "Mi Corazoncito",
+                "Artist": "AVENTURA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_duro",
+          "Path": "dlc_security_music/duro",
+          "Duration": 135483,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1,
+                "Title": "Duro 2005",
+                "Artist": "LA GOONY CHONGA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_tukuntazo",
+          "Path": "dlc_security_music/tukuntazo",
+          "Duration": 187411,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Tukuntaso",
+                "Artist": "TOKISCHA & HARACA KIKO & EL CHERRY SCOM"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_bank_robber",
+          "Path": "dlc_security_music/bank_robber",
+          "Duration": 197786,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Skinny Jeans",
+                "Artist": "LIKKLE VYBZ & LIKKLE ADDI"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_algo_como_tu",
+          "Path": "dlc_security_music/algo_como_tu",
+          "Duration": 168149,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 3,
+                "Title": "Algo Como Tú",
+                "Artist": "KAYDY CAIN & LOS DEL CONTROL"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_dominicana",
+          "Path": "dlc_security_music/dominicana",
+          "Duration": 137546,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 111,
+                "Title": "Dominicana",
+                "Artist": "CHUCKY73"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_100_dissin",
+          "Path": "dlc_security_music/100_dissin",
+          "Duration": 240604,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 5,
+                "Title": "100% of Disin' You",
+                "Artist": "ARMANDO"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_tumbando_fronte",
+          "Path": "dlc_security_music/tumbando_fronte",
+          "Duration": 167740,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 11,
+                "Title": "Tumbando Fronte",
+                "Artist": "ALBERTO STYLEE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_xulita",
+          "Path": "dlc_security_music/xulita",
+          "Duration": 179750,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 31,
+                "Title": "XULITA",
+                "Artist": "YOUNG CISTER FEAT. KAYDY CAIN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_la_fama",
+          "Path": "dlc_security_music/la_fama",
+          "Duration": 186238,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "LA FAMA",
+                "Artist": "ROSALÍA & THE WEEKND"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_snap_and_roll",
+          "Path": "dlc_security_music/snap_and_roll",
+          "Duration": 199627,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 12,
+                "Title": "Snap And Roll",
+                "Artist": "SOULJA BOY TELL'EM"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_where_heart_is",
+          "Path": "dlc_security_music/where_heart_is",
+          "Duration": 172912,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Take Me Where Your Heart Is",
+                "Artist": "Q"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_nubes",
+          "Path": "dlc_security_music/nubes",
+          "Duration": 166164,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 6,
+                "Title": "Nubes",
+                "Artist": "RAUW ALEJANDRO"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_dipra",
+          "Path": "dlc_security_music/dipra",
+          "Duration": 170879,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "A La Mía",
+                "Artist": "BAD GYAL"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_bounce_n_break",
+          "Path": "dlc_security_music/bounce_n_break",
+          "Duration": 152509,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 9,
+                "Title": "Bounce N Break Yo Back",
+                "Artist": "DJ SPINN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_mi_nombre",
+          "Path": "dlc_security_music/mi_nombre",
+          "Duration": 159886,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "DI MI NOMBRE (Cap.8: Éxtasis)",
+                "Artist": "ROSALÍA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_contigo",
+          "Path": "dlc_security_music/contigo",
+          "Duration": 190908,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Vacilar Contigo",
+                "Artist": "ÑEJO & DALMATA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_body_so_good",
+          "Path": "dlc_security_music/body_so_good",
+          "Duration": 182519,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 30,
+                "Title": "Body So Good",
+                "Artist": "POPCAAN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_rockstar_made",
+          "Path": "dlc_security_music/rockstar_made",
+          "Duration": 192545,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 6,
+                "Title": "Rockstar Made",
+                "Artist": "PLAYBOI CARTI"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_bunny_rider",
+          "Path": "dlc_security_music/bunny_rider",
+          "Duration": 191989,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Bunny Is A Rider",
+                "Artist": "CAROLINE POLACHEK"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_calle_luna",
+          "Path": "dlc_security_music/calle_luna",
+          "Duration": 225692,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 28,
+                "Title": "Calle Luna Calle Sol",
+                "Artist": "WILLIE COLÓN & HÉCTOR LAVOE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_stress",
+          "Path": "dlc_security_music/stress",
+          "Duration": 299563,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Stress",
+                "Artist": "JUSTICE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_machote",
+          "Path": "dlc_security_music/machote",
+          "Duration": 151009,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 4,
+                "Title": "Machote",
+                "Artist": "ARCA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_salgo_calle",
+          "Path": "dlc_security_music/salgo_calle",
+          "Duration": 264310,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Salgo Pa' La Calle",
+                "Artist": "DADDY YANKEE"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "radio_37_motomami_idents_ident": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "1",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_5",
+          "Path": "dlc_security_music/moto_ident_5",
+          "Duration": 11809
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_7",
+          "Path": "dlc_security_music/moto_ident_7",
+          "Duration": 9857
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_8",
+          "Path": "dlc_security_music/moto_ident_8",
+          "Duration": 8646
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_9",
+          "Path": "dlc_security_music/moto_ident_9",
+          "Duration": 8592
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_10",
+          "Path": "dlc_security_music/moto_ident_10",
+          "Duration": 8099
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_11",
+          "Path": "dlc_security_music/moto_ident_11",
+          "Duration": 10478
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_12",
+          "Path": "dlc_security_music/moto_ident_12",
+          "Duration": 8737
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_13",
+          "Path": "dlc_security_music/moto_ident_13",
+          "Duration": 7683
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_14",
+          "Path": "dlc_security_music/moto_ident_14",
+          "Duration": 9752
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_1",
+          "Path": "dlc_security_music/moto_ident_1",
+          "Duration": 7161
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_2",
+          "Path": "dlc_security_music/moto_ident_2",
+          "Duration": 7390
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_3",
+          "Path": "dlc_security_music/moto_ident_3",
+          "Duration": 9078
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_4",
+          "Path": "dlc_security_music/moto_ident_4",
+          "Duration": 8099
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_16",
+          "Path": "dlc_security_music/moto_ident_16",
+          "Duration": 10003
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_moto_ident_17",
+          "Path": "dlc_security_music/moto_ident_17",
+          "Duration": 7367
+        }
+      ]
+    },
+    "radio_37_motomami_djsolo_djsolo": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "5",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_01",
+          "Path": "dlc_security_music/motomami_dj_solo_01",
+          "Duration": 22756
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_02",
+          "Path": "dlc_security_music/motomami_dj_solo_02",
+          "Duration": 32231
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_03",
+          "Path": "dlc_security_music/motomami_dj_solo_03",
+          "Duration": 39072
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_04",
+          "Path": "dlc_security_music/motomami_dj_solo_04",
+          "Duration": 40496
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_05",
+          "Path": "dlc_security_music/motomami_dj_solo_05",
+          "Duration": 16220
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_06",
+          "Path": "dlc_security_music/motomami_dj_solo_06",
+          "Duration": 18795
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_07",
+          "Path": "dlc_security_music/motomami_dj_solo_07",
+          "Duration": 19019
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_08",
+          "Path": "dlc_security_music/motomami_dj_solo_08",
+          "Duration": 25742
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_10",
+          "Path": "dlc_security_music/motomami_dj_solo_10",
+          "Duration": 23042
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_09",
+          "Path": "dlc_security_music/motomami_dj_solo_09",
+          "Duration": 51162
+        },
+        {
+          "Id": "dlc_security_music_radio_37_motomami_motomami_dj_solo_11",
+          "Path": "dlc_security_music/motomami_dj_solo_11",
+          "Duration": 59073
+        }
+      ]
+    }
+  }
+}

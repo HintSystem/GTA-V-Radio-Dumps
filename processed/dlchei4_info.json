@@ -53,873 +53,1978 @@
     }
   },
   "TrackLists": {
-    "hei4_km_beach_radio_music": {
+    "wwfm_island_update_music_music": {
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
         {
-          "Id": "dlc_hei4_music_hei4_mlr_km_beach_p1",
-          "Path": "dlc_hei4_music/hei4_mlr_km_beach_p1",
-          "Duration": 2329810,
+          "Id": "dlc_hei4_music_wwfm_island_update_part_1",
+          "Path": "dlc_hei4_music/wwfm_island_update_part_1",
+          "Duration": 2332660,
           "Markers": {
             "Track": [
               {
-                "Offset": 505,
-                "Title": "Newborn Soul",
-                "Artist": "RAMPA"
+                "Offset": 290,
+                "Title": "The Message (GP And 2bo4 Remix)",
+                "Artist": "KAMASI WASHINGTON"
               },
               {
-                "Offset": 273232,
-                "Title": "The Rapture Pt.II",
-                "Artist": "&ME"
+                "Offset": 279656,
+                "Title": "Birthright",
+                "Artist": "SARATHY KORWAR"
               },
               {
-                "Offset": 570257,
-                "Title": "Crush (Unfinished) (Adam Port Edit)",
-                "Artist": "JAI PAUL"
+                "Offset": 517406,
+                "Title": "Lost Touch",
+                "Artist": "MR. MITCH FEAT. DUVAL TIMOTHY"
               },
               {
-                "Offset": 816208,
-                "Title": "Tell Me Are We",
-                "Artist": "RAMPA & WHOMADEWHO"
+                "Offset": 525338,
+                "Title": "Sandman",
+                "Artist": "THE UNDISPUTED TRUTH"
               },
               {
-                "Offset": 1165298,
-                "Title": "Homeland (&ME Remix + Jinadu Vocals)",
-                "Artist": "JORIS VOORN & MATTHEW DEAR"
+                "Offset": 675202,
+                "Title": "The People",
+                "Artist": "PHOTAY"
               },
               {
-                "Offset": 1403315,
-                "Title": "Underwater (Adam Port Remix)",
-                "Artist": "RÜFÜS DU SOL"
+                "Offset": 900610,
+                "Title": "Could Heaven Ever Be Like This",
+                "Artist": "IDRIS MUHAMMAD"
               },
               {
-                "Offset": 1716703,
-                "Title": "Garden",
-                "Artist": "&ME"
+                "Offset": 1092283,
+                "Title": "Jazz Carnival",
+                "Artist": "AZYMUTH"
               },
               {
-                "Offset": 2030092,
-                "Title": "Ganesha Song",
-                "Artist": "ADAM PORT"
+                "Offset": 1356026,
+                "Title": "Azaa (Branko Edit)",
+                "Artist": "GAFACCI"
               },
               {
-                "Offset": 2260175,
-                "Title": "No War (Rampa Remix)",
-                "Artist": "ÂME"
+                "Offset": 1483502,
+                "Title": "Bim Bam Bam",
+                "Artist": "KOKOKO!"
+              },
+              {
+                "Offset": 1643894,
+                "Title": "Labyrinth",
+                "Artist": "TSVI"
+              },
+              {
+                "Offset": 1841497,
+                "Title": "Riesling Pour Robert (Rhythm Heavy Version)",
+                "Artist": "JAHARI MASSAMBA UNIT"
+              },
+              {
+                "Offset": 2003934,
+                "Title": "Self:Love",
+                "Artist": "JOE ARMON-JONES FEAT. OBONGJAYAR"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 69,
+                "Value": 0
+              },
+              {
+                "Offset": 140989,
+                "Value": 308
+              },
+              {
+                "Offset": 272654,
+                "Value": 0
+              },
+              {
+                "Offset": 278532,
+                "Value": 384
+              },
+              {
+                "Offset": 501713,
+                "Value": 0
+              },
+              {
+                "Offset": 525403,
+                "Value": 304
+              },
+              {
+                "Offset": 675495,
+                "Value": 256
+              },
+              {
+                "Offset": 776653,
+                "Value": 64
+              },
+              {
+                "Offset": 809705,
+                "Value": 192
+              },
+              {
+                "Offset": 908143,
+                "Value": 256
+              },
+              {
+                "Offset": 971747,
+                "Value": 288
+              },
+              {
+                "Offset": 1091112,
+                "Value": 0
+              },
+              {
+                "Offset": 1093106,
+                "Value": 256
+              },
+              {
+                "Offset": 1151632,
+                "Value": 128
+              },
+              {
+                "Offset": 1268843,
+                "Value": 192
+              },
+              {
+                "Offset": 1356937,
+                "Value": 320
+              },
+              {
+                "Offset": 1505391,
+                "Value": 256
+              },
+              {
+                "Offset": 1624011,
+                "Value": 40
+              },
+              {
+                "Offset": 1643139,
+                "Value": 64
+              },
+              {
+                "Offset": 1679096,
+                "Value": 288
+              },
+              {
+                "Offset": 1841488,
+                "Value": 0
+              },
+              {
+                "Offset": 1841874,
+                "Value": 256
+              },
+              {
+                "Offset": 1976118,
+                "Value": 44
+              },
+              {
+                "Offset": 1998532,
+                "Value": 0
+              },
+              {
+                "Offset": 2005188,
+                "Value": 256
+              },
+              {
+                "Offset": 2089334,
+                "Value": 64
+              },
+              {
+                "Offset": 2110618,
+                "Value": 64
+              },
+              {
+                "Offset": 2131783,
+                "Value": 64
+              },
+              {
+                "Offset": 2153015,
+                "Value": 0
+              },
+              {
+                "Offset": 2164029,
+                "Value": 240
+              },
+              {
+                "Offset": 2327036,
+                "Value": 0
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_wwfm_island_update_part_2",
+          "Path": "dlc_hei4_music/wwfm_island_update_part_2",
+          "Duration": 2026730,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 998,
+                "Title": "Self:Love",
+                "Artist": "JOE ARMON-JONES FEAT. OBONGJAYAR"
+              },
+              {
+                "Offset": 25361,
+                "Title": "Baba Ayoola",
+                "Artist": "KOKOROKO"
+              },
+              {
+                "Offset": 251587,
+                "Title": "Time (You And I) (Original And GP Dub)",
+                "Artist": "KHRUANGBIN"
+              },
+              {
+                "Offset": 504494,
+                "Title": "Fight For Your Rights",
+                "Artist": "ARTHUR ADAMS"
+              },
+              {
+                "Offset": 654152,
+                "Title": "Mysteries Of The World",
+                "Artist": "MFSB"
+              },
+              {
+                "Offset": 871076,
+                "Title": "Aspects (Demus Dub)",
+                "Artist": "STR4TA"
+              },
+              {
+                "Offset": 1139828,
+                "Title": "Emergency On Planet Earth (London Rican Mix)",
+                "Artist": "JAMIROQUAI"
+              },
+              {
+                "Offset": 1470017,
+                "Title": "Natural Thing",
+                "Artist": "RONI SIZE"
+              },
+              {
+                "Offset": 1689905,
+                "Title": "Worldwide FM (Dubplate Special)",
+                "Artist": "DRS & DYNAMITE MC"
+              },
+              {
+                "Offset": 1863587,
+                "Title": "Fusion Swirl",
+                "Artist": "JEFF PARKER"
+              },
+              {
+                "Offset": 2026730,
+                "Title": "Fusion Swirl",
+                "Artist": "JEFF PARKER"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 26101,
+                "Value": 448
+              },
+              {
+                "Offset": 244638,
+                "Value": 14
+              },
+              {
+                "Offset": 251728,
+                "Value": 192
+              },
+              {
+                "Offset": 356214,
+                "Value": 64
+              },
+              {
+                "Offset": 391041,
+                "Value": 64
+              },
+              {
+                "Offset": 425868,
+                "Value": 144
+              },
+              {
+                "Offset": 504502,
+                "Value": 64
+              },
+              {
+                "Offset": 537985,
+                "Value": 64
+              },
+              {
+                "Offset": 571760,
+                "Value": 64
+              },
+              {
+                "Offset": 605528,
+                "Value": 92
+              },
+              {
+                "Offset": 656184,
+                "Value": 0
+              },
+              {
+                "Offset": 711173,
+                "Value": 240
+              },
+              {
+                "Offset": 830961,
+                "Value": 0
+              },
+              {
+                "Offset": 832843,
+                "Value": 64
+              },
+              {
+                "Offset": 864789,
+                "Value": 256
+              },
+              {
+                "Offset": 990008,
+                "Value": 64
+              },
+              {
+                "Offset": 1021397,
+                "Value": 192
+              },
+              {
+                "Offset": 1115346,
+                "Value": 44
+              },
+              {
+                "Offset": 1137159,
+                "Value": 64
+              },
+              {
+                "Offset": 1168348,
+                "Value": 320
+              },
+              {
+                "Offset": 1322370,
+                "Value": 64
+              },
+              {
+                "Offset": 1353218,
+                "Value": 64
+              },
+              {
+                "Offset": 1384021,
+                "Value": 64
+              },
+              {
+                "Offset": 1414688,
+                "Value": 64
+              },
+              {
+                "Offset": 1445606,
+                "Value": 52
+              },
+              {
+                "Offset": 1470574,
+                "Value": 0
+              },
+              {
+                "Offset": 1513928,
+                "Value": 480
+              },
+              {
+                "Offset": 1682798,
+                "Value": 0
+              },
+              {
+                "Offset": 1728031,
+                "Value": 256
+              },
+              {
+                "Offset": 1795526,
+                "Value": 64
+              },
+              {
+                "Offset": 1818358,
+                "Value": 0
+              },
+              {
+                "Offset": 1867558,
+                "Value": 64
+              },
+              {
+                "Offset": 1898814,
+                "Value": 64
+              },
+              {
+                "Offset": 1930009,
+                "Value": 64
+              },
+              {
+                "Offset": 1961310,
+                "Value": 64
+              },
+              {
+                "Offset": 1992446,
+                "Value": 68
+              },
+              {
+                "Offset": 2025732,
+                "Value": 0
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_wwfm_island_update_part_3",
+          "Path": "dlc_hei4_music/wwfm_island_update_part_3",
+          "Duration": 1572410,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1000,
+                "Title": "Fusion Swirl",
+                "Artist": "JEFF PARKER"
+              },
+              {
+                "Offset": 28713,
+                "Title": "Wax & Buff",
+                "Artist": "SAUCE & DOGS"
+              },
+              {
+                "Offset": 250338,
+                "Title": "THE CHOCOLATE CONQUISTADORS",
+                "Artist": "BADBADNOTGOOD FEAT. MF DOOM"
+              },
+              {
+                "Offset": 667113,
+                "Title": "The Beat",
+                "Artist": "ESG"
+              },
+              {
+                "Offset": 801131,
+                "Title": "Kimchi King Kong",
+                "Artist": "THE DIABOLICAL LIBERTIES"
+              },
+              {
+                "Offset": 942919,
+                "Title": "What More",
+                "Artist": "SWINDLE FEAT. GREENTEA PENG"
+              },
+              {
+                "Offset": 1085524,
+                "Title": "Times Up",
+                "Artist": "FUSELAGE"
+              },
+              {
+                "Offset": 1306638,
+                "Title": "Muslem & Christian",
+                "Artist": "MADLIB"
+              },
+              {
+                "Offset": 1438408,
+                "Title": "Pure Agony",
+                "Artist": "KAYTRANADA"
+              },
+              {
+                "Offset": 1538180,
+                "Title": "Why Don't I Feel",
+                "Artist": "LYAM"
+              },
+              {
+                "Offset": 1572410,
+                "Title": "Why Don't I Feel",
+                "Artist": "LYAM"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 2,
+                "Value": 0
+              },
+              {
+                "Offset": 30796,
+                "Value": 433
+              },
+              {
+                "Offset": 247846,
+                "Value": 0
+              },
+              {
+                "Offset": 250670,
+                "Value": 128
+              },
+              {
+                "Offset": 346342,
+                "Value": 64
+              },
+              {
+                "Offset": 376500,
+                "Value": 64
+              },
+              {
+                "Offset": 406199,
+                "Value": 128
+              },
+              {
+                "Offset": 435679,
+                "Value": 64
+              },
+              {
+                "Offset": 465461,
+                "Value": 64
+              },
+              {
+                "Offset": 495062,
+                "Value": 64
+              },
+              {
+                "Offset": 524117,
+                "Value": 128
+              },
+              {
+                "Offset": 583297,
+                "Value": 64
+              },
+              {
+                "Offset": 612061,
+                "Value": 64
+              },
+              {
+                "Offset": 641722,
+                "Value": 52
+              },
+              {
+                "Offset": 665623,
+                "Value": 0
+              },
+              {
+                "Offset": 673279,
+                "Value": 64
+              },
+              {
+                "Offset": 698533,
+                "Value": 64
+              },
+              {
+                "Offset": 723817,
+                "Value": 64
+              },
+              {
+                "Offset": 749192,
+                "Value": 64
+              },
+              {
+                "Offset": 774792,
+                "Value": 64
+              },
+              {
+                "Offset": 800302,
+                "Value": 64
+              },
+              {
+                "Offset": 828760,
+                "Value": 64
+              },
+              {
+                "Offset": 857152,
+                "Value": 64
+              },
+              {
+                "Offset": 885636,
+                "Value": 64
+              },
+              {
+                "Offset": 914104,
+                "Value": 64
+              },
+              {
+                "Offset": 942517,
+                "Value": 64
+              },
+              {
+                "Offset": 999434,
+                "Value": 64
+              },
+              {
+                "Offset": 1056320,
+                "Value": 64
+              },
+              {
+                "Offset": 1113186,
+                "Value": 64
+              },
+              {
+                "Offset": 1170116,
+                "Value": 64
+              },
+              {
+                "Offset": 1226919,
+                "Value": 64
+              },
+              {
+                "Offset": 1283849,
+                "Value": 24
+              },
+              {
+                "Offset": 1305249,
+                "Value": 0
+              },
+              {
+                "Offset": 1311287,
+                "Value": 192
+              },
+              {
+                "Offset": 1437694,
+                "Value": 200
+              },
+              {
+                "Offset": 1537702,
+                "Value": 64
+              },
+              {
+                "Offset": 1569984,
+                "Value": 0
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_wwfm_island_update_part_4",
+          "Path": "dlc_hei4_music/wwfm_island_update_part_4",
+          "Duration": 1021936,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1000,
+                "Title": "Why Don't I Feel",
+                "Artist": "LYAM"
+              },
+              {
+                "Offset": 113463,
+                "Title": "Directions",
+                "Artist": "JAB"
+              },
+              {
+                "Offset": 444778,
+                "Title": "Desire (Moodymann Remix)",
+                "Artist": "JOSÉ JAMES"
+              },
+              {
+                "Offset": 704942,
+                "Title": "Ekkles",
+                "Artist": "CALL SUPER"
+              },
+              {
+                "Offset": 867277,
+                "Title": "Ascending",
+                "Artist": "JONNY FAITH"
+              },
+              {
+                "Offset": 1017754,
+                "Title": "State Of Mind (Alex Patchwork Remix)",
+                "Artist": "ZARA MCFARLANE"
+              },
+              {
+                "Offset": 1021936,
+                "Title": "State Of Mind (Alex Patchwork Remix)",
+                "Artist": "ZARA MCFARLANE"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 4299,
+                "Value": 64
+              },
+              {
+                "Offset": 59184,
+                "Value": 38
+              },
+              {
+                "Offset": 92166,
+                "Value": 32
+              },
+              {
+                "Offset": 120565,
+                "Value": 64
+              },
+              {
+                "Offset": 149011,
+                "Value": 64
+              },
+              {
+                "Offset": 177664,
+                "Value": 64
+              },
+              {
+                "Offset": 206333,
+                "Value": 64
+              },
+              {
+                "Offset": 234971,
+                "Value": 64
+              },
+              {
+                "Offset": 263640,
+                "Value": 64
+              },
+              {
+                "Offset": 292339,
+                "Value": 64
+              },
+              {
+                "Offset": 321420,
+                "Value": 64
+              },
+              {
+                "Offset": 350716,
+                "Value": 64
+              },
+              {
+                "Offset": 380211,
+                "Value": 64
+              },
+              {
+                "Offset": 409713,
+                "Value": 64
+              },
+              {
+                "Offset": 439222,
+                "Value": 64
+              },
+              {
+                "Offset": 468659,
+                "Value": 512
+              },
+              {
+                "Offset": 704296,
+                "Value": 44
+              },
+              {
+                "Offset": 724608,
+                "Value": 0
+              },
+              {
+                "Offset": 733728,
+                "Value": 64
+              },
+              {
+                "Offset": 763169,
+                "Value": 64
+              },
+              {
+                "Offset": 792657,
+                "Value": 64
+              },
+              {
+                "Offset": 822123,
+                "Value": 64
+              },
+              {
+                "Offset": 851563,
+                "Value": 64
+              },
+              {
+                "Offset": 881014,
+                "Value": 32
+              },
+              {
+                "Offset": 895772,
+                "Value": 32
+              },
+              {
+                "Offset": 925191,
+                "Value": 64
+              },
+              {
+                "Offset": 954669,
+                "Value": 64
+              },
+              {
+                "Offset": 984118,
+                "Value": 64
+              },
+              {
+                "Offset": 1013419,
+                "Value": 0
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_wwfm_island_update_part_5",
+          "Path": "dlc_hei4_music/wwfm_island_update_part_5",
+          "Duration": 1592776,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1000,
+                "Title": "State Of Mind (Alex Patchwork Remix)",
+                "Artist": "ZARA MCFARLANE"
+              },
+              {
+                "Offset": 177757,
+                "Title": "New Gods (Ron Basejam Remix)",
+                "Artist": "CATCHING FLIES"
+              },
+              {
+                "Offset": 459900,
+                "Title": "Full Moon (Full Length Version)",
+                "Artist": "DELE SOSIMI & MEDLAR"
+              },
+              {
+                "Offset": 720576,
+                "Title": "Movementt",
+                "Artist": "EMMA-JEAN THACKRAY"
+              },
+              {
+                "Offset": 922779,
+                "Title": "Grand Hi",
+                "Artist": "BRUISE"
+              },
+              {
+                "Offset": 1072949,
+                "Title": "Landline",
+                "Artist": "KASSA OVERALL FEAT. CARLOS OVERALL"
+              },
+              {
+                "Offset": 1150819,
+                "Title": "The Sun (Full Length Mix)",
+                "Artist": "SECRET NIGHT GANG"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 17613,
+                "Value": 64
+              },
+              {
+                "Offset": 50864,
+                "Value": 64
+              },
+              {
+                "Offset": 84157,
+                "Value": 64
+              },
+              {
+                "Offset": 117377,
+                "Value": 64
+              },
+              {
+                "Offset": 150639,
+                "Value": 64
+              },
+              {
+                "Offset": 183872,
+                "Value": 64
+              },
+              {
+                "Offset": 217132,
+                "Value": 64
+              },
+              {
+                "Offset": 250392,
+                "Value": 64
+              },
+              {
+                "Offset": 283652,
+                "Value": 64
+              },
+              {
+                "Offset": 316913,
+                "Value": 64
+              },
+              {
+                "Offset": 350146,
+                "Value": 64
+              },
+              {
+                "Offset": 383418,
+                "Value": 64
+              },
+              {
+                "Offset": 416659,
+                "Value": 64
+              },
+              {
+                "Offset": 449930,
+                "Value": 64
+              },
+              {
+                "Offset": 483186,
+                "Value": 64
+              },
+              {
+                "Offset": 516412,
+                "Value": 64
+              },
+              {
+                "Offset": 549608,
+                "Value": 64
+              },
+              {
+                "Offset": 582489,
+                "Value": 64
+              },
+              {
+                "Offset": 615023,
+                "Value": 64
+              },
+              {
+                "Offset": 647301,
+                "Value": 64
+              },
+              {
+                "Offset": 679294,
+                "Value": 64
+              },
+              {
+                "Offset": 711091,
+                "Value": 64
+              },
+              {
+                "Offset": 742919,
+                "Value": 64
+              },
+              {
+                "Offset": 774731,
+                "Value": 64
+              },
+              {
+                "Offset": 806558,
+                "Value": 64
+              },
+              {
+                "Offset": 838356,
+                "Value": 64
+              },
+              {
+                "Offset": 870168,
+                "Value": 64
+              },
+              {
+                "Offset": 902010,
+                "Value": 64
+              },
+              {
+                "Offset": 933837,
+                "Value": 64
+              },
+              {
+                "Offset": 965650,
+                "Value": 64
+              },
+              {
+                "Offset": 997477,
+                "Value": 64
+              },
+              {
+                "Offset": 1029304,
+                "Value": 64
+              },
+              {
+                "Offset": 1061108,
+                "Value": 16
+              },
+              {
+                "Offset": 1069047,
+                "Value": 0
+              },
+              {
+                "Offset": 1150950,
+                "Value": 64
+              },
+              {
+                "Offset": 1206865,
+                "Value": 64
+              },
+              {
+                "Offset": 1261756,
+                "Value": 64
+              },
+              {
+                "Offset": 1316558,
+                "Value": 64
+              },
+              {
+                "Offset": 1370982,
+                "Value": 64
+              },
+              {
+                "Offset": 1424690,
+                "Value": 64
+              },
+              {
+                "Offset": 1477399,
+                "Value": 64
+              },
+              {
+                "Offset": 1530690,
+                "Value": 64
+              },
+              {
+                "Offset": 1585365,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "flylo_island_update_music_music": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_hei4_music_flylo_island_update_part_1",
+          "Path": "dlc_hei4_music/flylo_island_update_part_1",
+          "Duration": 1683624,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 36,
+                "Title": "Possessed",
+                "Artist": "CAPTAIN MURPHY"
+              },
+              {
+                "Offset": 158961,
+                "Title": "Fuck The Police",
+                "Artist": "J DILLA"
+              },
+              {
+                "Offset": 311694,
+                "Title": "Black Heaven",
+                "Artist": "FLYING LOTUS, RAS G"
+              },
+              {
+                "Offset": 389642,
+                "Title": "Been Cosmic",
+                "Artist": "RAS G"
+              },
+              {
+                "Offset": 448200,
+                "Title": "The Daisy",
+                "Artist": "ROSS FROM FRIENDS"
+              },
+              {
+                "Offset": 571338,
+                "Title": "Topdown",
+                "Artist": "CHANNEL TRES"
+              },
+              {
+                "Offset": 734983,
+                "Title": "Spiritual",
+                "Artist": "SMOKE DZA"
+              },
+              {
+                "Offset": 874409,
+                "Title": "Afterlife Currency",
+                "Artist": "DAVID FIRTH"
+              },
+              {
+                "Offset": 911185,
+                "Title": "Lunch Break",
+                "Artist": "FLYING LOTUS, MF DOOM"
+              },
+              {
+                "Offset": 1061260,
+                "Title": "Dragonball Durag",
+                "Artist": "THUNDERCAT"
+              },
+              {
+                "Offset": 1226930,
+                "Title": "GLOMERULONEPHROPATHY",
+                "Artist": "SYUNSUKE ONO"
+              },
+              {
+                "Offset": 1349663,
+                "Title": "The Bean Kicked In",
+                "Artist": "ZACK FOX"
+              },
+              {
+                "Offset": 1451246,
+                "Title": "Black Balloons Reprise",
+                "Artist": "FLYING LOTUS FEAT. DENZEL CURRY"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 1069,
+                "Value": 252
+              },
+              {
+                "Offset": 158917,
+                "Value": 0
+              },
+              {
+                "Offset": 171695,
+                "Value": 230
+              },
+              {
+                "Offset": 311680,
+                "Value": 0
+              },
+              {
+                "Offset": 371582,
+                "Value": 94
+              },
+              {
+                "Offset": 429388,
+                "Value": 0
+              },
+              {
+                "Offset": 448110,
+                "Value": 64
+              },
+              {
+                "Offset": 477208,
+                "Value": 214
+              },
+              {
+                "Offset": 574668,
+                "Value": 64
+              },
+              {
+                "Offset": 606566,
+                "Value": 256
+              },
+              {
+                "Offset": 734893,
+                "Value": 0
+              },
+              {
+                "Offset": 759624,
+                "Value": 149
+              },
+              {
+                "Offset": 874254,
+                "Value": 0
+              },
+              {
+                "Offset": 911095,
+                "Value": 64
+              },
+              {
+                "Offset": 953750,
+                "Value": 128
+              },
+              {
+                "Offset": 1039050,
+                "Value": 32
+              },
+              {
+                "Offset": 1061054,
+                "Value": 64
+              },
+              {
+                "Offset": 1108922,
+                "Value": 64
+              },
+              {
+                "Offset": 1156370,
+                "Value": 64
+              },
+              {
+                "Offset": 1203750,
+                "Value": 32
+              },
+              {
+                "Offset": 1227469,
+                "Value": 8
+              },
+              {
+                "Offset": 1233602,
+                "Value": 64
+              },
+              {
+                "Offset": 1282849,
+                "Value": 64
+              },
+              {
+                "Offset": 1332450,
+                "Value": 23
+              },
+              {
+                "Offset": 1349315,
+                "Value": 64
+              },
+              {
+                "Offset": 1401906,
+                "Value": 64
+              },
+              {
+                "Offset": 1454435,
+                "Value": 0
+              },
+              {
+                "Offset": 1456744,
+                "Value": 64
+              },
+              {
+                "Offset": 1500370,
+                "Value": 64
+              },
+              {
+                "Offset": 1544022,
+                "Value": 64
+              },
+              {
+                "Offset": 1587648,
+                "Value": 132
+              },
+              {
+                "Offset": 1677681,
+                "Value": 9
+              },
+              {
+                "Offset": 1683620,
+                "Value": 64
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_flylo_island_update_part_2",
+          "Path": "dlc_hei4_music/flylo_island_update_part_2",
+          "Duration": 1786848,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1272,
+                "Title": "Automatic",
+                "Artist": "FREDDIE GIBBS"
+              },
+              {
+                "Offset": 143245,
+                "Title": "Homicidal Thoughts",
+                "Artist": "LITTLE SNAKE"
+              },
+              {
+                "Offset": 295143,
+                "Title": "Arrogant",
+                "Artist": "TIERRA WHACK"
+              },
+              {
+                "Offset": 428409,
+                "Title": "You're Untouchable",
+                "Artist": "DORIAN CONCEPT"
+              },
+              {
+                "Offset": 536129,
+                "Title": "U Have To Be Odd",
+                "Artist": "FLYING LOTUS"
+              },
+              {
+                "Offset": 697167,
+                "Title": "Planet X",
+                "Artist": "LOUIS COLE"
+              },
+              {
+                "Offset": 863054,
+                "Title": "Itkanbe [Sonice]",
+                "Artist": "KNXWLEDGE FEAT. ANDERSON .PAAK, NXWORRIES"
+              },
+              {
+                "Offset": 957876,
+                "Title": "Shine A Light",
+                "Artist": "SHABAZZ PALACES"
+              },
+              {
+                "Offset": 1114427,
+                "Title": "Road Of The Lonely Ones",
+                "Artist": "MADLIB"
+              },
+              {
+                "Offset": 1319218,
+                "Title": "In The Wake Of Poseidon",
+                "Artist": "KING CRIMSON"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 995,
+                "Value": 64
+              },
+              {
+                "Offset": 33011,
+                "Value": 256
+              },
+              {
+                "Offset": 161024,
+                "Value": 256
+              },
+              {
+                "Offset": 289030,
+                "Value": 16
+              },
+              {
+                "Offset": 297235,
+                "Value": 64
+              },
+              {
+                "Offset": 346983,
+                "Value": 64
+              },
+              {
+                "Offset": 396340,
+                "Value": 42
+              },
+              {
+                "Offset": 428443,
+                "Value": 64
+              },
+              {
+                "Offset": 474428,
+                "Value": 64
+              },
+              {
+                "Offset": 520381,
+                "Value": 22
+              },
+              {
+                "Offset": 536308,
+                "Value": 64
+              },
+              {
+                "Offset": 566371,
+                "Value": 256
+              },
+              {
+                "Offset": 681197,
+                "Value": 32
+              },
+              {
+                "Offset": 694480,
+                "Value": 0
+              },
+              {
+                "Offset": 697460,
+                "Value": 64
+              },
+              {
+                "Offset": 728721,
+                "Value": 64
+              },
+              {
+                "Offset": 759926,
+                "Value": 64
+              },
+              {
+                "Offset": 791150,
+                "Value": 64
+              },
+              {
+                "Offset": 822381,
+                "Value": 64
+              },
+              {
+                "Offset": 853570,
+                "Value": 15
+              },
+              {
+                "Offset": 860819,
+                "Value": 0
+              },
+              {
+                "Offset": 866693,
+                "Value": 104
+              },
+              {
+                "Offset": 958053,
+                "Value": 64
+              },
+              {
+                "Offset": 1003220,
+                "Value": 128
+              },
+              {
+                "Offset": 1093596,
+                "Value": 29
+              },
+              {
+                "Offset": 1114378,
+                "Value": 0
+              },
+              {
+                "Offset": 1126507,
+                "Value": 128
+              },
+              {
+                "Offset": 1206558,
+                "Value": 63
+              },
+              {
+                "Offset": 1245178,
+                "Value": 64
+              },
+              {
+                "Offset": 1285186,
+                "Value": 60
+              },
+              {
+                "Offset": 1322428,
+                "Value": 34
+              },
+              {
+                "Offset": 1350438,
+                "Value": 0
+              },
+              {
+                "Offset": 1355575,
+                "Value": 64
+              },
+              {
+                "Offset": 1407380,
+                "Value": 64
+              },
+              {
+                "Offset": 1458661,
+                "Value": 64
+              },
+              {
+                "Offset": 1510461,
+                "Value": 64
+              },
+              {
+                "Offset": 1563190,
+                "Value": 64
+              },
+              {
+                "Offset": 1614792,
+                "Value": 64
+              },
+              {
+                "Offset": 1666414,
+                "Value": 64
+              },
+              {
+                "Offset": 1718400,
+                "Value": 64
+              },
+              {
+                "Offset": 1770651,
+                "Value": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "still_slipping_music_music": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_hei4_music_hei4_still_slipping_p1",
+          "Path": "dlc_hei4_music/hei4_still_slipping_p1",
+          "Duration": 1383791,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "5 Violinos",
+                "Artist": "DJ NIGGA FOX"
+              },
+              {
+                "Offset": 159006,
+                "Title": "Feediback",
+                "Artist": "MR. MANKWA"
+              },
+              {
+                "Offset": 294336,
+                "Title": "Not Modular",
+                "Artist": "MR. MITCH"
+              },
+              {
+                "Offset": 368441,
+                "Title": "The Devil's Dance",
+                "Artist": "JOSI DEVIL"
+              },
+              {
+                "Offset": 524858,
+                "Title": "A Wah!",
+                "Artist": "KEMIKAL"
+              },
+              {
+                "Offset": 747874,
+                "Title": "COYP",
+                "Artist": "JOY ORBISON"
+              },
+              {
+                "Offset": 840260,
+                "Title": "Sparky / Hi Press (Dub)",
+                "Artist": "CRUEL SANTINO / ROBERT FLECK"
+              },
+              {
+                "Offset": 848658,
+                "Title": "Sparky / Hi Press (Dub)",
+                "Artist": "CRUEL SANTINO / ROBERT FLECK"
+              },
+              {
+                "Offset": 961963,
+                "Title": "No Warnin'",
+                "Artist": "PA SALIEU"
+              },
+              {
+                "Offset": 1098681,
+                "Title": "Almost Blue",
+                "Artist": "L U C Y"
+              },
+              {
+                "Offset": 1255201,
+                "Title": "Elephant Man",
+                "Artist": "TIME COW & RTKAL"
               }
             ],
             "Beat": [
               {
                 "Offset": 0,
-                "Value": 2
-              },
-              {
-                "Offset": 1001,
-                "Value": 512
-              },
-              {
-                "Offset": 254885,
-                "Value": 512
-              },
-              {
-                "Offset": 508770,
-                "Value": 512
-              },
-              {
-                "Offset": 762654,
-                "Value": 512
-              },
-              {
-                "Offset": 1016538,
-                "Value": 512
-              },
-              {
-                "Offset": 1270422,
-                "Value": 256
-              },
-              {
-                "Offset": 1397365,
                 "Value": 128
               },
               {
-                "Offset": 1460836,
+                "Offset": 78129,
                 "Value": 128
               },
               {
-                "Offset": 1524307,
+                "Offset": 156477,
+                "Value": 78
+              },
+              {
+                "Offset": 205468,
                 "Value": 128
               },
               {
-                "Offset": 1587778,
+                "Offset": 283810,
                 "Value": 128
               },
               {
-                "Offset": 1651249,
+                "Offset": 362640,
+                "Value": 66
+              },
+              {
+                "Offset": 403908,
+                "Value": 62
+              },
+              {
+                "Offset": 441890,
                 "Value": 128
               },
               {
-                "Offset": 1714720,
+                "Offset": 520418,
+                "Value": 126
+              },
+              {
+                "Offset": 597529,
                 "Value": 128
               },
               {
-                "Offset": 1778191,
+                "Offset": 675915,
                 "Value": 128
               },
               {
-                "Offset": 1841662,
+                "Offset": 747118,
                 "Value": 128
               },
               {
-                "Offset": 1905133,
+                "Offset": 837672,
                 "Value": 128
               },
               {
-                "Offset": 1968604,
+                "Offset": 916239,
                 "Value": 128
               },
               {
-                "Offset": 2032075,
+                "Offset": 994573,
                 "Value": 128
               },
               {
-                "Offset": 2095546,
+                "Offset": 1073004,
+                "Value": 72
+              },
+              {
+                "Offset": 1117078,
+                "Value": 48
+              },
+              {
+                "Offset": 1146544,
                 "Value": 128
               },
               {
-                "Offset": 2159018,
+                "Offset": 1225145,
                 "Value": 128
               },
               {
-                "Offset": 2222489,
+                "Offset": 1303630,
                 "Value": 128
               },
               {
-                "Offset": 2285960,
+                "Offset": 1381445,
                 "Value": 128
               }
             ]
           }
         },
         {
-          "Id": "dlc_hei4_music_hei4_mlr_km_beach_p2",
-          "Path": "dlc_hei4_music/hei4_mlr_km_beach_p2",
-          "Duration": 1575250,
+          "Id": "dlc_hei4_music_hei4_still_slipping_p2",
+          "Path": "dlc_hei4_music/hei4_still_slipping_p2",
+          "Duration": 1283218,
           "Markers": {
             "Track": [
               {
-                "Offset": 29871,
-                "Title": "No War (Rampa Remix)",
-                "Artist": "ÂME"
+                "Offset": 1018,
+                "Title": "Elephant Man",
+                "Artist": "TIME COW & RTKAL"
               },
               {
-                "Offset": 163430,
-                "Title": "You Need The Drugs (&ME Remix)",
-                "Artist": "WESTBAM FEAT. RICHARD BUTLER"
+                "Offset": 24896,
+                "Title": "Cayendo (Sango Remix)",
+                "Artist": "FRANK OCEAN"
               },
               {
-                "Offset": 447066,
-                "Title": "Inside",
-                "Artist": "NOMI & RAMPA"
+                "Offset": 159297,
+                "Title": "Mirror Park Tavern",
+                "Artist": "Commercial"
               },
               {
-                "Offset": 661281,
-                "Title": "No Dancers (Adam Port Remix)",
-                "Artist": "CUBICOLOR"
+                "Offset": 170919,
+                "Title": "No Love",
+                "Artist": "DJ SCUD"
               },
               {
-                "Offset": 867562,
-                "Title": "Won't Change (Rampa Retouch)",
-                "Artist": "MANQO"
+                "Offset": 316335,
+                "Title": "Trimmers (INSTINCT Remix)",
+                "Artist": "FRANKEL & HARPER"
               },
               {
-                "Offset": 1121447,
-                "Title": "Starting Again",
-                "Artist": "&ME FEAT. ATELIER"
+                "Offset": 517496,
+                "Title": "Givin' Up On Love",
+                "Artist": "HORSEPOWER PRODUCTIONS"
               },
               {
-                "Offset": 1401116,
-                "Title": "Far Away Place (Rampa Remix)",
-                "Artist": "XINOBI"
+                "Offset": 742083,
+                "Title": "Shippuden",
+                "Artist": "BLANCO"
+              },
+              {
+                "Offset": 858217,
+                "Title": "Polar",
+                "Artist": "PEARLY"
+              },
+              {
+                "Offset": 975510,
+                "Title": "Digdim Patrol 2016",
+                "Artist": "BYANO DJ"
+              },
+              {
+                "Offset": 1092527,
+                "Title": "Operation",
+                "Artist": "INSTINCT"
+              },
+              {
+                "Offset": 1112417,
+                "Title": "Whip (Acapella)",
+                "Artist": "KO"
               }
             ],
             "Beat": [
               {
-                "Offset": 20620,
-                "Value": 6
-              },
-              {
-                "Offset": 24587,
+                "Offset": 76223,
                 "Value": 128
               },
               {
-                "Offset": 88058,
+                "Offset": 154250,
+                "Value": 0
+              },
+              {
+                "Offset": 202859,
                 "Value": 128
               },
               {
-                "Offset": 151529,
+                "Offset": 260323,
                 "Value": 128
               },
               {
-                "Offset": 215000,
+                "Offset": 318365,
                 "Value": 128
               },
               {
-                "Offset": 278471,
+                "Offset": 375961,
                 "Value": 128
               },
               {
-                "Offset": 341942,
+                "Offset": 433585,
                 "Value": 128
               },
               {
-                "Offset": 405414,
+                "Offset": 491365,
                 "Value": 128
               },
               {
-                "Offset": 468885,
+                "Offset": 550390,
                 "Value": 128
               },
               {
-                "Offset": 532356,
+                "Offset": 607785,
                 "Value": 128
               },
               {
-                "Offset": 595827,
+                "Offset": 666338,
                 "Value": 128
               },
               {
-                "Offset": 659298,
+                "Offset": 723310,
                 "Value": 128
               },
               {
-                "Offset": 722769,
+                "Offset": 781900,
                 "Value": 128
               },
               {
-                "Offset": 786240,
+                "Offset": 839801,
                 "Value": 128
               },
               {
-                "Offset": 849711,
+                "Offset": 897265,
                 "Value": 128
               },
               {
-                "Offset": 913182,
+                "Offset": 960304,
                 "Value": 128
               },
               {
-                "Offset": 976653,
+                "Offset": 1023224,
+                "Value": 0
+              },
+              {
+                "Offset": 1030839,
                 "Value": 128
               },
               {
-                "Offset": 1040124,
+                "Offset": 1088618,
                 "Value": 128
               },
               {
-                "Offset": 1103595,
+                "Offset": 1146318,
                 "Value": 128
               },
               {
-                "Offset": 1167066,
+                "Offset": 1205745,
                 "Value": 128
               },
               {
-                "Offset": 1230538,
-                "Value": 128
-              },
-              {
-                "Offset": 1294009,
-                "Value": 128
-              },
-              {
-                "Offset": 1357480,
-                "Value": 128
-              },
-              {
-                "Offset": 1420951,
-                "Value": 128
-              },
-              {
-                "Offset": 1484422,
-                "Value": 128
-              },
-              {
-                "Offset": 1547893,
-                "Value": 52
-              },
-              {
-                "Offset": 1573678,
-                "Value": 3
-              },
-              {
-                "Offset": 1575166,
-                "Value": 1
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_hei4_mlr_km_beach_p3",
-          "Path": "dlc_hei4_music/hei4_mlr_km_beach_p3",
-          "Duration": 1152080,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1029,
-                "Title": "Far Away Place (Rampa Remix)",
-                "Artist": "XINOBI"
-              },
-              {
-                "Offset": 126369,
-                "Title": "The Rapture",
-                "Artist": "&ME"
-              },
-              {
-                "Offset": 475460,
-                "Title": "Muyè",
-                "Artist": "KEINEMUSIK"
-              },
-              {
-                "Offset": 762568,
-                "Title": "In Your Eyes",
-                "Artist": "&ME"
-              },
-              {
-                "Offset": 1110171,
-                "Title": "Sunday",
-                "Artist": "RAMPA"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 915,
-                "Value": 1
-              },
-              {
-                "Offset": 1411,
-                "Value": 128
-              },
-              {
-                "Offset": 64882,
-                "Value": 128
-              },
-              {
-                "Offset": 128353,
-                "Value": 128
-              },
-              {
-                "Offset": 191824,
-                "Value": 128
-              },
-              {
-                "Offset": 255295,
-                "Value": 128
-              },
-              {
-                "Offset": 318766,
-                "Value": 128
-              },
-              {
-                "Offset": 382237,
-                "Value": 128
-              },
-              {
-                "Offset": 445708,
-                "Value": 128
-              },
-              {
-                "Offset": 509179,
-                "Value": 128
-              },
-              {
-                "Offset": 572650,
-                "Value": 128
-              },
-              {
-                "Offset": 636122,
-                "Value": 128
-              },
-              {
-                "Offset": 699593,
-                "Value": 128
-              },
-              {
-                "Offset": 763064,
-                "Value": 128
-              },
-              {
-                "Offset": 826535,
-                "Value": 128
-              },
-              {
-                "Offset": 890006,
-                "Value": 128
-              },
-              {
-                "Offset": 953477,
-                "Value": 128
-              },
-              {
-                "Offset": 1016948,
-                "Value": 128
-              },
-              {
-                "Offset": 1080419,
-                "Value": 128
-              },
-              {
-                "Offset": 1143890,
-                "Value": 13
-              },
-              {
-                "Offset": 1150336,
-                "Value": 2
-              },
-              {
-                "Offset": 1151328,
-                "Value": 1
-              },
-              {
-                "Offset": 1151824,
+                "Offset": 1263681,
                 "Value": 128
               }
             ]
           }
         },
         {
-          "Id": "dlc_hei4_music_hei4_mlr_km_beach_p4",
-          "Path": "dlc_hei4_music/hei4_mlr_km_beach_p4",
-          "Duration": 1075877,
+          "Id": "dlc_hei4_music_hei4_still_slipping_p3",
+          "Path": "dlc_hei4_music/hei4_still_slipping_p3",
+          "Duration": 1390418,
           "Markers": {
             "Track": [
               {
-                "Offset": 1046,
-                "Title": "Sunday",
-                "Artist": "RAMPA"
+                "Offset": 1011,
+                "Title": "Whip (Acapella)",
+                "Artist": "KO"
               },
               {
-                "Offset": 230826,
-                "Title": "A State Nearby (Adam Port Calypso Remix)",
-                "Artist": "NTEIBINT & STELLA"
+                "Offset": 17548,
+                "Title": "Pieces Of 8",
+                "Artist": "OVERMONO"
               },
               {
-                "Offset": 657272,
-                "Title": "Fairchild",
-                "Artist": "&ME"
+                "Offset": 182797,
+                "Title": "Bromley",
+                "Artist": "JOY ORBISON & OVERMONO"
               },
               {
-                "Offset": 833801,
-                "Title": "For This",
-                "Artist": "RAMPA FEAT. CHIARA NORIKO"
+                "Offset": 412467,
+                "Title": "Babylon",
+                "Artist": "MEZ"
               },
               {
-                "Offset": 1074793,
-                "Title": "Tonight (Adam Port 12\" Autobahn Edit)",
-                "Artist": "HERE IS WHY"
+                "Offset": 565949,
+                "Title": "Joyride",
+                "Artist": "SPOOKY"
+              },
+              {
+                "Offset": 619761,
+                "Title": "Wealthy Humans",
+                "Artist": "CELINE GILLAIN"
+              },
+              {
+                "Offset": 733574,
+                "Title": "Mad About Bars",
+                "Artist": "KWENGFACE"
+              },
+              {
+                "Offset": 824348,
+                "Title": "No Rap Cap",
+                "Artist": "M1LLIONZ"
+              },
+              {
+                "Offset": 982913,
+                "Title": "Party Popper",
+                "Artist": "BACKROAD GEE"
+              },
+              {
+                "Offset": 1129157,
+                "Title": "Shower Hour",
+                "Artist": "WAIFER"
+              },
+              {
+                "Offset": 1218495,
+                "Title": "Movements",
+                "Artist": "KO & JOY ORBISON"
               }
             ],
             "Beat": [
               {
-                "Offset": 248,
-                "Value": 1
-              },
-              {
-                "Offset": 744,
+                "Offset": 39358,
                 "Value": 128
               },
               {
-                "Offset": 64215,
+                "Offset": 99060,
                 "Value": 128
               },
               {
-                "Offset": 127686,
+                "Offset": 156839,
+                "Value": 34
+              },
+              {
+                "Offset": 172736,
+                "Value": 4
+              },
+              {
+                "Offset": 175192,
                 "Value": 128
               },
               {
-                "Offset": 191157,
+                "Offset": 233718,
                 "Value": 128
               },
               {
-                "Offset": 254628,
+                "Offset": 291653,
                 "Value": 128
               },
               {
-                "Offset": 318099,
+                "Offset": 349293,
                 "Value": 128
               },
               {
-                "Offset": 381570,
+                "Offset": 405268,
                 "Value": 128
               },
               {
-                "Offset": 445041,
+                "Offset": 461014,
                 "Value": 128
               },
               {
-                "Offset": 472804,
+                "Offset": 516647,
+                "Value": 128
+              },
+              {
+                "Offset": 572114,
+                "Value": 128
+              },
+              {
+                "Offset": 618461,
+                "Value": 128
+              },
+              {
+                "Offset": 673408,
+                "Value": 96
+              },
+              {
+                "Offset": 714348,
+                "Value": 0
+              },
+              {
+                "Offset": 742911,
+                "Value": 128
+              },
+              {
+                "Offset": 795959,
+                "Value": 128
+              },
+              {
+                "Offset": 850551,
+                "Value": 128
+              },
+              {
+                "Offset": 903587,
+                "Value": 128
+              },
+              {
+                "Offset": 956468,
+                "Value": 128
+              },
+              {
+                "Offset": 1009504,
+                "Value": 128
+              },
+              {
+                "Offset": 1062618,
+                "Value": 128
+              },
+              {
+                "Offset": 1115344,
+                "Value": 128
+              },
+              {
+                "Offset": 1170246,
+                "Value": 96
+              },
+              {
+                "Offset": 1211462,
+                "Value": 128
+              },
+              {
+                "Offset": 1321112,
+                "Value": 80
+              },
+              {
+                "Offset": 1389857,
+                "Value": 0
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_hei4_still_slipping_p4",
+          "Path": "dlc_hei4_music/hei4_still_slipping_p4",
+          "Duration": 460618,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1041,
+                "Title": "Movements",
+                "Artist": "KO & JOY ORBISON"
+              },
+              {
+                "Offset": 2834,
+                "Title": "Mad Friday",
+                "Artist": "RAP"
+              },
+              {
+                "Offset": 224714,
+                "Title": "Presence: Martin",
+                "Artist": "THOMAS BUSH"
+              },
+              {
+                "Offset": 333798,
+                "Title": "Submission",
+                "Artist": "POISON ANNA"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 438,
+                "Value": 0
+              },
+              {
+                "Offset": 354701,
                 "Value": 64
               },
               {
-                "Offset": 508512,
-                "Value": 128
-              },
-              {
-                "Offset": 571983,
-                "Value": 128
-              },
-              {
-                "Offset": 635454,
-                "Value": 128
-              },
-              {
-                "Offset": 698925,
-                "Value": 128
-              },
-              {
-                "Offset": 762396,
-                "Value": 128
-              },
-              {
-                "Offset": 825868,
-                "Value": 128
-              },
-              {
-                "Offset": 889339,
-                "Value": 128
-              },
-              {
-                "Offset": 952810,
-                "Value": 128
-              },
-              {
-                "Offset": 1016281,
-                "Value": 128
+                "Offset": 410301,
+                "Value": 0
               }
             ]
           }
-        }
-      ]
-    },
-    "hei4_radio_kult_ads": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "0",
-      "Tracks": [
-        {
-          "Id": "hei4_radio_kult_kult_ad001_aquarius",
-          "Path": "dlc_hei4_music/kult_ad001_aquarius",
-          "Duration": 50592
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad002_aries",
-          "Path": "dlc_hei4_music/kult_ad002_aries",
-          "Duration": 54171
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad003_cancer",
-          "Path": "dlc_hei4_music/kult_ad003_cancer",
-          "Duration": 55712
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad004_capricorn",
-          "Path": "dlc_hei4_music/kult_ad004_capricorn",
-          "Duration": 42806
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad005_gemini",
-          "Path": "dlc_hei4_music/kult_ad005_gemini",
-          "Duration": 54500
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad006_leo",
-          "Path": "dlc_hei4_music/kult_ad006_leo",
-          "Duration": 50575
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad007_libra",
-          "Path": "dlc_hei4_music/kult_ad007_libra",
-          "Duration": 46812
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad008_pisces",
-          "Path": "dlc_hei4_music/kult_ad008_pisces",
-          "Duration": 51150
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad009_sagitarius",
-          "Path": "dlc_hei4_music/kult_ad009_sagitarius",
-          "Duration": 52445
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad010_scorpio",
-          "Path": "dlc_hei4_music/kult_ad010_scorpio",
-          "Duration": 55767
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad011_taurus",
-          "Path": "dlc_hei4_music/kult_ad011_taurus",
-          "Duration": 53164
-        },
-        {
-          "Id": "hei4_radio_kult_kult_ad012_virgo",
-          "Path": "dlc_hei4_music/kult_ad012_virgo",
-          "Duration": 48511
-        }
-      ]
-    },
-    "hei4_radio_kult_custom_idents": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "1",
-      "Tracks": [
-        {
-          "Id": "hei4_radio_kult_id_01",
-          "Path": "dlc_hei4_music/id_01",
-          "Duration": 6986
-        },
-        {
-          "Id": "hei4_radio_kult_id_02",
-          "Path": "dlc_hei4_music/id_02",
-          "Duration": 5641
-        },
-        {
-          "Id": "hei4_radio_kult_id_03",
-          "Path": "dlc_hei4_music/id_03",
-          "Duration": 5181
-        },
-        {
-          "Id": "hei4_radio_kult_id_04",
-          "Path": "dlc_hei4_music/id_04",
-          "Duration": 5590
-        },
-        {
-          "Id": "hei4_radio_kult_id_05",
-          "Path": "dlc_hei4_music/id_05",
-          "Duration": 5602
-        },
-        {
-          "Id": "hei4_radio_kult_id_06",
-          "Path": "dlc_hei4_music/id_06",
-          "Duration": 5511
-        },
-        {
-          "Id": "hei4_radio_kult_id_07",
-          "Path": "dlc_hei4_music/id_07",
-          "Duration": 5317
-        },
-        {
-          "Id": "hei4_radio_kult_id_08",
-          "Path": "dlc_hei4_music/id_08",
-          "Duration": 4477
-        },
-        {
-          "Id": "hei4_radio_kult_id_09",
-          "Path": "dlc_hei4_music/id_09",
-          "Duration": 6556
-        },
-        {
-          "Id": "hei4_radio_kult_id_10",
-          "Path": "dlc_hei4_music/id_10",
-          "Duration": 4581
-        },
-        {
-          "Id": "hei4_radio_kult_id_11",
-          "Path": "dlc_hei4_music/id_11",
-          "Duration": 6504
-        },
-        {
-          "Id": "hei4_radio_kult_id_12",
-          "Path": "dlc_hei4_music/id_12",
-          "Duration": 7857
-        },
-        {
-          "Id": "hei4_radio_kult_id_13",
-          "Path": "dlc_hei4_music/id_13",
-          "Duration": 5715
-        },
-        {
-          "Id": "hei4_radio_kult_id_14",
-          "Path": "dlc_hei4_music/id_14",
-          "Duration": 6532
-        },
-        {
-          "Id": "hei4_radio_kult_id_16",
-          "Path": "dlc_hei4_music/id_16",
-          "Duration": 5435
-        },
-        {
-          "Id": "hei4_radio_kult_id_17",
-          "Path": "dlc_hei4_music/id_17",
-          "Duration": 5776
-        },
-        {
-          "Id": "hei4_radio_kult_id_18",
-          "Path": "dlc_hei4_music/id_18",
-          "Duration": 5271
-        },
-        {
-          "Id": "hei4_radio_kult_id_19",
-          "Path": "dlc_hei4_music/id_19",
-          "Duration": 8685
-        },
-        {
-          "Id": "hei4_radio_kult_id_20",
-          "Path": "dlc_hei4_music/id_20",
-          "Duration": 4230
-        },
-        {
-          "Id": "hei4_radio_kult_id_21",
-          "Path": "dlc_hei4_music/id_21",
-          "Duration": 2973
-        },
-        {
-          "Id": "hei4_radio_kult_id_22",
-          "Path": "dlc_hei4_music/id_22",
-          "Duration": 5535
-        },
-        {
-          "Id": "hei4_radio_kult_id_23",
-          "Path": "dlc_hei4_music/id_23",
-          "Duration": 6300
-        },
-        {
-          "Id": "hei4_radio_kult_id_24",
-          "Path": "dlc_hei4_music/id_24",
-          "Duration": 4522
-        },
-        {
-          "Id": "hei4_radio_kult_id_25",
-          "Path": "dlc_hei4_music/id_25",
-          "Duration": 4612
-        },
-        {
-          "Id": "hei4_radio_kult_id_26",
-          "Path": "dlc_hei4_music/id_26",
-          "Duration": 4095
-        },
-        {
-          "Id": "hei4_radio_kult_id_27",
-          "Path": "dlc_hei4_music/id_27",
-          "Duration": 8415
-        },
-        {
-          "Id": "hei4_radio_kult_id_28",
-          "Path": "dlc_hei4_music/id_28",
-          "Duration": 6615
-        },
-        {
-          "Id": "hei4_radio_kult_id_29",
-          "Path": "dlc_hei4_music/id_29",
-          "Duration": 5130
-        },
-        {
-          "Id": "hei4_radio_kult_id_30",
-          "Path": "dlc_hei4_music/id_30",
-          "Duration": 7762
-        },
-        {
-          "Id": "hei4_radio_kult_id_36",
-          "Path": "dlc_hei4_music/id_36",
-          "Duration": 19620
-        },
-        {
-          "Id": "hei4_radio_kult_id_37",
-          "Path": "dlc_hei4_music/id_37",
-          "Duration": 14017
-        },
-        {
-          "Id": "hei4_radio_kult_id_38",
-          "Path": "dlc_hei4_music/id_38",
-          "Duration": 19755
-        },
-        {
-          "Id": "hei4_radio_kult_id_39",
-          "Path": "dlc_hei4_music/id_39",
-          "Duration": 15705
-        },
-        {
-          "Id": "hei4_radio_kult_id_40",
-          "Path": "dlc_hei4_music/id_40",
-          "Duration": 18090
-        },
-        {
-          "Id": "hei4_radio_kult_id_41",
-          "Path": "dlc_hei4_music/id_41",
-          "Duration": 19755
-        },
-        {
-          "Id": "hei4_radio_kult_id_43",
-          "Path": "dlc_hei4_music/id_43",
-          "Duration": 15525
-        },
-        {
-          "Id": "hei4_radio_kult_id_36",
-          "Path": "dlc_hei4_music/id_36",
-          "Duration": 19620
-        },
-        {
-          "Id": "hei4_radio_kult_id_37",
-          "Path": "dlc_hei4_music/id_37",
-          "Duration": 14017
-        },
-        {
-          "Id": "hei4_radio_kult_id_38",
-          "Path": "dlc_hei4_music/id_38",
-          "Duration": 19755
-        },
-        {
-          "Id": "hei4_radio_kult_id_39",
-          "Path": "dlc_hei4_music/id_39",
-          "Duration": 15705
-        },
-        {
-          "Id": "hei4_radio_kult_id_40",
-          "Path": "dlc_hei4_music/id_40",
-          "Duration": 18090
-        },
-        {
-          "Id": "hei4_radio_kult_id_41",
-          "Path": "dlc_hei4_music/id_41",
-          "Duration": 19755
-        },
-        {
-          "Id": "hei4_radio_kult_id_43",
-          "Path": "dlc_hei4_music/id_43",
-          "Duration": 15525
-        },
-        {
-          "Id": "hei4_radio_kult_id_36",
-          "Path": "dlc_hei4_music/id_36",
-          "Duration": 19620
-        },
-        {
-          "Id": "hei4_radio_kult_id_37",
-          "Path": "dlc_hei4_music/id_37",
-          "Duration": 14017
-        },
-        {
-          "Id": "hei4_radio_kult_id_38",
-          "Path": "dlc_hei4_music/id_38",
-          "Duration": 19755
-        },
-        {
-          "Id": "hei4_radio_kult_id_39",
-          "Path": "dlc_hei4_music/id_39",
-          "Duration": 15705
-        },
-        {
-          "Id": "hei4_radio_kult_id_40",
-          "Path": "dlc_hei4_music/id_40",
-          "Duration": 18090
-        },
-        {
-          "Id": "hei4_radio_kult_id_41",
-          "Path": "dlc_hei4_music/id_41",
-          "Duration": 19755
-        },
-        {
-          "Id": "hei4_radio_kult_id_43",
-          "Path": "dlc_hei4_music/id_43",
-          "Duration": 15525
         }
       ]
     },
@@ -3565,6 +4670,1326 @@
         }
       ]
     },
+    "hei4_radio_kult_ads": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "0",
+      "Tracks": [
+        {
+          "Id": "hei4_radio_kult_kult_ad001_aquarius",
+          "Path": "dlc_hei4_music/kult_ad001_aquarius",
+          "Duration": 50592
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad002_aries",
+          "Path": "dlc_hei4_music/kult_ad002_aries",
+          "Duration": 54171
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad003_cancer",
+          "Path": "dlc_hei4_music/kult_ad003_cancer",
+          "Duration": 55712
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad004_capricorn",
+          "Path": "dlc_hei4_music/kult_ad004_capricorn",
+          "Duration": 42806
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad005_gemini",
+          "Path": "dlc_hei4_music/kult_ad005_gemini",
+          "Duration": 54500
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad006_leo",
+          "Path": "dlc_hei4_music/kult_ad006_leo",
+          "Duration": 50575
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad007_libra",
+          "Path": "dlc_hei4_music/kult_ad007_libra",
+          "Duration": 46812
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad008_pisces",
+          "Path": "dlc_hei4_music/kult_ad008_pisces",
+          "Duration": 51150
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad009_sagitarius",
+          "Path": "dlc_hei4_music/kult_ad009_sagitarius",
+          "Duration": 52445
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad010_scorpio",
+          "Path": "dlc_hei4_music/kult_ad010_scorpio",
+          "Duration": 55767
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad011_taurus",
+          "Path": "dlc_hei4_music/kult_ad011_taurus",
+          "Duration": 53164
+        },
+        {
+          "Id": "hei4_radio_kult_kult_ad012_virgo",
+          "Path": "dlc_hei4_music/kult_ad012_virgo",
+          "Duration": 48511
+        }
+      ]
+    },
+    "hei4_radio_kult_custom_idents": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "1",
+      "Tracks": [
+        {
+          "Id": "hei4_radio_kult_id_01",
+          "Path": "dlc_hei4_music/id_01",
+          "Duration": 6986
+        },
+        {
+          "Id": "hei4_radio_kult_id_02",
+          "Path": "dlc_hei4_music/id_02",
+          "Duration": 5641
+        },
+        {
+          "Id": "hei4_radio_kult_id_03",
+          "Path": "dlc_hei4_music/id_03",
+          "Duration": 5181
+        },
+        {
+          "Id": "hei4_radio_kult_id_04",
+          "Path": "dlc_hei4_music/id_04",
+          "Duration": 5590
+        },
+        {
+          "Id": "hei4_radio_kult_id_05",
+          "Path": "dlc_hei4_music/id_05",
+          "Duration": 5602
+        },
+        {
+          "Id": "hei4_radio_kult_id_06",
+          "Path": "dlc_hei4_music/id_06",
+          "Duration": 5511
+        },
+        {
+          "Id": "hei4_radio_kult_id_07",
+          "Path": "dlc_hei4_music/id_07",
+          "Duration": 5317
+        },
+        {
+          "Id": "hei4_radio_kult_id_08",
+          "Path": "dlc_hei4_music/id_08",
+          "Duration": 4477
+        },
+        {
+          "Id": "hei4_radio_kult_id_09",
+          "Path": "dlc_hei4_music/id_09",
+          "Duration": 6556
+        },
+        {
+          "Id": "hei4_radio_kult_id_10",
+          "Path": "dlc_hei4_music/id_10",
+          "Duration": 4581
+        },
+        {
+          "Id": "hei4_radio_kult_id_11",
+          "Path": "dlc_hei4_music/id_11",
+          "Duration": 6504
+        },
+        {
+          "Id": "hei4_radio_kult_id_12",
+          "Path": "dlc_hei4_music/id_12",
+          "Duration": 7857
+        },
+        {
+          "Id": "hei4_radio_kult_id_13",
+          "Path": "dlc_hei4_music/id_13",
+          "Duration": 5715
+        },
+        {
+          "Id": "hei4_radio_kult_id_14",
+          "Path": "dlc_hei4_music/id_14",
+          "Duration": 6532
+        },
+        {
+          "Id": "hei4_radio_kult_id_16",
+          "Path": "dlc_hei4_music/id_16",
+          "Duration": 5435
+        },
+        {
+          "Id": "hei4_radio_kult_id_17",
+          "Path": "dlc_hei4_music/id_17",
+          "Duration": 5776
+        },
+        {
+          "Id": "hei4_radio_kult_id_18",
+          "Path": "dlc_hei4_music/id_18",
+          "Duration": 5271
+        },
+        {
+          "Id": "hei4_radio_kult_id_19",
+          "Path": "dlc_hei4_music/id_19",
+          "Duration": 8685
+        },
+        {
+          "Id": "hei4_radio_kult_id_20",
+          "Path": "dlc_hei4_music/id_20",
+          "Duration": 4230
+        },
+        {
+          "Id": "hei4_radio_kult_id_21",
+          "Path": "dlc_hei4_music/id_21",
+          "Duration": 2973
+        },
+        {
+          "Id": "hei4_radio_kult_id_22",
+          "Path": "dlc_hei4_music/id_22",
+          "Duration": 5535
+        },
+        {
+          "Id": "hei4_radio_kult_id_23",
+          "Path": "dlc_hei4_music/id_23",
+          "Duration": 6300
+        },
+        {
+          "Id": "hei4_radio_kult_id_24",
+          "Path": "dlc_hei4_music/id_24",
+          "Duration": 4522
+        },
+        {
+          "Id": "hei4_radio_kult_id_25",
+          "Path": "dlc_hei4_music/id_25",
+          "Duration": 4612
+        },
+        {
+          "Id": "hei4_radio_kult_id_26",
+          "Path": "dlc_hei4_music/id_26",
+          "Duration": 4095
+        },
+        {
+          "Id": "hei4_radio_kult_id_27",
+          "Path": "dlc_hei4_music/id_27",
+          "Duration": 8415
+        },
+        {
+          "Id": "hei4_radio_kult_id_28",
+          "Path": "dlc_hei4_music/id_28",
+          "Duration": 6615
+        },
+        {
+          "Id": "hei4_radio_kult_id_29",
+          "Path": "dlc_hei4_music/id_29",
+          "Duration": 5130
+        },
+        {
+          "Id": "hei4_radio_kult_id_30",
+          "Path": "dlc_hei4_music/id_30",
+          "Duration": 7762
+        },
+        {
+          "Id": "hei4_radio_kult_id_36",
+          "Path": "dlc_hei4_music/id_36",
+          "Duration": 19620
+        },
+        {
+          "Id": "hei4_radio_kult_id_37",
+          "Path": "dlc_hei4_music/id_37",
+          "Duration": 14017
+        },
+        {
+          "Id": "hei4_radio_kult_id_38",
+          "Path": "dlc_hei4_music/id_38",
+          "Duration": 19755
+        },
+        {
+          "Id": "hei4_radio_kult_id_39",
+          "Path": "dlc_hei4_music/id_39",
+          "Duration": 15705
+        },
+        {
+          "Id": "hei4_radio_kult_id_40",
+          "Path": "dlc_hei4_music/id_40",
+          "Duration": 18090
+        },
+        {
+          "Id": "hei4_radio_kult_id_41",
+          "Path": "dlc_hei4_music/id_41",
+          "Duration": 19755
+        },
+        {
+          "Id": "hei4_radio_kult_id_43",
+          "Path": "dlc_hei4_music/id_43",
+          "Duration": 15525
+        },
+        {
+          "Id": "hei4_radio_kult_id_36",
+          "Path": "dlc_hei4_music/id_36",
+          "Duration": 19620
+        },
+        {
+          "Id": "hei4_radio_kult_id_37",
+          "Path": "dlc_hei4_music/id_37",
+          "Duration": 14017
+        },
+        {
+          "Id": "hei4_radio_kult_id_38",
+          "Path": "dlc_hei4_music/id_38",
+          "Duration": 19755
+        },
+        {
+          "Id": "hei4_radio_kult_id_39",
+          "Path": "dlc_hei4_music/id_39",
+          "Duration": 15705
+        },
+        {
+          "Id": "hei4_radio_kult_id_40",
+          "Path": "dlc_hei4_music/id_40",
+          "Duration": 18090
+        },
+        {
+          "Id": "hei4_radio_kult_id_41",
+          "Path": "dlc_hei4_music/id_41",
+          "Duration": 19755
+        },
+        {
+          "Id": "hei4_radio_kult_id_43",
+          "Path": "dlc_hei4_music/id_43",
+          "Duration": 15525
+        },
+        {
+          "Id": "hei4_radio_kult_id_36",
+          "Path": "dlc_hei4_music/id_36",
+          "Duration": 19620
+        },
+        {
+          "Id": "hei4_radio_kult_id_37",
+          "Path": "dlc_hei4_music/id_37",
+          "Duration": 14017
+        },
+        {
+          "Id": "hei4_radio_kult_id_38",
+          "Path": "dlc_hei4_music/id_38",
+          "Duration": 19755
+        },
+        {
+          "Id": "hei4_radio_kult_id_39",
+          "Path": "dlc_hei4_music/id_39",
+          "Duration": 15705
+        },
+        {
+          "Id": "hei4_radio_kult_id_40",
+          "Path": "dlc_hei4_music/id_40",
+          "Duration": 18090
+        },
+        {
+          "Id": "hei4_radio_kult_id_41",
+          "Path": "dlc_hei4_music/id_41",
+          "Duration": 19755
+        },
+        {
+          "Id": "hei4_radio_kult_id_43",
+          "Path": "dlc_hei4_music/id_43",
+          "Duration": 15525
+        }
+      ]
+    },
+    "hei4_radio_kult_djsolo": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "5",
+      "Tracks": [
+        {
+          "Id": "hei4_radio_kult_djsolo_01",
+          "Path": "dlc_hei4_music/djsolo_01",
+          "Duration": 22747
+        },
+        {
+          "Id": "hei4_radio_kult_djsolo_03",
+          "Path": "dlc_hei4_music/djsolo_03",
+          "Duration": 35114
+        },
+        {
+          "Id": "hei4_radio_kult_djsolo_02",
+          "Path": "dlc_hei4_music/djsolo_02",
+          "Duration": 118904
+        },
+        {
+          "Id": "hei4_radio_kult_djsolo_04",
+          "Path": "dlc_hei4_music/djsolo_04",
+          "Duration": 38700
+        }
+      ]
+    },
+    "hei4_km_beach_radio_music": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_hei4_music_hei4_mlr_km_beach_p1",
+          "Path": "dlc_hei4_music/hei4_mlr_km_beach_p1",
+          "Duration": 2329810,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 505,
+                "Title": "Newborn Soul",
+                "Artist": "RAMPA"
+              },
+              {
+                "Offset": 273232,
+                "Title": "The Rapture Pt.II",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 570257,
+                "Title": "Crush (Unfinished) (Adam Port Edit)",
+                "Artist": "JAI PAUL"
+              },
+              {
+                "Offset": 816208,
+                "Title": "Tell Me Are We",
+                "Artist": "RAMPA & WHOMADEWHO"
+              },
+              {
+                "Offset": 1165298,
+                "Title": "Homeland (&ME Remix + Jinadu Vocals)",
+                "Artist": "JORIS VOORN & MATTHEW DEAR"
+              },
+              {
+                "Offset": 1403315,
+                "Title": "Underwater (Adam Port Remix)",
+                "Artist": "RÜFÜS DU SOL"
+              },
+              {
+                "Offset": 1716703,
+                "Title": "Garden",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 2030092,
+                "Title": "Ganesha Song",
+                "Artist": "ADAM PORT"
+              },
+              {
+                "Offset": 2260175,
+                "Title": "No War (Rampa Remix)",
+                "Artist": "ÂME"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 1001,
+                "Value": 512
+              },
+              {
+                "Offset": 254885,
+                "Value": 512
+              },
+              {
+                "Offset": 508770,
+                "Value": 512
+              },
+              {
+                "Offset": 762654,
+                "Value": 512
+              },
+              {
+                "Offset": 1016538,
+                "Value": 512
+              },
+              {
+                "Offset": 1270422,
+                "Value": 256
+              },
+              {
+                "Offset": 1397365,
+                "Value": 128
+              },
+              {
+                "Offset": 1460836,
+                "Value": 128
+              },
+              {
+                "Offset": 1524307,
+                "Value": 128
+              },
+              {
+                "Offset": 1587778,
+                "Value": 128
+              },
+              {
+                "Offset": 1651249,
+                "Value": 128
+              },
+              {
+                "Offset": 1714720,
+                "Value": 128
+              },
+              {
+                "Offset": 1778191,
+                "Value": 128
+              },
+              {
+                "Offset": 1841662,
+                "Value": 128
+              },
+              {
+                "Offset": 1905133,
+                "Value": 128
+              },
+              {
+                "Offset": 1968604,
+                "Value": 128
+              },
+              {
+                "Offset": 2032075,
+                "Value": 128
+              },
+              {
+                "Offset": 2095546,
+                "Value": 128
+              },
+              {
+                "Offset": 2159018,
+                "Value": 128
+              },
+              {
+                "Offset": 2222489,
+                "Value": 128
+              },
+              {
+                "Offset": 2285960,
+                "Value": 128
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_hei4_mlr_km_beach_p2",
+          "Path": "dlc_hei4_music/hei4_mlr_km_beach_p2",
+          "Duration": 1575250,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 29871,
+                "Title": "No War (Rampa Remix)",
+                "Artist": "ÂME"
+              },
+              {
+                "Offset": 163430,
+                "Title": "You Need The Drugs (&ME Remix)",
+                "Artist": "WESTBAM FEAT. RICHARD BUTLER"
+              },
+              {
+                "Offset": 447066,
+                "Title": "Inside",
+                "Artist": "NOMI & RAMPA"
+              },
+              {
+                "Offset": 661281,
+                "Title": "No Dancers (Adam Port Remix)",
+                "Artist": "CUBICOLOR"
+              },
+              {
+                "Offset": 867562,
+                "Title": "Won't Change (Rampa Retouch)",
+                "Artist": "MANQO"
+              },
+              {
+                "Offset": 1121447,
+                "Title": "Starting Again",
+                "Artist": "&ME FEAT. ATELIER"
+              },
+              {
+                "Offset": 1401116,
+                "Title": "Far Away Place (Rampa Remix)",
+                "Artist": "XINOBI"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 20620,
+                "Value": 6
+              },
+              {
+                "Offset": 24587,
+                "Value": 128
+              },
+              {
+                "Offset": 88058,
+                "Value": 128
+              },
+              {
+                "Offset": 151529,
+                "Value": 128
+              },
+              {
+                "Offset": 215000,
+                "Value": 128
+              },
+              {
+                "Offset": 278471,
+                "Value": 128
+              },
+              {
+                "Offset": 341942,
+                "Value": 128
+              },
+              {
+                "Offset": 405414,
+                "Value": 128
+              },
+              {
+                "Offset": 468885,
+                "Value": 128
+              },
+              {
+                "Offset": 532356,
+                "Value": 128
+              },
+              {
+                "Offset": 595827,
+                "Value": 128
+              },
+              {
+                "Offset": 659298,
+                "Value": 128
+              },
+              {
+                "Offset": 722769,
+                "Value": 128
+              },
+              {
+                "Offset": 786240,
+                "Value": 128
+              },
+              {
+                "Offset": 849711,
+                "Value": 128
+              },
+              {
+                "Offset": 913182,
+                "Value": 128
+              },
+              {
+                "Offset": 976653,
+                "Value": 128
+              },
+              {
+                "Offset": 1040124,
+                "Value": 128
+              },
+              {
+                "Offset": 1103595,
+                "Value": 128
+              },
+              {
+                "Offset": 1167066,
+                "Value": 128
+              },
+              {
+                "Offset": 1230538,
+                "Value": 128
+              },
+              {
+                "Offset": 1294009,
+                "Value": 128
+              },
+              {
+                "Offset": 1357480,
+                "Value": 128
+              },
+              {
+                "Offset": 1420951,
+                "Value": 128
+              },
+              {
+                "Offset": 1484422,
+                "Value": 128
+              },
+              {
+                "Offset": 1547893,
+                "Value": 52
+              },
+              {
+                "Offset": 1573678,
+                "Value": 3
+              },
+              {
+                "Offset": 1575166,
+                "Value": 1
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_hei4_mlr_km_beach_p3",
+          "Path": "dlc_hei4_music/hei4_mlr_km_beach_p3",
+          "Duration": 1152080,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1029,
+                "Title": "Far Away Place (Rampa Remix)",
+                "Artist": "XINOBI"
+              },
+              {
+                "Offset": 126369,
+                "Title": "The Rapture",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 475460,
+                "Title": "Muyè",
+                "Artist": "KEINEMUSIK"
+              },
+              {
+                "Offset": 762568,
+                "Title": "In Your Eyes",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 1110171,
+                "Title": "Sunday",
+                "Artist": "RAMPA"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 915,
+                "Value": 1
+              },
+              {
+                "Offset": 1411,
+                "Value": 128
+              },
+              {
+                "Offset": 64882,
+                "Value": 128
+              },
+              {
+                "Offset": 128353,
+                "Value": 128
+              },
+              {
+                "Offset": 191824,
+                "Value": 128
+              },
+              {
+                "Offset": 255295,
+                "Value": 128
+              },
+              {
+                "Offset": 318766,
+                "Value": 128
+              },
+              {
+                "Offset": 382237,
+                "Value": 128
+              },
+              {
+                "Offset": 445708,
+                "Value": 128
+              },
+              {
+                "Offset": 509179,
+                "Value": 128
+              },
+              {
+                "Offset": 572650,
+                "Value": 128
+              },
+              {
+                "Offset": 636122,
+                "Value": 128
+              },
+              {
+                "Offset": 699593,
+                "Value": 128
+              },
+              {
+                "Offset": 763064,
+                "Value": 128
+              },
+              {
+                "Offset": 826535,
+                "Value": 128
+              },
+              {
+                "Offset": 890006,
+                "Value": 128
+              },
+              {
+                "Offset": 953477,
+                "Value": 128
+              },
+              {
+                "Offset": 1016948,
+                "Value": 128
+              },
+              {
+                "Offset": 1080419,
+                "Value": 128
+              },
+              {
+                "Offset": 1143890,
+                "Value": 13
+              },
+              {
+                "Offset": 1150336,
+                "Value": 2
+              },
+              {
+                "Offset": 1151328,
+                "Value": 1
+              },
+              {
+                "Offset": 1151824,
+                "Value": 128
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_hei4_mlr_km_beach_p4",
+          "Path": "dlc_hei4_music/hei4_mlr_km_beach_p4",
+          "Duration": 1075877,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1046,
+                "Title": "Sunday",
+                "Artist": "RAMPA"
+              },
+              {
+                "Offset": 230826,
+                "Title": "A State Nearby (Adam Port Calypso Remix)",
+                "Artist": "NTEIBINT & STELLA"
+              },
+              {
+                "Offset": 657272,
+                "Title": "Fairchild",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 833801,
+                "Title": "For This",
+                "Artist": "RAMPA FEAT. CHIARA NORIKO"
+              },
+              {
+                "Offset": 1074793,
+                "Title": "Tonight (Adam Port 12\" Autobahn Edit)",
+                "Artist": "HERE IS WHY"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 248,
+                "Value": 1
+              },
+              {
+                "Offset": 744,
+                "Value": 128
+              },
+              {
+                "Offset": 64215,
+                "Value": 128
+              },
+              {
+                "Offset": 127686,
+                "Value": 128
+              },
+              {
+                "Offset": 191157,
+                "Value": 128
+              },
+              {
+                "Offset": 254628,
+                "Value": 128
+              },
+              {
+                "Offset": 318099,
+                "Value": 128
+              },
+              {
+                "Offset": 381570,
+                "Value": 128
+              },
+              {
+                "Offset": 445041,
+                "Value": 128
+              },
+              {
+                "Offset": 472804,
+                "Value": 64
+              },
+              {
+                "Offset": 508512,
+                "Value": 128
+              },
+              {
+                "Offset": 571983,
+                "Value": 128
+              },
+              {
+                "Offset": 635454,
+                "Value": 128
+              },
+              {
+                "Offset": 698925,
+                "Value": 128
+              },
+              {
+                "Offset": 762396,
+                "Value": 128
+              },
+              {
+                "Offset": 825868,
+                "Value": 128
+              },
+              {
+                "Offset": 889339,
+                "Value": 128
+              },
+              {
+                "Offset": 952810,
+                "Value": 128
+              },
+              {
+                "Offset": 1016281,
+                "Value": 128
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "hei4_pt_radio_music": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_hei4_music_hei4_mlr_pt_p1",
+          "Path": "dlc_hei4_music/hei4_mlr_pt_p1",
+          "Duration": 1041521,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 41,
+                "Title": "Professor 3",
+                "Artist": "PROFESSOR RHYTHM"
+              },
+              {
+                "Offset": 154010,
+                "Title": "Petu (Dub Mix)",
+                "Artist": "PALMS TRAX"
+              },
+              {
+                "Offset": 411303,
+                "Title": "The MBO Theme",
+                "Artist": "KLEIN & MBO"
+              },
+              {
+                "Offset": 635135,
+                "Title": "Baja Imperial (Maxi Version)",
+                "Artist": "PLASTIC MODE"
+              },
+              {
+                "Offset": 741229,
+                "Title": "Let's Make Love Tonight",
+                "Artist": "L'AMOUR FEAT. KRYSTAL"
+              },
+              {
+                "Offset": 874897,
+                "Title": "Heat You Up (Melt You Down) (Instrumental)",
+                "Artist": "SHIRLEY LITES"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 188,
+                "Value": 128
+              },
+              {
+                "Offset": 66970,
+                "Value": 128
+              },
+              {
+                "Offset": 133753,
+                "Value": 128
+              },
+              {
+                "Offset": 200535,
+                "Value": 128
+              },
+              {
+                "Offset": 267318,
+                "Value": 128
+              },
+              {
+                "Offset": 334101,
+                "Value": 128
+              },
+              {
+                "Offset": 400883,
+                "Value": 20
+              },
+              {
+                "Offset": 411318,
+                "Value": 128
+              },
+              {
+                "Offset": 477689,
+                "Value": 128
+              },
+              {
+                "Offset": 543789,
+                "Value": 128
+              },
+              {
+                "Offset": 609892,
+                "Value": 16
+              },
+              {
+                "Offset": 618153,
+                "Value": 128
+              },
+              {
+                "Offset": 684203,
+                "Value": 128
+              },
+              {
+                "Offset": 750222,
+                "Value": 128
+              },
+              {
+                "Offset": 816207,
+                "Value": 128
+              },
+              {
+                "Offset": 882117,
+                "Value": 128
+              },
+              {
+                "Offset": 947985,
+                "Value": 128
+              },
+              {
+                "Offset": 1013804,
+                "Value": 52
+              },
+              {
+                "Offset": 1040611,
+                "Value": 4
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_hei4_mlr_pt_p2",
+          "Path": "dlc_hei4_music/hei4_mlr_pt_p2",
+          "Duration": 1537938,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1033,
+                "Title": "Heat You Up (Melt You Down) (Instrumental)",
+                "Artist": "SHIRLEY LITES"
+              },
+              {
+                "Offset": 29947,
+                "Title": "Let The Music Play (Dub Version)",
+                "Artist": "SHANNON"
+              },
+              {
+                "Offset": 206999,
+                "Title": "Transdance (New York Disco Mix)",
+                "Artist": "NIGHT MOVES"
+              },
+              {
+                "Offset": 369530,
+                "Title": "The Rule To Survive (Prins Thomas Remix)",
+                "Artist": "N.O.I.A."
+              },
+              {
+                "Offset": 723332,
+                "Title": "27",
+                "Artist": "TOBIAS BERNSTRUP"
+              },
+              {
+                "Offset": 866407,
+                "Title": "Happy Song (Remix)",
+                "Artist": "BABY'S GANG"
+              },
+              {
+                "Offset": 997065,
+                "Title": "New Dance",
+                "Artist": "MASALO"
+              },
+              {
+                "Offset": 1224247,
+                "Title": "Get Up",
+                "Artist": "DIVA"
+              },
+              {
+                "Offset": 1412944,
+                "Title": "Can You Feel It (Jackin Up The Dub 12\" Mix)",
+                "Artist": "MARIO DIAZ"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 90,
+                "Value": 4
+              },
+              {
+                "Offset": 2061,
+                "Value": 128
+              },
+              {
+                "Offset": 67783,
+                "Value": 128
+              },
+              {
+                "Offset": 133445,
+                "Value": 128
+              },
+              {
+                "Offset": 198875,
+                "Value": 128
+              },
+              {
+                "Offset": 264025,
+                "Value": 128
+              },
+              {
+                "Offset": 328860,
+                "Value": 128
+              },
+              {
+                "Offset": 393449,
+                "Value": 128
+              },
+              {
+                "Offset": 457814,
+                "Value": 128
+              },
+              {
+                "Offset": 522144,
+                "Value": 128
+              },
+              {
+                "Offset": 586472,
+                "Value": 128
+              },
+              {
+                "Offset": 650800,
+                "Value": 128
+              },
+              {
+                "Offset": 715045,
+                "Value": 128
+              },
+              {
+                "Offset": 779067,
+                "Value": 128
+              },
+              {
+                "Offset": 842733,
+                "Value": 128
+              },
+              {
+                "Offset": 905745,
+                "Value": 128
+              },
+              {
+                "Offset": 968654,
+                "Value": 128
+              },
+              {
+                "Offset": 1031527,
+                "Value": 128
+              },
+              {
+                "Offset": 1094401,
+                "Value": 128
+              },
+              {
+                "Offset": 1157276,
+                "Value": 128
+              },
+              {
+                "Offset": 1220140,
+                "Value": 128
+              },
+              {
+                "Offset": 1283009,
+                "Value": 128
+              },
+              {
+                "Offset": 1345894,
+                "Value": 128
+              },
+              {
+                "Offset": 1408762,
+                "Value": 128
+              },
+              {
+                "Offset": 1471643,
+                "Value": 128
+              },
+              {
+                "Offset": 1534516,
+                "Value": 8
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_hei4_music_hei4_mlr_pt_p3",
+          "Path": "dlc_hei4_music/hei4_mlr_pt_p3",
+          "Duration": 1811912,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1026,
+                "Title": "Can You Feel It (Jackin Up The Dub 12\" Mix)",
+                "Artist": "MARIO DIAZ"
+              },
+              {
+                "Offset": 59041,
+                "Title": "Freeze (Limelight Mix)",
+                "Artist": "SCRAPPY"
+              },
+              {
+                "Offset": 172909,
+                "Title": "For The Same Man",
+                "Artist": "B BEAT GIRLS"
+              },
+              {
+                "Offset": 314456,
+                "Title": "Got U On My Mind",
+                "Artist": "GREG LEE"
+              },
+              {
+                "Offset": 565653,
+                "Title": "Visions",
+                "Artist": "ROBERT OWENS"
+              },
+              {
+                "Offset": 772876,
+                "Title": "When Can I Call You (Tommy Musto & Frankie Bones British Telecom Mix)",
+                "Artist": "LISA LEE"
+              },
+              {
+                "Offset": 1073037,
+                "Title": "Dream Girl (Original Ralphi Rosario Club Mix)",
+                "Artist": "PIERRE'S PFANTASY CLUB"
+              },
+              {
+                "Offset": 1200239,
+                "Title": "Show Me What You Got (Acid Mix - Part 1)",
+                "Artist": "S.L.F."
+              },
+              {
+                "Offset": 1363762,
+                "Title": "String Free (Club LeRay Mix)",
+                "Artist": "PHORTUNE"
+              },
+              {
+                "Offset": 1545028,
+                "Title": "Indaba Kabani",
+                "Artist": "KAMAZU"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 1465,
+                "Value": 512
+              },
+              {
+                "Offset": 252994,
+                "Value": 128
+              },
+              {
+                "Offset": 315870,
+                "Value": 512
+              },
+              {
+                "Offset": 567376,
+                "Value": 384
+              },
+              {
+                "Offset": 755996,
+                "Value": 256
+              },
+              {
+                "Offset": 881746,
+                "Value": 256
+              },
+              {
+                "Offset": 1007493,
+                "Value": 128
+              },
+              {
+                "Offset": 1070368,
+                "Value": 256
+              },
+              {
+                "Offset": 1196125,
+                "Value": 136
+              },
+              {
+                "Offset": 1262920,
+                "Value": 128
+              },
+              {
+                "Offset": 1325803,
+                "Value": 128
+              },
+              {
+                "Offset": 1388689,
+                "Value": 128
+              },
+              {
+                "Offset": 1451557,
+                "Value": 128
+              },
+              {
+                "Offset": 1514423,
+                "Value": 128
+              },
+              {
+                "Offset": 1577299,
+                "Value": 128
+              },
+              {
+                "Offset": 1640164,
+                "Value": 128
+              },
+              {
+                "Offset": 1703061,
+                "Value": 128
+              },
+              {
+                "Offset": 1765919,
+                "Value": 88
+              },
+              {
+                "Offset": 1809149,
+                "Value": 4
+              },
+              {
+                "Offset": 1811124,
+                "Value": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
     "hei4_km_club_radio_music": {
       "Flags": "0xAAAAAAA0",
       "Category": "2",
@@ -4035,1465 +6460,6 @@
               {
                 "Offset": 1813199,
                 "Value": 4
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "hei4_radio_kult_djsolo": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "5",
-      "Tracks": [
-        {
-          "Id": "hei4_radio_kult_djsolo_01",
-          "Path": "dlc_hei4_music/djsolo_01",
-          "Duration": 22747
-        },
-        {
-          "Id": "hei4_radio_kult_djsolo_03",
-          "Path": "dlc_hei4_music/djsolo_03",
-          "Duration": 35114
-        },
-        {
-          "Id": "hei4_radio_kult_djsolo_02",
-          "Path": "dlc_hei4_music/djsolo_02",
-          "Duration": 118904
-        },
-        {
-          "Id": "hei4_radio_kult_djsolo_04",
-          "Path": "dlc_hei4_music/djsolo_04",
-          "Duration": 38700
-        }
-      ]
-    },
-    "hei4_pt_radio_music": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_hei4_music_hei4_mlr_pt_p1",
-          "Path": "dlc_hei4_music/hei4_mlr_pt_p1",
-          "Duration": 1041521,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 41,
-                "Title": "Professor 3",
-                "Artist": "PROFESSOR RHYTHM"
-              },
-              {
-                "Offset": 154010,
-                "Title": "Petu (Dub Mix)",
-                "Artist": "PALMS TRAX"
-              },
-              {
-                "Offset": 411303,
-                "Title": "The MBO Theme",
-                "Artist": "KLEIN & MBO"
-              },
-              {
-                "Offset": 635135,
-                "Title": "Baja Imperial (Maxi Version)",
-                "Artist": "PLASTIC MODE"
-              },
-              {
-                "Offset": 741229,
-                "Title": "Let's Make Love Tonight",
-                "Artist": "L'AMOUR FEAT. KRYSTAL"
-              },
-              {
-                "Offset": 874897,
-                "Title": "Heat You Up (Melt You Down) (Instrumental)",
-                "Artist": "SHIRLEY LITES"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 188,
-                "Value": 128
-              },
-              {
-                "Offset": 66970,
-                "Value": 128
-              },
-              {
-                "Offset": 133753,
-                "Value": 128
-              },
-              {
-                "Offset": 200535,
-                "Value": 128
-              },
-              {
-                "Offset": 267318,
-                "Value": 128
-              },
-              {
-                "Offset": 334101,
-                "Value": 128
-              },
-              {
-                "Offset": 400883,
-                "Value": 20
-              },
-              {
-                "Offset": 411318,
-                "Value": 128
-              },
-              {
-                "Offset": 477689,
-                "Value": 128
-              },
-              {
-                "Offset": 543789,
-                "Value": 128
-              },
-              {
-                "Offset": 609892,
-                "Value": 16
-              },
-              {
-                "Offset": 618153,
-                "Value": 128
-              },
-              {
-                "Offset": 684203,
-                "Value": 128
-              },
-              {
-                "Offset": 750222,
-                "Value": 128
-              },
-              {
-                "Offset": 816207,
-                "Value": 128
-              },
-              {
-                "Offset": 882117,
-                "Value": 128
-              },
-              {
-                "Offset": 947985,
-                "Value": 128
-              },
-              {
-                "Offset": 1013804,
-                "Value": 52
-              },
-              {
-                "Offset": 1040611,
-                "Value": 4
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_hei4_mlr_pt_p2",
-          "Path": "dlc_hei4_music/hei4_mlr_pt_p2",
-          "Duration": 1537938,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1033,
-                "Title": "Heat You Up (Melt You Down) (Instrumental)",
-                "Artist": "SHIRLEY LITES"
-              },
-              {
-                "Offset": 29947,
-                "Title": "Let The Music Play (Dub Version)",
-                "Artist": "SHANNON"
-              },
-              {
-                "Offset": 206999,
-                "Title": "Transdance (New York Disco Mix)",
-                "Artist": "NIGHT MOVES"
-              },
-              {
-                "Offset": 369530,
-                "Title": "The Rule To Survive (Prins Thomas Remix)",
-                "Artist": "N.O.I.A."
-              },
-              {
-                "Offset": 723332,
-                "Title": "27",
-                "Artist": "TOBIAS BERNSTRUP"
-              },
-              {
-                "Offset": 866407,
-                "Title": "Happy Song (Remix)",
-                "Artist": "BABY'S GANG"
-              },
-              {
-                "Offset": 997065,
-                "Title": "New Dance",
-                "Artist": "MASALO"
-              },
-              {
-                "Offset": 1224247,
-                "Title": "Get Up",
-                "Artist": "DIVA"
-              },
-              {
-                "Offset": 1412944,
-                "Title": "Can You Feel It (Jackin Up The Dub 12\" Mix)",
-                "Artist": "MARIO DIAZ"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 90,
-                "Value": 4
-              },
-              {
-                "Offset": 2061,
-                "Value": 128
-              },
-              {
-                "Offset": 67783,
-                "Value": 128
-              },
-              {
-                "Offset": 133445,
-                "Value": 128
-              },
-              {
-                "Offset": 198875,
-                "Value": 128
-              },
-              {
-                "Offset": 264025,
-                "Value": 128
-              },
-              {
-                "Offset": 328860,
-                "Value": 128
-              },
-              {
-                "Offset": 393449,
-                "Value": 128
-              },
-              {
-                "Offset": 457814,
-                "Value": 128
-              },
-              {
-                "Offset": 522144,
-                "Value": 128
-              },
-              {
-                "Offset": 586472,
-                "Value": 128
-              },
-              {
-                "Offset": 650800,
-                "Value": 128
-              },
-              {
-                "Offset": 715045,
-                "Value": 128
-              },
-              {
-                "Offset": 779067,
-                "Value": 128
-              },
-              {
-                "Offset": 842733,
-                "Value": 128
-              },
-              {
-                "Offset": 905745,
-                "Value": 128
-              },
-              {
-                "Offset": 968654,
-                "Value": 128
-              },
-              {
-                "Offset": 1031527,
-                "Value": 128
-              },
-              {
-                "Offset": 1094401,
-                "Value": 128
-              },
-              {
-                "Offset": 1157276,
-                "Value": 128
-              },
-              {
-                "Offset": 1220140,
-                "Value": 128
-              },
-              {
-                "Offset": 1283009,
-                "Value": 128
-              },
-              {
-                "Offset": 1345894,
-                "Value": 128
-              },
-              {
-                "Offset": 1408762,
-                "Value": 128
-              },
-              {
-                "Offset": 1471643,
-                "Value": 128
-              },
-              {
-                "Offset": 1534516,
-                "Value": 8
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_hei4_mlr_pt_p3",
-          "Path": "dlc_hei4_music/hei4_mlr_pt_p3",
-          "Duration": 1811912,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1026,
-                "Title": "Can You Feel It (Jackin Up The Dub 12\" Mix)",
-                "Artist": "MARIO DIAZ"
-              },
-              {
-                "Offset": 59041,
-                "Title": "Freeze (Limelight Mix)",
-                "Artist": "SCRAPPY"
-              },
-              {
-                "Offset": 172909,
-                "Title": "For The Same Man",
-                "Artist": "B BEAT GIRLS"
-              },
-              {
-                "Offset": 314456,
-                "Title": "Got U On My Mind",
-                "Artist": "GREG LEE"
-              },
-              {
-                "Offset": 565653,
-                "Title": "Visions",
-                "Artist": "ROBERT OWENS"
-              },
-              {
-                "Offset": 772876,
-                "Title": "When Can I Call You (Tommy Musto & Frankie Bones British Telecom Mix)",
-                "Artist": "LISA LEE"
-              },
-              {
-                "Offset": 1073037,
-                "Title": "Dream Girl (Original Ralphi Rosario Club Mix)",
-                "Artist": "PIERRE'S PFANTASY CLUB"
-              },
-              {
-                "Offset": 1200239,
-                "Title": "Show Me What You Got (Acid Mix - Part 1)",
-                "Artist": "S.L.F."
-              },
-              {
-                "Offset": 1363762,
-                "Title": "String Free (Club LeRay Mix)",
-                "Artist": "PHORTUNE"
-              },
-              {
-                "Offset": 1545028,
-                "Title": "Indaba Kabani",
-                "Artist": "KAMAZU"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 1465,
-                "Value": 512
-              },
-              {
-                "Offset": 252994,
-                "Value": 128
-              },
-              {
-                "Offset": 315870,
-                "Value": 512
-              },
-              {
-                "Offset": 567376,
-                "Value": 384
-              },
-              {
-                "Offset": 755996,
-                "Value": 256
-              },
-              {
-                "Offset": 881746,
-                "Value": 256
-              },
-              {
-                "Offset": 1007493,
-                "Value": 128
-              },
-              {
-                "Offset": 1070368,
-                "Value": 256
-              },
-              {
-                "Offset": 1196125,
-                "Value": 136
-              },
-              {
-                "Offset": 1262920,
-                "Value": 128
-              },
-              {
-                "Offset": 1325803,
-                "Value": 128
-              },
-              {
-                "Offset": 1388689,
-                "Value": 128
-              },
-              {
-                "Offset": 1451557,
-                "Value": 128
-              },
-              {
-                "Offset": 1514423,
-                "Value": 128
-              },
-              {
-                "Offset": 1577299,
-                "Value": 128
-              },
-              {
-                "Offset": 1640164,
-                "Value": 128
-              },
-              {
-                "Offset": 1703061,
-                "Value": 128
-              },
-              {
-                "Offset": 1765919,
-                "Value": 88
-              },
-              {
-                "Offset": 1809149,
-                "Value": 4
-              },
-              {
-                "Offset": 1811124,
-                "Value": 2
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "wwfm_island_update_music_music": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_hei4_music_wwfm_island_update_part_1",
-          "Path": "dlc_hei4_music/wwfm_island_update_part_1",
-          "Duration": 2332660,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 290,
-                "Title": "The Message (GP And 2bo4 Remix)",
-                "Artist": "KAMASI WASHINGTON"
-              },
-              {
-                "Offset": 279656,
-                "Title": "Birthright",
-                "Artist": "SARATHY KORWAR"
-              },
-              {
-                "Offset": 517406,
-                "Title": "Lost Touch",
-                "Artist": "MR. MITCH FEAT. DUVAL TIMOTHY"
-              },
-              {
-                "Offset": 525338,
-                "Title": "Sandman",
-                "Artist": "THE UNDISPUTED TRUTH"
-              },
-              {
-                "Offset": 675202,
-                "Title": "The People",
-                "Artist": "PHOTAY"
-              },
-              {
-                "Offset": 900610,
-                "Title": "Could Heaven Ever Be Like This",
-                "Artist": "IDRIS MUHAMMAD"
-              },
-              {
-                "Offset": 1092283,
-                "Title": "Jazz Carnival",
-                "Artist": "AZYMUTH"
-              },
-              {
-                "Offset": 1356026,
-                "Title": "Azaa (Branko Edit)",
-                "Artist": "GAFACCI"
-              },
-              {
-                "Offset": 1483502,
-                "Title": "Bim Bam Bam",
-                "Artist": "KOKOKO!"
-              },
-              {
-                "Offset": 1643894,
-                "Title": "Labyrinth",
-                "Artist": "TSVI"
-              },
-              {
-                "Offset": 1841497,
-                "Title": "Riesling Pour Robert (Rhythm Heavy Version)",
-                "Artist": "JAHARI MASSAMBA UNIT"
-              },
-              {
-                "Offset": 2003934,
-                "Title": "Self:Love",
-                "Artist": "JOE ARMON-JONES FEAT. OBONGJAYAR"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 69,
-                "Value": 0
-              },
-              {
-                "Offset": 140989,
-                "Value": 308
-              },
-              {
-                "Offset": 272654,
-                "Value": 0
-              },
-              {
-                "Offset": 278532,
-                "Value": 384
-              },
-              {
-                "Offset": 501713,
-                "Value": 0
-              },
-              {
-                "Offset": 525403,
-                "Value": 304
-              },
-              {
-                "Offset": 675495,
-                "Value": 256
-              },
-              {
-                "Offset": 776653,
-                "Value": 64
-              },
-              {
-                "Offset": 809705,
-                "Value": 192
-              },
-              {
-                "Offset": 908143,
-                "Value": 256
-              },
-              {
-                "Offset": 971747,
-                "Value": 288
-              },
-              {
-                "Offset": 1091112,
-                "Value": 0
-              },
-              {
-                "Offset": 1093106,
-                "Value": 256
-              },
-              {
-                "Offset": 1151632,
-                "Value": 128
-              },
-              {
-                "Offset": 1268843,
-                "Value": 192
-              },
-              {
-                "Offset": 1356937,
-                "Value": 320
-              },
-              {
-                "Offset": 1505391,
-                "Value": 256
-              },
-              {
-                "Offset": 1624011,
-                "Value": 40
-              },
-              {
-                "Offset": 1643139,
-                "Value": 64
-              },
-              {
-                "Offset": 1679096,
-                "Value": 288
-              },
-              {
-                "Offset": 1841488,
-                "Value": 0
-              },
-              {
-                "Offset": 1841874,
-                "Value": 256
-              },
-              {
-                "Offset": 1976118,
-                "Value": 44
-              },
-              {
-                "Offset": 1998532,
-                "Value": 0
-              },
-              {
-                "Offset": 2005188,
-                "Value": 256
-              },
-              {
-                "Offset": 2089334,
-                "Value": 64
-              },
-              {
-                "Offset": 2110618,
-                "Value": 64
-              },
-              {
-                "Offset": 2131783,
-                "Value": 64
-              },
-              {
-                "Offset": 2153015,
-                "Value": 0
-              },
-              {
-                "Offset": 2164029,
-                "Value": 240
-              },
-              {
-                "Offset": 2327036,
-                "Value": 0
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_wwfm_island_update_part_2",
-          "Path": "dlc_hei4_music/wwfm_island_update_part_2",
-          "Duration": 2026730,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 998,
-                "Title": "Self:Love",
-                "Artist": "JOE ARMON-JONES FEAT. OBONGJAYAR"
-              },
-              {
-                "Offset": 25361,
-                "Title": "Baba Ayoola",
-                "Artist": "KOKOROKO"
-              },
-              {
-                "Offset": 251587,
-                "Title": "Time (You And I) (Original And GP Dub)",
-                "Artist": "KHRUANGBIN"
-              },
-              {
-                "Offset": 504494,
-                "Title": "Fight For Your Rights",
-                "Artist": "ARTHUR ADAMS"
-              },
-              {
-                "Offset": 654152,
-                "Title": "Mysteries Of The World",
-                "Artist": "MFSB"
-              },
-              {
-                "Offset": 871076,
-                "Title": "Aspects (Demus Dub)",
-                "Artist": "STR4TA"
-              },
-              {
-                "Offset": 1139828,
-                "Title": "Emergency On Planet Earth (London Rican Mix)",
-                "Artist": "JAMIROQUAI"
-              },
-              {
-                "Offset": 1470017,
-                "Title": "Natural Thing",
-                "Artist": "RONI SIZE"
-              },
-              {
-                "Offset": 1689905,
-                "Title": "Worldwide FM (Dubplate Special)",
-                "Artist": "DRS & DYNAMITE MC"
-              },
-              {
-                "Offset": 1863587,
-                "Title": "Fusion Swirl",
-                "Artist": "JEFF PARKER"
-              },
-              {
-                "Offset": 2026730,
-                "Title": "Fusion Swirl",
-                "Artist": "JEFF PARKER"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 26101,
-                "Value": 448
-              },
-              {
-                "Offset": 244638,
-                "Value": 14
-              },
-              {
-                "Offset": 251728,
-                "Value": 192
-              },
-              {
-                "Offset": 356214,
-                "Value": 64
-              },
-              {
-                "Offset": 391041,
-                "Value": 64
-              },
-              {
-                "Offset": 425868,
-                "Value": 144
-              },
-              {
-                "Offset": 504502,
-                "Value": 64
-              },
-              {
-                "Offset": 537985,
-                "Value": 64
-              },
-              {
-                "Offset": 571760,
-                "Value": 64
-              },
-              {
-                "Offset": 605528,
-                "Value": 92
-              },
-              {
-                "Offset": 656184,
-                "Value": 0
-              },
-              {
-                "Offset": 711173,
-                "Value": 240
-              },
-              {
-                "Offset": 830961,
-                "Value": 0
-              },
-              {
-                "Offset": 832843,
-                "Value": 64
-              },
-              {
-                "Offset": 864789,
-                "Value": 256
-              },
-              {
-                "Offset": 990008,
-                "Value": 64
-              },
-              {
-                "Offset": 1021397,
-                "Value": 192
-              },
-              {
-                "Offset": 1115346,
-                "Value": 44
-              },
-              {
-                "Offset": 1137159,
-                "Value": 64
-              },
-              {
-                "Offset": 1168348,
-                "Value": 320
-              },
-              {
-                "Offset": 1322370,
-                "Value": 64
-              },
-              {
-                "Offset": 1353218,
-                "Value": 64
-              },
-              {
-                "Offset": 1384021,
-                "Value": 64
-              },
-              {
-                "Offset": 1414688,
-                "Value": 64
-              },
-              {
-                "Offset": 1445606,
-                "Value": 52
-              },
-              {
-                "Offset": 1470574,
-                "Value": 0
-              },
-              {
-                "Offset": 1513928,
-                "Value": 480
-              },
-              {
-                "Offset": 1682798,
-                "Value": 0
-              },
-              {
-                "Offset": 1728031,
-                "Value": 256
-              },
-              {
-                "Offset": 1795526,
-                "Value": 64
-              },
-              {
-                "Offset": 1818358,
-                "Value": 0
-              },
-              {
-                "Offset": 1867558,
-                "Value": 64
-              },
-              {
-                "Offset": 1898814,
-                "Value": 64
-              },
-              {
-                "Offset": 1930009,
-                "Value": 64
-              },
-              {
-                "Offset": 1961310,
-                "Value": 64
-              },
-              {
-                "Offset": 1992446,
-                "Value": 68
-              },
-              {
-                "Offset": 2025732,
-                "Value": 0
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_wwfm_island_update_part_3",
-          "Path": "dlc_hei4_music/wwfm_island_update_part_3",
-          "Duration": 1572410,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1000,
-                "Title": "Fusion Swirl",
-                "Artist": "JEFF PARKER"
-              },
-              {
-                "Offset": 28713,
-                "Title": "Wax & Buff",
-                "Artist": "SAUCE & DOGS"
-              },
-              {
-                "Offset": 250338,
-                "Title": "THE CHOCOLATE CONQUISTADORS",
-                "Artist": "BADBADNOTGOOD FEAT. MF DOOM"
-              },
-              {
-                "Offset": 667113,
-                "Title": "The Beat",
-                "Artist": "ESG"
-              },
-              {
-                "Offset": 801131,
-                "Title": "Kimchi King Kong",
-                "Artist": "THE DIABOLICAL LIBERTIES"
-              },
-              {
-                "Offset": 942919,
-                "Title": "What More",
-                "Artist": "SWINDLE FEAT. GREENTEA PENG"
-              },
-              {
-                "Offset": 1085524,
-                "Title": "Times Up",
-                "Artist": "FUSELAGE"
-              },
-              {
-                "Offset": 1306638,
-                "Title": "Muslem & Christian",
-                "Artist": "MADLIB"
-              },
-              {
-                "Offset": 1438408,
-                "Title": "Pure Agony",
-                "Artist": "KAYTRANADA"
-              },
-              {
-                "Offset": 1538180,
-                "Title": "Why Don't I Feel",
-                "Artist": "LYAM"
-              },
-              {
-                "Offset": 1572410,
-                "Title": "Why Don't I Feel",
-                "Artist": "LYAM"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 2,
-                "Value": 0
-              },
-              {
-                "Offset": 30796,
-                "Value": 433
-              },
-              {
-                "Offset": 247846,
-                "Value": 0
-              },
-              {
-                "Offset": 250670,
-                "Value": 128
-              },
-              {
-                "Offset": 346342,
-                "Value": 64
-              },
-              {
-                "Offset": 376500,
-                "Value": 64
-              },
-              {
-                "Offset": 406199,
-                "Value": 128
-              },
-              {
-                "Offset": 435679,
-                "Value": 64
-              },
-              {
-                "Offset": 465461,
-                "Value": 64
-              },
-              {
-                "Offset": 495062,
-                "Value": 64
-              },
-              {
-                "Offset": 524117,
-                "Value": 128
-              },
-              {
-                "Offset": 583297,
-                "Value": 64
-              },
-              {
-                "Offset": 612061,
-                "Value": 64
-              },
-              {
-                "Offset": 641722,
-                "Value": 52
-              },
-              {
-                "Offset": 665623,
-                "Value": 0
-              },
-              {
-                "Offset": 673279,
-                "Value": 64
-              },
-              {
-                "Offset": 698533,
-                "Value": 64
-              },
-              {
-                "Offset": 723817,
-                "Value": 64
-              },
-              {
-                "Offset": 749192,
-                "Value": 64
-              },
-              {
-                "Offset": 774792,
-                "Value": 64
-              },
-              {
-                "Offset": 800302,
-                "Value": 64
-              },
-              {
-                "Offset": 828760,
-                "Value": 64
-              },
-              {
-                "Offset": 857152,
-                "Value": 64
-              },
-              {
-                "Offset": 885636,
-                "Value": 64
-              },
-              {
-                "Offset": 914104,
-                "Value": 64
-              },
-              {
-                "Offset": 942517,
-                "Value": 64
-              },
-              {
-                "Offset": 999434,
-                "Value": 64
-              },
-              {
-                "Offset": 1056320,
-                "Value": 64
-              },
-              {
-                "Offset": 1113186,
-                "Value": 64
-              },
-              {
-                "Offset": 1170116,
-                "Value": 64
-              },
-              {
-                "Offset": 1226919,
-                "Value": 64
-              },
-              {
-                "Offset": 1283849,
-                "Value": 24
-              },
-              {
-                "Offset": 1305249,
-                "Value": 0
-              },
-              {
-                "Offset": 1311287,
-                "Value": 192
-              },
-              {
-                "Offset": 1437694,
-                "Value": 200
-              },
-              {
-                "Offset": 1537702,
-                "Value": 64
-              },
-              {
-                "Offset": 1569984,
-                "Value": 0
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_wwfm_island_update_part_4",
-          "Path": "dlc_hei4_music/wwfm_island_update_part_4",
-          "Duration": 1021936,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1000,
-                "Title": "Why Don't I Feel",
-                "Artist": "LYAM"
-              },
-              {
-                "Offset": 113463,
-                "Title": "Directions",
-                "Artist": "JAB"
-              },
-              {
-                "Offset": 444778,
-                "Title": "Desire (Moodymann Remix)",
-                "Artist": "JOSÉ JAMES"
-              },
-              {
-                "Offset": 704942,
-                "Title": "Ekkles",
-                "Artist": "CALL SUPER"
-              },
-              {
-                "Offset": 867277,
-                "Title": "Ascending",
-                "Artist": "JONNY FAITH"
-              },
-              {
-                "Offset": 1017754,
-                "Title": "State Of Mind (Alex Patchwork Remix)",
-                "Artist": "ZARA MCFARLANE"
-              },
-              {
-                "Offset": 1021936,
-                "Title": "State Of Mind (Alex Patchwork Remix)",
-                "Artist": "ZARA MCFARLANE"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 4299,
-                "Value": 64
-              },
-              {
-                "Offset": 59184,
-                "Value": 38
-              },
-              {
-                "Offset": 92166,
-                "Value": 32
-              },
-              {
-                "Offset": 120565,
-                "Value": 64
-              },
-              {
-                "Offset": 149011,
-                "Value": 64
-              },
-              {
-                "Offset": 177664,
-                "Value": 64
-              },
-              {
-                "Offset": 206333,
-                "Value": 64
-              },
-              {
-                "Offset": 234971,
-                "Value": 64
-              },
-              {
-                "Offset": 263640,
-                "Value": 64
-              },
-              {
-                "Offset": 292339,
-                "Value": 64
-              },
-              {
-                "Offset": 321420,
-                "Value": 64
-              },
-              {
-                "Offset": 350716,
-                "Value": 64
-              },
-              {
-                "Offset": 380211,
-                "Value": 64
-              },
-              {
-                "Offset": 409713,
-                "Value": 64
-              },
-              {
-                "Offset": 439222,
-                "Value": 64
-              },
-              {
-                "Offset": 468659,
-                "Value": 512
-              },
-              {
-                "Offset": 704296,
-                "Value": 44
-              },
-              {
-                "Offset": 724608,
-                "Value": 0
-              },
-              {
-                "Offset": 733728,
-                "Value": 64
-              },
-              {
-                "Offset": 763169,
-                "Value": 64
-              },
-              {
-                "Offset": 792657,
-                "Value": 64
-              },
-              {
-                "Offset": 822123,
-                "Value": 64
-              },
-              {
-                "Offset": 851563,
-                "Value": 64
-              },
-              {
-                "Offset": 881014,
-                "Value": 32
-              },
-              {
-                "Offset": 895772,
-                "Value": 32
-              },
-              {
-                "Offset": 925191,
-                "Value": 64
-              },
-              {
-                "Offset": 954669,
-                "Value": 64
-              },
-              {
-                "Offset": 984118,
-                "Value": 64
-              },
-              {
-                "Offset": 1013419,
-                "Value": 0
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_wwfm_island_update_part_5",
-          "Path": "dlc_hei4_music/wwfm_island_update_part_5",
-          "Duration": 1592776,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1000,
-                "Title": "State Of Mind (Alex Patchwork Remix)",
-                "Artist": "ZARA MCFARLANE"
-              },
-              {
-                "Offset": 177757,
-                "Title": "New Gods (Ron Basejam Remix)",
-                "Artist": "CATCHING FLIES"
-              },
-              {
-                "Offset": 459900,
-                "Title": "Full Moon (Full Length Version)",
-                "Artist": "DELE SOSIMI & MEDLAR"
-              },
-              {
-                "Offset": 720576,
-                "Title": "Movementt",
-                "Artist": "EMMA-JEAN THACKRAY"
-              },
-              {
-                "Offset": 922779,
-                "Title": "Grand Hi",
-                "Artist": "BRUISE"
-              },
-              {
-                "Offset": 1072949,
-                "Title": "Landline",
-                "Artist": "KASSA OVERALL FEAT. CARLOS OVERALL"
-              },
-              {
-                "Offset": 1150819,
-                "Title": "The Sun (Full Length Mix)",
-                "Artist": "SECRET NIGHT GANG"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 17613,
-                "Value": 64
-              },
-              {
-                "Offset": 50864,
-                "Value": 64
-              },
-              {
-                "Offset": 84157,
-                "Value": 64
-              },
-              {
-                "Offset": 117377,
-                "Value": 64
-              },
-              {
-                "Offset": 150639,
-                "Value": 64
-              },
-              {
-                "Offset": 183872,
-                "Value": 64
-              },
-              {
-                "Offset": 217132,
-                "Value": 64
-              },
-              {
-                "Offset": 250392,
-                "Value": 64
-              },
-              {
-                "Offset": 283652,
-                "Value": 64
-              },
-              {
-                "Offset": 316913,
-                "Value": 64
-              },
-              {
-                "Offset": 350146,
-                "Value": 64
-              },
-              {
-                "Offset": 383418,
-                "Value": 64
-              },
-              {
-                "Offset": 416659,
-                "Value": 64
-              },
-              {
-                "Offset": 449930,
-                "Value": 64
-              },
-              {
-                "Offset": 483186,
-                "Value": 64
-              },
-              {
-                "Offset": 516412,
-                "Value": 64
-              },
-              {
-                "Offset": 549608,
-                "Value": 64
-              },
-              {
-                "Offset": 582489,
-                "Value": 64
-              },
-              {
-                "Offset": 615023,
-                "Value": 64
-              },
-              {
-                "Offset": 647301,
-                "Value": 64
-              },
-              {
-                "Offset": 679294,
-                "Value": 64
-              },
-              {
-                "Offset": 711091,
-                "Value": 64
-              },
-              {
-                "Offset": 742919,
-                "Value": 64
-              },
-              {
-                "Offset": 774731,
-                "Value": 64
-              },
-              {
-                "Offset": 806558,
-                "Value": 64
-              },
-              {
-                "Offset": 838356,
-                "Value": 64
-              },
-              {
-                "Offset": 870168,
-                "Value": 64
-              },
-              {
-                "Offset": 902010,
-                "Value": 64
-              },
-              {
-                "Offset": 933837,
-                "Value": 64
-              },
-              {
-                "Offset": 965650,
-                "Value": 64
-              },
-              {
-                "Offset": 997477,
-                "Value": 64
-              },
-              {
-                "Offset": 1029304,
-                "Value": 64
-              },
-              {
-                "Offset": 1061108,
-                "Value": 16
-              },
-              {
-                "Offset": 1069047,
-                "Value": 0
-              },
-              {
-                "Offset": 1150950,
-                "Value": 64
-              },
-              {
-                "Offset": 1206865,
-                "Value": 64
-              },
-              {
-                "Offset": 1261756,
-                "Value": 64
-              },
-              {
-                "Offset": 1316558,
-                "Value": 64
-              },
-              {
-                "Offset": 1370982,
-                "Value": 64
-              },
-              {
-                "Offset": 1424690,
-                "Value": 64
-              },
-              {
-                "Offset": 1477399,
-                "Value": 64
-              },
-              {
-                "Offset": 1530690,
-                "Value": 64
-              },
-              {
-                "Offset": 1585365,
-                "Value": 0
               }
             ]
           }
@@ -6401,972 +7367,6 @@
               },
               {
                 "Offset": 2054940,
-                "Value": 0
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "flylo_island_update_music_music": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_hei4_music_flylo_island_update_part_1",
-          "Path": "dlc_hei4_music/flylo_island_update_part_1",
-          "Duration": 1683624,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 36,
-                "Title": "Possessed",
-                "Artist": "CAPTAIN MURPHY"
-              },
-              {
-                "Offset": 158961,
-                "Title": "Fuck The Police",
-                "Artist": "J DILLA"
-              },
-              {
-                "Offset": 311694,
-                "Title": "Black Heaven",
-                "Artist": "FLYING LOTUS, RAS G"
-              },
-              {
-                "Offset": 389642,
-                "Title": "Been Cosmic",
-                "Artist": "RAS G"
-              },
-              {
-                "Offset": 448200,
-                "Title": "The Daisy",
-                "Artist": "ROSS FROM FRIENDS"
-              },
-              {
-                "Offset": 571338,
-                "Title": "Topdown",
-                "Artist": "CHANNEL TRES"
-              },
-              {
-                "Offset": 734983,
-                "Title": "Spiritual",
-                "Artist": "SMOKE DZA"
-              },
-              {
-                "Offset": 874409,
-                "Title": "Afterlife Currency",
-                "Artist": "DAVID FIRTH"
-              },
-              {
-                "Offset": 911185,
-                "Title": "Lunch Break",
-                "Artist": "FLYING LOTUS, MF DOOM"
-              },
-              {
-                "Offset": 1061260,
-                "Title": "Dragonball Durag",
-                "Artist": "THUNDERCAT"
-              },
-              {
-                "Offset": 1226930,
-                "Title": "GLOMERULONEPHROPATHY",
-                "Artist": "SYUNSUKE ONO"
-              },
-              {
-                "Offset": 1349663,
-                "Title": "The Bean Kicked In",
-                "Artist": "ZACK FOX"
-              },
-              {
-                "Offset": 1451246,
-                "Title": "Black Balloons Reprise",
-                "Artist": "FLYING LOTUS FEAT. DENZEL CURRY"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 1069,
-                "Value": 252
-              },
-              {
-                "Offset": 158917,
-                "Value": 0
-              },
-              {
-                "Offset": 171695,
-                "Value": 230
-              },
-              {
-                "Offset": 311680,
-                "Value": 0
-              },
-              {
-                "Offset": 371582,
-                "Value": 94
-              },
-              {
-                "Offset": 429388,
-                "Value": 0
-              },
-              {
-                "Offset": 448110,
-                "Value": 64
-              },
-              {
-                "Offset": 477208,
-                "Value": 214
-              },
-              {
-                "Offset": 574668,
-                "Value": 64
-              },
-              {
-                "Offset": 606566,
-                "Value": 256
-              },
-              {
-                "Offset": 734893,
-                "Value": 0
-              },
-              {
-                "Offset": 759624,
-                "Value": 149
-              },
-              {
-                "Offset": 874254,
-                "Value": 0
-              },
-              {
-                "Offset": 911095,
-                "Value": 64
-              },
-              {
-                "Offset": 953750,
-                "Value": 128
-              },
-              {
-                "Offset": 1039050,
-                "Value": 32
-              },
-              {
-                "Offset": 1061054,
-                "Value": 64
-              },
-              {
-                "Offset": 1108922,
-                "Value": 64
-              },
-              {
-                "Offset": 1156370,
-                "Value": 64
-              },
-              {
-                "Offset": 1203750,
-                "Value": 32
-              },
-              {
-                "Offset": 1227469,
-                "Value": 8
-              },
-              {
-                "Offset": 1233602,
-                "Value": 64
-              },
-              {
-                "Offset": 1282849,
-                "Value": 64
-              },
-              {
-                "Offset": 1332450,
-                "Value": 23
-              },
-              {
-                "Offset": 1349315,
-                "Value": 64
-              },
-              {
-                "Offset": 1401906,
-                "Value": 64
-              },
-              {
-                "Offset": 1454435,
-                "Value": 0
-              },
-              {
-                "Offset": 1456744,
-                "Value": 64
-              },
-              {
-                "Offset": 1500370,
-                "Value": 64
-              },
-              {
-                "Offset": 1544022,
-                "Value": 64
-              },
-              {
-                "Offset": 1587648,
-                "Value": 132
-              },
-              {
-                "Offset": 1677681,
-                "Value": 9
-              },
-              {
-                "Offset": 1683620,
-                "Value": 64
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_flylo_island_update_part_2",
-          "Path": "dlc_hei4_music/flylo_island_update_part_2",
-          "Duration": 1786848,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1272,
-                "Title": "Automatic",
-                "Artist": "FREDDIE GIBBS"
-              },
-              {
-                "Offset": 143245,
-                "Title": "Homicidal Thoughts",
-                "Artist": "LITTLE SNAKE"
-              },
-              {
-                "Offset": 295143,
-                "Title": "Arrogant",
-                "Artist": "TIERRA WHACK"
-              },
-              {
-                "Offset": 428409,
-                "Title": "You're Untouchable",
-                "Artist": "DORIAN CONCEPT"
-              },
-              {
-                "Offset": 536129,
-                "Title": "U Have To Be Odd",
-                "Artist": "FLYING LOTUS"
-              },
-              {
-                "Offset": 697167,
-                "Title": "Planet X",
-                "Artist": "LOUIS COLE"
-              },
-              {
-                "Offset": 863054,
-                "Title": "Itkanbe [Sonice]",
-                "Artist": "KNXWLEDGE FEAT. ANDERSON .PAAK, NXWORRIES"
-              },
-              {
-                "Offset": 957876,
-                "Title": "Shine A Light",
-                "Artist": "SHABAZZ PALACES"
-              },
-              {
-                "Offset": 1114427,
-                "Title": "Road Of The Lonely Ones",
-                "Artist": "MADLIB"
-              },
-              {
-                "Offset": 1319218,
-                "Title": "In The Wake Of Poseidon",
-                "Artist": "KING CRIMSON"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 995,
-                "Value": 64
-              },
-              {
-                "Offset": 33011,
-                "Value": 256
-              },
-              {
-                "Offset": 161024,
-                "Value": 256
-              },
-              {
-                "Offset": 289030,
-                "Value": 16
-              },
-              {
-                "Offset": 297235,
-                "Value": 64
-              },
-              {
-                "Offset": 346983,
-                "Value": 64
-              },
-              {
-                "Offset": 396340,
-                "Value": 42
-              },
-              {
-                "Offset": 428443,
-                "Value": 64
-              },
-              {
-                "Offset": 474428,
-                "Value": 64
-              },
-              {
-                "Offset": 520381,
-                "Value": 22
-              },
-              {
-                "Offset": 536308,
-                "Value": 64
-              },
-              {
-                "Offset": 566371,
-                "Value": 256
-              },
-              {
-                "Offset": 681197,
-                "Value": 32
-              },
-              {
-                "Offset": 694480,
-                "Value": 0
-              },
-              {
-                "Offset": 697460,
-                "Value": 64
-              },
-              {
-                "Offset": 728721,
-                "Value": 64
-              },
-              {
-                "Offset": 759926,
-                "Value": 64
-              },
-              {
-                "Offset": 791150,
-                "Value": 64
-              },
-              {
-                "Offset": 822381,
-                "Value": 64
-              },
-              {
-                "Offset": 853570,
-                "Value": 15
-              },
-              {
-                "Offset": 860819,
-                "Value": 0
-              },
-              {
-                "Offset": 866693,
-                "Value": 104
-              },
-              {
-                "Offset": 958053,
-                "Value": 64
-              },
-              {
-                "Offset": 1003220,
-                "Value": 128
-              },
-              {
-                "Offset": 1093596,
-                "Value": 29
-              },
-              {
-                "Offset": 1114378,
-                "Value": 0
-              },
-              {
-                "Offset": 1126507,
-                "Value": 128
-              },
-              {
-                "Offset": 1206558,
-                "Value": 63
-              },
-              {
-                "Offset": 1245178,
-                "Value": 64
-              },
-              {
-                "Offset": 1285186,
-                "Value": 60
-              },
-              {
-                "Offset": 1322428,
-                "Value": 34
-              },
-              {
-                "Offset": 1350438,
-                "Value": 0
-              },
-              {
-                "Offset": 1355575,
-                "Value": 64
-              },
-              {
-                "Offset": 1407380,
-                "Value": 64
-              },
-              {
-                "Offset": 1458661,
-                "Value": 64
-              },
-              {
-                "Offset": 1510461,
-                "Value": 64
-              },
-              {
-                "Offset": 1563190,
-                "Value": 64
-              },
-              {
-                "Offset": 1614792,
-                "Value": 64
-              },
-              {
-                "Offset": 1666414,
-                "Value": 64
-              },
-              {
-                "Offset": 1718400,
-                "Value": 64
-              },
-              {
-                "Offset": 1770651,
-                "Value": 20
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "still_slipping_music_music": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_hei4_music_hei4_still_slipping_p1",
-          "Path": "dlc_hei4_music/hei4_still_slipping_p1",
-          "Duration": 1383791,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 0,
-                "Title": "5 Violinos",
-                "Artist": "DJ NIGGA FOX"
-              },
-              {
-                "Offset": 159006,
-                "Title": "Feediback",
-                "Artist": "MR. MANKWA"
-              },
-              {
-                "Offset": 294336,
-                "Title": "Not Modular",
-                "Artist": "MR. MITCH"
-              },
-              {
-                "Offset": 368441,
-                "Title": "The Devil's Dance",
-                "Artist": "JOSI DEVIL"
-              },
-              {
-                "Offset": 524858,
-                "Title": "A Wah!",
-                "Artist": "KEMIKAL"
-              },
-              {
-                "Offset": 747874,
-                "Title": "COYP",
-                "Artist": "JOY ORBISON"
-              },
-              {
-                "Offset": 840260,
-                "Title": "Sparky / Hi Press (Dub)",
-                "Artist": "CRUEL SANTINO / ROBERT FLECK"
-              },
-              {
-                "Offset": 848658,
-                "Title": "Sparky / Hi Press (Dub)",
-                "Artist": "CRUEL SANTINO / ROBERT FLECK"
-              },
-              {
-                "Offset": 961963,
-                "Title": "No Warnin'",
-                "Artist": "PA SALIEU"
-              },
-              {
-                "Offset": 1098681,
-                "Title": "Almost Blue",
-                "Artist": "L U C Y"
-              },
-              {
-                "Offset": 1255201,
-                "Title": "Elephant Man",
-                "Artist": "TIME COW & RTKAL"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 0,
-                "Value": 128
-              },
-              {
-                "Offset": 78129,
-                "Value": 128
-              },
-              {
-                "Offset": 156477,
-                "Value": 78
-              },
-              {
-                "Offset": 205468,
-                "Value": 128
-              },
-              {
-                "Offset": 283810,
-                "Value": 128
-              },
-              {
-                "Offset": 362640,
-                "Value": 66
-              },
-              {
-                "Offset": 403908,
-                "Value": 62
-              },
-              {
-                "Offset": 441890,
-                "Value": 128
-              },
-              {
-                "Offset": 520418,
-                "Value": 126
-              },
-              {
-                "Offset": 597529,
-                "Value": 128
-              },
-              {
-                "Offset": 675915,
-                "Value": 128
-              },
-              {
-                "Offset": 747118,
-                "Value": 128
-              },
-              {
-                "Offset": 837672,
-                "Value": 128
-              },
-              {
-                "Offset": 916239,
-                "Value": 128
-              },
-              {
-                "Offset": 994573,
-                "Value": 128
-              },
-              {
-                "Offset": 1073004,
-                "Value": 72
-              },
-              {
-                "Offset": 1117078,
-                "Value": 48
-              },
-              {
-                "Offset": 1146544,
-                "Value": 128
-              },
-              {
-                "Offset": 1225145,
-                "Value": 128
-              },
-              {
-                "Offset": 1303630,
-                "Value": 128
-              },
-              {
-                "Offset": 1381445,
-                "Value": 128
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_hei4_still_slipping_p2",
-          "Path": "dlc_hei4_music/hei4_still_slipping_p2",
-          "Duration": 1283218,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1018,
-                "Title": "Elephant Man",
-                "Artist": "TIME COW & RTKAL"
-              },
-              {
-                "Offset": 24896,
-                "Title": "Cayendo (Sango Remix)",
-                "Artist": "FRANK OCEAN"
-              },
-              {
-                "Offset": 159297,
-                "Title": "Mirror Park Tavern",
-                "Artist": "Commercial"
-              },
-              {
-                "Offset": 170919,
-                "Title": "No Love",
-                "Artist": "DJ SCUD"
-              },
-              {
-                "Offset": 316335,
-                "Title": "Trimmers (INSTINCT Remix)",
-                "Artist": "FRANKEL & HARPER"
-              },
-              {
-                "Offset": 517496,
-                "Title": "Givin' Up On Love",
-                "Artist": "HORSEPOWER PRODUCTIONS"
-              },
-              {
-                "Offset": 742083,
-                "Title": "Shippuden",
-                "Artist": "BLANCO"
-              },
-              {
-                "Offset": 858217,
-                "Title": "Polar",
-                "Artist": "PEARLY"
-              },
-              {
-                "Offset": 975510,
-                "Title": "Digdim Patrol 2016",
-                "Artist": "BYANO DJ"
-              },
-              {
-                "Offset": 1092527,
-                "Title": "Operation",
-                "Artist": "INSTINCT"
-              },
-              {
-                "Offset": 1112417,
-                "Title": "Whip (Acapella)",
-                "Artist": "KO"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 76223,
-                "Value": 128
-              },
-              {
-                "Offset": 154250,
-                "Value": 0
-              },
-              {
-                "Offset": 202859,
-                "Value": 128
-              },
-              {
-                "Offset": 260323,
-                "Value": 128
-              },
-              {
-                "Offset": 318365,
-                "Value": 128
-              },
-              {
-                "Offset": 375961,
-                "Value": 128
-              },
-              {
-                "Offset": 433585,
-                "Value": 128
-              },
-              {
-                "Offset": 491365,
-                "Value": 128
-              },
-              {
-                "Offset": 550390,
-                "Value": 128
-              },
-              {
-                "Offset": 607785,
-                "Value": 128
-              },
-              {
-                "Offset": 666338,
-                "Value": 128
-              },
-              {
-                "Offset": 723310,
-                "Value": 128
-              },
-              {
-                "Offset": 781900,
-                "Value": 128
-              },
-              {
-                "Offset": 839801,
-                "Value": 128
-              },
-              {
-                "Offset": 897265,
-                "Value": 128
-              },
-              {
-                "Offset": 960304,
-                "Value": 128
-              },
-              {
-                "Offset": 1023224,
-                "Value": 0
-              },
-              {
-                "Offset": 1030839,
-                "Value": 128
-              },
-              {
-                "Offset": 1088618,
-                "Value": 128
-              },
-              {
-                "Offset": 1146318,
-                "Value": 128
-              },
-              {
-                "Offset": 1205745,
-                "Value": 128
-              },
-              {
-                "Offset": 1263681,
-                "Value": 128
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_hei4_still_slipping_p3",
-          "Path": "dlc_hei4_music/hei4_still_slipping_p3",
-          "Duration": 1390418,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1011,
-                "Title": "Whip (Acapella)",
-                "Artist": "KO"
-              },
-              {
-                "Offset": 17548,
-                "Title": "Pieces Of 8",
-                "Artist": "OVERMONO"
-              },
-              {
-                "Offset": 182797,
-                "Title": "Bromley",
-                "Artist": "JOY ORBISON & OVERMONO"
-              },
-              {
-                "Offset": 412467,
-                "Title": "Babylon",
-                "Artist": "MEZ"
-              },
-              {
-                "Offset": 565949,
-                "Title": "Joyride",
-                "Artist": "SPOOKY"
-              },
-              {
-                "Offset": 619761,
-                "Title": "Wealthy Humans",
-                "Artist": "CELINE GILLAIN"
-              },
-              {
-                "Offset": 733574,
-                "Title": "Mad About Bars",
-                "Artist": "KWENGFACE"
-              },
-              {
-                "Offset": 824348,
-                "Title": "No Rap Cap",
-                "Artist": "M1LLIONZ"
-              },
-              {
-                "Offset": 982913,
-                "Title": "Party Popper",
-                "Artist": "BACKROAD GEE"
-              },
-              {
-                "Offset": 1129157,
-                "Title": "Shower Hour",
-                "Artist": "WAIFER"
-              },
-              {
-                "Offset": 1218495,
-                "Title": "Movements",
-                "Artist": "KO & JOY ORBISON"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 39358,
-                "Value": 128
-              },
-              {
-                "Offset": 99060,
-                "Value": 128
-              },
-              {
-                "Offset": 156839,
-                "Value": 34
-              },
-              {
-                "Offset": 172736,
-                "Value": 4
-              },
-              {
-                "Offset": 175192,
-                "Value": 128
-              },
-              {
-                "Offset": 233718,
-                "Value": 128
-              },
-              {
-                "Offset": 291653,
-                "Value": 128
-              },
-              {
-                "Offset": 349293,
-                "Value": 128
-              },
-              {
-                "Offset": 405268,
-                "Value": 128
-              },
-              {
-                "Offset": 461014,
-                "Value": 128
-              },
-              {
-                "Offset": 516647,
-                "Value": 128
-              },
-              {
-                "Offset": 572114,
-                "Value": 128
-              },
-              {
-                "Offset": 618461,
-                "Value": 128
-              },
-              {
-                "Offset": 673408,
-                "Value": 96
-              },
-              {
-                "Offset": 714348,
-                "Value": 0
-              },
-              {
-                "Offset": 742911,
-                "Value": 128
-              },
-              {
-                "Offset": 795959,
-                "Value": 128
-              },
-              {
-                "Offset": 850551,
-                "Value": 128
-              },
-              {
-                "Offset": 903587,
-                "Value": 128
-              },
-              {
-                "Offset": 956468,
-                "Value": 128
-              },
-              {
-                "Offset": 1009504,
-                "Value": 128
-              },
-              {
-                "Offset": 1062618,
-                "Value": 128
-              },
-              {
-                "Offset": 1115344,
-                "Value": 128
-              },
-              {
-                "Offset": 1170246,
-                "Value": 96
-              },
-              {
-                "Offset": 1211462,
-                "Value": 128
-              },
-              {
-                "Offset": 1321112,
-                "Value": 80
-              },
-              {
-                "Offset": 1389857,
-                "Value": 0
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_hei4_music_hei4_still_slipping_p4",
-          "Path": "dlc_hei4_music/hei4_still_slipping_p4",
-          "Duration": 460618,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1041,
-                "Title": "Movements",
-                "Artist": "KO & JOY ORBISON"
-              },
-              {
-                "Offset": 2834,
-                "Title": "Mad Friday",
-                "Artist": "RAP"
-              },
-              {
-                "Offset": 224714,
-                "Title": "Presence: Martin",
-                "Artist": "THOMAS BUSH"
-              },
-              {
-                "Offset": 333798,
-                "Title": "Submission",
-                "Artist": "POISON ANNA"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 438,
-                "Value": 0
-              },
-              {
-                "Offset": 354701,
-                "Value": 64
-              },
-              {
-                "Offset": 410301,
                 "Value": 0
               }
             ]

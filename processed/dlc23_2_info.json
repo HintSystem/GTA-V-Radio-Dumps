@@ -1,0 +1,239 @@
+{
+  "Stations": {
+    "radio_09_hiphop_old": {
+      "Flags": "0xAA800A66",
+      "Genre": "4",
+      "AmbientRadioVol": "0",
+      "RadioName": "RADIO_09_HIPHOP_OLD",
+      "TrackLists": [
+        "radio_09_hiphop_old_dlc_23_2_djsolo"
+      ]
+    },
+    "radio_36_audioplayer": {
+      "Flags": "0xAA9009AA",
+      "Genre": "16",
+      "AmbientRadioVol": "0",
+      "RadioName": "RADIO_36_AUDIOPLAYER",
+      "TrackLists": [
+        "radio_ap_dlc_23_2"
+      ]
+    }
+  },
+  "TrackLists": {
+    "radio_09_hiphop_old_dlc_23_2_djsolo": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "5",
+      "Tracks": [
+        {
+          "Id": "dlc_23_2_dj_mono_solo_dlc_23_2_01",
+          "Path": "dlc_23_2/dj_mono_solo_dlc_23_2_01",
+          "Duration": 29791
+        }
+      ]
+    },
+    "radio_ap_dlc_23_2": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_23_2_ap_23_2_df_mix_1",
+          "Path": "dlc_23_2/ap_23_2_df_mix_1",
+          "Duration": 2314738,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 328,
+                "Title": "The Contract - Space",
+                "Artist": "DaM-FunK"
+              },
+              {
+                "Offset": 147827,
+                "Title": "Los Santos Drug Wars",
+                "Artist": "SOULWAX"
+              },
+              {
+                "Offset": 264504,
+                "Title": "The Diamond Casino Heist",
+                "Artist": "NICK HOOK"
+              },
+              {
+                "Offset": 456706,
+                "Title": "The Cayo Perico Heist II",
+                "Artist": "RAMPA"
+              },
+              {
+                "Offset": 595439,
+                "Title": "Lowriders",
+                "Artist": "OH NO"
+              },
+              {
+                "Offset": 734173,
+                "Title": "Bikers",
+                "Artist": "HOLY FUCK"
+              },
+              {
+                "Offset": 840299,
+                "Title": "Arena Wars",
+                "Artist": "HEALTH"
+              },
+              {
+                "Offset": 1004551,
+                "Title": "The Cayo Perico Heist I",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 1234828,
+                "Title": "The Contract - The Journey",
+                "Artist": "DaM-FunK"
+              },
+              {
+                "Offset": 1340549,
+                "Title": "The Contract - Mass",
+                "Artist": "DaM-FunK"
+              },
+              {
+                "Offset": 1496903,
+                "Title": "Smuggler's Run",
+                "Artist": "SHOW ME THE BODY"
+              },
+              {
+                "Offset": 1608295,
+                "Title": "Import/Export",
+                "Artist": "TAKE A DAYTRIP"
+              },
+              {
+                "Offset": 1740750,
+                "Title": "Executives And Other Criminals",
+                "Artist": "JAMES CURD AKA GREENSKEEPERS"
+              },
+              {
+                "Offset": 1909660,
+                "Title": "The Contract - House Call",
+                "Artist": "DaM-FunK"
+              },
+              {
+                "Offset": 2150672,
+                "Title": "The Contract - Smooth Kill",
+                "Artist": "DaM-FunK"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 340,
+                "Value": 288
+              },
+              {
+                "Offset": 144317,
+                "Value": 8
+              },
+              {
+                "Offset": 148389,
+                "Value": 192
+              },
+              {
+                "Offset": 258227,
+                "Value": 32
+              },
+              {
+                "Offset": 267323,
+                "Value": 384
+              },
+              {
+                "Offset": 456170,
+                "Value": 240
+              },
+              {
+                "Offset": 589533,
+                "Value": 0
+              },
+              {
+                "Offset": 596266,
+                "Value": 192
+              },
+              {
+                "Offset": 733776,
+                "Value": 8
+              },
+              {
+                "Offset": 739566,
+                "Value": 224
+              },
+              {
+                "Offset": 839841,
+                "Value": 16
+              },
+              {
+                "Offset": 847349,
+                "Value": 168
+              },
+              {
+                "Offset": 1005066,
+                "Value": 16
+              },
+              {
+                "Offset": 1012835,
+                "Value": 384
+              },
+              {
+                "Offset": 1204862,
+                "Value": 21
+              },
+              {
+                "Offset": 1215418,
+                "Value": 0
+              },
+              {
+                "Offset": 1241078,
+                "Value": 160
+              },
+              {
+                "Offset": 1321750,
+                "Value": 32
+              },
+              {
+                "Offset": 1337932,
+                "Value": 0
+              },
+              {
+                "Offset": 1340575,
+                "Value": 224
+              },
+              {
+                "Offset": 1461919,
+                "Value": 32
+              },
+              {
+                "Offset": 1496649,
+                "Value": 224
+              },
+              {
+                "Offset": 1608612,
+                "Value": 224
+              },
+              {
+                "Offset": 1740442,
+                "Value": 256
+              },
+              {
+                "Offset": 1898825,
+                "Value": 18
+              },
+              {
+                "Offset": 1910079,
+                "Value": 480
+              },
+              {
+                "Offset": 2150048,
+                "Value": 264
+              },
+              {
+                "Offset": 2304751,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

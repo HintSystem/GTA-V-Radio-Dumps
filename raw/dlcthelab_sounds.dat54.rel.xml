@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+ <Version value="29825671" />
+ <ContainerPaths>
+  <Item>DLC_THELAB\LAB_P1</Item>
+  <Item>DLC_THELAB\LAB_P2</Item>
+ </ContainerPaths>
+ <Items>
+  <Item type="StreamingSound">
+   <Name>dlc_thelab_lab_p1</Name>
+   <Header>
+    <Flags value="0x0180C001" />
+    <Flags2 value="0xAA90AAAA" />
+    <DopplerFactor value="0" />
+    <Category>hash_45EB536F</Category>
+    <SpeakerMask value="0" />
+    <EffectRoute value="1" />
+   </Header>
+   <Duration value="2157909" />
+   <ChildSounds>
+    <Item>dlc_thelab_lab_p1_lab_p1_left</Item>
+    <Item>dlc_thelab_lab_p1_lab_p1_right</Item>
+   </ChildSounds>
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_thelab_lab_p1_lab_p1_left</Name>
+   <Header>
+    <Flags value="0x00800040" />
+    <Pan value="307" />
+    <SpeakerMask value="0" />
+   </Header>
+   <ContainerName>dlc_thelab/lab_p1</ContainerName>
+   <FileName>hash_A2A14564</FileName>
+   <WaveSlotIndex value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_thelab_lab_p1_lab_p1_right</Name>
+   <Header>
+    <Flags value="0x00800040" />
+    <Pan value="53" />
+    <SpeakerMask value="0" />
+   </Header>
+   <ContainerName>dlc_thelab/lab_p1</ContainerName>
+   <FileName>hash_7A5A451D</FileName>
+   <WaveSlotIndex value="0" />
+  </Item>
+  <Item type="StreamingSound">
+   <Name>dlc_thelab_lab_p2</Name>
+   <Header>
+    <Flags value="0x0180C001" />
+    <Flags2 value="0xAA90AAAA" />
+    <DopplerFactor value="0" />
+    <Category>hash_45EB536F</Category>
+    <SpeakerMask value="0" />
+    <EffectRoute value="1" />
+   </Header>
+   <Duration value="1298066" />
+   <ChildSounds>
+    <Item>dlc_thelab_lab_p2_lab_p2_left</Item>
+    <Item>dlc_thelab_lab_p2_lab_p2_right</Item>
+   </ChildSounds>
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_thelab_lab_p2_lab_p2_left</Name>
+   <Header>
+    <Flags value="0x00800040" />
+    <Pan value="307" />
+    <SpeakerMask value="0" />
+   </Header>
+   <ContainerName>dlc_thelab/lab_p2</ContainerName>
+   <FileName>hash_0E625CD8</FileName>
+   <WaveSlotIndex value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_thelab_lab_p2_lab_p2_right</Name>
+   <Header>
+    <Flags value="0x00800040" />
+    <Pan value="53" />
+    <SpeakerMask value="0" />
+   </Header>
+   <ContainerName>dlc_thelab/lab_p2</ContainerName>
+   <FileName>hash_B5F0A638</FileName>
+   <WaveSlotIndex value="0" />
+  </Item>
+ </Items>
+</Dat54>

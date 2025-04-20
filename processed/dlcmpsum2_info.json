@@ -1,0 +1,126 @@
+{
+  "Stations": {
+    "radio_03_hiphop_new": {
+      "Flags": "0xAA800A66",
+      "Genre": "4",
+      "AmbientRadioVol": "0",
+      "RadioName": "RADIO_03_HIPHOP_NEW",
+      "TrackLists": [
+        "radio_03_hiphop_new_dd_music_post_launch_update"
+      ]
+    }
+  },
+  "TrackLists": {
+    "radio_03_hiphop_new_dd_music_post_launch_update": {
+      "Flags": "0xAAAAAAA5",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_black_privilege"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_stir_fry"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_ski"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_wow_freestyle"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_a_vibe"
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_diamond_mind"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_feed_dope"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_kung_fu"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_plain_jane"
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_eta"
+        },
+        {
+          "Id": "dlc_mpsum2_radio_03_hiphop_new_zeze",
+          "Path": "dlc_mpsum2/zeze",
+          "Duration": 226261
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_go_live"
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_the_scenic_route"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_flex"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_lemonhead"
+        },
+        {
+          "Id": "dlc_mpsum2_radio_03_hiphop_new_my_type",
+          "Path": "dlc_mpsum2/my_type",
+          "Duration": 125376
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_big_subwoofer"
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_gospel"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_big_fish"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_chrome_hearts"
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_fallin_up"
+        },
+        {
+          "Id": "dlc_mpsum2_radio_03_hiphop_new_the_box",
+          "Path": "dlc_mpsum2/the_box",
+          "Duration": 196652
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_low_life"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_lockjaw"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_what_a_life"
+        },
+        {
+          "Id": "dlc_security_music_radio_ap_dscvrbl_mix_2_schoolboy_lets_get_it"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_pick_the_phone_up"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_miami_vice"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_xl"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_so_fancy"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_blue_cheese"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_hoppin_out"
+        },
+        {
+          "Id": "dlc_security_music_radio_03_hiphop_new_coochie"
+        }
+      ]
+    }
+  }
+}

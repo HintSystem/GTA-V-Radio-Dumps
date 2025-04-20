@@ -1,0 +1,708 @@
+{
+  "Stations": {
+    "radio_23_dlc_xm19_radio": {
+      "Flags": "0xAA8006AA",
+      "Genre": "4",
+      "AmbientRadioVol": "0",
+      "RadioName": "RADIO_23_DLC_XM19_RADIO",
+      "TrackLists": [
+        "dlc_heist3_heist3_radio_music_ord",
+        "dlc_heist3_heist3_radio_idents",
+        "dlc_heist3_heist3_radio_takeover_djsolo",
+        "dlc_heist3_heist3_radio_takeover_idents",
+        "dlc_heist3_heist3_radio_takeover_musi_ord",
+        "dlc_heist3_heist3_radio_djsolo"
+      ]
+    }
+  },
+  "TrackLists": {
+    "dlc_heist3_heist3_radio_music_ord": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_heist3_act_up",
+          "Path": "dlc_heist3/act_up",
+          "Duration": 149453,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Act Up",
+                "Artist": "CITY GIRLS"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_wings",
+          "Path": "dlc_heist3/wings",
+          "Duration": 142140,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Wings",
+                "Artist": "SHORELINE MAFIA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_aliens",
+          "Path": "dlc_heist3/aliens",
+          "Duration": 152937,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "AL1ENZ",
+                "Artist": "DENZEL CURRY FT. YBN CORDAE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_bop",
+          "Path": "dlc_heist3/bop",
+          "Duration": 158428,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "BOP",
+                "Artist": "DABABY"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_cash_shit",
+          "Path": "dlc_heist3/cash_shit",
+          "Duration": 192054,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Cash Shit",
+                "Artist": "MEGAN THEE STALLION FT. DABABY"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_crime_pays",
+          "Path": "dlc_heist3/crime_pays",
+          "Duration": 164031,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Crime Pays",
+                "Artist": "FREDDIE GIBBS & MADLIB"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_dance_in_the_water",
+          "Path": "dlc_heist3/dance_in_the_water",
+          "Duration": 154789,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Dance in the Water",
+                "Artist": "DANNY BROWN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_everything_she_wants",
+          "Path": "dlc_heist3/everything_she_wants",
+          "Duration": 240989,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Everything She Wants",
+                "Artist": "EGYPTIAN LOVER"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_highest_in_the_room",
+          "Path": "dlc_heist3/highest_in_the_room",
+          "Duration": 176649,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Highest in the Room",
+                "Artist": "TRAVIS SCOTT"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_numb_numb_juice",
+          "Path": "dlc_heist3/numb_numb_juice",
+          "Duration": 107559,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Numb Numb Juice",
+                "Artist": "SCHOOLBOY Q"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_pop_star",
+          "Path": "dlc_heist3/pop_star",
+          "Duration": 171792,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "POP STAR",
+                "Artist": "DABABY FT. KEVIN GATES"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_w",
+          "Path": "dlc_heist3/w",
+          "Duration": 229138,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "W",
+                "Artist": "KOFFEE FT. GUNNA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_tbd",
+          "Path": "dlc_heist3/tbd",
+          "Duration": 163207,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 3839,
+                "Title": "Ready to Go",
+                "Artist": "BAAUER AND CHANNEL TRES FT. DANNY BROWN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_with_the_thing",
+          "Path": "dlc_heist3/with_the_thing",
+          "Duration": 218948,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "With the Thing",
+                "Artist": "ALKALINE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_hot_remix",
+          "Path": "dlc_heist3/hot_remix",
+          "Duration": 261321,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Hot (Remix)",
+                "Artist": "YOUNG THUG FT. GUNNA & TRAVIS SCOTT"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "dlc_heist3_heist3_radio_idents": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "1",
+      "Tracks": [
+        {
+          "Id": "dlc_heist3_generic_id_02",
+          "Path": "dlc_heist3/generic_id_02",
+          "Duration": 9039
+        },
+        {
+          "Id": "dlc_heist3_generic_id_03",
+          "Path": "dlc_heist3/generic_id_03",
+          "Duration": 6926
+        },
+        {
+          "Id": "dlc_heist3_generic_id_04",
+          "Path": "dlc_heist3/generic_id_04",
+          "Duration": 4897
+        },
+        {
+          "Id": "dlc_heist3_generic_id_05",
+          "Path": "dlc_heist3/generic_id_05",
+          "Duration": 11900
+        },
+        {
+          "Id": "dlc_heist3_generic_id_06",
+          "Path": "dlc_heist3/generic_id_06",
+          "Duration": 7377
+        },
+        {
+          "Id": "dlc_heist3_generic_id_07",
+          "Path": "dlc_heist3/generic_id_07",
+          "Duration": 6808
+        },
+        {
+          "Id": "dlc_heist3_generic_id_08",
+          "Path": "dlc_heist3/generic_id_08",
+          "Duration": 8466
+        },
+        {
+          "Id": "dlc_heist3_generic_id_09",
+          "Path": "dlc_heist3/generic_id_09",
+          "Duration": 8380
+        },
+        {
+          "Id": "dlc_heist3_generic_id_10",
+          "Path": "dlc_heist3/generic_id_10",
+          "Duration": 9453
+        },
+        {
+          "Id": "dlc_heist3_generic_id_11",
+          "Path": "dlc_heist3/generic_id_11",
+          "Duration": 9525
+        },
+        {
+          "Id": "dlc_heist3_generic_id_12",
+          "Path": "dlc_heist3/generic_id_12",
+          "Duration": 8733
+        },
+        {
+          "Id": "dlc_heist3_generic_id_13",
+          "Path": "dlc_heist3/generic_id_13",
+          "Duration": 15965
+        },
+        {
+          "Id": "dlc_heist3_generic_id_14",
+          "Path": "dlc_heist3/generic_id_14",
+          "Duration": 6359
+        },
+        {
+          "Id": "dlc_heist3_generic_id_15",
+          "Path": "dlc_heist3/generic_id_15",
+          "Duration": 5023
+        },
+        {
+          "Id": "dlc_heist3_generic_id_16",
+          "Path": "dlc_heist3/generic_id_16",
+          "Duration": 7901
+        },
+        {
+          "Id": "dlc_heist3_generic_id_17",
+          "Path": "dlc_heist3/generic_id_17",
+          "Duration": 10685
+        }
+      ]
+    },
+    "dlc_heist3_heist3_radio_takeover_djsolo": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "14",
+      "Tracks": [
+        {
+          "Id": "dlc_heist3_takeover_djsolo_02",
+          "Path": "dlc_heist3/takeover_djsolo_02",
+          "Duration": 28728
+        },
+        {
+          "Id": "dlc_heist3_takeover_djsolo_03",
+          "Path": "dlc_heist3/takeover_djsolo_03",
+          "Duration": 28734
+        },
+        {
+          "Id": "dlc_heist3_takeover_djsolo_04",
+          "Path": "dlc_heist3/takeover_djsolo_04",
+          "Duration": 17971
+        },
+        {
+          "Id": "dlc_heist3_takeover_djsolo_05",
+          "Path": "dlc_heist3/takeover_djsolo_05",
+          "Duration": 26272
+        },
+        {
+          "Id": "dlc_heist3_takeover_djsolo_10",
+          "Path": "dlc_heist3/takeover_djsolo_10",
+          "Duration": 23385
+        },
+        {
+          "Id": "dlc_heist3_takeover_djsolo_11",
+          "Path": "dlc_heist3/takeover_djsolo_11",
+          "Duration": 19310
+        },
+        {
+          "Id": "dlc_heist3_takeover_djsolo_12",
+          "Path": "dlc_heist3/takeover_djsolo_12",
+          "Duration": 5869
+        },
+        {
+          "Id": "dlc_heist3_takeover_djsolo_13",
+          "Path": "dlc_heist3/takeover_djsolo_13",
+          "Duration": 5037
+        },
+        {
+          "Id": "dlc_heist3_takeover_djsolo_14",
+          "Path": "dlc_heist3/takeover_djsolo_14",
+          "Duration": 24540
+        }
+      ]
+    },
+    "dlc_heist3_heist3_radio_takeover_idents": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "13",
+      "Tracks": [
+        {
+          "Id": "dlc_heist3_takeover_id_01",
+          "Path": "dlc_heist3/takeover_id_01",
+          "Duration": 5467
+        },
+        {
+          "Id": "dlc_heist3_takeover_id_02",
+          "Path": "dlc_heist3/takeover_id_02",
+          "Duration": 11169
+        },
+        {
+          "Id": "dlc_heist3_takeover_id_03",
+          "Path": "dlc_heist3/takeover_id_03",
+          "Duration": 5576
+        },
+        {
+          "Id": "dlc_heist3_takeover_id_04",
+          "Path": "dlc_heist3/takeover_id_04",
+          "Duration": 8065
+        },
+        {
+          "Id": "dlc_heist3_takeover_id_05",
+          "Path": "dlc_heist3/takeover_id_05",
+          "Duration": 8268
+        },
+        {
+          "Id": "dlc_heist3_takeover_id_06",
+          "Path": "dlc_heist3/takeover_id_06",
+          "Duration": 8483
+        },
+        {
+          "Id": "dlc_heist3_takeover_id_07",
+          "Path": "dlc_heist3/takeover_id_07",
+          "Duration": 8094
+        },
+        {
+          "Id": "dlc_heist3_takeover_id_08",
+          "Path": "dlc_heist3/takeover_id_08",
+          "Duration": 3875
+        },
+        {
+          "Id": "dlc_heist3_takeover_id_09",
+          "Path": "dlc_heist3/takeover_id_09",
+          "Duration": 8959
+        },
+        {
+          "Id": "dlc_heist3_takeover_id_10",
+          "Path": "dlc_heist3/takeover_id_10",
+          "Duration": 4307
+        }
+      ]
+    },
+    "dlc_heist3_heist3_radio_takeover_musi_ord": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "12",
+      "Tracks": [
+        {
+          "Id": "dlc_heist3_back_to_basics_floating_points_remix",
+          "Path": "dlc_heist3/back_to_basics_floating_points_remix",
+          "Duration": 207951,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Back to Basics (Floating Points Remix)",
+                "Artist": "HEADIE ONE FT. SKEPTA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_hundred_k_on_a_coupe",
+          "Path": "dlc_heist3/hundred_k_on_a_coupe",
+          "Duration": 95703,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "100k on a Coupe",
+                "Artist": "POP SMOKE FT. CALBOY"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_i_need",
+          "Path": "dlc_heist3/i_need",
+          "Duration": 117650,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "I Need",
+                "Artist": "SLOWTHAI"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_money_in_the_bank",
+          "Path": "dlc_heist3/money_in_the_bank",
+          "Duration": 147480,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Money in the Bank",
+                "Artist": "KRANIUM FT. AJ TRACEY"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_killin_dem",
+          "Path": "dlc_heist3/killin_dem",
+          "Duration": 209148,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Killin Dem",
+                "Artist": "BURNA BOY FT. ZLATAN"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_greaze_mode",
+          "Path": "dlc_heist3/greaze_mode",
+          "Duration": 157812,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Greaze Mode",
+                "Artist": "SKEPTA FT. NAFE SMALLZ"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_kitchen_kings",
+          "Path": "dlc_heist3/kitchen_kings",
+          "Duration": 172707,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Kitchen Kings",
+                "Artist": "D-BLOCK EUROPE"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_knock_your_block_off",
+          "Path": "dlc_heist3/knock_your_block_off",
+          "Duration": 207770,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Knock Your Block Off",
+                "Artist": "JME FT. GIGGS"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_must_be",
+          "Path": "dlc_heist3/must_be",
+          "Duration": 205892,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Must Be",
+                "Artist": "J HUS"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_kiss_and_tell",
+          "Path": "dlc_heist3/kiss_and_tell",
+          "Duration": 190293,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Kiss and Tell",
+                "Artist": "AJ TRACEY & SKEPTA"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_opotoyi",
+          "Path": "dlc_heist3/opotoyi",
+          "Duration": 239106,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Opotoyi (Marlians)",
+                "Artist": "NAIRA MARLEY"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_original_format",
+          "Path": "dlc_heist3/original_format",
+          "Duration": 201936,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Original Format",
+                "Artist": "D DOUBLE E & WATCH THE RIDE FT. DJ DIE & DISMANTLE & DIEMANTLE & DJ RANDALL"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_heist3_pattern_chanel",
+          "Path": "dlc_heist3/pattern_chanel",
+          "Duration": 122535,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Pattern Chanel",
+                "Artist": "ESSIE GANG FT. SQ DIESEL"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "dlc_heist3_heist3_radio_djsolo": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "5",
+      "Tracks": [
+        {
+          "Id": "dlc_heist3_djsolo_01",
+          "Path": "dlc_heist3/djsolo_01",
+          "Duration": 136326
+        },
+        {
+          "Id": "dlc_heist3_djsolo_02",
+          "Path": "dlc_heist3/djsolo_02",
+          "Duration": 24261
+        },
+        {
+          "Id": "dlc_heist3_djsolo_03",
+          "Path": "dlc_heist3/djsolo_03",
+          "Duration": 19350
+        },
+        {
+          "Id": "dlc_heist3_djsolo_05",
+          "Path": "dlc_heist3/djsolo_05",
+          "Duration": 19452
+        },
+        {
+          "Id": "dlc_heist3_djsolo_07",
+          "Path": "dlc_heist3/djsolo_07",
+          "Duration": 6669
+        },
+        {
+          "Id": "dlc_heist3_djsolo_08",
+          "Path": "dlc_heist3/djsolo_08",
+          "Duration": 6890
+        },
+        {
+          "Id": "dlc_heist3_djsolo_09",
+          "Path": "dlc_heist3/djsolo_09",
+          "Duration": 15089
+        },
+        {
+          "Id": "dlc_heist3_djsolo_10",
+          "Path": "dlc_heist3/djsolo_10",
+          "Duration": 10586
+        },
+        {
+          "Id": "dlc_heist3_djsolo_11",
+          "Path": "dlc_heist3/djsolo_11",
+          "Duration": 14148
+        },
+        {
+          "Id": "dlc_heist3_djsolo_12",
+          "Path": "dlc_heist3/djsolo_12",
+          "Duration": 11862
+        },
+        {
+          "Id": "dlc_heist3_djsolo_13",
+          "Path": "dlc_heist3/djsolo_13",
+          "Duration": 6922
+        },
+        {
+          "Id": "dlc_heist3_djsolo_14",
+          "Path": "dlc_heist3/djsolo_14",
+          "Duration": 8469
+        },
+        {
+          "Id": "dlc_heist3_djsolo_15",
+          "Path": "dlc_heist3/djsolo_15",
+          "Duration": 7153
+        },
+        {
+          "Id": "dlc_heist3_djsolo_20",
+          "Path": "dlc_heist3/djsolo_20",
+          "Duration": 23484
+        },
+        {
+          "Id": "dlc_heist3_djsolo_21",
+          "Path": "dlc_heist3/djsolo_21",
+          "Duration": 19791
+        },
+        {
+          "Id": "dlc_heist3_djsolo_22",
+          "Path": "dlc_heist3/djsolo_22",
+          "Duration": 8372
+        },
+        {
+          "Id": "dlc_heist3_djsolo_23",
+          "Path": "dlc_heist3/djsolo_23",
+          "Duration": 5002
+        }
+      ]
+    }
+  }
+}

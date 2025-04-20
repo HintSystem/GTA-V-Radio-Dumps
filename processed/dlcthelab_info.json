@@ -1,0 +1,668 @@
+{
+  "Stations": {
+    "radio_20_thelab": {
+      "Flags": "0xAA8009AA",
+      "Genre": "4",
+      "AmbientRadioVol": "0",
+      "RadioName": "RADIO_20_THELAB",
+      "TrackLists": [
+        "dlc_thelab_music"
+      ]
+    }
+  },
+  "TrackLists": {
+    "dlc_thelab_music": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_thelab_lab_p1",
+          "Path": "dlc_thelab/lab_p1",
+          "Duration": 2157909,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Play It Cool",
+                "Artist": "GANGRENE FEAT. SAMUEL T. HERRING & EARL SWEATSHIRT"
+              },
+              {
+                "Offset": 227352,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 262256,
+                "Title": "Trouble",
+                "Artist": "AB SOUL FEAT. ALOE BLACC"
+              },
+              {
+                "Offset": 473344,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 512278,
+                "Title": "Speedline Miracle Masterpiece",
+                "Artist": "TUNDE ADEBIMPE FEAT. SAL P & SINKANE"
+              },
+              {
+                "Offset": 758186,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 787626,
+                "Title": "Welcome To Los Santos",
+                "Artist": "MC EIHT & FREDDIE GIBBS FEAT. KOKANE"
+              },
+              {
+                "Offset": 1011916,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 1043498,
+                "Title": "K.Y.S.A.",
+                "Artist": "PHANTOGRAM"
+              },
+              {
+                "Offset": 1301461,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 1385898,
+                "Title": "Fast Life",
+                "Artist": "VYBZ KARTEL"
+              },
+              {
+                "Offset": 1591722,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 1620480,
+                "Title": "20's 50's 100's",
+                "Artist": "KING AVRIEL FEAT. A$AP FERG"
+              },
+              {
+                "Offset": 1879381,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 1943722,
+                "Title": "Lock & Load",
+                "Artist": "MNDR FEAT. KILLER MIKE"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 6826,
+                "Value": 64
+              },
+              {
+                "Offset": 44550,
+                "Value": 64
+              },
+              {
+                "Offset": 82246,
+                "Value": 64
+              },
+              {
+                "Offset": 119926,
+                "Value": 64
+              },
+              {
+                "Offset": 157654,
+                "Value": 64
+              },
+              {
+                "Offset": 195351,
+                "Value": 32
+              },
+              {
+                "Offset": 214518,
+                "Value": 8
+              },
+              {
+                "Offset": 219398,
+                "Value": 4
+              },
+              {
+                "Offset": 222475,
+                "Value": 0
+              },
+              {
+                "Offset": 267093,
+                "Value": 64
+              },
+              {
+                "Offset": 307922,
+                "Value": 64
+              },
+              {
+                "Offset": 348754,
+                "Value": 64
+              },
+              {
+                "Offset": 389629,
+                "Value": 64
+              },
+              {
+                "Offset": 430445,
+                "Value": 64
+              },
+              {
+                "Offset": 471325,
+                "Value": 0
+              },
+              {
+                "Offset": 537648,
+                "Value": 64
+              },
+              {
+                "Offset": 561998,
+                "Value": 32
+              },
+              {
+                "Offset": 574126,
+                "Value": 64
+              },
+              {
+                "Offset": 598382,
+                "Value": 64
+              },
+              {
+                "Offset": 622766,
+                "Value": 64
+              },
+              {
+                "Offset": 647070,
+                "Value": 64
+              },
+              {
+                "Offset": 671358,
+                "Value": 64
+              },
+              {
+                "Offset": 695694,
+                "Value": 64
+              },
+              {
+                "Offset": 719966,
+                "Value": 64
+              },
+              {
+                "Offset": 744286,
+                "Value": 32
+              },
+              {
+                "Offset": 756430,
+                "Value": 0
+              },
+              {
+                "Offset": 809309,
+                "Value": 64
+              },
+              {
+                "Offset": 852478,
+                "Value": 64
+              },
+              {
+                "Offset": 895615,
+                "Value": 64
+              },
+              {
+                "Offset": 938718,
+                "Value": 0
+              },
+              {
+                "Offset": 949512,
+                "Value": 64
+              },
+              {
+                "Offset": 992682,
+                "Value": 16
+              },
+              {
+                "Offset": 1003449,
+                "Value": 0
+              },
+              {
+                "Offset": 1043648,
+                "Value": 56
+              },
+              {
+                "Offset": 1078284,
+                "Value": 64
+              },
+              {
+                "Offset": 1117883,
+                "Value": 40
+              },
+              {
+                "Offset": 1142587,
+                "Value": 64
+              },
+              {
+                "Offset": 1182179,
+                "Value": 64
+              },
+              {
+                "Offset": 1221811,
+                "Value": 64
+              },
+              {
+                "Offset": 1261415,
+                "Value": 32
+              },
+              {
+                "Offset": 1281172,
+                "Value": 32
+              },
+              {
+                "Offset": 1300991,
+                "Value": 0
+              },
+              {
+                "Offset": 1386032,
+                "Value": 64
+              },
+              {
+                "Offset": 1425214,
+                "Value": 64
+              },
+              {
+                "Offset": 1464385,
+                "Value": 64
+              },
+              {
+                "Offset": 1503537,
+                "Value": 64
+              },
+              {
+                "Offset": 1542769,
+                "Value": 64
+              },
+              {
+                "Offset": 1581905,
+                "Value": 16
+              },
+              {
+                "Offset": 1591680,
+                "Value": 0
+              },
+              {
+                "Offset": 1635584,
+                "Value": 64
+              },
+              {
+                "Offset": 1696597,
+                "Value": 64
+              },
+              {
+                "Offset": 1757610,
+                "Value": 64
+              },
+              {
+                "Offset": 1818453,
+                "Value": 64
+              },
+              {
+                "Offset": 1879445,
+                "Value": 0
+              },
+              {
+                "Offset": 1955712,
+                "Value": 64
+              },
+              {
+                "Offset": 2001408,
+                "Value": 24
+              },
+              {
+                "Offset": 2018533,
+                "Value": 64
+              },
+              {
+                "Offset": 2064249,
+                "Value": 32
+              },
+              {
+                "Offset": 2087147,
+                "Value": 32
+              },
+              {
+                "Offset": 2109978,
+                "Value": 32
+              },
+              {
+                "Offset": 2132845,
+                "Value": 32
+              },
+              {
+                "Offset": 2155645,
+                "Value": 0
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_thelab_lab_p2",
+          "Path": "dlc_thelab/lab_p2",
+          "Duration": 1298066,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 1898,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 46997,
+                "Title": "Born Bad",
+                "Artist": "POPCAAN FEAT. FREDDIE GIBBS"
+              },
+              {
+                "Offset": 252714,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 288512,
+                "Title": "California",
+                "Artist": "E-40 FEAT. DaM-FunK & ARIEL PINK"
+              },
+              {
+                "Offset": 519253,
+                "Title": "Leave",
+                "Artist": "WAVVES"
+              },
+              {
+                "Offset": 701646,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 717141,
+                "Title": "Fetti",
+                "Artist": "CURREN$Y & FREDDIE GIBBS"
+              },
+              {
+                "Offset": 971776,
+                "Title": null,
+                "Artist": null
+              },
+              {
+                "Offset": 1022122,
+                "Title": "Wanderer",
+                "Artist": "LITTLE DRAGON"
+              },
+              {
+                "Offset": 1259631,
+                "Title": null,
+                "Artist": null
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 46992,
+                "Value": 32
+              },
+              {
+                "Offset": 66568,
+                "Value": 32
+              },
+              {
+                "Offset": 86162,
+                "Value": 32
+              },
+              {
+                "Offset": 105722,
+                "Value": 32
+              },
+              {
+                "Offset": 125373,
+                "Value": 32
+              },
+              {
+                "Offset": 144960,
+                "Value": 32
+              },
+              {
+                "Offset": 164547,
+                "Value": 32
+              },
+              {
+                "Offset": 184140,
+                "Value": 32
+              },
+              {
+                "Offset": 203679,
+                "Value": 32
+              },
+              {
+                "Offset": 223321,
+                "Value": 32
+              },
+              {
+                "Offset": 242851,
+                "Value": 16
+              },
+              {
+                "Offset": 252685,
+                "Value": 0
+              },
+              {
+                "Offset": 288570,
+                "Value": 32
+              },
+              {
+                "Offset": 310858,
+                "Value": 32
+              },
+              {
+                "Offset": 333241,
+                "Value": 32
+              },
+              {
+                "Offset": 355557,
+                "Value": 32
+              },
+              {
+                "Offset": 377840,
+                "Value": 32
+              },
+              {
+                "Offset": 400202,
+                "Value": 32
+              },
+              {
+                "Offset": 422568,
+                "Value": 32
+              },
+              {
+                "Offset": 444842,
+                "Value": 32
+              },
+              {
+                "Offset": 467114,
+                "Value": 32
+              },
+              {
+                "Offset": 489391,
+                "Value": 32
+              },
+              {
+                "Offset": 511754,
+                "Value": 0
+              },
+              {
+                "Offset": 519317,
+                "Value": 32
+              },
+              {
+                "Offset": 539284,
+                "Value": 32
+              },
+              {
+                "Offset": 559270,
+                "Value": 32
+              },
+              {
+                "Offset": 579247,
+                "Value": 32
+              },
+              {
+                "Offset": 599151,
+                "Value": 32
+              },
+              {
+                "Offset": 619197,
+                "Value": 32
+              },
+              {
+                "Offset": 639204,
+                "Value": 32
+              },
+              {
+                "Offset": 659202,
+                "Value": 32
+              },
+              {
+                "Offset": 679122,
+                "Value": 32
+              },
+              {
+                "Offset": 699162,
+                "Value": 0
+              },
+              {
+                "Offset": 729130,
+                "Value": 32
+              },
+              {
+                "Offset": 753271,
+                "Value": 32
+              },
+              {
+                "Offset": 777425,
+                "Value": 32
+              },
+              {
+                "Offset": 801529,
+                "Value": 32
+              },
+              {
+                "Offset": 825685,
+                "Value": 0
+              },
+              {
+                "Offset": 837802,
+                "Value": 32
+              },
+              {
+                "Offset": 861955,
+                "Value": 32
+              },
+              {
+                "Offset": 886126,
+                "Value": 32
+              },
+              {
+                "Offset": 910247,
+                "Value": 0
+              },
+              {
+                "Offset": 922282,
+                "Value": 32
+              },
+              {
+                "Offset": 946515,
+                "Value": 32
+              },
+              {
+                "Offset": 970622,
+                "Value": 0
+              },
+              {
+                "Offset": 1031637,
+                "Value": 32
+              },
+              {
+                "Offset": 1043053,
+                "Value": 32
+              },
+              {
+                "Offset": 1054455,
+                "Value": 32
+              },
+              {
+                "Offset": 1065905,
+                "Value": 32
+              },
+              {
+                "Offset": 1077323,
+                "Value": 32
+              },
+              {
+                "Offset": 1088712,
+                "Value": 32
+              },
+              {
+                "Offset": 1100211,
+                "Value": 64
+              },
+              {
+                "Offset": 1123016,
+                "Value": 32
+              },
+              {
+                "Offset": 1134414,
+                "Value": 32
+              },
+              {
+                "Offset": 1145893,
+                "Value": 32
+              },
+              {
+                "Offset": 1157391,
+                "Value": 32
+              },
+              {
+                "Offset": 1168760,
+                "Value": 64
+              },
+              {
+                "Offset": 1191616,
+                "Value": 32
+              },
+              {
+                "Offset": 1203072,
+                "Value": 32
+              },
+              {
+                "Offset": 1214488,
+                "Value": 32
+              },
+              {
+                "Offset": 1225939,
+                "Value": 64
+              },
+              {
+                "Offset": 1248772,
+                "Value": 24
+              },
+              {
+                "Offset": 1257367,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
