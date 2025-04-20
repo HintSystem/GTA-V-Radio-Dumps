@@ -1,10 +1,9 @@
 from io import BufferedReader
 from pathlib import Path
 from time import perf_counter
-import warnings
 import struct
 
-from utils import delta_time_ms, data_dir
+from utils import delta_time_ms, ANSI, data_dir
 
 def joaat(s: str) -> int:
     k = s.lower()
@@ -87,7 +86,7 @@ class HashMap:
     def load_hashmap(self, hash_map: dict[int, str]):
         for k, v in hash_map.items():
             if k in self.map and self.map[k] != v:
-                warnings.warn(f"⚠️ Hashmap conflict '{k}': '{self.map[k]}' != '{v}'")
+                print(ANSI(f"⚠️ Hashmap conflict '{k}': '{self.map[k]}' != '{v}'").yellow())
             self.map[k] = v
         return self
 
@@ -95,7 +94,7 @@ class HashMap:
         time_start = perf_counter()
         file_path = Path(file_path)
         if not file_path.exists():
-            warnings.warn(f'Nametable "{file_path.name}" does not exist')
+            print(ANSI(f"Nametable '{file_path.name}' does not exist").yellow())
             return
 
         if file_path.suffix == ".txt":
@@ -121,7 +120,7 @@ class HashMap:
         time_start = perf_counter()
         file_path = Path(file_path)
         if not file_path.exists():
-            warnings.warn(f'Global text table "{file_path.name}" does not exist')
+            print(ANSI(f"Global text table '{file_path.name}' does not exist").yellow())
             return
         
         if file_path.suffix == ".txt":

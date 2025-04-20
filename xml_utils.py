@@ -1,7 +1,7 @@
 from lxml.etree import _Element
 from time import perf_counter
 
-from hash_utils import joaat, format_hash, get_trackid_table, HashMap
+from hash_utils import joaat, format_hash, get_trackid_table
 
 class TypeIndex:
     def __init__(self, xml_root: _Element, valid_types: list[str]):
