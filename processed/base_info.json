@@ -3714,46 +3714,55 @@
         },
         {
           "Id": "radio_adverts_mono_ad_ng_001_extpal",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_001_extpal",
           "Duration": 49941
         },
         {
           "Id": "radio_adverts_mono_ad_ng_002_extpal",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_002_extpal",
           "Duration": 48341
         },
         {
           "Id": "radio_adverts_mono_ad_ng_003_macrac",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_003_macrac",
           "Duration": 47658
         },
         {
           "Id": "radio_adverts_mono_ad_ng_004_macrac2",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_004_macrac2",
           "Duration": 47658
         },
         {
           "Id": "radio_adverts_mono_ad_ng_005_mysta",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_005_mysta",
           "Duration": 55717
         },
         {
           "Id": "radio_adverts_mono_ad_ng_006_phachi",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_006_phachi",
           "Duration": 54576
         },
         {
           "Id": "radio_adverts_mono_ad_ng_007_tcse",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_007_tcse",
           "Duration": 60842
         },
         {
           "Id": "radio_adverts_mono_ad_ng_008_tcse2",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_008_tcse2",
           "Duration": 48344
         },
         {
           "Id": "radio_adverts_mono_ad_ng_009_vislib",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_009_vislib",
           "Duration": 52266
         }
@@ -9569,6 +9578,7 @@
         },
         {
           "Id": "hash_2A09B144",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/tape_loop_alt",
           "Duration": 228187,
           "Markers": {
@@ -16833,46 +16843,55 @@
         },
         {
           "Id": "radio_adverts_mono_ad_ng_009_vislib",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_009_vislib",
           "Duration": 52266
         },
         {
           "Id": "radio_adverts_mono_ad_ng_008_tcse2",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_008_tcse2",
           "Duration": 48344
         },
         {
           "Id": "radio_adverts_mono_ad_ng_007_tcse",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_007_tcse",
           "Duration": 60842
         },
         {
           "Id": "radio_adverts_mono_ad_ng_006_phachi",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_006_phachi",
           "Duration": 54576
         },
         {
           "Id": "radio_adverts_mono_ad_ng_005_mysta",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_005_mysta",
           "Duration": 55717
         },
         {
           "Id": "radio_adverts_mono_ad_ng_004_macrac2",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_004_macrac2",
           "Duration": 47658
         },
         {
           "Id": "radio_adverts_mono_ad_ng_003_macrac",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_003_macrac",
           "Duration": 47658
         },
         {
           "Id": "radio_adverts_mono_ad_ng_002_extpal",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_002_extpal",
           "Duration": 48341
         },
         {
           "Id": "radio_adverts_mono_ad_ng_001_extpal",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_001_extpal",
           "Duration": 49941
         }
@@ -20572,6 +20591,7 @@
       "Tracks": [
         {
           "Id": "hash_89A5BB01",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/mpsmuggler",
           "Path": "dlc_smuggler/mono_bcr_2",
           "Duration": 1460408
         },
@@ -22958,6 +22978,7 @@
         },
         {
           "Id": "hash_708B73A2",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/wwfm_p3_start",
           "Duration": 279982,
           "Markers": {

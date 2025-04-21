@@ -315,6 +315,7 @@
   },
   "TrackLists": {
     "radio_01_class_rock_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -446,6 +447,7 @@
       ]
     },
     "radio_01_class_rock_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -517,6 +519,7 @@
       ]
     },
     "radio_01_class_rock_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -2547,6 +2550,7 @@
       ]
     },
     "general_adverts": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "0",
       "Tracks": [
@@ -3826,52 +3830,62 @@
         },
         {
           "Id": "radio_adverts_mono_ad_ng_001_extpal",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_001_extpal",
           "Duration": 49941
         },
         {
           "Id": "radio_adverts_mono_ad_ng_002_extpal",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_002_extpal",
           "Duration": 48341
         },
         {
           "Id": "radio_adverts_mono_ad_ng_003_macrac",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_003_macrac",
           "Duration": 47658
         },
         {
           "Id": "radio_adverts_mono_ad_ng_004_macrac2",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_004_macrac2",
           "Duration": 47658
         },
         {
           "Id": "radio_adverts_mono_ad_ng_005_mysta",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_005_mysta",
           "Duration": 55717
         },
         {
           "Id": "radio_adverts_mono_ad_ng_006_phachi",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_006_phachi",
           "Duration": 54576
         },
         {
           "Id": "radio_adverts_mono_ad_ng_007_tcse",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_007_tcse",
           "Duration": 60842
         },
         {
           "Id": "radio_adverts_mono_ad_ng_008_tcse2",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_008_tcse2",
           "Duration": 48344
         },
         {
           "Id": "radio_adverts_mono_ad_ng_009_vislib",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_009_vislib",
           "Duration": 52266
         }
       ]
     },
     "radio_01_class_rock_music_new": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -6002,6 +6016,7 @@
       ]
     },
     "radio_02_pop_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -6798,6 +6813,7 @@
       ]
     },
     "radio_02_pop_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -6949,6 +6965,7 @@
       ]
     },
     "radio_02_pop_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -7040,6 +7057,7 @@
       ]
     },
     "hash_6C8F396C": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -9681,6 +9699,7 @@
         },
         {
           "Id": "hash_2A09B144",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/tape_loop_alt",
           "Duration": 228187,
           "Markers": {
@@ -10250,6 +10269,7 @@
       ]
     },
     "radio_03_hiphop_new_core_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -12620,6 +12640,7 @@
       ]
     },
     "radio_03_hiphop_new_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -12696,6 +12717,7 @@
       ]
     },
     "radio_03_hiphop_new_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -12807,6 +12829,7 @@
       ]
     },
     "radio_04_punk_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -14105,6 +14128,7 @@
       ]
     },
     "radio_04_punk_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -14171,6 +14195,7 @@
       ]
     },
     "radio_04_punk_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -14227,6 +14252,7 @@
       ]
     },
     "radio_04_punk_music_new": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -14977,6 +15003,7 @@
       ]
     },
     "radio_05_talk_01_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -15039,6 +15066,7 @@
       ]
     },
     "radio_05_talk_01_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -15100,6 +15128,7 @@
       ]
     },
     "radio_06_country_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -16170,6 +16199,7 @@
       ]
     },
     "radio_06_country_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -16281,6 +16311,7 @@
       ]
     },
     "radio_06_country_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -16352,6 +16383,7 @@
       ]
     },
     "country_adverts": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "0",
       "Tracks": [
@@ -16945,52 +16977,62 @@
         },
         {
           "Id": "radio_adverts_mono_ad_ng_009_vislib",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_009_vislib",
           "Duration": 52266
         },
         {
           "Id": "radio_adverts_mono_ad_ng_008_tcse2",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_008_tcse2",
           "Duration": 48344
         },
         {
           "Id": "radio_adverts_mono_ad_ng_007_tcse",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_007_tcse",
           "Duration": 60842
         },
         {
           "Id": "radio_adverts_mono_ad_ng_006_phachi",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_006_phachi",
           "Duration": 54576
         },
         {
           "Id": "radio_adverts_mono_ad_ng_005_mysta",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_005_mysta",
           "Duration": 55717
         },
         {
           "Id": "radio_adverts_mono_ad_ng_004_macrac2",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_004_macrac2",
           "Duration": 47658
         },
         {
           "Id": "radio_adverts_mono_ad_ng_003_macrac",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_003_macrac",
           "Duration": 47658
         },
         {
           "Id": "radio_adverts_mono_ad_ng_002_extpal",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_002_extpal",
           "Duration": 48341
         },
         {
           "Id": "radio_adverts_mono_ad_ng_001_extpal",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_001_extpal",
           "Duration": 49941
         }
       ]
     },
     "radio_06_country_music_new": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -17525,6 +17567,7 @@
       ]
     },
     "radio_07_dance_01_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -17888,6 +17931,7 @@
       ]
     },
     "radio_08_mexican_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -18232,6 +18276,7 @@
       ]
     },
     "radio_09_hiphop_old_core_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -20366,6 +20411,7 @@
       ]
     },
     "radio_09_hiphop_old_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -20522,6 +20568,7 @@
       ]
     },
     "radio_09_hiphop_old_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -20618,6 +20665,7 @@
       ]
     },
     "radio_11_talk_02_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -20679,11 +20727,13 @@
       ]
     },
     "hash_A3B60D1E": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
         {
           "Id": "hash_89A5BB01",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/mpsmuggler",
           "Path": "dlc_smuggler/mono_bcr_2",
           "Duration": 1460408
         },
@@ -20746,6 +20796,7 @@
       ]
     },
     "radio_12_reggae_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -21752,6 +21803,7 @@
       ]
     },
     "radio_12_reggae_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -21838,6 +21890,7 @@
       ]
     },
     "radio_12_reggae_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -21909,6 +21962,7 @@
       ]
     },
     "radio_12_reggae_music_new": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -22511,6 +22565,7 @@
       ]
     },
     "radio_13_jazz_music_edited": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -23070,6 +23125,7 @@
         },
         {
           "Id": "hash_708B73A2",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/wwfm_p3_start",
           "Duration": 279982,
           "Markers": {
@@ -23804,6 +23860,7 @@
       ]
     },
     "radio_14_dance_02_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -24466,6 +24523,7 @@
       ]
     },
     "radio_15_motown_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -25168,6 +25226,7 @@
       ]
     },
     "radio_15_motown_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -25234,6 +25293,7 @@
       ]
     },
     "radio_15_motown_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -25305,6 +25365,7 @@
       ]
     },
     "radio_15_motown_music_new": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -26167,6 +26228,7 @@
       ]
     },
     "radio_16_silverlake_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -26238,6 +26300,7 @@
       ]
     },
     "radio_16_silverlake_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -26309,6 +26372,7 @@
       ]
     },
     "hash_3D764B0B": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -27491,6 +27555,7 @@
       ]
     },
     "mirrorpark_locked": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA1",
       "Category": "2",
       "Tracks": [
@@ -27569,6 +27634,7 @@
       ]
     },
     "radio_16_silverlake_music_new": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -29963,6 +30029,7 @@
       ]
     },
     "radio_17_funk_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -30613,6 +30680,7 @@
       ]
     },
     "radio_17_funk_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -30684,6 +30752,7 @@
       ]
     },
     "radio_17_funk_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -30760,6 +30829,7 @@
       ]
     },
     "radio_17_funk_music_new": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -31990,6 +32060,7 @@
       ]
     },
     "radio_18_90s_rock_music": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -32920,6 +32991,7 @@
       ]
     },
     "radio_18_90s_rock_idents": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -32971,6 +33043,7 @@
       ]
     },
     "radio_18_90s_rock_djsolo": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -33057,6 +33130,7 @@
       ]
     },
     "radio_18_90s_rock_music_new": {
+      "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -34179,6 +34253,7 @@
       ]
     },
     "dlc_thelab_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/patchday3ng",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -34832,6 +34907,7 @@
       ]
     },
     "dlc_christmas2017_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpchristmas2017",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -35785,6 +35861,7 @@
       ]
     },
     "dlc_heist3_heist3_radio_music_ord": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist3",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -36001,6 +36078,7 @@
       ]
     },
     "dlc_heist3_heist3_radio_idents": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist3",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -36087,6 +36165,7 @@
       ]
     },
     "dlc_heist3_heist3_radio_takeover_djsolo": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist3",
       "Flags": "0xAAAAAAA0",
       "Category": "14",
       "Tracks": [
@@ -36138,6 +36217,7 @@
       ]
     },
     "dlc_heist3_heist3_radio_takeover_idents": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist3",
       "Flags": "0xAAAAAAA0",
       "Category": "13",
       "Tracks": [
@@ -36194,6 +36274,7 @@
       ]
     },
     "dlc_heist3_heist3_radio_takeover_musi_ord": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist3",
       "Flags": "0xAAAAAAA0",
       "Category": "12",
       "Tracks": [
@@ -36382,6 +36463,7 @@
       ]
     },
     "dlc_heist3_heist3_radio_djsolo": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist3",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -36473,17 +36555,20 @@
       ]
     },
     "dlc_heist3_dj_solo_locked": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsum",
       "Flags": "0xAAAAAAA1",
       "Category": "5",
       "Tracks": [
         {
           "Id": "dlc_ch_finale_radio_djsolo",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist3",
           "Path": "dlc_heist3/custom_djsolo_13",
           "Duration": 30187
         }
       ]
     },
     "wwfm_island_update_music_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -37493,6 +37578,7 @@
       ]
     },
     "flylo_island_update_music_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -37932,6 +38018,7 @@
       ]
     },
     "still_slipping_music_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -38459,6 +38546,7 @@
       ]
     },
     "hei4_radio_kult_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -41101,6 +41189,7 @@
       ]
     },
     "hei4_radio_kult_ads": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "0",
       "Tracks": [
@@ -41167,6 +41256,7 @@
       ]
     },
     "hei4_radio_kult_custom_idents": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -41423,6 +41513,7 @@
       ]
     },
     "hei4_radio_kult_djsolo": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -41449,6 +41540,7 @@
       ]
     },
     "hei4_km_beach_radio_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -41997,6 +42089,7 @@
       ]
     },
     "hei4_pt_radio_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -42421,6 +42514,7 @@
       ]
     },
     "hei4_km_club_radio_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -42897,6 +42991,7 @@
       ]
     },
     "hei4_mm_radio_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist4",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -43805,6 +43900,7 @@
       ]
     },
     "tuner_ap_silence_music": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mptuner",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -43825,6 +43921,7 @@
       ]
     },
     "tuner_ap_mix1": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mptuner",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -44066,6 +44163,7 @@
       ]
     },
     "tuner_ap_mix2": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mptuner",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -44701,6 +44799,7 @@
       ]
     },
     "tuner_ap_mix3": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mptuner",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -45336,6 +45435,7 @@
       ]
     },
     "tuner_ap_mix3_parta": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mptuner",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -45418,6 +45518,7 @@
       ]
     },
     "tuner_ap_mix3_partb": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mptuner",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -45500,6 +45601,7 @@
       ]
     },
     "tuner_ap_mix3_partc": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mptuner",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -45582,6 +45684,7 @@
       ]
     },
     "tuner_ap_mix3_partd": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mptuner",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -45672,6 +45775,7 @@
       ]
     },
     "radio_03_hiphop_new_dd_djsolo_launch": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA1",
       "Category": "5",
       "Tracks": [
@@ -45738,6 +45842,7 @@
       ]
     },
     "radio_03_hiphop_new_dd_djsolo_post_launch": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA1",
       "Category": "5",
       "Tracks": [
@@ -45904,6 +46009,7 @@
       ]
     },
     "radio_03_hiphop_new_dd_music_launch": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA5",
       "Category": "2",
       "Tracks": [
@@ -46288,6 +46394,7 @@
       ]
     },
     "radio_03_hiphop_new_dd_music_post_launch": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA5",
       "Category": "2",
       "Tracks": [
@@ -46756,6 +46863,7 @@
       ]
     },
     "radio_09_hiphop_old_dd_djsolo_post_launch": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA1",
       "Category": "5",
       "Tracks": [
@@ -46837,6 +46945,7 @@
       ]
     },
     "radio_09_hiphop_old_dd_idents_launch": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA1",
       "Category": "1",
       "Tracks": [
@@ -46968,6 +47077,7 @@
       ]
     },
     "radio_09_hiphop_old_dd_djsolo_launch": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA1",
       "Category": "5",
       "Tracks": [
@@ -47024,6 +47134,7 @@
       ]
     },
     "radio_09_hiphop_old_dd_music_post_launch": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA1",
       "Category": "2",
       "Tracks": [
@@ -47254,6 +47365,7 @@
       ]
     },
     "radio_09_hiphop_old_dd_music_launch": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA1",
       "Category": "2",
       "Tracks": [
@@ -47498,6 +47610,7 @@
       ]
     },
     "radio_ap_dre": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -47588,6 +47701,7 @@
       ]
     },
     "fixer_ap_lowriders_mix": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -47608,6 +47722,7 @@
       ]
     },
     "fixer_ap_dscvrbl_mix_1": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -47628,6 +47743,7 @@
       ]
     },
     "fixer_ap_dscvrbl_mix_2": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -47648,6 +47764,7 @@
       ]
     },
     "radio_37_motomami_music_ordered": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -48116,6 +48233,7 @@
       ]
     },
     "radio_37_motomami_idents_ident": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA0",
       "Category": "1",
       "Tracks": [
@@ -48197,6 +48315,7 @@
       ]
     },
     "radio_37_motomami_djsolo_djsolo": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsecurity",
       "Flags": "0xAAAAAAA0",
       "Category": "5",
       "Tracks": [
@@ -48258,6 +48377,7 @@
       ]
     },
     "radio_03_hiphop_new_dd_music_post_launch_update": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mpsum2",
       "Flags": "0xAAAAAAA5",
       "Category": "2",
       "Tracks": [
@@ -48369,6 +48489,7 @@
       ]
     },
     "radio_09_hiphop_old_dlc_23_2_djsolo": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mp2023_02",
       "Flags": "0xAAAAAAA1",
       "Category": "5",
       "Tracks": [
@@ -48380,6 +48501,7 @@
       ]
     },
     "radio_ap_dlc_23_2": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mp2023_02",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [
@@ -48584,6 +48706,7 @@
       ]
     },
     "hei4_radio_kult_music_edit": {
+      "DlcPath": "update/%PLATFORM%/dlcpacks/mp2024_01",
       "Flags": "0xAAAAAAA0",
       "Category": "2",
       "Tracks": [

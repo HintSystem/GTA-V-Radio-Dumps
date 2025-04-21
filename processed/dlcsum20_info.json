@@ -17,6 +17,7 @@
       "Tracks": [
         {
           "Id": "dlc_ch_finale_radio_djsolo",
+          "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist3",
           "Path": "dlc_heist3/custom_djsolo_13",
           "Duration": 30187
         }
