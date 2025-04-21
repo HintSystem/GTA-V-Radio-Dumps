@@ -94,7 +94,7 @@ class HashMap:
         time_start = perf_counter()
         file_path = Path(file_path)
         if not file_path.exists():
-            print(ANSI(f"Nametable '{file_path.name}' does not exist").yellow())
+            print(ANSI(f"Nametable '{ANSI(file_path.name).bold()}' does not exist").yellow())
             return
 
         if file_path.suffix == ".txt":
@@ -120,7 +120,7 @@ class HashMap:
         time_start = perf_counter()
         file_path = Path(file_path)
         if not file_path.exists():
-            print(ANSI(f"Global text table '{file_path.name}' does not exist").yellow())
+            print(ANSI(f"Global text table '{ANSI(file_path.name).bold()}' does not exist").yellow())
             return
         
         if file_path.suffix == ".txt":
@@ -140,7 +140,7 @@ class HashMap:
         else:
             raise ValueError(f"Global text table only supports file types of .gxt2 or .txt ({file_path})")
 
-        print(f"[{delta_time_ms(time_start)}ms] Loaded global text table '{file_path.name}'") 
+        print(f"[{delta_time_ms(time_start)}ms] Loaded global text table '{ANSI(file_path.name).bold()}'") 
         return self 
 
     def resolve(self, hash: int):

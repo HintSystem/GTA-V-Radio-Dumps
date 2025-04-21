@@ -19,7 +19,19 @@ class ANSI:
         self.codes = list(codes)
         
     def __str__(self):
-        return f"{''.join(self.codes)}{self.text}\033[0m"
+        reset = "\033[0m"
+        codes = ''.join(self.codes)
+        text = self.text
+
+        index = text.find(reset)
+        while index >= 0:
+            # Reinsert codes immediately after each reset to allow nesting
+            insert_pos = index + len(reset)
+            text = text[:insert_pos] + codes + text[insert_pos:]
+            index = text.find(reset, insert_pos + len(codes))
+
+        return f"{codes}{text}{reset}"
+
     
     def bold(self):
         self.codes.append(ANSI.BOLD)

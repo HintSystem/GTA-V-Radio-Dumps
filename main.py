@@ -8,14 +8,21 @@ import json
 import xml_utils as xml
 from hash_utils import joaat, parse_hash_string, format_hash, HashMap
 from utils import delta_time_ms, ANSI, script_dir, data_dir, out_dir
-        
-def GetStreamingSoundInfo(sounds_index: xml.TypeIndex, streamingSoundName: str):
+
+dlcname_paths = {'base': ['audio/sfx'], 'dlcbeach': ['dlcpacks/mpbeach'], 'dlcvalentines': ['dlcpacks/mpvalentines'], 'dlcupdate': ['dlcpacks/patchday2bng'], 'dlcbusiness': ['dlcpacks/mpbusiness'], 'dlcbusi2': ['dlcpacks/mpbusiness2'], 'dlcthelab': ['dlcpacks/patchday3ng', 'dlcpacks/mpluxe2'], 'dlchipster': ['dlcpacks/mphipster'], 'dlcindependence': ['dlcpacks/mpindependence'], 'dlcpilotschool': ['dlcpacks/mppilot'], 'dlcmplts': ['dlcpacks/mplts'], 'dlcxmas2': ['dlcpacks/mpchristmas2'], 'dlcmpheist': ['dlcpacks/mpheist'], 'dlcluxe': ['dlcpacks/mpluxe'], 'dlcsfx1': ['dlcpacks/mpreplay'], 'dlclowrider': ['dlcpacks/mplowrider'], 'dlchalloween': ['dlcpacks/mphalloween'], 'dlcapartment': ['dlcpacks/mpapartment'], 'dlcxmas3': ['dlcpacks/mpxmas_604490'], 'dlcjanuary2016': ['dlcpacks/mpjanuary2016'], 'mpvalentines2': ['dlcpacks/mpvalentines2'], 'dlclow2': ['dlcpacks/mplowrider2'], 'dlcexec1': ['dlcpacks/mpexecutive'], 'dlcstunt': ['dlcpacks/mpstunt'], 'dlcbiker': ['dlcpacks/mpbiker'], 'dlcimportexport': ['dlcpacks/mpimportexport'], 'dlcspecialraces': ['dlcpacks/mpspecialraces'], 'dlcgunrunning': ['dlcpacks/mpgunrunning'], 'dlcairraces': ['dlcpacks/mpairraces'], 'dlcsmuggler': ['dlcpacks/mpsmuggler'], 'dlcchristmas2017': ['dlcpacks/mpchristmas2017'], 'dlcassault': ['dlcpacks/mpassault'], 'dlcbattle': ['dlcpacks/mpbattle'], 'dlcawxm2018': ['dlcpacks/mpchristmas2018'], 'dlcvinewood': ['dlcpacks/mpvinewood'], 'dlcheist3': ['dlcpacks/mpheist3'], 'dlcsum20': ['dlcpacks/mpsum'], 'dlchei4': ['dlcpacks/mpheist4'], 'dlctuner': ['dlcpacks/mptuner'], 'dlcsecurity': ['dlcpacks/mpsecurity'], 'dlcg9ec': ['dlcpacks/mpg9ec'], 'dlcmpsum2': ['dlcpacks/mpsum2'], 'dlccm2022': ['dlcpacks/mpchristmas3'], 'dlcmp2023_1': ['dlcpacks/mp2023_01'], 'dlc23_2': ['dlcpacks/mp2023_02'], 'dlc24-1': ['dlcpacks/mp2024_01'], 'dlc24-2': ['dlcpacks/mp2024_02']}
+def full_dlc_path(dlcpath: str):
+    dlcpath: Path = Path(dlcpath)
+    if dlcpath.parent.name == "dlcpacks":
+        return f"update/%PLATFORM%/{dlcpath.as_posix()}"
+    return f"%PLATFORM%/{dlcpath.as_posix()}"
+
+def GetStreamingSoundInfo(sounds_index: xml.TypeIndex, streamingSoundName: str, dlcname: str):
     if sounds_index == None:
         return {}
 
     streaming_sound: _Element = sounds_index.get("StreamingSound", streamingSoundName, True)
     if streaming_sound == None:
-        print(ANSI(f"Missing sound ref: {streamingSoundName}").yellow())
+        print(ANSI(f"Missing sound ref: '{ANSI(streamingSoundName).bold()}'").yellow())
         return {}
     
     duration = None
@@ -32,7 +39,16 @@ def GetStreamingSoundInfo(sounds_index: xml.TypeIndex, streamingSoundName: str):
         simple_sound: _Element = sounds_index.get("SimpleSound", item.text)
         container_name = simple_sound.xpath("./ContainerName")[0]
         path = container_name.text
-    return {"Path": path, "Duration": int(duration)}
+
+        special_path = Path(path).parent.name.replace("_", "")
+        if special_path != dlcname and special_path in dlcname_paths: #special case where some tracks contain a path that goes outside of current dlc
+            print(ANSI(f"Sound path '{ANSI(path).bold()}' is not part of dlc '{ANSI(dlcname).bold()}'").yellow())
+            return {"DlcPath": full_dlc_path(dlcname_paths[special_path][0]), "Path": path, "Duration": int(duration)}
+        
+        return {"Path": path, "Duration": int(duration)}
+    
+    print(ANSI(f"Sound path not found: {streamingSoundName}").yellow())
+    return {}
 
 def GetTrackMarkers(type_index: xml.TypeIndex, trackName: str) -> _Element:
     str_is_hash = parse_hash_string(trackName) # check if trackName is a hash string
@@ -58,13 +74,16 @@ def GetTrackMarkers(type_index: xml.TypeIndex, trackName: str) -> _Element:
 def filter_dict(dict: dict[str, any], keep_filter: set[str]):
     return {k: v for k, v in dict.items() if k in keep_filter}
 
-def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_path: Path = data_dir, out_path: Path = out_dir):
-    if dlcname == "base":
+def dlc_file(dlcname, filename):
+    if dlcname == "base" or dlcname == "game":
         dlcname = ""
     if dlcname:
         dlcname += "_"
 
-    game_path = data_path / (dlcname + "game.dat151.rel.xml")
+    return dlcname + filename
+
+def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_path: Path = data_dir, out_path: Path = out_dir):
+    game_path = data_path / dlc_file(dlcname, "game.dat151.rel.xml")
     if not game_path.is_file():
         print(ANSI(f"Game data file '{game_path.name}' does not exist, export cancelled").yellow())
         return False
@@ -72,7 +91,7 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
     game_index = xml.TypeIndex(game_root, ["RadioTrackTextIDs", "RadioStationTrackList", "RadioStationSettings"])
 
 
-    sound_path = data_path / (dlcname + "sounds.dat54.rel.xml")
+    sound_path = data_path / dlc_file(dlcname, "sounds.dat54.rel.xml")
     if not sound_path.is_file():
         print(ANSI(f"Sound data file '{sound_path.name}' does not exist, sound path and duration will not be loaded").red())
     else:
@@ -81,10 +100,8 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
 
 
     nametables = HashMap()
-    nametables.load_nametable(data_path / (dlcname + "game.dat151.nametable"))
-    nametables.load_nametable(data_path / (dlcname + "sounds.dat54.nametable"))
-
-    dlcname = dlcname or "base_"
+    nametables.load_nametable(data_path / dlc_file(dlcname, "game.dat151.nametable"))
+    nametables.load_nametable(data_path / dlc_file(dlcname, "sounds.dat54.nametable"))
 
     time_start = perf_counter()
     export_track_info = {"Stations": {}, "TrackLists": {}}
@@ -130,7 +147,7 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
             if id_fix.startswith(prefix):
                 id_fix = "dlc_hei4_music_" + id_fix[len(prefix):]
 
-            track_info = {"Id": nametables.resolve_string(track.text)} | GetStreamingSoundInfo(sound_index, track.text)
+            track_info = {"Id": nametables.resolve_string(track.text)} | GetStreamingSoundInfo(sound_index, track.text, dlcname)
 
             markers = GetTrackMarkers(game_index, id_fix)
             if markers:
@@ -144,7 +161,7 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
 
     print(f"[{delta_time_ms(time_start)}ms] Processed all track lists for '{dlcname}'")
 
-    with open(out_path / (dlcname + "info.json"), "w", encoding="utf-8") as f:
+    with open(out_path / f"{dlcname}_info.json", "w", encoding="utf-8") as f:
         json.dump(export_track_info, f, indent=2, ensure_ascii=False)
 
     return True
@@ -161,7 +178,7 @@ def merge_exports(dlc_names: list[str] = None):
         for dlc in dlc_names:
             dlc_path = out_dir / f"{dlc}_info.json"
             if not dlc_path.is_file():
-                print(ANSI(f"Could not merge with export '{dlc_path.name}', because it does not exist").red())
+                print(ANSI(f"Could not merge with export '{ANSI(dlc_path.name).bold()}', because it does not exist").red())
                 continue
             dlc_paths.append(dlc_path)
 
@@ -194,6 +211,11 @@ def merge_exports(dlc_names: list[str] = None):
 
         for track_list_id, track_list in data.get("TrackLists", {}).items():
             if track_list_id not in merged_data["TrackLists"]:
+                dlcname = path.name.rsplit("_", 1)[0]
+                if dlcname in dlcname_paths:
+                    track_list = {"DlcPath": full_dlc_path(dlcname_paths[dlcname][0])} | track_list
+                else:
+                    print(ANSI(f"Could not find DlcPath for dlc '{ANSI(dlcname).bold()}'").red())
                 merged_data["TrackLists"][track_list_id] = track_list
                 continue
 
@@ -202,25 +224,25 @@ def merge_exports(dlc_names: list[str] = None):
     with open(merged_out_path, "w", encoding="utf-8") as f:
         json.dump(merged_data, f, indent=2, ensure_ascii=False)
 
-    print(ANSI(f"Merged processed files into '{merged_out_path.name}'").green())
+    print(ANSI(f"Merged processed files into '{ANSI(merged_out_path.name).bold()}'").green())
     if conflicts:
-        print(ANSI(f"\n{len(conflicts)} conflict(s) detected during merge.").red())
+        print(ANSI(f"\n{len(conflicts)} conflict(s) detected during merge").red())
         for section, source in conflicts:
-            print(f"- In {ANSI(repr('/'.join(section))).bold()} (from file '{source}')")
+            print(f"- '{ANSI('/'.join(section)).bold()}' (from file '{source}')")
 
     return merged_data, conflicts
 
+
 # Ordered list of DLCs that contain .dat151 or .dat54 metadata files.
-# Each entry is a pair: [DLC folder name, DLC .dat file name]
-# The order reflects their chronological release, with '' representing base game content.
-all_dlc = [['base', ''], ['dlcbeach', 'mpbeach'], ['dlcvalentines', 'mpvalentines'], ['dlcbusiness', 'mpbusiness'], ['dlcbusi2', 'mpbusiness2'], ['dlcthelab', 'patchday3ng'], ['dlchipster', 'mphipster'], ['dlcindependence', 'mpindependence'], ['dlcpilotschool', 'mppilot'], ['dlcmplts', 'mplts'], ['dlcxmas2', 'mpchristmas2'], ['dlcmpheist', 'mpheist'], ['dlcluxe', 'mpluxe'], ['dlcthelab', 'mpluxe2'], ['dlcsfx1', 'mpreplay'], ['dlclowrider', 'mplowrider'], ['dlchalloween', 'mphalloween'], ['dlcapartment', 'mpapartment'], ['dlcxmas3', 'mpxmas_604490'], ['dlcjanuary2016', 'mpjanuary2016'], ['mpvalentines2', 'mpvalentines2'], ['dlclow2', 'mplowrider2'], ['dlcexec1', 'mpexecutive'], ['dlcstunt', 'mpstunt'], ['dlcbiker', 'mpbiker'], ['dlcimportexport', 'mpimportexport'], ['dlcspecialraces', 'mpspecialraces'], ['dlcgunrunning', 'mpgunrunning'], ['dlcairraces', 'mpairraces'], ['dlcsmuggler', 'mpsmuggler'], ['dlcchristmas2017', 'mpchristmas2017'], ['dlcassault', 'mpassault'], ['dlcbattle', 'mpbattle'], ['dlcawxm2018', 'mpchristmas2018'], ['dlcvinewood', 'mpvinewood'], ['dlcheist3', 'mpheist3'], ['dlcsum20', 'mpsum'], ['dlchei4', 'mpheist4'], ['dlctuner', 'mptuner'], ['dlcsecurity', 'mpsecurity'], ['dlcg9ec', 'mpg9ec'], ['dlcmpsum2', 'mpsum2'], ['dlccm2022', 'mpchristmas3'], ['dlcmp2023_1', 'mp2023_01'], ['dlc23_2', 'mp2023_02'], ['dlc24-1', 'mp2024_01'], ['dlc24-2', 'mp2024_02']]
+# The order reflects their chronological release, with 'base' representing base game content.
+all_dlc = ['base', 'dlcbeach', 'dlcvalentines', 'dlcbusiness', 'dlcbusi2', 'dlcthelab', 'dlchipster', 'dlcindependence', 'dlcpilotschool', 'dlcmplts', 'dlcxmas2', 'dlcmpheist', 'dlcluxe', 'dlcthelab', 'dlcsfx1', 'dlclowrider', 'dlchalloween', 'dlcapartment', 'dlcxmas3', 'dlcjanuary2016', 'mpvalentines2', 'dlclow2', 'dlcexec1', 'dlcstunt', 'dlcbiker', 'dlcimportexport', 'dlcspecialraces', 'dlcgunrunning', 'dlcairraces', 'dlcsmuggler', 'dlcchristmas2017', 'dlcassault', 'dlcbattle', 'dlcawxm2018', 'dlcvinewood', 'dlcheist3', 'dlcsum20', 'dlchei4', 'dlctuner', 'dlcsecurity', 'dlcg9ec', 'dlcmpsum2', 'dlccm2022', 'dlcmp2023_1', 'dlc23_2', 'dlc24-1', 'dlc24-2']
 # Subset of the above DLCs that contain radio station metadata
-all_radio_dlc = [['base', ''], ['dlcthelab', 'patchday3ng'], ['dlcchristmas2017', 'mpchristmas2017'], ['dlcheist3', 'mpheist3'], ['dlcsum20', 'mpsum'], ['dlchei4', 'mpheist4'], ['dlctuner', 'mptuner'], ['dlcsecurity', 'mpsecurity'], ['dlcmpsum2', 'mpsum2'], ['dlc23_2', 'mp2023_02'], ['dlc24-1', 'mp2024_01']]
+all_radio_dlc = ['base', 'dlcthelab', 'dlcchristmas2017', 'dlcheist3', 'dlcsum20', 'dlchei4', 'dlctuner', 'dlcsecurity', 'dlcmpsum2', 'dlc23_2', 'dlc24-1']
 # List of all known radio station identifiers (excluding ones not shown on radio wheel)
 all_stations = ["radio_01_class_rock", "radio_02_pop", "radio_03_hiphop_new", "radio_04_punk", "radio_05_talk_01", "radio_06_country", "radio_07_dance_01", "radio_08_mexican", "radio_09_hiphop_old", "radio_11_talk_02", "radio_12_reggae", "radio_13_jazz", "radio_14_dance_02", "radio_15_motown", "radio_16_silverlake", "radio_17_funk", "radio_18_90s_rock", "radio_19_user", "radio_20_thelab", "radio_21_dlc_xm17", "radio_23_dlc_xm19_radio", "radio_27_dlc_prhei4", "radio_34_dlc_hei4_kult", "radio_35_dlc_hei4_mlr", "radio_36_audioplayer", "radio_37_motomami"]
 
-for dlc, dlc_folder in all_radio_dlc:
-    print(ANSI(f"\n\nLoading radio dlc: '{dlc or "game"}'").green())
+for dlc in all_radio_dlc:
+    print(ANSI(f"\n\nLoading radio dlc: '{ANSI(dlc).bold()}'").green())
     export_dlc_radio_info(all_stations, dlc)
 
-merge_exports([dlc for dlc, _ in all_radio_dlc])
+merge_exports(all_radio_dlc)
