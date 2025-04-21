@@ -346,6 +346,216 @@
                 "Offset": 2155645,
                 "Value": 0
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 35328,
+                "Value": "start"
+              },
+              {
+                "Offset": 44501,
+                "Value": "end"
+              },
+              {
+                "Offset": 72960,
+                "Value": "start"
+              },
+              {
+                "Offset": 82304,
+                "Value": "end"
+              },
+              {
+                "Offset": 110592,
+                "Value": "start"
+              },
+              {
+                "Offset": 119893,
+                "Value": "end"
+              },
+              {
+                "Offset": 148352,
+                "Value": "start"
+              },
+              {
+                "Offset": 157653,
+                "Value": "end"
+              },
+              {
+                "Offset": 287317,
+                "Value": "start"
+              },
+              {
+                "Offset": 297728,
+                "Value": "end"
+              },
+              {
+                "Offset": 328021,
+                "Value": "start"
+              },
+              {
+                "Offset": 348842,
+                "Value": "end"
+              },
+              {
+                "Offset": 409685,
+                "Value": "start"
+              },
+              {
+                "Offset": 451072,
+                "Value": "end"
+              },
+              {
+                "Offset": 538026,
+                "Value": "start"
+              },
+              {
+                "Offset": 549376,
+                "Value": "end"
+              },
+              {
+                "Offset": 573866,
+                "Value": "start"
+              },
+              {
+                "Offset": 598016,
+                "Value": "end"
+              },
+              {
+                "Offset": 622506,
+                "Value": "start"
+              },
+              {
+                "Offset": 646826,
+                "Value": "end"
+              },
+              {
+                "Offset": 695381,
+                "Value": "start"
+              },
+              {
+                "Offset": 719616,
+                "Value": "end"
+              },
+              {
+                "Offset": 809386,
+                "Value": "start"
+              },
+              {
+                "Offset": 841386,
+                "Value": "end"
+              },
+              {
+                "Offset": 862976,
+                "Value": "start"
+              },
+              {
+                "Offset": 873813,
+                "Value": "end"
+              },
+              {
+                "Offset": 916992,
+                "Value": "start"
+              },
+              {
+                "Offset": 937557,
+                "Value": "end"
+              },
+              {
+                "Offset": 1053696,
+                "Value": "start"
+              },
+              {
+                "Offset": 1073408,
+                "Value": "end"
+              },
+              {
+                "Offset": 1117781,
+                "Value": "start"
+              },
+              {
+                "Offset": 1137237,
+                "Value": "end"
+              },
+              {
+                "Offset": 1181952,
+                "Value": "start"
+              },
+              {
+                "Offset": 1201578,
+                "Value": "end"
+              },
+              {
+                "Offset": 1241344,
+                "Value": "start"
+              },
+              {
+                "Offset": 1280853,
+                "Value": "end"
+              },
+              {
+                "Offset": 1434624,
+                "Value": "start"
+              },
+              {
+                "Offset": 1454336,
+                "Value": "end"
+              },
+              {
+                "Offset": 1493674,
+                "Value": "start"
+              },
+              {
+                "Offset": 1513130,
+                "Value": "end"
+              },
+              {
+                "Offset": 1552298,
+                "Value": "start"
+              },
+              {
+                "Offset": 1591125,
+                "Value": "end"
+              },
+              {
+                "Offset": 1635754,
+                "Value": "start"
+              },
+              {
+                "Offset": 1666389,
+                "Value": "end"
+              },
+              {
+                "Offset": 1726890,
+                "Value": "start"
+              },
+              {
+                "Offset": 1755477,
+                "Value": "end"
+              },
+              {
+                "Offset": 1817770,
+                "Value": "start"
+              },
+              {
+                "Offset": 1846613,
+                "Value": "end"
+              },
+              {
+                "Offset": 2018304,
+                "Value": "start"
+              },
+              {
+                "Offset": 2063872,
+                "Value": "end"
+              },
+              {
+                "Offset": 2109781,
+                "Value": "start"
+              },
+              {
+                "Offset": 2132480,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -596,7 +806,7 @@
                 "Value": 32
               },
               {
-                "Offset": 1054455,
+                "Offset": 1054454,
                 "Value": 32
               },
               {
@@ -658,6 +868,128 @@
               {
                 "Offset": 1257367,
                 "Value": 0
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 86080,
+                "Value": "start"
+              },
+              {
+                "Offset": 105600,
+                "Value": "end"
+              },
+              {
+                "Offset": 135060,
+                "Value": "start"
+              },
+              {
+                "Offset": 154112,
+                "Value": "end"
+              },
+              {
+                "Offset": 232832,
+                "Value": "start"
+              },
+              {
+                "Offset": 251306,
+                "Value": "end"
+              },
+              {
+                "Offset": 310357,
+                "Value": "start"
+              },
+              {
+                "Offset": 333141,
+                "Value": "end"
+              },
+              {
+                "Offset": 377514,
+                "Value": "start"
+              },
+              {
+                "Offset": 399957,
+                "Value": "end"
+              },
+              {
+                "Offset": 539050,
+                "Value": "start"
+              },
+              {
+                "Offset": 559018,
+                "Value": "end"
+              },
+              {
+                "Offset": 579072,
+                "Value": "start"
+              },
+              {
+                "Offset": 598869,
+                "Value": "end"
+              },
+              {
+                "Offset": 678997,
+                "Value": "start"
+              },
+              {
+                "Offset": 698880,
+                "Value": "end"
+              },
+              {
+                "Offset": 753066,
+                "Value": "start"
+              },
+              {
+                "Offset": 777130,
+                "Value": "end"
+              },
+              {
+                "Offset": 837845,
+                "Value": "start"
+              },
+              {
+                "Offset": 861696,
+                "Value": "end"
+              },
+              {
+                "Offset": 922368,
+                "Value": "start"
+              },
+              {
+                "Offset": 946346,
+                "Value": "end"
+              },
+              {
+                "Offset": 1031573,
+                "Value": "start"
+              },
+              {
+                "Offset": 1042880,
+                "Value": "end"
+              },
+              {
+                "Offset": 1065813,
+                "Value": "start"
+              },
+              {
+                "Offset": 1088576,
+                "Value": "end"
+              },
+              {
+                "Offset": 1122922,
+                "Value": "start"
+              },
+              {
+                "Offset": 1145834,
+                "Value": "end"
+              },
+              {
+                "Offset": 1180096,
+                "Value": "start"
+              },
+              {
+                "Offset": 1202965,
+                "Value": "end"
               }
             ]
           }

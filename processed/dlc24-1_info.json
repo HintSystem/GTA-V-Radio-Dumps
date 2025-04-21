@@ -16,91 +16,120 @@
       "Category": "2",
       "Tracks": [
         {
-          "Id": "hei4_radio_kult_age_of_consent"
+          "Id": "hei4_radio_kult_age_of_consent",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_alien_crime_lord"
+          "Id": "hei4_radio_kult_alien_crime_lord",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_baby_i_love_you_so"
+          "Id": "hei4_radio_kult_baby_i_love_you_so",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_cycle"
+          "Id": "hei4_radio_kult_cycle",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_deep"
+          "Id": "hei4_radio_kult_deep",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_down_on_the_street"
+          "Id": "hei4_radio_kult_down_on_the_street",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_drab_measure"
+          "Id": "hei4_radio_kult_drab_measure",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_eisbar"
+          "Id": "hei4_radio_kult_eisbar",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_faceless"
+          "Id": "hei4_radio_kult_faceless",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_four_shadows"
+          "Id": "hei4_radio_kult_four_shadows",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_girls_and_boys"
+          "Id": "hei4_radio_kult_girls_and_boys",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_hard_to_explain"
+          "Id": "hei4_radio_kult_hard_to_explain",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_human_fly"
+          "Id": "hei4_radio_kult_human_fly",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_its_yours"
+          "Id": "hei4_radio_kult_its_yours",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_liebe_auf_den_ersten_blick"
+          "Id": "hei4_radio_kult_liebe_auf_den_ersten_blick",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_many_tears_ago"
+          "Id": "hei4_radio_kult_many_tears_ago",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_nightclubbing"
+          "Id": "hei4_radio_kult_nightclubbing",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_on_the_level"
+          "Id": "hei4_radio_kult_on_the_level",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_pool_song"
+          "Id": "hei4_radio_kult_pool_song",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_raga_madhuvanti"
+          "Id": "hei4_radio_kult_raga_madhuvanti",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_rock_and_roll"
+          "Id": "hei4_radio_kult_rock_and_roll",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_shes_lost_control"
+          "Id": "hei4_radio_kult_shes_lost_control",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_so_it_goes"
+          "Id": "hei4_radio_kult_so_it_goes",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_tainted_love"
+          "Id": "hei4_radio_kult_tainted_love",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_take_down_the_house"
+          "Id": "hei4_radio_kult_take_down_the_house",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_the_adults_are_talking"
+          "Id": "hei4_radio_kult_the_adults_are_talking",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_this_is_the_day"
+          "Id": "hei4_radio_kult_this_is_the_day",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_time_bomb"
+          "Id": "hei4_radio_kult_time_bomb",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_too_much_money"
+          "Id": "hei4_radio_kult_too_much_money",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
           "Id": "dlc_24-1_tv_casualty",
@@ -151,20 +180,60 @@
                 "Offset": 113350,
                 "Value": 8
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3570,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 6780,
+                "Value": "intro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 21584,
+                "Value": "start"
+              },
+              {
+                "Offset": 35834,
+                "Value": "end"
+              },
+              {
+                "Offset": 50056,
+                "Value": "start"
+              },
+              {
+                "Offset": 77970,
+                "Value": "end"
+              },
+              {
+                "Offset": 106275,
+                "Value": "start"
+              },
+              {
+                "Offset": 117128,
+                "Value": "end"
+              }
             ]
           }
         },
         {
-          "Id": "hei4_radio_kult_typical_girls"
+          "Id": "hei4_radio_kult_typical_girls",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_lft_me_lonely"
+          "Id": "hei4_radio_kult_lft_me_lonely",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_going_back_to_cali"
+          "Id": "hei4_radio_kult_going_back_to_cali",
+          "TrackList": "hei4_radio_kult_music"
         },
         {
-          "Id": "hei4_radio_kult_where_no_eagles_fly"
+          "Id": "hei4_radio_kult_where_no_eagles_fly",
+          "TrackList": "hei4_radio_kult_music"
         }
       ]
     }

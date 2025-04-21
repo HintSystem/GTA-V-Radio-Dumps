@@ -188,7 +188,7 @@
                 "Value": 32
               },
               {
-                "Offset": 761520,
+                "Offset": 761519,
                 "Value": 16
               },
               {
@@ -256,7 +256,7 @@
                 "Value": 12
               },
               {
-                "Offset": 1222263,
+                "Offset": 1222262,
                 "Value": 0
               },
               {
@@ -292,7 +292,7 @@
                 "Value": 128
               },
               {
-                "Offset": 1523596,
+                "Offset": 1523595,
                 "Value": 36
               },
               {
@@ -318,6 +318,104 @@
               {
                 "Offset": 1859937,
                 "Value": 1
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 60711,
+                "Value": "start"
+              },
+              {
+                "Offset": 89863,
+                "Value": "end"
+              },
+              {
+                "Offset": 113207,
+                "Value": "start"
+              },
+              {
+                "Offset": 139991,
+                "Value": "end"
+              },
+              {
+                "Offset": 217294,
+                "Value": "start"
+              },
+              {
+                "Offset": 231084,
+                "Value": "end"
+              },
+              {
+                "Offset": 443242,
+                "Value": "start"
+              },
+              {
+                "Offset": 461054,
+                "Value": "end"
+              },
+              {
+                "Offset": 611118,
+                "Value": "start"
+              },
+              {
+                "Offset": 638626,
+                "Value": "end"
+              },
+              {
+                "Offset": 710948,
+                "Value": "start"
+              },
+              {
+                "Offset": 736150,
+                "Value": "end"
+              },
+              {
+                "Offset": 799277,
+                "Value": "start"
+              },
+              {
+                "Offset": 821379,
+                "Value": "end"
+              },
+              {
+                "Offset": 931419,
+                "Value": "start"
+              },
+              {
+                "Offset": 953395,
+                "Value": "end"
+              },
+              {
+                "Offset": 1045102,
+                "Value": "start"
+              },
+              {
+                "Offset": 1073151,
+                "Value": "end"
+              },
+              {
+                "Offset": 1100798,
+                "Value": "start"
+              },
+              {
+                "Offset": 1128374,
+                "Value": "end"
+              },
+              {
+                "Offset": 1621021,
+                "Value": "start"
+              },
+              {
+                "Offset": 1652889,
+                "Value": "end"
+              },
+              {
+                "Offset": 1748538,
+                "Value": "start"
+              },
+              {
+                "Offset": 1780466,
+                "Value": "end"
               }
             ]
           }
@@ -506,7 +604,7 @@
                 "Value": 64
               },
               {
-                "Offset": 995124,
+                "Offset": 995123,
                 "Value": 128
               },
               {
@@ -538,7 +636,7 @@
                 "Value": 32
               },
               {
-                "Offset": 1362114,
+                "Offset": 1362113,
                 "Value": 32
               },
               {
@@ -550,7 +648,7 @@
                 "Value": 32
               },
               {
-                "Offset": 1451713,
+                "Offset": 1451712,
                 "Value": 16
               },
               {
@@ -637,6 +735,160 @@
                 "Offset": 2354031,
                 "Value": 0
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 112803,
+                "Value": "start"
+              },
+              {
+                "Offset": 152097,
+                "Value": "end"
+              },
+              {
+                "Offset": 230838,
+                "Value": "start"
+              },
+              {
+                "Offset": 270159,
+                "Value": "end"
+              },
+              {
+                "Offset": 335572,
+                "Value": "start"
+              },
+              {
+                "Offset": 359689,
+                "Value": "end"
+              },
+              {
+                "Offset": 546951,
+                "Value": "start"
+              },
+              {
+                "Offset": 562113,
+                "Value": "end"
+              },
+              {
+                "Offset": 591486,
+                "Value": "start"
+              },
+              {
+                "Offset": 620705,
+                "Value": "end"
+              },
+              {
+                "Offset": 694030,
+                "Value": "start"
+              },
+              {
+                "Offset": 715510,
+                "Value": "end"
+              },
+              {
+                "Offset": 752763,
+                "Value": "start"
+              },
+              {
+                "Offset": 773296,
+                "Value": "end"
+              },
+              {
+                "Offset": 817290,
+                "Value": "start"
+              },
+              {
+                "Offset": 828372,
+                "Value": "end"
+              },
+              {
+                "Offset": 877923,
+                "Value": "start"
+              },
+              {
+                "Offset": 894451,
+                "Value": "end"
+              },
+              {
+                "Offset": 1059109,
+                "Value": "start"
+              },
+              {
+                "Offset": 1069808,
+                "Value": "end"
+              },
+              {
+                "Offset": 1106977,
+                "Value": "start"
+              },
+              {
+                "Offset": 1133704,
+                "Value": "end"
+              },
+              {
+                "Offset": 1250357,
+                "Value": "start"
+              },
+              {
+                "Offset": 1272784,
+                "Value": "end"
+              },
+              {
+                "Offset": 1339723,
+                "Value": "start"
+              },
+              {
+                "Offset": 1369086,
+                "Value": "end"
+              },
+              {
+                "Offset": 1436781,
+                "Value": "start"
+              },
+              {
+                "Offset": 1451717,
+                "Value": "end"
+              },
+              {
+                "Offset": 1580411,
+                "Value": "start"
+              },
+              {
+                "Offset": 1595988,
+                "Value": "end"
+              },
+              {
+                "Offset": 1757187,
+                "Value": "start"
+              },
+              {
+                "Offset": 1785159,
+                "Value": "end"
+              },
+              {
+                "Offset": 1929217,
+                "Value": "start"
+              },
+              {
+                "Offset": 1960229,
+                "Value": "end"
+              },
+              {
+                "Offset": 2066355,
+                "Value": "start"
+              },
+              {
+                "Offset": 2081638,
+                "Value": "end"
+              },
+              {
+                "Offset": 2196932,
+                "Value": "start"
+              },
+              {
+                "Offset": 2231720,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -692,7 +944,7 @@
                 "Artist": "JME FEAT. GIGGS"
               },
               {
-                "Offset": 1655069,
+                "Offset": 1655068,
                 "Title": "Master",
                 "Artist": "(SANDY) ALEX G"
               },
@@ -788,7 +1040,7 @@
                 "Value": 64
               },
               {
-                "Offset": 726940,
+                "Offset": 726939,
                 "Value": 32
               },
               {
@@ -958,6 +1210,128 @@
               {
                 "Offset": 1915549,
                 "Value": 0
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 30929,
+                "Value": "start"
+              },
+              {
+                "Offset": 46214,
+                "Value": "end"
+              },
+              {
+                "Offset": 129158,
+                "Value": "start"
+              },
+              {
+                "Offset": 158186,
+                "Value": "end"
+              },
+              {
+                "Offset": 234379,
+                "Value": "start"
+              },
+              {
+                "Offset": 260340,
+                "Value": "end"
+              },
+              {
+                "Offset": 286308,
+                "Value": "start"
+              },
+              {
+                "Offset": 312254,
+                "Value": "end"
+              },
+              {
+                "Offset": 338209,
+                "Value": "start"
+              },
+              {
+                "Offset": 364126,
+                "Value": "end"
+              },
+              {
+                "Offset": 395133,
+                "Value": "start"
+              },
+              {
+                "Offset": 426482,
+                "Value": "end"
+              },
+              {
+                "Offset": 917209,
+                "Value": "start"
+              },
+              {
+                "Offset": 940849,
+                "Value": "end"
+              },
+              {
+                "Offset": 1019974,
+                "Value": "start"
+              },
+              {
+                "Offset": 1043267,
+                "Value": "end"
+              },
+              {
+                "Offset": 1096280,
+                "Value": "start"
+              },
+              {
+                "Offset": 1124239,
+                "Value": "end"
+              },
+              {
+                "Offset": 1166258,
+                "Value": "start"
+              },
+              {
+                "Offset": 1190729,
+                "Value": "end"
+              },
+              {
+                "Offset": 1236410,
+                "Value": "start"
+              },
+              {
+                "Offset": 1264411,
+                "Value": "end"
+              },
+              {
+                "Offset": 1529049,
+                "Value": "start"
+              },
+              {
+                "Offset": 1541491,
+                "Value": "end"
+              },
+              {
+                "Offset": 1623776,
+                "Value": "start"
+              },
+              {
+                "Offset": 1651189,
+                "Value": "end"
+              },
+              {
+                "Offset": 1736085,
+                "Value": "start"
+              },
+              {
+                "Offset": 1753980,
+                "Value": "end"
+              },
+              {
+                "Offset": 1866080,
+                "Value": "start"
+              },
+              {
+                "Offset": 1890791,
+                "Value": "end"
               }
             ]
           }

@@ -16,109 +16,220 @@
       "Category": "2",
       "Tracks": [
         {
-          "Id": "dlc_security_music_radio_ap_dre_ap_dre_black_privilege"
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_black_privilege",
+          "TrackList": "fixer_ap_lowriders_mix"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_stir_fry"
+          "Id": "dlc_security_music_radio_03_hiphop_new_stir_fry",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_ski"
+          "Id": "dlc_security_music_radio_03_hiphop_new_ski",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_wow_freestyle"
+          "Id": "dlc_security_music_radio_03_hiphop_new_wow_freestyle",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_a_vibe"
+          "Id": "dlc_security_music_radio_03_hiphop_new_a_vibe",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_ap_dre_ap_dre_diamond_mind"
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_diamond_mind",
+          "TrackList": "radio_ap_dre"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_feed_dope"
+          "Id": "dlc_security_music_radio_03_hiphop_new_feed_dope",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_kung_fu"
+          "Id": "dlc_security_music_radio_03_hiphop_new_kung_fu",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_plain_jane"
+          "Id": "dlc_security_music_radio_03_hiphop_new_plain_jane",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_ap_dre_ap_dre_eta"
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_eta",
+          "TrackList": "radio_ap_dre"
         },
         {
           "Id": "dlc_mpsum2_radio_03_hiphop_new_zeze",
           "Path": "dlc_mpsum2/zeze",
-          "Duration": 226261
+          "Duration": 226261,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "ZEZE",
+                "Artist": "KODAK BLACK FEAT. TRAVIS SCOTT & OFFSET"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3840,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 8810,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 207488,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 221536,
+                "Value": "outro_end"
+              }
+            ]
+          }
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_go_live"
+          "Id": "dlc_security_music_radio_03_hiphop_new_go_live",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_ap_dre_ap_dre_the_scenic_route"
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_the_scenic_route",
+          "TrackList": "radio_ap_dre"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_flex"
+          "Id": "dlc_security_music_radio_03_hiphop_new_flex",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_lemonhead"
+          "Id": "dlc_security_music_radio_03_hiphop_new_lemonhead",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
           "Id": "dlc_mpsum2_radio_03_hiphop_new_my_type",
           "Path": "dlc_mpsum2/my_type",
-          "Duration": 125376
+          "Duration": 125376,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "My Type",
+                "Artist": "SAWEETIE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5388,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9962,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 114581,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 121984,
+                "Value": "outro_end"
+              }
+            ]
+          }
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_big_subwoofer"
+          "Id": "dlc_security_music_radio_03_hiphop_new_big_subwoofer",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_ap_dre_ap_dre_gospel"
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_gospel",
+          "TrackList": "radio_ap_dre"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_big_fish"
+          "Id": "dlc_security_music_radio_03_hiphop_new_big_fish",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_chrome_hearts"
+          "Id": "dlc_security_music_radio_03_hiphop_new_chrome_hearts",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_ap_dre_ap_dre_fallin_up"
+          "Id": "dlc_security_music_radio_ap_dre_ap_dre_fallin_up",
+          "TrackList": "radio_ap_dre"
         },
         {
           "Id": "dlc_mpsum2_radio_03_hiphop_new_the_box",
           "Path": "dlc_mpsum2/the_box",
-          "Duration": 196652
+          "Duration": 196652,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "The Box",
+                "Artist": "RODDY RICCH"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5034,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15616,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 180565,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 191488,
+                "Value": "outro_end"
+              }
+            ]
+          }
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_low_life"
+          "Id": "dlc_security_music_radio_03_hiphop_new_low_life",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_lockjaw"
+          "Id": "dlc_security_music_radio_03_hiphop_new_lockjaw",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_what_a_life"
+          "Id": "dlc_security_music_radio_03_hiphop_new_what_a_life",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_ap_dscvrbl_mix_2_schoolboy_lets_get_it"
+          "Id": "dlc_security_music_radio_ap_dscvrbl_mix_2_schoolboy_lets_get_it",
+          "TrackList": "fixer_ap_dscvrbl_mix_2"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_pick_the_phone_up"
+          "Id": "dlc_security_music_radio_03_hiphop_new_pick_the_phone_up",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_miami_vice"
+          "Id": "dlc_security_music_radio_03_hiphop_new_miami_vice",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_xl"
+          "Id": "dlc_security_music_radio_03_hiphop_new_xl",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_so_fancy"
+          "Id": "dlc_security_music_radio_03_hiphop_new_so_fancy",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_blue_cheese"
+          "Id": "dlc_security_music_radio_03_hiphop_new_blue_cheese",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_hoppin_out"
+          "Id": "dlc_security_music_radio_03_hiphop_new_hoppin_out",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         },
         {
-          "Id": "dlc_security_music_radio_03_hiphop_new_coochie"
+          "Id": "dlc_security_music_radio_03_hiphop_new_coochie",
+          "TrackList": "radio_03_hiphop_new_dd_music_post_launch"
         }
       ]
     }

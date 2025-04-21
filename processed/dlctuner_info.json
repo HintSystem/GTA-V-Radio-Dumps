@@ -245,7 +245,7 @@
           "Markers": {
             "Track": [
               {
-                "Offset": 1000,
+                "Offset": 0,
                 "Title": "9 Nights 2 Nowhere",
                 "Artist": "MOODYMANN"
               },
@@ -459,7 +459,7 @@
                 "Value": 64
               },
               {
-                "Offset": 1347959,
+                "Offset": 1347958,
                 "Value": 64
               },
               {
@@ -487,7 +487,7 @@
                 "Value": 64
               },
               {
-                "Offset": 1573509,
+                "Offset": 1573508,
                 "Value": 64
               },
               {
@@ -495,7 +495,7 @@
                 "Value": 64
               },
               {
-                "Offset": 1637764,
+                "Offset": 1637763,
                 "Value": 64
               },
               {
@@ -521,6 +521,40 @@
               {
                 "Offset": 1803110,
                 "Value": 10
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 501258,
+                "Value": "start"
+              },
+              {
+                "Offset": 560097,
+                "Value": "end"
+              },
+              {
+                "Offset": 1171400,
+                "Value": "start"
+              },
+              {
+                "Offset": 1205661,
+                "Value": "end"
+              },
+              {
+                "Offset": 1529022,
+                "Value": "start"
+              },
+              {
+                "Offset": 1573394,
+                "Value": "end"
+              },
+              {
+                "Offset": 1743950,
+                "Value": "start"
+              },
+              {
+                "Offset": 1791712,
+                "Value": "end"
               }
             ]
           }
@@ -671,7 +705,7 @@
                 "Value": 64
               },
               {
-                "Offset": 893263,
+                "Offset": 893262,
                 "Value": 64
               },
               {
@@ -697,6 +731,56 @@
               {
                 "Offset": 1081651,
                 "Value": 23
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 112873,
+                "Value": "start"
+              },
+              {
+                "Offset": 144752,
+                "Value": "end"
+              },
+              {
+                "Offset": 224531,
+                "Value": "start"
+              },
+              {
+                "Offset": 259504,
+                "Value": "end"
+              },
+              {
+                "Offset": 513092,
+                "Value": "start"
+              },
+              {
+                "Offset": 548151,
+                "Value": "end"
+              },
+              {
+                "Offset": 601672,
+                "Value": "start"
+              },
+              {
+                "Offset": 635418,
+                "Value": "end"
+              },
+              {
+                "Offset": 863762,
+                "Value": "start"
+              },
+              {
+                "Offset": 901695,
+                "Value": "end"
+              },
+              {
+                "Offset": 980938,
+                "Value": "start"
+              },
+              {
+                "Offset": 1026198,
+                "Value": "end"
               }
             ]
           }
@@ -830,7 +914,7 @@
                 "Value": 32
               },
               {
-                "Offset": 822756,
+                "Offset": 822755,
                 "Value": 16
               },
               {
@@ -842,7 +926,7 @@
                 "Value": 0
               },
               {
-                "Offset": 856666,
+                "Offset": 856665,
                 "Value": 64
               },
               {
@@ -908,6 +992,40 @@
               {
                 "Offset": 1364702,
                 "Value": 0
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 153262,
+                "Value": "start"
+              },
+              {
+                "Offset": 198096,
+                "Value": "end"
+              },
+              {
+                "Offset": 447998,
+                "Value": "start"
+              },
+              {
+                "Offset": 516405,
+                "Value": "end"
+              },
+              {
+                "Offset": 649984,
+                "Value": "start"
+              },
+              {
+                "Offset": 692970,
+                "Value": "end"
+              },
+              {
+                "Offset": 1070898,
+                "Value": "start"
+              },
+              {
+                "Offset": 1106644,
+                "Value": "end"
               }
             ]
           }
@@ -1094,7 +1212,7 @@
                 "Value": 64
               },
               {
-                "Offset": 1347959,
+                "Offset": 1347958,
                 "Value": 64
               },
               {
@@ -1122,7 +1240,7 @@
                 "Value": 64
               },
               {
-                "Offset": 1573509,
+                "Offset": 1573508,
                 "Value": 64
               },
               {
@@ -1130,7 +1248,7 @@
                 "Value": 64
               },
               {
-                "Offset": 1637764,
+                "Offset": 1637763,
                 "Value": 64
               },
               {
@@ -1156,6 +1274,40 @@
               {
                 "Offset": 1803110,
                 "Value": 10
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 501258,
+                "Value": "start"
+              },
+              {
+                "Offset": 560097,
+                "Value": "end"
+              },
+              {
+                "Offset": 1171400,
+                "Value": "start"
+              },
+              {
+                "Offset": 1205661,
+                "Value": "end"
+              },
+              {
+                "Offset": 1529022,
+                "Value": "start"
+              },
+              {
+                "Offset": 1573394,
+                "Value": "end"
+              },
+              {
+                "Offset": 1743950,
+                "Value": "start"
+              },
+              {
+                "Offset": 1791712,
+                "Value": "end"
               }
             ]
           }
@@ -1306,7 +1458,7 @@
                 "Value": 64
               },
               {
-                "Offset": 893263,
+                "Offset": 893262,
                 "Value": 64
               },
               {
@@ -1332,6 +1484,56 @@
               {
                 "Offset": 1081651,
                 "Value": 23
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 112873,
+                "Value": "start"
+              },
+              {
+                "Offset": 144752,
+                "Value": "end"
+              },
+              {
+                "Offset": 224531,
+                "Value": "start"
+              },
+              {
+                "Offset": 259504,
+                "Value": "end"
+              },
+              {
+                "Offset": 513092,
+                "Value": "start"
+              },
+              {
+                "Offset": 548151,
+                "Value": "end"
+              },
+              {
+                "Offset": 601672,
+                "Value": "start"
+              },
+              {
+                "Offset": 635418,
+                "Value": "end"
+              },
+              {
+                "Offset": 863762,
+                "Value": "start"
+              },
+              {
+                "Offset": 901695,
+                "Value": "end"
+              },
+              {
+                "Offset": 980938,
+                "Value": "start"
+              },
+              {
+                "Offset": 1026198,
+                "Value": "end"
               }
             ]
           }
@@ -1465,7 +1667,7 @@
                 "Value": 32
               },
               {
-                "Offset": 822756,
+                "Offset": 822755,
                 "Value": 16
               },
               {
@@ -1477,7 +1679,7 @@
                 "Value": 0
               },
               {
-                "Offset": 856666,
+                "Offset": 856665,
                 "Value": 64
               },
               {
@@ -1544,6 +1746,40 @@
                 "Offset": 1364702,
                 "Value": 0
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 153262,
+                "Value": "start"
+              },
+              {
+                "Offset": 198096,
+                "Value": "end"
+              },
+              {
+                "Offset": 447998,
+                "Value": "start"
+              },
+              {
+                "Offset": 516405,
+                "Value": "end"
+              },
+              {
+                "Offset": 649984,
+                "Value": "start"
+              },
+              {
+                "Offset": 692970,
+                "Value": "end"
+              },
+              {
+                "Offset": 1070898,
+                "Value": "start"
+              },
+              {
+                "Offset": 1106644,
+                "Value": "end"
+              }
             ]
           }
         }
@@ -1580,7 +1816,7 @@
                 "Artist": "DEICHKIND"
               },
               {
-                "Offset": 1374809,
+                "Offset": 1374808,
                 "Title": "You",
                 "Artist": "KERRI CHANDLER"
               }
@@ -1619,12 +1855,134 @@
                 "Value": 1
               },
               {
-                "Offset": 1374809,
+                "Offset": 1374808,
                 "Value": 816
               },
               {
                 "Offset": 1760320,
                 "Value": 2
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 69164,
+                "Value": "start"
+              },
+              {
+                "Offset": 86444,
+                "Value": "end"
+              },
+              {
+                "Offset": 130604,
+                "Value": "start"
+              },
+              {
+                "Offset": 159404,
+                "Value": "end"
+              },
+              {
+                "Offset": 308270,
+                "Value": "start"
+              },
+              {
+                "Offset": 323270,
+                "Value": "end"
+              },
+              {
+                "Offset": 353270,
+                "Value": "start"
+              },
+              {
+                "Offset": 381395,
+                "Value": "end"
+              },
+              {
+                "Offset": 503270,
+                "Value": "start"
+              },
+              {
+                "Offset": 530926,
+                "Value": "end"
+              },
+              {
+                "Offset": 748578,
+                "Value": "start"
+              },
+              {
+                "Offset": 779797,
+                "Value": "end"
+              },
+              {
+                "Offset": 920285,
+                "Value": "start"
+              },
+              {
+                "Offset": 935895,
+                "Value": "end"
+              },
+              {
+                "Offset": 951504,
+                "Value": "start"
+              },
+              {
+                "Offset": 974919,
+                "Value": "end"
+              },
+              {
+                "Offset": 1093519,
+                "Value": "start"
+              },
+              {
+                "Offset": 1124739,
+                "Value": "end"
+              },
+              {
+                "Offset": 1171568,
+                "Value": "start"
+              },
+              {
+                "Offset": 1202787,
+                "Value": "end"
+              },
+              {
+                "Offset": 1249617,
+                "Value": "start"
+              },
+              {
+                "Offset": 1280836,
+                "Value": "end"
+              },
+              {
+                "Offset": 1312056,
+                "Value": "start"
+              },
+              {
+                "Offset": 1327665,
+                "Value": "end"
+              },
+              {
+                "Offset": 1435281,
+                "Value": "start"
+              },
+              {
+                "Offset": 1465517,
+                "Value": "end"
+              },
+              {
+                "Offset": 1571344,
+                "Value": "start"
+              },
+              {
+                "Offset": 1594021,
+                "Value": "end"
+              },
+              {
+                "Offset": 1654494,
+                "Value": "start"
+              },
+              {
+                "Offset": 1684730,
+                "Value": "end"
               }
             ]
           }
@@ -1708,6 +2066,96 @@
                 "Offset": 1829225,
                 "Value": 26
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 30024,
+                "Value": "start"
+              },
+              {
+                "Offset": 45024,
+                "Value": "end"
+              },
+              {
+                "Offset": 135024,
+                "Value": "start"
+              },
+              {
+                "Offset": 165024,
+                "Value": "end"
+              },
+              {
+                "Offset": 360023,
+                "Value": "start"
+              },
+              {
+                "Offset": 390023,
+                "Value": "end"
+              },
+              {
+                "Offset": 472523,
+                "Value": "start"
+              },
+              {
+                "Offset": 502523,
+                "Value": "end"
+              },
+              {
+                "Offset": 585023,
+                "Value": "start"
+              },
+              {
+                "Offset": 607523,
+                "Value": "end"
+              },
+              {
+                "Offset": 660023,
+                "Value": "start"
+              },
+              {
+                "Offset": 682523,
+                "Value": "end"
+              },
+              {
+                "Offset": 1111766,
+                "Value": "start"
+              },
+              {
+                "Offset": 1138433,
+                "Value": "end"
+              },
+              {
+                "Offset": 1256528,
+                "Value": "start"
+              },
+              {
+                "Offset": 1285100,
+                "Value": "end"
+              },
+              {
+                "Offset": 1334624,
+                "Value": "start"
+              },
+              {
+                "Offset": 1355576,
+                "Value": "end"
+              },
+              {
+                "Offset": 1529226,
+                "Value": "start"
+              },
+              {
+                "Offset": 1547129,
+                "Value": "end"
+              },
+              {
+                "Offset": 1713096,
+                "Value": "start"
+              },
+              {
+                "Offset": 1744064,
+                "Value": "end"
+              }
             ]
           }
         }
@@ -1744,7 +2192,7 @@
                 "Artist": "RED AXES"
               },
               {
-                "Offset": 1620104,
+                "Offset": 1620103,
                 "Title": "Mantra For Lizzie",
                 "Artist": "LUCIANO"
               }
@@ -1783,12 +2231,86 @@
                 "Value": 24
               },
               {
-                "Offset": 1620104,
+                "Offset": 1620103,
                 "Value": 1368
               },
               {
-                "Offset": 2304104,
+                "Offset": 2304103,
                 "Value": 25
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 45380,
+                "Value": "start"
+              },
+              {
+                "Offset": 60498,
+                "Value": "end"
+              },
+              {
+                "Offset": 166325,
+                "Value": "start"
+              },
+              {
+                "Offset": 196561,
+                "Value": "end"
+              },
+              {
+                "Offset": 257033,
+                "Value": "start"
+              },
+              {
+                "Offset": 287270,
+                "Value": "end"
+              },
+              {
+                "Offset": 1331835,
+                "Value": "start"
+              },
+              {
+                "Offset": 1349835,
+                "Value": "end"
+              },
+              {
+                "Offset": 1379835,
+                "Value": "start"
+              },
+              {
+                "Offset": 1394835,
+                "Value": "end"
+              },
+              {
+                "Offset": 1427835,
+                "Value": "start"
+              },
+              {
+                "Offset": 1443835,
+                "Value": "end"
+              },
+              {
+                "Offset": 1495835,
+                "Value": "start"
+              },
+              {
+                "Offset": 1515335,
+                "Value": "end"
+              },
+              {
+                "Offset": 1999603,
+                "Value": "start"
+              },
+              {
+                "Offset": 2030103,
+                "Value": "end"
+              },
+              {
+                "Offset": 2105603,
+                "Value": "start"
+              },
+              {
+                "Offset": 2163603,
+                "Value": "end"
               }
             ]
           }
@@ -1879,6 +2401,88 @@
               {
                 "Offset": 1942605,
                 "Value": 34
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 222189,
+                "Value": "start"
+              },
+              {
+                "Offset": 241528,
+                "Value": "end"
+              },
+              {
+                "Offset": 503908,
+                "Value": "start"
+              },
+              {
+                "Offset": 530365,
+                "Value": "end"
+              },
+              {
+                "Offset": 685325,
+                "Value": "start"
+              },
+              {
+                "Offset": 711782,
+                "Value": "end"
+              },
+              {
+                "Offset": 878937,
+                "Value": "start"
+              },
+              {
+                "Offset": 909657,
+                "Value": "end"
+              },
+              {
+                "Offset": 1017177,
+                "Value": "start"
+              },
+              {
+                "Offset": 1047897,
+                "Value": "end"
+              },
+              {
+                "Offset": 1250177,
+                "Value": "start"
+              },
+              {
+                "Offset": 1273783,
+                "Value": "end"
+              },
+              {
+                "Offset": 1344603,
+                "Value": "start"
+              },
+              {
+                "Offset": 1368210,
+                "Value": "end"
+              },
+              {
+                "Offset": 1642617,
+                "Value": "start"
+              },
+              {
+                "Offset": 1666032,
+                "Value": "end"
+              },
+              {
+                "Offset": 1783105,
+                "Value": "start"
+              },
+              {
+                "Offset": 1812373,
+                "Value": "end"
+              },
+              {
+                "Offset": 1876763,
+                "Value": "start"
+              },
+              {
+                "Offset": 1906520,
+                "Value": "end"
               }
             ]
           }

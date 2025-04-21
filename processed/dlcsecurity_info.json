@@ -297,6 +297,92 @@
                 "Title": "The Box",
                 "Artist": "RODDY RICCH"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 16298,
+                "Value": 32
+              },
+              {
+                "Offset": 32768,
+                "Value": 32
+              },
+              {
+                "Offset": 49152,
+                "Value": 32
+              },
+              {
+                "Offset": 65536,
+                "Value": 32
+              },
+              {
+                "Offset": 81920,
+                "Value": 32
+              },
+              {
+                "Offset": 98389,
+                "Value": 32
+              },
+              {
+                "Offset": 114773,
+                "Value": 32
+              },
+              {
+                "Offset": 131242,
+                "Value": 32
+              },
+              {
+                "Offset": 147626,
+                "Value": 32
+              },
+              {
+                "Offset": 163925,
+                "Value": 32
+              },
+              {
+                "Offset": 180480,
+                "Value": 32
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5034,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15616,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 180565,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 191488,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 81920,
+                "Value": "start"
+              },
+              {
+                "Offset": 114773,
+                "Value": "end"
+              },
+              {
+                "Offset": 147626,
+                "Value": "start"
+              },
+              {
+                "Offset": 180565,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -310,6 +396,24 @@
                 "Offset": 0,
                 "Title": "Big Fish",
                 "Artist": "VINCE STAPLES FEAT. JUICY J"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4110,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 19118,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 175462,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 189795,
+                "Value": "outro_end"
               }
             ]
           }
@@ -325,6 +429,24 @@
                 "Title": "Kung Fu",
                 "Artist": "CORDAE"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3530,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 13830,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 181757,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 193588,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -338,6 +460,24 @@
                 "Offset": 0,
                 "Title": "What A Life",
                 "Artist": "BIG SEAN & HIT-BOY"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5120,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10325,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 162474,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 172032,
+                "Value": "outro_end"
               }
             ]
           }
@@ -353,6 +493,24 @@
                 "Title": "Chrome Hearts",
                 "Artist": "D-BLOCK EUROPE FEAT. OFFSET"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5288,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12117,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 225536,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 242090,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -366,6 +524,16 @@
                 "Offset": 0,
                 "Title": "Stir Fry",
                 "Artist": "MIGOS"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 180138,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 186965,
+                "Value": "outro_end"
               }
             ]
           }
@@ -381,6 +549,96 @@
                 "Title": "Go Live",
                 "Artist": "FREDO SANTANA FEAT. CHIEF KEEF, BALL OUT & TADOE"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 16
+              },
+              {
+                "Offset": 12960,
+                "Value": 32
+              },
+              {
+                "Offset": 37888,
+                "Value": 32
+              },
+              {
+                "Offset": 62805,
+                "Value": 32
+              },
+              {
+                "Offset": 87808,
+                "Value": 32
+              },
+              {
+                "Offset": 112768,
+                "Value": 32
+              },
+              {
+                "Offset": 137770,
+                "Value": 32
+              },
+              {
+                "Offset": 162645,
+                "Value": 32
+              },
+              {
+                "Offset": 187562,
+                "Value": 32
+              },
+              {
+                "Offset": 212608,
+                "Value": 32
+              },
+              {
+                "Offset": 237440,
+                "Value": 32
+              },
+              {
+                "Offset": 262357,
+                "Value": 32
+              },
+              {
+                "Offset": 287104,
+                "Value": 2
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5246,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12960,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 275328,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 283744,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 62805,
+                "Value": "start"
+              },
+              {
+                "Offset": 87808,
+                "Value": "end"
+              },
+              {
+                "Offset": 250026,
+                "Value": "start"
+              },
+              {
+                "Offset": 270080,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -394,6 +652,24 @@
                 "Offset": 0,
                 "Title": "Wow Freestyle",
                 "Artist": "JAY ROCK FEAT. KENDRICK LAMAR"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 6229,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 18944,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 159914,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 168448,
+                "Value": "outro_end"
               }
             ]
           }
@@ -409,6 +685,24 @@
                 "Title": "Lockjaw",
                 "Artist": "FRENCH MONTANA FEAT. KODAK BLACK"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3430,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 11530,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 205080,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 215299,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -422,6 +716,24 @@
                 "Offset": 0,
                 "Title": "ZEZE",
                 "Artist": "KODAK BLACK FEAT. TRAVIS SCOTT & OFFSET"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3840,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 8810,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 207488,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 221536,
+                "Value": "outro_end"
               }
             ]
           }
@@ -437,6 +749,24 @@
                 "Title": "Low Life",
                 "Artist": "FUTURE FEAT. THE WEEKND"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 7253,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 33792,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 290560,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 306688,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -450,6 +780,24 @@
                 "Offset": 0,
                 "Title": "My Type",
                 "Artist": "SAWEETIE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5388,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9962,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 114581,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 121984,
+                "Value": "outro_end"
               }
             ]
           }
@@ -465,6 +813,24 @@
                 "Title": "Flex",
                 "Artist": "POLO G FEAT. JUICE WRLD"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5076,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 11030,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 152666,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 159166,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -478,6 +844,24 @@
                 "Offset": 0,
                 "Title": "It's A Vibe",
                 "Artist": "2 CHAINZ FEAT. TY DOLLA $IGN, TREY SONGZ, JHENÉ AIKO"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3504,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 13764,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 192708,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 203866,
+                "Value": "outro_end"
               }
             ]
           }
@@ -493,6 +877,24 @@
                 "Title": "Plain Jane",
                 "Artist": "A$AP FERG"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 6741,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 11776,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 158634,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 166058,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -506,6 +908,24 @@
                 "Offset": 0,
                 "Title": "Feed Me Dope",
                 "Artist": "FUTURE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3000,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12000,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 152100,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 159297,
+                "Value": "outro_end"
               }
             ]
           }
@@ -521,6 +941,24 @@
                 "Title": "Ski",
                 "Artist": "YOUNG STONER LIFE, YOUNG THUG & GUNNA"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5306,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15609,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 136166,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 145808,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -535,6 +973,24 @@
                 "Title": "LEMONHEAD",
                 "Artist": "TYLER, THE CREATOR FEAT. 42 DUGG"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5207,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15000,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 119010,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 127230,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -548,6 +1004,24 @@
                 "Offset": 0,
                 "Title": "Big Subwoofer",
                 "Artist": "MOUNT WESTMORE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4236,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 13890,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 219132,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 235139,
+                "Value": "outro_end"
               }
             ]
           }
@@ -577,6 +1051,24 @@
                 "Title": "Pick The Phone Up",
                 "Artist": "FREDDIE GIBBS FEAT. JUICY J"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5079,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 16298,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 174165,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 190976,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -585,11 +1077,89 @@
           "Path": "dlc_security_music/miami_vice",
           "Duration": 225864,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 4
+              },
+              {
+                "Offset": 2986,
+                "Value": 32
+              },
+              {
+                "Offset": 25258,
+                "Value": 32
+              },
+              {
+                "Offset": 47402,
+                "Value": 32
+              },
+              {
+                "Offset": 69589,
+                "Value": 32
+              },
+              {
+                "Offset": 91797,
+                "Value": 32
+              },
+              {
+                "Offset": 114048,
+                "Value": 32
+              },
+              {
+                "Offset": 136213,
+                "Value": 32
+              },
+              {
+                "Offset": 158592,
+                "Value": 32
+              },
+              {
+                "Offset": 180714,
+                "Value": 32
+              },
+              {
+                "Offset": 202752,
+                "Value": 32
+              },
+              {
+                "Offset": 225002,
+                "Value": 4
+              }
+            ],
             "Track": [
               {
                 "Offset": 0,
                 "Title": "Miami Vice",
                 "Artist": "FREDDIE GIBBS FEAT. PUSHA T"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 69589,
+                "Value": "start"
+              },
+              {
+                "Offset": 114048,
+                "Value": "end"
+              },
+              {
+                "Offset": 136213,
+                "Value": "start"
+              },
+              {
+                "Offset": 180714,
+                "Value": "end"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 214997,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 220778,
+                "Value": "outro_end"
               }
             ]
           }
@@ -605,6 +1175,16 @@
                 "Title": "XL",
                 "Artist": "HIT-BOY & DOM KENNEDY"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5118,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12096,
+                "Value": "intro_end"
+              }
             ]
           }
         },
@@ -618,6 +1198,24 @@
                 "Offset": 0,
                 "Title": "So Fancy",
                 "Artist": "MIKE DEAN & OFFSET"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3880,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 7929,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 134637,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 150892,
+                "Value": "outro_end"
               }
             ]
           }
@@ -633,6 +1231,80 @@
                 "Title": "Blue Cheese",
                 "Artist": "RICH THE KID & MIKE DEAN"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 28586,
+                "Value": 32
+              },
+              {
+                "Offset": 57280,
+                "Value": 32
+              },
+              {
+                "Offset": 86016,
+                "Value": 32
+              },
+              {
+                "Offset": 114560,
+                "Value": 32
+              },
+              {
+                "Offset": 143168,
+                "Value": 32
+              },
+              {
+                "Offset": 171712,
+                "Value": 8
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4853,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14242,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 152234,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 169472,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 14242,
+                "Value": "start"
+              },
+              {
+                "Offset": 28586,
+                "Value": "end"
+              },
+              {
+                "Offset": 57280,
+                "Value": "start"
+              },
+              {
+                "Offset": 86016,
+                "Value": "end"
+              },
+              {
+                "Offset": 114560,
+                "Value": "start"
+              },
+              {
+                "Offset": 143168,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -647,6 +1319,24 @@
                 "Title": "Hoppin' Out",
                 "Artist": "MOZZY & YG"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5004,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 17049,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 85347,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 96003,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -660,6 +1350,24 @@
                 "Offset": 0,
                 "Title": "Coochie",
                 "Artist": "TIA CORINE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5140,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9616,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 140650,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 153712,
+                "Value": "outro_end"
               }
             ]
           }
@@ -675,11 +1383,81 @@
           "Path": "dlc_security_music/ap_dre_black_privilege",
           "Duration": 169472,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 1496,
+                "Value": 16
+              },
+              {
+                "Offset": 13482,
+                "Value": 15
+              },
+              {
+                "Offset": 24704,
+                "Value": 32
+              },
+              {
+                "Offset": 48736,
+                "Value": 32
+              },
+              {
+                "Offset": 72744,
+                "Value": 32
+              },
+              {
+                "Offset": 96725,
+                "Value": 32
+              },
+              {
+                "Offset": 120725,
+                "Value": 32
+              },
+              {
+                "Offset": 144746,
+                "Value": 26
+              },
+              {
+                "Offset": 164288,
+                "Value": 8
+              }
+            ],
             "Track": [
               {
                 "Offset": 0,
                 "Title": "Black Privilege",
                 "Artist": "DR. DRE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4674,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14240,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 156588,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 164232,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 96725,
+                "Value": "start"
+              },
+              {
+                "Offset": 120597,
+                "Value": "end"
               }
             ]
           }
@@ -695,6 +1473,16 @@
                 "Title": "Stir Fry",
                 "Artist": "MIGOS"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 180138,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 186965,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -708,6 +1496,24 @@
                 "Offset": 0,
                 "Title": "Ski",
                 "Artist": "YOUNG STONER LIFE, YOUNG THUG & GUNNA"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5306,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15609,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 136166,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 145808,
+                "Value": "outro_end"
               }
             ]
           }
@@ -723,6 +1529,24 @@
                 "Title": "Wow Freestyle",
                 "Artist": "JAY ROCK FEAT. KENDRICK LAMAR"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 6229,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 18944,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 159914,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 168448,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -736,6 +1560,24 @@
                 "Offset": 0,
                 "Title": "It's A Vibe",
                 "Artist": "2 CHAINZ FEAT. TY DOLLA $IGN, TREY SONGZ, JHENÉ AIKO"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3504,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 13764,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 192708,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 203866,
+                "Value": "outro_end"
               }
             ]
           }
@@ -751,6 +1593,88 @@
                 "Title": "Diamond Mind",
                 "Artist": "DR. DRE FEAT. NIPSEY HUSSLE & TY DOLLA SIGN"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 512,
+                "Value": 32
+              },
+              {
+                "Offset": 24421,
+                "Value": 32
+              },
+              {
+                "Offset": 48512,
+                "Value": 32
+              },
+              {
+                "Offset": 72506,
+                "Value": 32
+              },
+              {
+                "Offset": 96496,
+                "Value": 32
+              },
+              {
+                "Offset": 120520,
+                "Value": 32
+              },
+              {
+                "Offset": 144512,
+                "Value": 32
+              },
+              {
+                "Offset": 168512,
+                "Value": 32
+              },
+              {
+                "Offset": 192504,
+                "Value": 32
+              },
+              {
+                "Offset": 216576,
+                "Value": 32
+              },
+              {
+                "Offset": 240472,
+                "Value": 32
+              },
+              {
+                "Offset": 264512,
+                "Value": 32
+              },
+              {
+                "Offset": 288597,
+                "Value": 4
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5063,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12202,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 262912,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 285696,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 124180,
+                "Value": "start"
+              },
+              {
+                "Offset": 168512,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -764,6 +1688,24 @@
                 "Offset": 0,
                 "Title": "Feed Me Dope",
                 "Artist": "FUTURE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3000,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12000,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 152100,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 159297,
+                "Value": "outro_end"
               }
             ]
           }
@@ -779,6 +1721,24 @@
                 "Title": "Kung Fu",
                 "Artist": "CORDAE"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3530,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 13830,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 181757,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 193588,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -792,6 +1752,24 @@
                 "Offset": 0,
                 "Title": "Plain Jane",
                 "Artist": "A$AP FERG"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 6741,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 11776,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 158634,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 166058,
+                "Value": "outro_end"
               }
             ]
           }
@@ -807,6 +1785,88 @@
                 "Title": "ETA",
                 "Artist": "DR. DRE FEAT. SNOOP DOGG, BUSTA RHYMES & ANDERSON .PAAK"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 661,
+                "Value": 32
+              },
+              {
+                "Offset": 24341,
+                "Value": 32
+              },
+              {
+                "Offset": 48080,
+                "Value": 32
+              },
+              {
+                "Offset": 71760,
+                "Value": 32
+              },
+              {
+                "Offset": 95424,
+                "Value": 32
+              },
+              {
+                "Offset": 119168,
+                "Value": 32
+              },
+              {
+                "Offset": 142874,
+                "Value": 32
+              },
+              {
+                "Offset": 166560,
+                "Value": 32
+              },
+              {
+                "Offset": 190282,
+                "Value": 32
+              },
+              {
+                "Offset": 213973,
+                "Value": 28
+              },
+              {
+                "Offset": 234720,
+                "Value": 2
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4955,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 24341,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 211533,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 230208,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 50969,
+                "Value": "start"
+              },
+              {
+                "Offset": 74539,
+                "Value": "end"
+              },
+              {
+                "Offset": 101459,
+                "Value": "start"
+              },
+              {
+                "Offset": 125213,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -820,6 +1880,24 @@
                 "Offset": 0,
                 "Title": "ZEZE",
                 "Artist": "KODAK BLACK FEAT. TRAVIS SCOTT & OFFSET"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3840,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 8810,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 207488,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 221536,
+                "Value": "outro_end"
               }
             ]
           }
@@ -835,6 +1913,96 @@
                 "Title": "Go Live",
                 "Artist": "FREDO SANTANA FEAT. CHIEF KEEF, BALL OUT & TADOE"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 16
+              },
+              {
+                "Offset": 12960,
+                "Value": 32
+              },
+              {
+                "Offset": 37888,
+                "Value": 32
+              },
+              {
+                "Offset": 62805,
+                "Value": 32
+              },
+              {
+                "Offset": 87808,
+                "Value": 32
+              },
+              {
+                "Offset": 112768,
+                "Value": 32
+              },
+              {
+                "Offset": 137770,
+                "Value": 32
+              },
+              {
+                "Offset": 162645,
+                "Value": 32
+              },
+              {
+                "Offset": 187562,
+                "Value": 32
+              },
+              {
+                "Offset": 212608,
+                "Value": 32
+              },
+              {
+                "Offset": 237440,
+                "Value": 32
+              },
+              {
+                "Offset": 262357,
+                "Value": 32
+              },
+              {
+                "Offset": 287104,
+                "Value": 2
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5246,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12960,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 275328,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 283744,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 62805,
+                "Value": "start"
+              },
+              {
+                "Offset": 87808,
+                "Value": "end"
+              },
+              {
+                "Offset": 250026,
+                "Value": "start"
+              },
+              {
+                "Offset": 270080,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -848,6 +2016,92 @@
                 "Offset": 0,
                 "Title": "The Scenic Route",
                 "Artist": "DR. DRE FEAT. RICK ROSS & ANDERSON .PAAK"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5068,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12629,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 166698,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 173525,
+                "Value": "outro_end"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 12672,
+                "Value": 12
+              },
+              {
+                "Offset": 24256,
+                "Value": 2
+              },
+              {
+                "Offset": 25954,
+                "Value": 32
+              },
+              {
+                "Offset": 49376,
+                "Value": 32
+              },
+              {
+                "Offset": 72800,
+                "Value": 32
+              },
+              {
+                "Offset": 96208,
+                "Value": 32
+              },
+              {
+                "Offset": 119632,
+                "Value": 32
+              },
+              {
+                "Offset": 143040,
+                "Value": 32
+              },
+              {
+                "Offset": 166453,
+                "Value": 12
+              },
+              {
+                "Offset": 175397,
+                "Value": 4
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 25954,
+                "Value": "start"
+              },
+              {
+                "Offset": 49376,
+                "Value": "end"
+              },
+              {
+                "Offset": 61270,
+                "Value": "start"
+              },
+              {
+                "Offset": 84961,
+                "Value": "end"
+              },
+              {
+                "Offset": 119635,
+                "Value": "start"
+              },
+              {
+                "Offset": 143040,
+                "Value": "end"
               }
             ]
           }
@@ -863,6 +2117,24 @@
                 "Title": "Flex",
                 "Artist": "POLO G FEAT. JUICE WRLD"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5076,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 11030,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 152666,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 159166,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -876,6 +2148,24 @@
                 "Offset": 0,
                 "Title": "LEMONHEAD",
                 "Artist": "TYLER, THE CREATOR FEAT. 42 DUGG"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5207,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15000,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 119010,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 127230,
+                "Value": "outro_end"
               }
             ]
           }
@@ -891,6 +2181,24 @@
                 "Title": "My Type",
                 "Artist": "SAWEETIE"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5388,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9962,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 114581,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 121984,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -905,6 +2213,24 @@
                 "Title": "Big Subwoofer",
                 "Artist": "MOUNT WESTMORE"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4236,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 13890,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 219132,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 235139,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -913,11 +2239,81 @@
           "Path": "dlc_security_music/ap_dre_gospel",
           "Duration": 205145,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 2040,
+                "Value": 32
+              },
+              {
+                "Offset": 34880,
+                "Value": 32
+              },
+              {
+                "Offset": 67688,
+                "Value": 32
+              },
+              {
+                "Offset": 100506,
+                "Value": 32
+              },
+              {
+                "Offset": 133320,
+                "Value": 32
+              },
+              {
+                "Offset": 166165,
+                "Value": 32
+              },
+              {
+                "Offset": 198965,
+                "Value": 0
+              }
+            ],
             "Track": [
               {
                 "Offset": 0,
                 "Title": "Gospel",
                 "Artist": "DR. DRE FEAT. EMINEM"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4449,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 17792,
+                "Value": "intro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 17792,
+                "Value": "start"
+              },
+              {
+                "Offset": 34880,
+                "Value": "end"
+              },
+              {
+                "Offset": 82090,
+                "Value": "start"
+              },
+              {
+                "Offset": 100506,
+                "Value": "end"
+              },
+              {
+                "Offset": 182101,
+                "Value": "start"
+              },
+              {
+                "Offset": 198965,
+                "Value": "end"
               }
             ]
           }
@@ -933,6 +2329,24 @@
                 "Title": "Big Fish",
                 "Artist": "VINCE STAPLES FEAT. JUICY J"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4110,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 19118,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 175462,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 189795,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -946,6 +2360,24 @@
                 "Offset": 0,
                 "Title": "Chrome Hearts",
                 "Artist": "D-BLOCK EUROPE FEAT. OFFSET"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5288,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12117,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 225536,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 242090,
+                "Value": "outro_end"
               }
             ]
           }
@@ -961,6 +2393,96 @@
                 "Title": "Fallin Up",
                 "Artist": "DR. DRE FEAT. THURZ & COCOA SARAI"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 3114,
+                "Value": 32
+              },
+              {
+                "Offset": 23136,
+                "Value": 32
+              },
+              {
+                "Offset": 43141,
+                "Value": 32
+              },
+              {
+                "Offset": 63140,
+                "Value": 32
+              },
+              {
+                "Offset": 83138,
+                "Value": 32
+              },
+              {
+                "Offset": 103136,
+                "Value": 32
+              },
+              {
+                "Offset": 123168,
+                "Value": 32
+              },
+              {
+                "Offset": 143104,
+                "Value": 32
+              },
+              {
+                "Offset": 163136,
+                "Value": 32
+              },
+              {
+                "Offset": 183102,
+                "Value": 16
+              },
+              {
+                "Offset": 193237,
+                "Value": 0
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4504,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 21589,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 183466,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 198570,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 23136,
+                "Value": "start"
+              },
+              {
+                "Offset": 43141,
+                "Value": "end"
+              },
+              {
+                "Offset": 83138,
+                "Value": "start"
+              },
+              {
+                "Offset": 123168,
+                "Value": "end"
+              },
+              {
+                "Offset": 163136,
+                "Value": "start"
+              },
+              {
+                "Offset": 183102,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -974,6 +2496,92 @@
                 "Offset": 0,
                 "Title": "The Box",
                 "Artist": "RODDY RICCH"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 16298,
+                "Value": 32
+              },
+              {
+                "Offset": 32768,
+                "Value": 32
+              },
+              {
+                "Offset": 49152,
+                "Value": 32
+              },
+              {
+                "Offset": 65536,
+                "Value": 32
+              },
+              {
+                "Offset": 81920,
+                "Value": 32
+              },
+              {
+                "Offset": 98389,
+                "Value": 32
+              },
+              {
+                "Offset": 114773,
+                "Value": 32
+              },
+              {
+                "Offset": 131242,
+                "Value": 32
+              },
+              {
+                "Offset": 147626,
+                "Value": 32
+              },
+              {
+                "Offset": 163925,
+                "Value": 32
+              },
+              {
+                "Offset": 180480,
+                "Value": 32
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5034,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15616,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 180565,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 191488,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 81920,
+                "Value": "start"
+              },
+              {
+                "Offset": 114773,
+                "Value": "end"
+              },
+              {
+                "Offset": 147626,
+                "Value": "start"
+              },
+              {
+                "Offset": 180565,
+                "Value": "end"
               }
             ]
           }
@@ -989,6 +2597,24 @@
                 "Title": "Low Life",
                 "Artist": "FUTURE FEAT. THE WEEKND"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 7253,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 33792,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 290560,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 306688,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1003,6 +2629,24 @@
                 "Title": "Lockjaw",
                 "Artist": "FRENCH MONTANA FEAT. KODAK BLACK"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3430,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 11530,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 205080,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 215299,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1016,6 +2660,24 @@
                 "Offset": 0,
                 "Title": "What A Life",
                 "Artist": "BIG SEAN & HIT-BOY"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5120,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10325,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 162474,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 172032,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1045,6 +2707,24 @@
                 "Title": "Pick The Phone Up",
                 "Artist": "FREDDIE GIBBS FEAT. JUICY J"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5079,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 16298,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 174165,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 190976,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1053,11 +2733,89 @@
           "Path": "dlc_security_music/miami_vice",
           "Duration": 225864,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 4
+              },
+              {
+                "Offset": 2986,
+                "Value": 32
+              },
+              {
+                "Offset": 25258,
+                "Value": 32
+              },
+              {
+                "Offset": 47402,
+                "Value": 32
+              },
+              {
+                "Offset": 69589,
+                "Value": 32
+              },
+              {
+                "Offset": 91797,
+                "Value": 32
+              },
+              {
+                "Offset": 114048,
+                "Value": 32
+              },
+              {
+                "Offset": 136213,
+                "Value": 32
+              },
+              {
+                "Offset": 158592,
+                "Value": 32
+              },
+              {
+                "Offset": 180714,
+                "Value": 32
+              },
+              {
+                "Offset": 202752,
+                "Value": 32
+              },
+              {
+                "Offset": 225002,
+                "Value": 4
+              }
+            ],
             "Track": [
               {
                 "Offset": 0,
                 "Title": "Miami Vice",
                 "Artist": "FREDDIE GIBBS FEAT. PUSHA T"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 69589,
+                "Value": "start"
+              },
+              {
+                "Offset": 114048,
+                "Value": "end"
+              },
+              {
+                "Offset": 136213,
+                "Value": "start"
+              },
+              {
+                "Offset": 180714,
+                "Value": "end"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 214997,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 220778,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1073,6 +2831,16 @@
                 "Title": "XL",
                 "Artist": "HIT-BOY & DOM KENNEDY"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5118,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12096,
+                "Value": "intro_end"
+              }
             ]
           }
         },
@@ -1086,6 +2854,24 @@
                 "Offset": 0,
                 "Title": "So Fancy",
                 "Artist": "MIKE DEAN & OFFSET"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3880,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 7929,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 134637,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 150892,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1101,6 +2887,80 @@
                 "Title": "Blue Cheese",
                 "Artist": "RICH THE KID & MIKE DEAN"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 28586,
+                "Value": 32
+              },
+              {
+                "Offset": 57280,
+                "Value": 32
+              },
+              {
+                "Offset": 86016,
+                "Value": 32
+              },
+              {
+                "Offset": 114560,
+                "Value": 32
+              },
+              {
+                "Offset": 143168,
+                "Value": 32
+              },
+              {
+                "Offset": 171712,
+                "Value": 8
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4853,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14242,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 152234,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 169472,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 14242,
+                "Value": "start"
+              },
+              {
+                "Offset": 28586,
+                "Value": "end"
+              },
+              {
+                "Offset": 57280,
+                "Value": "start"
+              },
+              {
+                "Offset": 86016,
+                "Value": "end"
+              },
+              {
+                "Offset": 114560,
+                "Value": "start"
+              },
+              {
+                "Offset": 143168,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -1115,6 +2975,24 @@
                 "Title": "Hoppin' Out",
                 "Artist": "MOZZY & YG"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5004,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 17049,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 85347,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 96003,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1128,6 +3006,24 @@
                 "Offset": 0,
                 "Title": "Coochie",
                 "Artist": "TIA CORINE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5140,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9616,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 140650,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 153712,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1417,6 +3313,100 @@
                 "Title": "U Better Recognize",
                 "Artist": "SAM SNEED FEAT. DR. DRE"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 496,
+                "Value": 32
+              },
+              {
+                "Offset": 21728,
+                "Value": 32
+              },
+              {
+                "Offset": 43008,
+                "Value": 32
+              },
+              {
+                "Offset": 64192,
+                "Value": 32
+              },
+              {
+                "Offset": 85504,
+                "Value": 32
+              },
+              {
+                "Offset": 106784,
+                "Value": 32
+              },
+              {
+                "Offset": 128032,
+                "Value": 32
+              },
+              {
+                "Offset": 149216,
+                "Value": 32
+              },
+              {
+                "Offset": 170528,
+                "Value": 32
+              },
+              {
+                "Offset": 191776,
+                "Value": 32
+              },
+              {
+                "Offset": 212992,
+                "Value": 32
+              },
+              {
+                "Offset": 234432,
+                "Value": 2
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4778,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 20906,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 223488,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 229632,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 74837,
+                "Value": "start"
+              },
+              {
+                "Offset": 85504,
+                "Value": "end"
+              },
+              {
+                "Offset": 136362,
+                "Value": "start"
+              },
+              {
+                "Offset": 160000,
+                "Value": "end"
+              },
+              {
+                "Offset": 210688,
+                "Value": "start"
+              },
+              {
+                "Offset": 229632,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -1430,6 +3420,24 @@
                 "Offset": 0,
                 "Title": "California Love (Single Version)",
                 "Artist": "2PAC FEAT. DR. DRE & ROGER TROUTMAN"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5396,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12714,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 223412,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 234944,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1445,6 +3453,24 @@
                 "Title": "Family Affair",
                 "Artist": "MARY J. BLIGE"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4310,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 20791,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 248887,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 261268,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1458,6 +3484,24 @@
                 "Offset": 0,
                 "Title": "Outta Control",
                 "Artist": "50 CENT FEAT. MOBB DEEP"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 1717,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10528,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 215575,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 236418,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1473,6 +3517,24 @@
                 "Title": "Hello",
                 "Artist": "ICE CUBE FEAT. DR. DRE & MC REN"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3591,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10496,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 211456,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 226901,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1486,6 +3548,116 @@
                 "Offset": 0,
                 "Title": "Lil' Ghetto Boy",
                 "Artist": "DR. DRE FEAT. DAZ & SNOOP DOGG"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 18026,
+                "Value": 32
+              },
+              {
+                "Offset": 38869,
+                "Value": 32
+              },
+              {
+                "Offset": 59648,
+                "Value": 32
+              },
+              {
+                "Offset": 80469,
+                "Value": 32
+              },
+              {
+                "Offset": 101205,
+                "Value": 32
+              },
+              {
+                "Offset": 122069,
+                "Value": 32
+              },
+              {
+                "Offset": 142890,
+                "Value": 32
+              },
+              {
+                "Offset": 163669,
+                "Value": 32
+              },
+              {
+                "Offset": 184533,
+                "Value": 32
+              },
+              {
+                "Offset": 205354,
+                "Value": 32
+              },
+              {
+                "Offset": 226090,
+                "Value": 32
+              },
+              {
+                "Offset": 246912,
+                "Value": 32
+              },
+              {
+                "Offset": 267733,
+                "Value": 32
+              },
+              {
+                "Offset": 288597,
+                "Value": 32
+              },
+              {
+                "Offset": 309376,
+                "Value": 24
+              },
+              {
+                "Offset": 324949,
+                "Value": 4
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 18037,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 38570,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 302933,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 322560,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 80469,
+                "Value": "start"
+              },
+              {
+                "Offset": 106410,
+                "Value": "end"
+              },
+              {
+                "Offset": 158549,
+                "Value": "start"
+              },
+              {
+                "Offset": 184533,
+                "Value": "end"
+              },
+              {
+                "Offset": 236629,
+                "Value": "start"
+              },
+              {
+                "Offset": 302933,
+                "Value": "end"
               }
             ]
           }
@@ -1501,6 +3673,16 @@
                 "Title": "Nas Is Coming",
                 "Artist": "NAS FEAT. DR. DRE"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 325973,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 335957,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1514,6 +3696,24 @@
                 "Offset": 0,
                 "Title": "Xxplosive",
                 "Artist": "DR. DRE FEAT. HITTMAN, SIX-TWO, NATE DOGG & KURUPT"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5205,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12458,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 206304,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 209920,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1529,6 +3729,24 @@
                 "Title": "Addictive",
                 "Artist": "TRUTH HURTS FEAT. RAKIM"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 7690,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 25126,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 205051,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 220830,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1542,6 +3760,24 @@
                 "Offset": 0,
                 "Title": "Can't C Me",
                 "Artist": "2PAC"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 17639,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 26764,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 309312,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 324160,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1557,6 +3793,24 @@
                 "Title": "Trouble",
                 "Artist": "JAY-Z"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4979,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 22110,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 266527,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 283711,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1570,6 +3824,24 @@
                 "Offset": 0,
                 "Title": "No Diggity",
                 "Artist": "BLACKSTREET FEAT. DR. DRE & QUEEN PEN"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 6142,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 18773,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 282154,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 299989,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1585,6 +3857,96 @@
                 "Title": "Papa's Lil Soldier",
                 "Artist": "40 GLOCC"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 581,
+                "Value": 32
+              },
+              {
+                "Offset": 21216,
+                "Value": 32
+              },
+              {
+                "Offset": 41792,
+                "Value": 32
+              },
+              {
+                "Offset": 62496,
+                "Value": 32
+              },
+              {
+                "Offset": 83168,
+                "Value": 32
+              },
+              {
+                "Offset": 103744,
+                "Value": 32
+              },
+              {
+                "Offset": 124416,
+                "Value": 32
+              },
+              {
+                "Offset": 145056,
+                "Value": 32
+              },
+              {
+                "Offset": 165792,
+                "Value": 32
+              },
+              {
+                "Offset": 186336,
+                "Value": 16
+              },
+              {
+                "Offset": 196736,
+                "Value": 4
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5440,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 20842,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 182984,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 194320,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 62496,
+                "Value": "start"
+              },
+              {
+                "Offset": 83168,
+                "Value": "end"
+              },
+              {
+                "Offset": 124416,
+                "Value": "start"
+              },
+              {
+                "Offset": 145056,
+                "Value": "end"
+              },
+              {
+                "Offset": 175957,
+                "Value": "start"
+              },
+              {
+                "Offset": 194320,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -1598,6 +3960,24 @@
                 "Offset": 0,
                 "Title": "Keep Their Heads Ringin'",
                 "Artist": "DR. DRE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 9813,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 19104,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 286636,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 299777,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1613,6 +3993,24 @@
                 "Title": "Shit Hits The Fan (Album Version)",
                 "Artist": "OBIE TRICE FEAT. DR. DRE"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4864,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10069,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 271530,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 286890,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1626,6 +4024,24 @@
                 "Offset": 0,
                 "Title": "In Da Club",
                 "Artist": "50 CENT"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5205,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15445,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 174762,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 188416,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1647,6 +4063,24 @@
                 "Title": "Outta Control",
                 "Artist": "50 CENT FEAT. MOBB DEEP"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 1717,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10528,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 215575,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 236418,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1660,6 +4094,24 @@
                 "Offset": 0,
                 "Title": "California Love (Single Version)",
                 "Artist": "2PAC FEAT. DR. DRE & ROGER TROUTMAN"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5396,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12714,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 223412,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 234944,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1675,6 +4127,116 @@
                 "Title": "Lil' Ghetto Boy",
                 "Artist": "DR. DRE FEAT. DAZ & SNOOP DOGG"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 18026,
+                "Value": 32
+              },
+              {
+                "Offset": 38869,
+                "Value": 32
+              },
+              {
+                "Offset": 59648,
+                "Value": 32
+              },
+              {
+                "Offset": 80469,
+                "Value": 32
+              },
+              {
+                "Offset": 101205,
+                "Value": 32
+              },
+              {
+                "Offset": 122069,
+                "Value": 32
+              },
+              {
+                "Offset": 142890,
+                "Value": 32
+              },
+              {
+                "Offset": 163669,
+                "Value": 32
+              },
+              {
+                "Offset": 184533,
+                "Value": 32
+              },
+              {
+                "Offset": 205354,
+                "Value": 32
+              },
+              {
+                "Offset": 226090,
+                "Value": 32
+              },
+              {
+                "Offset": 246912,
+                "Value": 32
+              },
+              {
+                "Offset": 267733,
+                "Value": 32
+              },
+              {
+                "Offset": 288597,
+                "Value": 32
+              },
+              {
+                "Offset": 309376,
+                "Value": 24
+              },
+              {
+                "Offset": 324949,
+                "Value": 4
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 18037,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 38570,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 302933,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 322560,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 80469,
+                "Value": "start"
+              },
+              {
+                "Offset": 106410,
+                "Value": "end"
+              },
+              {
+                "Offset": 158549,
+                "Value": "start"
+              },
+              {
+                "Offset": 184533,
+                "Value": "end"
+              },
+              {
+                "Offset": 236629,
+                "Value": "start"
+              },
+              {
+                "Offset": 302933,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -1688,6 +4250,24 @@
                 "Offset": 0,
                 "Title": "Family Affair",
                 "Artist": "MARY J. BLIGE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4310,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 20791,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 248887,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 261268,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1703,6 +4283,24 @@
                 "Title": "In Da Club",
                 "Artist": "50 CENT"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5205,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15445,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 174762,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 188416,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1716,6 +4314,24 @@
                 "Offset": 0,
                 "Title": "Keep Their Heads Ringin'",
                 "Artist": "DR. DRE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 9813,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 19104,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 286636,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 299777,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1731,6 +4347,24 @@
                 "Title": "The Next Episode",
                 "Artist": "DR. DRE FEAT. SNOOP DOGG"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3000,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10500,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 138026,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 153127,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1744,6 +4378,24 @@
                 "Offset": 0,
                 "Title": "Addictive",
                 "Artist": "TRUTH HURTS FEAT. RAKIM"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 7690,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 25126,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 205051,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 220830,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1759,6 +4411,100 @@
                 "Title": "U Better Recognize",
                 "Artist": "SAM SNEED FEAT. DR. DRE"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 496,
+                "Value": 32
+              },
+              {
+                "Offset": 21728,
+                "Value": 32
+              },
+              {
+                "Offset": 43008,
+                "Value": 32
+              },
+              {
+                "Offset": 64192,
+                "Value": 32
+              },
+              {
+                "Offset": 85504,
+                "Value": 32
+              },
+              {
+                "Offset": 106784,
+                "Value": 32
+              },
+              {
+                "Offset": 128032,
+                "Value": 32
+              },
+              {
+                "Offset": 149216,
+                "Value": 32
+              },
+              {
+                "Offset": 170528,
+                "Value": 32
+              },
+              {
+                "Offset": 191776,
+                "Value": 32
+              },
+              {
+                "Offset": 212992,
+                "Value": 32
+              },
+              {
+                "Offset": 234432,
+                "Value": 2
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4778,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 20906,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 223488,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 229632,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 74837,
+                "Value": "start"
+              },
+              {
+                "Offset": 85504,
+                "Value": "end"
+              },
+              {
+                "Offset": 136362,
+                "Value": "start"
+              },
+              {
+                "Offset": 160000,
+                "Value": "end"
+              },
+              {
+                "Offset": 210688,
+                "Value": "start"
+              },
+              {
+                "Offset": 229632,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -1772,6 +4518,96 @@
                 "Offset": 0,
                 "Title": "Papa's Lil Soldier",
                 "Artist": "40 GLOCC"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 581,
+                "Value": 32
+              },
+              {
+                "Offset": 21216,
+                "Value": 32
+              },
+              {
+                "Offset": 41792,
+                "Value": 32
+              },
+              {
+                "Offset": 62496,
+                "Value": 32
+              },
+              {
+                "Offset": 83168,
+                "Value": 32
+              },
+              {
+                "Offset": 103744,
+                "Value": 32
+              },
+              {
+                "Offset": 124416,
+                "Value": 32
+              },
+              {
+                "Offset": 145056,
+                "Value": 32
+              },
+              {
+                "Offset": 165792,
+                "Value": 32
+              },
+              {
+                "Offset": 186336,
+                "Value": 16
+              },
+              {
+                "Offset": 196736,
+                "Value": 4
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5440,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 20842,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 182984,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 194320,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 62496,
+                "Value": "start"
+              },
+              {
+                "Offset": 83168,
+                "Value": "end"
+              },
+              {
+                "Offset": 124416,
+                "Value": "start"
+              },
+              {
+                "Offset": 145056,
+                "Value": "end"
+              },
+              {
+                "Offset": 175957,
+                "Value": "start"
+              },
+              {
+                "Offset": 194320,
+                "Value": "end"
               }
             ]
           }
@@ -1787,6 +4623,24 @@
                 "Title": "Hello",
                 "Artist": "ICE CUBE FEAT. DR. DRE & MC REN"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3591,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10496,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 211456,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 226901,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1800,6 +4654,16 @@
                 "Offset": 0,
                 "Title": "Nas Is Coming",
                 "Artist": "NAS FEAT. DR. DRE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 325973,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 335957,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1815,6 +4679,24 @@
                 "Title": "Can't C Me",
                 "Artist": "2PAC"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 17639,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 26764,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 309312,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 324160,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1828,6 +4710,24 @@
                 "Offset": 0,
                 "Title": "Shit Hits The Fan (Album Version)",
                 "Artist": "OBIE TRICE FEAT. DR. DRE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4864,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10069,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 271530,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 286890,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1843,6 +4743,24 @@
                 "Title": "No Diggity",
                 "Artist": "BLACKSTREET FEAT. DR. DRE & QUEEN PEN"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 6142,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 18773,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 282154,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 299989,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1857,6 +4775,24 @@
                 "Title": "Trouble",
                 "Artist": "JAY-Z"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4979,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 22110,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 266527,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 283711,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -1870,6 +4806,24 @@
                 "Offset": 0,
                 "Title": "Xxplosive",
                 "Artist": "DR. DRE FEAT. HITTMAN, SIX-TWO, NATE DOGG & KURUPT"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5205,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12458,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 206304,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 209920,
+                "Value": "outro_end"
               }
             ]
           }
@@ -1891,6 +4845,88 @@
                 "Title": "ETA",
                 "Artist": "DR. DRE FEAT. SNOOP DOGG, BUSTA RHYMES & ANDERSON .PAAK"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 661,
+                "Value": 32
+              },
+              {
+                "Offset": 24341,
+                "Value": 32
+              },
+              {
+                "Offset": 48080,
+                "Value": 32
+              },
+              {
+                "Offset": 71760,
+                "Value": 32
+              },
+              {
+                "Offset": 95424,
+                "Value": 32
+              },
+              {
+                "Offset": 119168,
+                "Value": 32
+              },
+              {
+                "Offset": 142874,
+                "Value": 32
+              },
+              {
+                "Offset": 166560,
+                "Value": 32
+              },
+              {
+                "Offset": 190282,
+                "Value": 32
+              },
+              {
+                "Offset": 213973,
+                "Value": 28
+              },
+              {
+                "Offset": 234720,
+                "Value": 2
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4955,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 24341,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 211533,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 230208,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 50969,
+                "Value": "start"
+              },
+              {
+                "Offset": 74539,
+                "Value": "end"
+              },
+              {
+                "Offset": 101459,
+                "Value": "start"
+              },
+              {
+                "Offset": 125213,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -1899,11 +4935,81 @@
           "Path": "dlc_security_music/ap_dre_black_privilege",
           "Duration": 169472,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 1496,
+                "Value": 16
+              },
+              {
+                "Offset": 13482,
+                "Value": 15
+              },
+              {
+                "Offset": 24704,
+                "Value": 32
+              },
+              {
+                "Offset": 48736,
+                "Value": 32
+              },
+              {
+                "Offset": 72744,
+                "Value": 32
+              },
+              {
+                "Offset": 96725,
+                "Value": 32
+              },
+              {
+                "Offset": 120725,
+                "Value": 32
+              },
+              {
+                "Offset": 144746,
+                "Value": 26
+              },
+              {
+                "Offset": 164288,
+                "Value": 8
+              }
+            ],
             "Track": [
               {
                 "Offset": 0,
                 "Title": "Black Privilege",
                 "Artist": "DR. DRE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4674,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14240,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 156588,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 164232,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 96725,
+                "Value": "start"
+              },
+              {
+                "Offset": 120597,
+                "Value": "end"
               }
             ]
           }
@@ -1919,6 +5025,92 @@
                 "Title": "The Scenic Route",
                 "Artist": "DR. DRE FEAT. RICK ROSS & ANDERSON .PAAK"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5068,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12629,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 166698,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 173525,
+                "Value": "outro_end"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 12672,
+                "Value": 12
+              },
+              {
+                "Offset": 24256,
+                "Value": 2
+              },
+              {
+                "Offset": 25954,
+                "Value": 32
+              },
+              {
+                "Offset": 49376,
+                "Value": 32
+              },
+              {
+                "Offset": 72800,
+                "Value": 32
+              },
+              {
+                "Offset": 96208,
+                "Value": 32
+              },
+              {
+                "Offset": 119632,
+                "Value": 32
+              },
+              {
+                "Offset": 143040,
+                "Value": 32
+              },
+              {
+                "Offset": 166453,
+                "Value": 12
+              },
+              {
+                "Offset": 175397,
+                "Value": 4
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 25954,
+                "Value": "start"
+              },
+              {
+                "Offset": 49376,
+                "Value": "end"
+              },
+              {
+                "Offset": 61270,
+                "Value": "start"
+              },
+              {
+                "Offset": 84961,
+                "Value": "end"
+              },
+              {
+                "Offset": 119635,
+                "Value": "start"
+              },
+              {
+                "Offset": 143040,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -1927,11 +5119,81 @@
           "Path": "dlc_security_music/ap_dre_gospel",
           "Duration": 205145,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 2040,
+                "Value": 32
+              },
+              {
+                "Offset": 34880,
+                "Value": 32
+              },
+              {
+                "Offset": 67688,
+                "Value": 32
+              },
+              {
+                "Offset": 100506,
+                "Value": 32
+              },
+              {
+                "Offset": 133320,
+                "Value": 32
+              },
+              {
+                "Offset": 166165,
+                "Value": 32
+              },
+              {
+                "Offset": 198965,
+                "Value": 0
+              }
+            ],
             "Track": [
               {
                 "Offset": 0,
                 "Title": "Gospel",
                 "Artist": "DR. DRE FEAT. EMINEM"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4449,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 17792,
+                "Value": "intro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 17792,
+                "Value": "start"
+              },
+              {
+                "Offset": 34880,
+                "Value": "end"
+              },
+              {
+                "Offset": 82090,
+                "Value": "start"
+              },
+              {
+                "Offset": 100506,
+                "Value": "end"
+              },
+              {
+                "Offset": 182101,
+                "Value": "start"
+              },
+              {
+                "Offset": 198965,
+                "Value": "end"
               }
             ]
           }
@@ -1947,6 +5209,96 @@
                 "Title": "Fallin Up",
                 "Artist": "DR. DRE FEAT. THURZ & COCOA SARAI"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 3114,
+                "Value": 32
+              },
+              {
+                "Offset": 23136,
+                "Value": 32
+              },
+              {
+                "Offset": 43141,
+                "Value": 32
+              },
+              {
+                "Offset": 63140,
+                "Value": 32
+              },
+              {
+                "Offset": 83138,
+                "Value": 32
+              },
+              {
+                "Offset": 103136,
+                "Value": 32
+              },
+              {
+                "Offset": 123168,
+                "Value": 32
+              },
+              {
+                "Offset": 143104,
+                "Value": 32
+              },
+              {
+                "Offset": 163136,
+                "Value": 32
+              },
+              {
+                "Offset": 183102,
+                "Value": 16
+              },
+              {
+                "Offset": 193237,
+                "Value": 0
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4504,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 21589,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 183466,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 198570,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 23136,
+                "Value": "start"
+              },
+              {
+                "Offset": 43141,
+                "Value": "end"
+              },
+              {
+                "Offset": 83138,
+                "Value": "start"
+              },
+              {
+                "Offset": 123168,
+                "Value": "end"
+              },
+              {
+                "Offset": 163136,
+                "Value": "start"
+              },
+              {
+                "Offset": 183102,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -1960,6 +5312,88 @@
                 "Offset": 0,
                 "Title": "Diamond Mind",
                 "Artist": "DR. DRE FEAT. NIPSEY HUSSLE & TY DOLLA SIGN"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 512,
+                "Value": 32
+              },
+              {
+                "Offset": 24421,
+                "Value": 32
+              },
+              {
+                "Offset": 48512,
+                "Value": 32
+              },
+              {
+                "Offset": 72506,
+                "Value": 32
+              },
+              {
+                "Offset": 96496,
+                "Value": 32
+              },
+              {
+                "Offset": 120520,
+                "Value": 32
+              },
+              {
+                "Offset": 144512,
+                "Value": 32
+              },
+              {
+                "Offset": 168512,
+                "Value": 32
+              },
+              {
+                "Offset": 192504,
+                "Value": 32
+              },
+              {
+                "Offset": 216576,
+                "Value": 32
+              },
+              {
+                "Offset": 240472,
+                "Value": 32
+              },
+              {
+                "Offset": 264512,
+                "Value": 32
+              },
+              {
+                "Offset": 288597,
+                "Value": 4
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5063,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12202,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 262912,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 285696,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 124180,
+                "Value": "start"
+              },
+              {
+                "Offset": 168512,
+                "Value": "end"
               }
             ]
           }
@@ -1975,11 +5409,81 @@
           "Path": "dlc_security_music/ap_dre_black_privilege",
           "Duration": 169472,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 1496,
+                "Value": 16
+              },
+              {
+                "Offset": 13482,
+                "Value": 15
+              },
+              {
+                "Offset": 24704,
+                "Value": 32
+              },
+              {
+                "Offset": 48736,
+                "Value": 32
+              },
+              {
+                "Offset": 72744,
+                "Value": 32
+              },
+              {
+                "Offset": 96725,
+                "Value": 32
+              },
+              {
+                "Offset": 120725,
+                "Value": 32
+              },
+              {
+                "Offset": 144746,
+                "Value": 26
+              },
+              {
+                "Offset": 164288,
+                "Value": 8
+              }
+            ],
             "Track": [
               {
                 "Offset": 0,
                 "Title": "Black Privilege",
                 "Artist": "DR. DRE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4674,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14240,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 156588,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 164232,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 96725,
+                "Value": "start"
+              },
+              {
+                "Offset": 120597,
+                "Value": "end"
               }
             ]
           }
@@ -2000,6 +5504,94 @@
                 "Offset": 0,
                 "Title": "You Wanna?",
                 "Artist": "NEZ"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 282,
+                "Value": 32
+              },
+              {
+                "Offset": 15402,
+                "Value": 32
+              },
+              {
+                "Offset": 30400,
+                "Value": 32
+              },
+              {
+                "Offset": 45568,
+                "Value": 32
+              },
+              {
+                "Offset": 60768,
+                "Value": 32
+              },
+              {
+                "Offset": 75808,
+                "Value": 32
+              },
+              {
+                "Offset": 90944,
+                "Value": 32
+              },
+              {
+                "Offset": 106016,
+                "Value": 32
+              },
+              {
+                "Offset": 121216,
+                "Value": 32
+              },
+              {
+                "Offset": 136352,
+                "Value": 32
+              },
+              {
+                "Offset": 151360,
+                "Value": 32
+              },
+              {
+                "Offset": 166496,
+                "Value": 32
+              },
+              {
+                "Offset": 181664,
+                "Value": 32
+              },
+              {
+                "Offset": 196832,
+                "Value": 28
+              },
+              {
+                "Offset": 209984,
+                "Value": 0
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 45568,
+                "Value": "start"
+              },
+              {
+                "Offset": 60768,
+                "Value": "end"
+              },
+              {
+                "Offset": 90944,
+                "Value": "start"
+              },
+              {
+                "Offset": 106016,
+                "Value": "end"
+              },
+              {
+                "Offset": 121216,
+                "Value": "start"
+              },
+              {
+                "Offset": 136352,
+                "Value": "end"
               }
             ]
           }
@@ -2035,11 +5627,117 @@
           "Path": "dlc_security_music/418",
           "Duration": 186966,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 11989,
+                "Value": 32
+              },
+              {
+                "Offset": 23893,
+                "Value": 32
+              },
+              {
+                "Offset": 35925,
+                "Value": 32
+              },
+              {
+                "Offset": 47914,
+                "Value": 32
+              },
+              {
+                "Offset": 59946,
+                "Value": 32
+              },
+              {
+                "Offset": 71893,
+                "Value": 32
+              },
+              {
+                "Offset": 83984,
+                "Value": 32
+              },
+              {
+                "Offset": 96000,
+                "Value": 32
+              },
+              {
+                "Offset": 107904,
+                "Value": 32
+              },
+              {
+                "Offset": 120021,
+                "Value": 32
+              },
+              {
+                "Offset": 132010,
+                "Value": 32
+              },
+              {
+                "Offset": 144000,
+                "Value": 32
+              },
+              {
+                "Offset": 156000,
+                "Value": 32
+              },
+              {
+                "Offset": 168000,
+                "Value": 32
+              },
+              {
+                "Offset": 180032,
+                "Value": 16
+              },
+              {
+                "Offset": 185856,
+                "Value": 0
+              }
+            ],
             "Track": [
               {
                 "Offset": 25,
                 "Title": "418 (Bounce Mix)",
                 "Artist": "DJ SLUGO"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3833,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 11987,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 172487,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 185302,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 11989,
+                "Value": "start"
+              },
+              {
+                "Offset": 35925,
+                "Value": "end"
+              },
+              {
+                "Offset": 144000,
+                "Value": "start"
+              },
+              {
+                "Offset": 166144,
+                "Value": "end"
               }
             ]
           }
@@ -2055,6 +5753,24 @@
                 "Title": "Volando Voy",
                 "Artist": "CAMARÓN DE LA ISLA"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4678,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 17983,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 180287,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 195732,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -2069,6 +5785,24 @@
                 "Title": "Con Altura",
                 "Artist": "ROSALÍA FEAT. J BALVIN"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3090,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9228,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 133058,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 150614,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -2077,11 +5811,153 @@
           "Path": "dlc_security_music/mystery_love",
           "Duration": 422979,
           "Markers": {
-            "Track": [
+            "Beat": [
               {
                 "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 16746,
+                "Value": 32
+              },
+              {
+                "Offset": 33472,
+                "Value": 32
+              },
+              {
+                "Offset": 50304,
+                "Value": 32
+              },
+              {
+                "Offset": 67008,
+                "Value": 32
+              },
+              {
+                "Offset": 83840,
+                "Value": 32
+              },
+              {
+                "Offset": 100672,
+                "Value": 32
+              },
+              {
+                "Offset": 117440,
+                "Value": 32
+              },
+              {
+                "Offset": 134208,
+                "Value": 32
+              },
+              {
+                "Offset": 151082,
+                "Value": 32
+              },
+              {
+                "Offset": 167872,
+                "Value": 32
+              },
+              {
+                "Offset": 184736,
+                "Value": 32
+              },
+              {
+                "Offset": 201578,
+                "Value": 32
+              },
+              {
+                "Offset": 218432,
+                "Value": 32
+              },
+              {
+                "Offset": 235242,
+                "Value": 32
+              },
+              {
+                "Offset": 252074,
+                "Value": 32
+              },
+              {
+                "Offset": 269013,
+                "Value": 32
+              },
+              {
+                "Offset": 285888,
+                "Value": 32
+              },
+              {
+                "Offset": 302826,
+                "Value": 32
+              },
+              {
+                "Offset": 319658,
+                "Value": 32
+              },
+              {
+                "Offset": 336640,
+                "Value": 32
+              },
+              {
+                "Offset": 353557,
+                "Value": 32
+              },
+              {
+                "Offset": 370517,
+                "Value": 32
+              },
+              {
+                "Offset": 387541,
+                "Value": 32
+              },
+              {
+                "Offset": 404480,
+                "Value": 32
+              },
+              {
+                "Offset": 421568,
+                "Value": 3
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 29,
                 "Title": "Mystery of Love (2011) (Instrumental)",
                 "Artist": "MR. FINGERS"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 2074,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12536,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 411345,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 421570,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 43861,
+                "Value": "start"
+              },
+              {
+                "Offset": 67008,
+                "Value": "end"
+              },
+              {
+                "Offset": 250112,
+                "Value": "start"
+              },
+              {
+                "Offset": 285888,
+                "Value": "end"
               }
             ]
           }
@@ -2097,6 +5973,24 @@
                 "Title": "KLK",
                 "Artist": "ARCA FEAT. ROSALÍA"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4573,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 23634,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 205650,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 220393,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -2110,6 +6004,24 @@
                 "Offset": 41,
                 "Title": "A Palé",
                 "Artist": "ROSALÍA"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 2128,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 7755,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 89753,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 101123,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2125,6 +6037,24 @@
                 "Title": "Linda",
                 "Artist": "TOKISCHA & ROSALÍA"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 123,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 4332,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 119110,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 125912,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -2139,6 +6069,94 @@
                 "Title": "Dos Locos",
                 "Artist": "MONCHY & ALEJANDRA"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 20,
+                "Value": 2
+              },
+              {
+                "Offset": 725,
+                "Value": 32
+              },
+              {
+                "Offset": 15445,
+                "Value": 32
+              },
+              {
+                "Offset": 30272,
+                "Value": 32
+              },
+              {
+                "Offset": 45056,
+                "Value": 32
+              },
+              {
+                "Offset": 59818,
+                "Value": 32
+              },
+              {
+                "Offset": 74581,
+                "Value": 32
+              },
+              {
+                "Offset": 89344,
+                "Value": 32
+              },
+              {
+                "Offset": 104149,
+                "Value": 32
+              },
+              {
+                "Offset": 118912,
+                "Value": 32
+              },
+              {
+                "Offset": 133674,
+                "Value": 32
+              },
+              {
+                "Offset": 148458,
+                "Value": 32
+              },
+              {
+                "Offset": 163157,
+                "Value": 32
+              },
+              {
+                "Offset": 177962,
+                "Value": 32
+              },
+              {
+                "Offset": 192768,
+                "Value": 32
+              },
+              {
+                "Offset": 207530,
+                "Value": 32
+              },
+              {
+                "Offset": 222080,
+                "Value": 32
+              },
+              {
+                "Offset": 237077,
+                "Value": 8
+              },
+              {
+                "Offset": 240768,
+                "Value": 2
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 226572,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 238679,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -2147,11 +6165,85 @@
           "Path": "dlc_security_music/vamos_disco",
           "Duration": 164200,
           "Markers": {
-            "Track": [
+            "Beat": [
               {
                 "Offset": 0,
+                "Value": 29
+              },
+              {
+                "Offset": 18704,
+                "Value": 32
+              },
+              {
+                "Offset": 39344,
+                "Value": 32
+              },
+              {
+                "Offset": 59984,
+                "Value": 32
+              },
+              {
+                "Offset": 80608,
+                "Value": 32
+              },
+              {
+                "Offset": 101200,
+                "Value": 32
+              },
+              {
+                "Offset": 121904,
+                "Value": 32
+              },
+              {
+                "Offset": 142544,
+                "Value": 32
+              },
+              {
+                "Offset": 163360,
+                "Value": 0
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 31,
                 "Title": "Vamos Pa la Disco",
                 "Artist": "LAS GUANABANAS"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4498,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 16048,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 145153,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 161924,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 18704,
+                "Value": "start"
+              },
+              {
+                "Offset": 39344,
+                "Value": "end"
+              },
+              {
+                "Offset": 132522,
+                "Value": "start"
+              },
+              {
+                "Offset": 145153,
+                "Value": "end"
               }
             ]
           }
@@ -2161,11 +6253,91 @@
           "Path": "dlc_security_music/mi_coranzoncito",
           "Duration": 226543,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 14400,
+                "Value": 32
+              },
+              {
+                "Offset": 28832,
+                "Value": 32
+              },
+              {
+                "Offset": 43296,
+                "Value": 32
+              },
+              {
+                "Offset": 57696,
+                "Value": 32
+              },
+              {
+                "Offset": 72192,
+                "Value": 32
+              },
+              {
+                "Offset": 86528,
+                "Value": 32
+              },
+              {
+                "Offset": 100832,
+                "Value": 32
+              },
+              {
+                "Offset": 115488,
+                "Value": 32
+              },
+              {
+                "Offset": 129888,
+                "Value": 32
+              },
+              {
+                "Offset": 144416,
+                "Value": 32
+              },
+              {
+                "Offset": 158816,
+                "Value": 32
+              },
+              {
+                "Offset": 173472,
+                "Value": 32
+              },
+              {
+                "Offset": 187616,
+                "Value": 32
+              },
+              {
+                "Offset": 202144,
+                "Value": 32
+              },
+              {
+                "Offset": 216544,
+                "Value": 12
+              },
+              {
+                "Offset": 221760,
+                "Value": 10
+              }
+            ],
             "Track": [
               {
                 "Offset": 23,
                 "Title": "Mi Corazoncito",
                 "Artist": "AVENTURA"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 212876,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 221580,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2181,6 +6353,24 @@
                 "Title": "Duro 2005",
                 "Artist": "LA GOONY CHONGA"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3498,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 16758,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 119323,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 134225,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -2189,11 +6379,101 @@
           "Path": "dlc_security_music/tukuntazo",
           "Duration": 187411,
           "Markers": {
-            "Track": [
+            "Beat": [
               {
                 "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 1024,
+                "Value": 32
+              },
+              {
+                "Offset": 17856,
+                "Value": 32
+              },
+              {
+                "Offset": 34752,
+                "Value": 32
+              },
+              {
+                "Offset": 51392,
+                "Value": 32
+              },
+              {
+                "Offset": 68400,
+                "Value": 32
+              },
+              {
+                "Offset": 85248,
+                "Value": 32
+              },
+              {
+                "Offset": 102096,
+                "Value": 32
+              },
+              {
+                "Offset": 118928,
+                "Value": 32
+              },
+              {
+                "Offset": 135776,
+                "Value": 32
+              },
+              {
+                "Offset": 152624,
+                "Value": 32
+              },
+              {
+                "Offset": 169440,
+                "Value": 32
+              },
+              {
+                "Offset": 186368,
+                "Value": 0
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 34,
                 "Title": "Tukuntaso",
                 "Artist": "TOKISCHA & HARACA KIKO & EL CHERRY SCOM"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3201,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9289,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 171549,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 184761,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 17856,
+                "Value": "start"
+              },
+              {
+                "Offset": 34752,
+                "Value": "end"
+              },
+              {
+                "Offset": 110506,
+                "Value": "start"
+              },
+              {
+                "Offset": 127317,
+                "Value": "end"
               }
             ]
           }
@@ -2209,6 +6489,104 @@
                 "Title": "Skinny Jeans",
                 "Artist": "LIKKLE VYBZ & LIKKLE ADDI"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 19200,
+                "Value": 32
+              },
+              {
+                "Offset": 38336,
+                "Value": 32
+              },
+              {
+                "Offset": 57568,
+                "Value": 32
+              },
+              {
+                "Offset": 76800,
+                "Value": 32
+              },
+              {
+                "Offset": 96000,
+                "Value": 32
+              },
+              {
+                "Offset": 115136,
+                "Value": 32
+              },
+              {
+                "Offset": 134368,
+                "Value": 32
+              },
+              {
+                "Offset": 153504,
+                "Value": 32
+              },
+              {
+                "Offset": 172768,
+                "Value": 32
+              },
+              {
+                "Offset": 191936,
+                "Value": 10
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3916,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9496,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 183253,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 193991,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 9496,
+                "Value": "start"
+              },
+              {
+                "Offset": 29440,
+                "Value": "end"
+              },
+              {
+                "Offset": 48042,
+                "Value": "start"
+              },
+              {
+                "Offset": 67413,
+                "Value": "end"
+              },
+              {
+                "Offset": 86442,
+                "Value": "start"
+              },
+              {
+                "Offset": 105728,
+                "Value": "end"
+              },
+              {
+                "Offset": 163072,
+                "Value": "start"
+              },
+              {
+                "Offset": 182869,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -2217,11 +6595,67 @@
           "Path": "dlc_security_music/algo_como_tu",
           "Duration": 168149,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 22869,
+                "Value": 32
+              },
+              {
+                "Offset": 45696,
+                "Value": 32
+              },
+              {
+                "Offset": 68565,
+                "Value": 32
+              },
+              {
+                "Offset": 91392,
+                "Value": 32
+              },
+              {
+                "Offset": 114282,
+                "Value": 32
+              },
+              {
+                "Offset": 137130,
+                "Value": 32
+              },
+              {
+                "Offset": 160000,
+                "Value": 10
+              },
+              {
+                "Offset": 167128,
+                "Value": 0
+              }
+            ],
             "Track": [
               {
                 "Offset": 3,
                 "Title": "Algo Como Tú",
                 "Artist": "KAYDY CAIN & LOS DEL CONTROL"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 7011,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12691,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 161547,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 167128,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2231,11 +6665,63 @@
           "Path": "dlc_security_music/dominicana",
           "Duration": 137546,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 17450,
+                "Value": 32
+              },
+              {
+                "Offset": 34922,
+                "Value": 32
+              },
+              {
+                "Offset": 52352,
+                "Value": 32
+              },
+              {
+                "Offset": 69824,
+                "Value": 32
+              },
+              {
+                "Offset": 87232,
+                "Value": 32
+              },
+              {
+                "Offset": 104746,
+                "Value": 32
+              },
+              {
+                "Offset": 122176,
+                "Value": 28
+              }
+            ],
             "Track": [
               {
                 "Offset": 111,
                 "Title": "Dominicana",
                 "Artist": "CHUCKY73"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 2649,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 8688,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 117827,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 131811,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2247,9 +6733,107 @@
           "Markers": {
             "Track": [
               {
-                "Offset": 5,
+                "Offset": 0,
                 "Title": "100% of Disin' You",
                 "Artist": "ARMANDO"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 14880,
+                "Value": 32
+              },
+              {
+                "Offset": 29824,
+                "Value": 32
+              },
+              {
+                "Offset": 44704,
+                "Value": 32
+              },
+              {
+                "Offset": 59616,
+                "Value": 32
+              },
+              {
+                "Offset": 74432,
+                "Value": 32
+              },
+              {
+                "Offset": 89344,
+                "Value": 32
+              },
+              {
+                "Offset": 104224,
+                "Value": 32
+              },
+              {
+                "Offset": 119120,
+                "Value": 32
+              },
+              {
+                "Offset": 133952,
+                "Value": 32
+              },
+              {
+                "Offset": 148832,
+                "Value": 32
+              },
+              {
+                "Offset": 163776,
+                "Value": 32
+              },
+              {
+                "Offset": 178688,
+                "Value": 32
+              },
+              {
+                "Offset": 193536,
+                "Value": 32
+              },
+              {
+                "Offset": 208416,
+                "Value": 32
+              },
+              {
+                "Offset": 223296,
+                "Value": 32
+              },
+              {
+                "Offset": 238144,
+                "Value": 4
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 14880,
+                "Value": "start"
+              },
+              {
+                "Offset": 52138,
+                "Value": "end"
+              },
+              {
+                "Offset": 163776,
+                "Value": "start"
+              },
+              {
+                "Offset": 193536,
+                "Value": "end"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 216401,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 235003,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2259,11 +6843,77 @@
           "Path": "dlc_security_music/tumbando_fronte",
           "Duration": 167740,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 20202,
+                "Value": 32
+              },
+              {
+                "Offset": 40384,
+                "Value": 32
+              },
+              {
+                "Offset": 60650,
+                "Value": 32
+              },
+              {
+                "Offset": 80832,
+                "Value": 32
+              },
+              {
+                "Offset": 101056,
+                "Value": 32
+              },
+              {
+                "Offset": 121237,
+                "Value": 32
+              },
+              {
+                "Offset": 141440,
+                "Value": 32
+              },
+              {
+                "Offset": 161685,
+                "Value": 10
+              }
+            ],
             "Track": [
               {
                 "Offset": 11,
                 "Title": "Tumbando Fronte",
                 "Artist": "ALBERTO STYLEE"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 70656,
+                "Value": "start"
+              },
+              {
+                "Offset": 90794,
+                "Value": "end"
+              },
+              {
+                "Offset": 131328,
+                "Value": "start"
+              },
+              {
+                "Offset": 151625,
+                "Value": "end"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 151625,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 167394,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2273,11 +6923,89 @@
           "Path": "dlc_security_music/xulita",
           "Duration": 179750,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 20864,
+                "Value": 32
+              },
+              {
+                "Offset": 41696,
+                "Value": 32
+              },
+              {
+                "Offset": 62592,
+                "Value": 32
+              },
+              {
+                "Offset": 83488,
+                "Value": 32
+              },
+              {
+                "Offset": 104320,
+                "Value": 32
+              },
+              {
+                "Offset": 125216,
+                "Value": 32
+              },
+              {
+                "Offset": 146048,
+                "Value": 32
+              },
+              {
+                "Offset": 166944,
+                "Value": 16
+              },
+              {
+                "Offset": 177459,
+                "Value": 4
+              }
+            ],
             "Track": [
               {
-                "Offset": 31,
+                "Offset": 0,
                 "Title": "XULITA",
                 "Artist": "YOUNG CISTER FEAT. KAYDY CAIN"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 51456,
+                "Value": "start"
+              },
+              {
+                "Offset": 62592,
+                "Value": "end"
+              },
+              {
+                "Offset": 104320,
+                "Value": "start"
+              },
+              {
+                "Offset": 115200,
+                "Value": "end"
+              },
+              {
+                "Offset": 155989,
+                "Value": "start"
+              },
+              {
+                "Offset": 175018,
+                "Value": "end"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 166200,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 177459,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2289,9 +7017,27 @@
           "Markers": {
             "Track": [
               {
-                "Offset": 0,
+                "Offset": 8,
                 "Title": "LA FAMA",
                 "Artist": "ROSALÍA & THE WEEKND"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 1531,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 6369,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 173419,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 183919,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2307,6 +7053,24 @@
                 "Title": "Snap And Roll",
                 "Artist": "SOULJA BOY TELL'EM"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4808,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12531,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 182061,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 198444,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -2315,11 +7079,65 @@
           "Path": "dlc_security_music/where_heart_is",
           "Duration": 172912,
           "Markers": {
-            "Track": [
+            "Beat": [
               {
                 "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 21333,
+                "Value": 32
+              },
+              {
+                "Offset": 42666,
+                "Value": 32
+              },
+              {
+                "Offset": 64000,
+                "Value": 32
+              },
+              {
+                "Offset": 85312,
+                "Value": 32
+              },
+              {
+                "Offset": 106688,
+                "Value": 32
+              },
+              {
+                "Offset": 127936,
+                "Value": 32
+              },
+              {
+                "Offset": 149280,
+                "Value": 32
+              },
+              {
+                "Offset": 170656,
+                "Value": 4
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 81,
                 "Title": "Take Me Where Your Heart Is",
                 "Artist": "Q"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 106688,
+                "Value": "start"
+              },
+              {
+                "Offset": 149280,
+                "Value": "end"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 163883,
+                "Value": "outro_start"
               }
             ]
           }
@@ -2335,6 +7153,24 @@
                 "Title": "Nubes",
                 "Artist": "RAUW ALEJANDRO"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3510,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9995,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 154465,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 165536,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -2343,11 +7179,105 @@
           "Path": "dlc_security_music/dipra",
           "Duration": 170879,
           "Markers": {
-            "Track": [
+            "Beat": [
               {
                 "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 16981,
+                "Value": 32
+              },
+              {
+                "Offset": 33962,
+                "Value": 32
+              },
+              {
+                "Offset": 50944,
+                "Value": 32
+              },
+              {
+                "Offset": 67925,
+                "Value": 32
+              },
+              {
+                "Offset": 84992,
+                "Value": 32
+              },
+              {
+                "Offset": 101973,
+                "Value": 32
+              },
+              {
+                "Offset": 118869,
+                "Value": 32
+              },
+              {
+                "Offset": 135936,
+                "Value": 32
+              },
+              {
+                "Offset": 152968,
+                "Value": 28
+              },
+              {
+                "Offset": 167680,
+                "Value": 4
+              },
+              {
+                "Offset": 169898,
+                "Value": 0
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 10,
                 "Title": "A La Mía",
                 "Artist": "BAD GYAL"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 1323,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 8473,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 152968,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 164844,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 25258,
+                "Value": "start"
+              },
+              {
+                "Offset": 42410,
+                "Value": "end"
+              },
+              {
+                "Offset": 76458,
+                "Value": "start"
+              },
+              {
+                "Offset": 93440,
+                "Value": "end"
+              },
+              {
+                "Offset": 135936,
+                "Value": "start"
+              },
+              {
+                "Offset": 152968,
+                "Value": "end"
               }
             ]
           }
@@ -2357,11 +7287,97 @@
           "Path": "dlc_security_music/bounce_n_break",
           "Duration": 152509,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 11968,
+                "Value": 32
+              },
+              {
+                "Offset": 23936,
+                "Value": 32
+              },
+              {
+                "Offset": 35904,
+                "Value": 32
+              },
+              {
+                "Offset": 47936,
+                "Value": 32
+              },
+              {
+                "Offset": 59968,
+                "Value": 32
+              },
+              {
+                "Offset": 71936,
+                "Value": 32
+              },
+              {
+                "Offset": 83968,
+                "Value": 32
+              },
+              {
+                "Offset": 95936,
+                "Value": 32
+              },
+              {
+                "Offset": 107968,
+                "Value": 32
+              },
+              {
+                "Offset": 120000,
+                "Value": 32
+              },
+              {
+                "Offset": 132032,
+                "Value": 32
+              },
+              {
+                "Offset": 144000,
+                "Value": 16
+              },
+              {
+                "Offset": 150016,
+                "Value": 6
+              }
+            ],
             "Track": [
               {
                 "Offset": 9,
                 "Title": "Bounce N Break Yo Back",
                 "Artist": "DJ SPINN"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 47936,
+                "Value": "start"
+              },
+              {
+                "Offset": 71936,
+                "Value": "end"
+              },
+              {
+                "Offset": 120000,
+                "Value": "start"
+              },
+              {
+                "Offset": 144000,
+                "Value": "end"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 143720,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 152062,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2373,9 +7389,27 @@
           "Markers": {
             "Track": [
               {
-                "Offset": 0,
+                "Offset": 27,
                 "Title": "DI MI NOMBRE (Cap.8: Éxtasis)",
                 "Artist": "ROSALÍA"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 1807,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9937,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 147516,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 156514,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2385,11 +7419,89 @@
           "Path": "dlc_security_music/contigo",
           "Duration": 190908,
           "Markers": {
-            "Track": [
+            "Beat": [
               {
                 "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 21088,
+                "Value": 32
+              },
+              {
+                "Offset": 42176,
+                "Value": 32
+              },
+              {
+                "Offset": 63296,
+                "Value": 32
+              },
+              {
+                "Offset": 84416,
+                "Value": 32
+              },
+              {
+                "Offset": 105536,
+                "Value": 32
+              },
+              {
+                "Offset": 126720,
+                "Value": 32
+              },
+              {
+                "Offset": 147712,
+                "Value": 32
+              },
+              {
+                "Offset": 168874,
+                "Value": 32
+              },
+              {
+                "Offset": 189904,
+                "Value": 4
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 19,
                 "Title": "Vacilar Contigo",
                 "Artist": "ÑEJO & DALMATA"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 1448,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10528,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 168948,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 185948,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 63296,
+                "Value": "start"
+              },
+              {
+                "Offset": 84416,
+                "Value": "end"
+              },
+              {
+                "Offset": 126720,
+                "Value": "start"
+              },
+              {
+                "Offset": 168948,
+                "Value": "end"
               }
             ]
           }
@@ -2399,11 +7511,101 @@
           "Path": "dlc_security_music/body_so_good",
           "Duration": 182519,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 1216,
+                "Value": 32
+              },
+              {
+                "Offset": 20672,
+                "Value": 32
+              },
+              {
+                "Offset": 40032,
+                "Value": 32
+              },
+              {
+                "Offset": 59488,
+                "Value": 32
+              },
+              {
+                "Offset": 78816,
+                "Value": 32
+              },
+              {
+                "Offset": 98176,
+                "Value": 32
+              },
+              {
+                "Offset": 117568,
+                "Value": 32
+              },
+              {
+                "Offset": 136992,
+                "Value": 32
+              },
+              {
+                "Offset": 156368,
+                "Value": 32
+              },
+              {
+                "Offset": 175792,
+                "Value": 12
+              }
+            ],
             "Track": [
               {
                 "Offset": 30,
                 "Title": "Body So Good",
                 "Artist": "POPCAAN"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 8687,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 20377,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 166122,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 180934,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 40032,
+                "Value": "start"
+              },
+              {
+                "Offset": 59488,
+                "Value": "end"
+              },
+              {
+                "Offset": 107776,
+                "Value": "start"
+              },
+              {
+                "Offset": 127317,
+                "Value": "end"
+              },
+              {
+                "Offset": 156368,
+                "Value": "start"
+              },
+              {
+                "Offset": 175792,
+                "Value": "end"
               }
             ]
           }
@@ -2419,6 +7621,24 @@
                 "Title": "Rockstar Made",
                 "Artist": "PLAYBOI CARTI"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4376,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12938,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 168160,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 187530,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -2427,11 +7647,93 @@
           "Path": "dlc_security_music/bunny_rider",
           "Duration": 191989,
           "Markers": {
-            "Track": [
+            "Beat": [
               {
                 "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 17408,
+                "Value": 32
+              },
+              {
+                "Offset": 34901,
+                "Value": 32
+              },
+              {
+                "Offset": 52309,
+                "Value": 32
+              },
+              {
+                "Offset": 69504,
+                "Value": 32
+              },
+              {
+                "Offset": 87264,
+                "Value": 32
+              },
+              {
+                "Offset": 104640,
+                "Value": 32
+              },
+              {
+                "Offset": 122176,
+                "Value": 32
+              },
+              {
+                "Offset": 139584,
+                "Value": 32
+              },
+              {
+                "Offset": 157088,
+                "Value": 32
+              },
+              {
+                "Offset": 174496,
+                "Value": 32
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 4,
                 "Title": "Bunny Is A Rider",
                 "Artist": "CAROLINE POLACHEK"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4351,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 16753,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 175957,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 187605,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 52309,
+                "Value": "start"
+              },
+              {
+                "Offset": 69504,
+                "Value": "end"
+              },
+              {
+                "Offset": 104640,
+                "Value": "start"
+              },
+              {
+                "Offset": 139584,
+                "Value": "end"
               }
             ]
           }
@@ -2441,11 +7743,119 @@
           "Path": "dlc_security_music/calle_luna",
           "Duration": 225692,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 11008,
+                "Value": 32
+              },
+              {
+                "Offset": 22096,
+                "Value": 32
+              },
+              {
+                "Offset": 33024,
+                "Value": 32
+              },
+              {
+                "Offset": 44096,
+                "Value": 32
+              },
+              {
+                "Offset": 55328,
+                "Value": 32
+              },
+              {
+                "Offset": 66080,
+                "Value": 4
+              },
+              {
+                "Offset": 67584,
+                "Value": 32
+              },
+              {
+                "Offset": 78608,
+                "Value": 32
+              },
+              {
+                "Offset": 89392,
+                "Value": 32
+              },
+              {
+                "Offset": 100560,
+                "Value": 32
+              },
+              {
+                "Offset": 111520,
+                "Value": 32
+              },
+              {
+                "Offset": 122528,
+                "Value": 32
+              },
+              {
+                "Offset": 133648,
+                "Value": 32
+              },
+              {
+                "Offset": 145104,
+                "Value": 32
+              },
+              {
+                "Offset": 156544,
+                "Value": 16
+              },
+              {
+                "Offset": 162720,
+                "Value": 32
+              },
+              {
+                "Offset": 174032,
+                "Value": 32
+              },
+              {
+                "Offset": 184848,
+                "Value": 32
+              },
+              {
+                "Offset": 195856,
+                "Value": 32
+              },
+              {
+                "Offset": 206576,
+                "Value": 32
+              },
+              {
+                "Offset": 218272,
+                "Value": 23
+              }
+            ],
             "Track": [
               {
                 "Offset": 28,
                 "Title": "Calle Luna Calle Sol",
                 "Artist": "WILLIE COLÓN & HÉCTOR LAVOE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4496,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10726,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 205200,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 219878,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2457,9 +7867,27 @@
           "Markers": {
             "Track": [
               {
-                "Offset": 0,
+                "Offset": 11,
                 "Title": "Stress",
                 "Artist": "JUSTICE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 944,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 7541,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 283470,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 296670,
+                "Value": "outro_end"
               }
             ]
           }
@@ -2475,6 +7903,60 @@
                 "Title": "Machote",
                 "Artist": "ARCA"
               }
+            ],
+            "Beat": [
+              {
+                "Offset": 2080,
+                "Value": 32
+              },
+              {
+                "Offset": 30076,
+                "Value": 32
+              },
+              {
+                "Offset": 58133,
+                "Value": 32
+              },
+              {
+                "Offset": 86250,
+                "Value": 32
+              },
+              {
+                "Offset": 114229,
+                "Value": 32
+              },
+              {
+                "Offset": 142197,
+                "Value": 10
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4722,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15909,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 138728,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 149729,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 29952,
+                "Value": "start"
+              },
+              {
+                "Offset": 58133,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -2483,11 +7965,109 @@
           "Path": "dlc_security_music/salgo_calle",
           "Duration": 264310,
           "Markers": {
-            "Track": [
+            "Beat": [
               {
                 "Offset": 0,
+                "Value": 32
+              },
+              {
+                "Offset": 21536,
+                "Value": 32
+              },
+              {
+                "Offset": 42624,
+                "Value": 32
+              },
+              {
+                "Offset": 63968,
+                "Value": 32
+              },
+              {
+                "Offset": 85312,
+                "Value": 32
+              },
+              {
+                "Offset": 106624,
+                "Value": 32
+              },
+              {
+                "Offset": 128000,
+                "Value": 32
+              },
+              {
+                "Offset": 149344,
+                "Value": 32
+              },
+              {
+                "Offset": 170656,
+                "Value": 32
+              },
+              {
+                "Offset": 192032,
+                "Value": 32
+              },
+              {
+                "Offset": 213280,
+                "Value": 32
+              },
+              {
+                "Offset": 234624,
+                "Value": 32
+              },
+              {
+                "Offset": 256128,
+                "Value": 12
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 14,
                 "Title": "Salgo Pa' La Calle",
                 "Artist": "DADDY YANKEE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4976,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 13366,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 250906,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 261228,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 90453,
+                "Value": "start"
+              },
+              {
+                "Offset": 112042,
+                "Value": "end"
+              },
+              {
+                "Offset": 157184,
+                "Value": "start"
+              },
+              {
+                "Offset": 176384,
+                "Value": "end"
+              },
+              {
+                "Offset": 197376,
+                "Value": "start"
+              },
+              {
+                "Offset": 218709,
+                "Value": "end"
               }
             ]
           }

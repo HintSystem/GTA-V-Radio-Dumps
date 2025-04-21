@@ -62,68 +62,6 @@
           "Path": "dlc_hei4_music/wwfm_island_update_part_1",
           "Duration": 2332660,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 290,
-                "Title": "The Message (GP And 2bo4 Remix)",
-                "Artist": "KAMASI WASHINGTON"
-              },
-              {
-                "Offset": 279656,
-                "Title": "Birthright",
-                "Artist": "SARATHY KORWAR"
-              },
-              {
-                "Offset": 517406,
-                "Title": "Lost Touch",
-                "Artist": "MR. MITCH FEAT. DUVAL TIMOTHY"
-              },
-              {
-                "Offset": 525338,
-                "Title": "Sandman",
-                "Artist": "THE UNDISPUTED TRUTH"
-              },
-              {
-                "Offset": 675202,
-                "Title": "The People",
-                "Artist": "PHOTAY"
-              },
-              {
-                "Offset": 900610,
-                "Title": "Could Heaven Ever Be Like This",
-                "Artist": "IDRIS MUHAMMAD"
-              },
-              {
-                "Offset": 1092283,
-                "Title": "Jazz Carnival",
-                "Artist": "AZYMUTH"
-              },
-              {
-                "Offset": 1356026,
-                "Title": "Azaa (Branko Edit)",
-                "Artist": "GAFACCI"
-              },
-              {
-                "Offset": 1483502,
-                "Title": "Bim Bam Bam",
-                "Artist": "KOKOKO!"
-              },
-              {
-                "Offset": 1643894,
-                "Title": "Labyrinth",
-                "Artist": "TSVI"
-              },
-              {
-                "Offset": 1841497,
-                "Title": "Riesling Pour Robert (Rhythm Heavy Version)",
-                "Artist": "JAHARI MASSAMBA UNIT"
-              },
-              {
-                "Offset": 2003934,
-                "Title": "Self:Love",
-                "Artist": "JOE ARMON-JONES FEAT. OBONGJAYAR"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 69,
@@ -182,7 +120,7 @@
                 "Value": 128
               },
               {
-                "Offset": 1268843,
+                "Offset": 1268842,
                 "Value": 192
               },
               {
@@ -218,7 +156,7 @@
                 "Value": 44
               },
               {
-                "Offset": 1998532,
+                "Offset": 1998531,
                 "Value": 0
               },
               {
@@ -230,7 +168,7 @@
                 "Value": 64
               },
               {
-                "Offset": 2110618,
+                "Offset": 2110617,
                 "Value": 64
               },
               {
@@ -248,6 +186,142 @@
               {
                 "Offset": 2327036,
                 "Value": 0
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 290,
+                "Title": "The Message (GP And 2bo4 Remix)",
+                "Artist": "KAMASI WASHINGTON"
+              },
+              {
+                "Offset": 279656,
+                "Title": "Birthright",
+                "Artist": "SARATHY KORWAR"
+              },
+              {
+                "Offset": 517406,
+                "Title": "Lost Touch",
+                "Artist": "MR. MITCH FEAT. DUVAL TIMOTHY"
+              },
+              {
+                "Offset": 525338,
+                "Title": "Sandman",
+                "Artist": "THE UNDISPUTED TRUTH"
+              },
+              {
+                "Offset": 675201,
+                "Title": "The People",
+                "Artist": "PHOTAY"
+              },
+              {
+                "Offset": 900610,
+                "Title": "Could Heaven Ever Be Like This",
+                "Artist": "IDRIS MUHAMMAD"
+              },
+              {
+                "Offset": 1092283,
+                "Title": "Jazz Carnival",
+                "Artist": "AZYMUTH"
+              },
+              {
+                "Offset": 1356026,
+                "Title": "Azaa (Branko Edit)",
+                "Artist": "GAFACCI"
+              },
+              {
+                "Offset": 1483502,
+                "Title": "Bim Bam Bam",
+                "Artist": "KOKOKO!"
+              },
+              {
+                "Offset": 1643894,
+                "Title": "Labyrinth",
+                "Artist": "TSVI"
+              },
+              {
+                "Offset": 1841497,
+                "Title": "Riesling Pour Robert (Rhythm Heavy Version)",
+                "Artist": "JAHARI MASSAMBA UNIT"
+              },
+              {
+                "Offset": 2003934,
+                "Title": "Self:Love",
+                "Artist": "JOE ARMON-JONES FEAT. OBONGJAYAR"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 708308,
+                "Value": "start"
+              },
+              {
+                "Offset": 725016,
+                "Value": "end"
+              },
+              {
+                "Offset": 776680,
+                "Value": "start"
+              },
+              {
+                "Offset": 801728,
+                "Value": "end"
+              },
+              {
+                "Offset": 1003709,
+                "Value": "end"
+              },
+              {
+                "Offset": 1091165,
+                "Value": "end"
+              },
+              {
+                "Offset": 1122382,
+                "Value": "start"
+              },
+              {
+                "Offset": 1151632,
+                "Value": "end"
+              },
+              {
+                "Offset": 1180217,
+                "Value": "start"
+              },
+              {
+                "Offset": 1210240,
+                "Value": "end"
+              },
+              {
+                "Offset": 1546207,
+                "Value": "start"
+              },
+              {
+                "Offset": 1575936,
+                "Value": "end"
+              },
+              {
+                "Offset": 1598404,
+                "Value": "start"
+              },
+              {
+                "Offset": 1627893,
+                "Value": "end"
+              },
+              {
+                "Offset": 1932614,
+                "Value": "start"
+              },
+              {
+                "Offset": 1966052,
+                "Value": "end"
+              },
+              {
+                "Offset": 2068889,
+                "Value": "start"
+              },
+              {
+                "Offset": 2131485,
+                "Value": "end"
               }
             ]
           }
@@ -400,7 +474,7 @@
                 "Value": 64
               },
               {
-                "Offset": 1353218,
+                "Offset": 1353217,
                 "Value": 64
               },
               {
@@ -428,11 +502,11 @@
                 "Value": 0
               },
               {
-                "Offset": 1728031,
+                "Offset": 1728030,
                 "Value": 256
               },
               {
-                "Offset": 1795526,
+                "Offset": 1795525,
                 "Value": 64
               },
               {
@@ -463,6 +537,68 @@
                 "Offset": 2025732,
                 "Value": 0
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 360528,
+                "Value": "start"
+              },
+              {
+                "Offset": 399256,
+                "Value": "end"
+              },
+              {
+                "Offset": 537996,
+                "Value": "start"
+              },
+              {
+                "Offset": 554802,
+                "Value": "end"
+              },
+              {
+                "Offset": 579962,
+                "Value": "start"
+              },
+              {
+                "Offset": 597007,
+                "Value": "end"
+              },
+              {
+                "Offset": 796100,
+                "Value": "start"
+              },
+              {
+                "Offset": 830981,
+                "Value": "end"
+              },
+              {
+                "Offset": 996057,
+                "Value": "start"
+              },
+              {
+                "Offset": 1011426,
+                "Value": "end"
+              },
+              {
+                "Offset": 1101548,
+                "Value": "start"
+              },
+              {
+                "Offset": 1133077,
+                "Value": "end"
+              },
+              {
+                "Offset": 1345405,
+                "Value": "start"
+              },
+              {
+                "Offset": 1393526,
+                "Value": "end"
+              },
+              {
+                "Offset": 1818388,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -471,63 +607,6 @@
           "Path": "dlc_hei4_music/wwfm_island_update_part_3",
           "Duration": 1572410,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 1000,
-                "Title": "Fusion Swirl",
-                "Artist": "JEFF PARKER"
-              },
-              {
-                "Offset": 28713,
-                "Title": "Wax & Buff",
-                "Artist": "SAUCE & DOGS"
-              },
-              {
-                "Offset": 250338,
-                "Title": "THE CHOCOLATE CONQUISTADORS",
-                "Artist": "BADBADNOTGOOD FEAT. MF DOOM"
-              },
-              {
-                "Offset": 667113,
-                "Title": "The Beat",
-                "Artist": "ESG"
-              },
-              {
-                "Offset": 801131,
-                "Title": "Kimchi King Kong",
-                "Artist": "THE DIABOLICAL LIBERTIES"
-              },
-              {
-                "Offset": 942919,
-                "Title": "What More",
-                "Artist": "SWINDLE FEAT. GREENTEA PENG"
-              },
-              {
-                "Offset": 1085524,
-                "Title": "Times Up",
-                "Artist": "FUSELAGE"
-              },
-              {
-                "Offset": 1306638,
-                "Title": "Muslem & Christian",
-                "Artist": "MADLIB"
-              },
-              {
-                "Offset": 1438408,
-                "Title": "Pure Agony",
-                "Artist": "KAYTRANADA"
-              },
-              {
-                "Offset": 1538180,
-                "Title": "Why Don't I Feel",
-                "Artist": "LYAM"
-              },
-              {
-                "Offset": 1572410,
-                "Title": "Why Don't I Feel",
-                "Artist": "LYAM"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 2,
@@ -634,7 +713,7 @@
                 "Value": 64
               },
               {
-                "Offset": 999434,
+                "Offset": 999433,
                 "Value": 64
               },
               {
@@ -674,8 +753,127 @@
                 "Value": 64
               },
               {
-                "Offset": 1569984,
+                "Offset": 1569983,
                 "Value": 0
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 1000,
+                "Title": "Fusion Swirl",
+                "Artist": "JEFF PARKER"
+              },
+              {
+                "Offset": 28713,
+                "Title": "Wax & Buff",
+                "Artist": "SAUCE & DOGS"
+              },
+              {
+                "Offset": 250338,
+                "Title": "THE CHOCOLATE CONQUISTADORS",
+                "Artist": "BADBADNOTGOOD FEAT. MF DOOM"
+              },
+              {
+                "Offset": 667113,
+                "Title": "The Beat",
+                "Artist": "ESG"
+              },
+              {
+                "Offset": 801131,
+                "Title": "Kimchi King Kong",
+                "Artist": "THE DIABOLICAL LIBERTIES"
+              },
+              {
+                "Offset": 942919,
+                "Title": "What More",
+                "Artist": "SWINDLE FEAT. GREENTEA PENG"
+              },
+              {
+                "Offset": 1085524,
+                "Title": "Times Up",
+                "Artist": "FUSELAGE"
+              },
+              {
+                "Offset": 1306638,
+                "Title": "Muslem & Christian",
+                "Artist": "MADLIB"
+              },
+              {
+                "Offset": 1438408,
+                "Title": "Pure Agony",
+                "Artist": "KAYTRANADA"
+              },
+              {
+                "Offset": 1538180,
+                "Title": "Why Don't I Feel",
+                "Artist": "LYAM"
+              },
+              {
+                "Offset": 1572410,
+                "Title": "Why Don't I Feel",
+                "Artist": "LYAM"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 346327,
+                "Value": "start"
+              },
+              {
+                "Offset": 376560,
+                "Value": "end"
+              },
+              {
+                "Offset": 465504,
+                "Value": "end"
+              },
+              {
+                "Offset": 480433,
+                "Value": "start"
+              },
+              {
+                "Offset": 568347,
+                "Value": "end"
+              },
+              {
+                "Offset": 749102,
+                "Value": "start"
+              },
+              {
+                "Offset": 774326,
+                "Value": "end"
+              },
+              {
+                "Offset": 857068,
+                "Value": "start"
+              },
+              {
+                "Offset": 885579,
+                "Value": "end"
+              },
+              {
+                "Offset": 914089,
+                "Value": "start"
+              },
+              {
+                "Offset": 942547,
+                "Value": "end"
+              },
+              {
+                "Offset": 1056384,
+                "Value": "start"
+              },
+              {
+                "Offset": 1085473,
+                "Value": "end"
+              },
+              {
+                "Offset": 1191457,
+                "Value": "start"
+              },
+              {
+                "Offset": 1234117,
+                "Value": "end"
               }
             ]
           }
@@ -697,7 +895,7 @@
                 "Artist": "JAB"
               },
               {
-                "Offset": 444778,
+                "Offset": 444777,
                 "Title": "Desire (Moodymann Remix)",
                 "Artist": "JOSÉ JAMES"
               },
@@ -784,7 +982,7 @@
                 "Value": 64
               },
               {
-                "Offset": 468659,
+                "Offset": 468658,
                 "Value": 512
               },
               {
@@ -824,7 +1022,7 @@
                 "Value": 32
               },
               {
-                "Offset": 925191,
+                "Offset": 925190,
                 "Value": 64
               },
               {
@@ -838,6 +1036,40 @@
               {
                 "Offset": 1013419,
                 "Value": 0
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 64303,
+                "Value": "start"
+              },
+              {
+                "Offset": 91183,
+                "Value": "end"
+              },
+              {
+                "Offset": 498070,
+                "Value": "start"
+              },
+              {
+                "Offset": 512801,
+                "Value": "end"
+              },
+              {
+                "Offset": 630704,
+                "Value": "start"
+              },
+              {
+                "Offset": 645376,
+                "Value": "end"
+              },
+              {
+                "Offset": 895804,
+                "Value": "start"
+              },
+              {
+                "Offset": 924742,
+                "Value": "end"
               }
             ]
           }
@@ -986,7 +1218,7 @@
                 "Value": 64
               },
               {
-                "Offset": 838356,
+                "Offset": 838355,
                 "Value": 64
               },
               {
@@ -1057,6 +1289,60 @@
                 "Offset": 1585365,
                 "Value": 0
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 125650,
+                "Value": "start"
+              },
+              {
+                "Offset": 141868,
+                "Value": "end"
+              },
+              {
+                "Offset": 308256,
+                "Value": "start"
+              },
+              {
+                "Offset": 425117,
+                "Value": "end"
+              },
+              {
+                "Offset": 830444,
+                "Value": "start"
+              },
+              {
+                "Offset": 894124,
+                "Value": "end"
+              },
+              {
+                "Offset": 1005828,
+                "Value": "start"
+              },
+              {
+                "Offset": 1037756,
+                "Value": "end"
+              },
+              {
+                "Offset": 1193131,
+                "Value": "start"
+              },
+              {
+                "Offset": 1247422,
+                "Value": "end"
+              },
+              {
+                "Offset": 1276775,
+                "Value": "start"
+              },
+              {
+                "Offset": 1329027,
+                "Value": "end"
+              },
+              {
+                "Offset": 1357414,
+                "Value": "start"
+              }
             ]
           }
         }
@@ -1113,7 +1399,7 @@
                 "Artist": "DAVID FIRTH"
               },
               {
-                "Offset": 911185,
+                "Offset": 911184,
                 "Title": "Lunch Break",
                 "Artist": "FLYING LOTUS, MF DOOM"
               },
@@ -1248,7 +1534,7 @@
                 "Value": 0
               },
               {
-                "Offset": 1456744,
+                "Offset": 1456743,
                 "Value": 64
               },
               {
@@ -1271,6 +1557,80 @@
                 "Offset": 1683620,
                 "Value": 64
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 186074,
+                "Value": "start"
+              },
+              {
+                "Offset": 210003,
+                "Value": "end"
+              },
+              {
+                "Offset": 234254,
+                "Value": "start"
+              },
+              {
+                "Offset": 249749,
+                "Value": "end"
+              },
+              {
+                "Offset": 292859,
+                "Value": "start"
+              },
+              {
+                "Offset": 311737,
+                "Value": "end"
+              },
+              {
+                "Offset": 654245,
+                "Value": "start"
+              },
+              {
+                "Offset": 686367,
+                "Value": "end"
+              },
+              {
+                "Offset": 911037,
+                "Value": "start"
+              },
+              {
+                "Offset": 938126,
+                "Value": "end"
+              },
+              {
+                "Offset": 1066420,
+                "Value": "start"
+              },
+              {
+                "Offset": 1095759,
+                "Value": "end"
+              },
+              {
+                "Offset": 1362364,
+                "Value": "start"
+              },
+              {
+                "Offset": 1389760,
+                "Value": "end"
+              },
+              {
+                "Offset": 1416339,
+                "Value": "start"
+              },
+              {
+                "Offset": 1438011,
+                "Value": "end"
+              },
+              {
+                "Offset": 1617449,
+                "Value": "start"
+              },
+              {
+                "Offset": 1677162,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -1279,58 +1639,6 @@
           "Path": "dlc_hei4_music/flylo_island_update_part_2",
           "Duration": 1786848,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 1272,
-                "Title": "Automatic",
-                "Artist": "FREDDIE GIBBS"
-              },
-              {
-                "Offset": 143245,
-                "Title": "Homicidal Thoughts",
-                "Artist": "LITTLE SNAKE"
-              },
-              {
-                "Offset": 295143,
-                "Title": "Arrogant",
-                "Artist": "TIERRA WHACK"
-              },
-              {
-                "Offset": 428409,
-                "Title": "You're Untouchable",
-                "Artist": "DORIAN CONCEPT"
-              },
-              {
-                "Offset": 536129,
-                "Title": "U Have To Be Odd",
-                "Artist": "FLYING LOTUS"
-              },
-              {
-                "Offset": 697167,
-                "Title": "Planet X",
-                "Artist": "LOUIS COLE"
-              },
-              {
-                "Offset": 863054,
-                "Title": "Itkanbe [Sonice]",
-                "Artist": "KNXWLEDGE FEAT. ANDERSON .PAAK, NXWORRIES"
-              },
-              {
-                "Offset": 957876,
-                "Title": "Shine A Light",
-                "Artist": "SHABAZZ PALACES"
-              },
-              {
-                "Offset": 1114427,
-                "Title": "Road Of The Lonely Ones",
-                "Artist": "MADLIB"
-              },
-              {
-                "Offset": 1319218,
-                "Title": "In The Wake Of Poseidon",
-                "Artist": "KING CRIMSON"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 995,
@@ -1481,7 +1789,7 @@
                 "Value": 64
               },
               {
-                "Offset": 1614792,
+                "Offset": 1614791,
                 "Value": 64
               },
               {
@@ -1495,6 +1803,108 @@
               {
                 "Offset": 1770651,
                 "Value": 20
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 1272,
+                "Title": "Automatic",
+                "Artist": "FREDDIE GIBBS"
+              },
+              {
+                "Offset": 143245,
+                "Title": "Homicidal Thoughts",
+                "Artist": "LITTLE SNAKE"
+              },
+              {
+                "Offset": 295143,
+                "Title": "Arrogant",
+                "Artist": "TIERRA WHACK"
+              },
+              {
+                "Offset": 428408,
+                "Title": "You're Untouchable",
+                "Artist": "DORIAN CONCEPT"
+              },
+              {
+                "Offset": 536129,
+                "Title": "U Have To Be Odd",
+                "Artist": "FLYING LOTUS"
+              },
+              {
+                "Offset": 697167,
+                "Title": "Planet X",
+                "Artist": "LOUIS COLE"
+              },
+              {
+                "Offset": 863054,
+                "Title": "Itkanbe [Sonice]",
+                "Artist": "KNXWLEDGE FEAT. ANDERSON .PAAK, NXWORRIES"
+              },
+              {
+                "Offset": 957876,
+                "Title": "Shine A Light",
+                "Artist": "SHABAZZ PALACES"
+              },
+              {
+                "Offset": 1114427,
+                "Title": "Road Of The Lonely Ones",
+                "Artist": "MADLIB"
+              },
+              {
+                "Offset": 1319218,
+                "Title": "In The Wake Of Poseidon",
+                "Artist": "KING CRIMSON"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 16849,
+                "Value": "start"
+              },
+              {
+                "Offset": 48427,
+                "Value": "end"
+              },
+              {
+                "Offset": 320089,
+                "Value": "start"
+              },
+              {
+                "Offset": 344805,
+                "Value": "end"
+              },
+              {
+                "Offset": 369572,
+                "Value": "start"
+              },
+              {
+                "Offset": 394597,
+                "Value": "end"
+              },
+              {
+                "Offset": 728469,
+                "Value": "start"
+              },
+              {
+                "Offset": 744017,
+                "Value": "end"
+              },
+              {
+                "Offset": 783180,
+                "Value": "start"
+              },
+              {
+                "Offset": 798762,
+                "Value": "end"
+              },
+              {
+                "Offset": 1245238,
+                "Value": "start"
+              },
+              {
+                "Offset": 1289612,
+                "Value": "end"
               }
             ]
           }
@@ -1510,6 +1920,92 @@
           "Path": "dlc_hei4_music/hei4_still_slipping_p1",
           "Duration": 1383791,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 128
+              },
+              {
+                "Offset": 78129,
+                "Value": 128
+              },
+              {
+                "Offset": 156477,
+                "Value": 78
+              },
+              {
+                "Offset": 205468,
+                "Value": 128
+              },
+              {
+                "Offset": 283810,
+                "Value": 128
+              },
+              {
+                "Offset": 362639,
+                "Value": 66
+              },
+              {
+                "Offset": 403908,
+                "Value": 62
+              },
+              {
+                "Offset": 441889,
+                "Value": 128
+              },
+              {
+                "Offset": 520418,
+                "Value": 126
+              },
+              {
+                "Offset": 597529,
+                "Value": 128
+              },
+              {
+                "Offset": 675915,
+                "Value": 128
+              },
+              {
+                "Offset": 747118,
+                "Value": 128
+              },
+              {
+                "Offset": 837672,
+                "Value": 128
+              },
+              {
+                "Offset": 916239,
+                "Value": 128
+              },
+              {
+                "Offset": 994573,
+                "Value": 128
+              },
+              {
+                "Offset": 1073004,
+                "Value": 72
+              },
+              {
+                "Offset": 1117078,
+                "Value": 48
+              },
+              {
+                "Offset": 1146544,
+                "Value": 128
+              },
+              {
+                "Offset": 1225145,
+                "Value": 128
+              },
+              {
+                "Offset": 1303630,
+                "Value": 128
+              },
+              {
+                "Offset": 1381445,
+                "Value": 128
+              }
+            ],
             "Track": [
               {
                 "Offset": 0,
@@ -1567,90 +2063,62 @@
                 "Artist": "TIME COW & RTKAL"
               }
             ],
-            "Beat": [
-              {
-                "Offset": 0,
-                "Value": 128
-              },
-              {
-                "Offset": 78129,
-                "Value": 128
-              },
-              {
-                "Offset": 156477,
-                "Value": 78
-              },
+            "Rockout": [
               {
                 "Offset": 205468,
-                "Value": 128
+                "Value": "start"
               },
               {
-                "Offset": 283810,
-                "Value": 128
+                "Offset": 233300,
+                "Value": "end"
               },
               {
-                "Offset": 362640,
-                "Value": 66
+                "Offset": 558121,
+                "Value": "start"
               },
               {
-                "Offset": 403908,
-                "Value": 62
+                "Offset": 579513,
+                "Value": "end"
               },
               {
-                "Offset": 441890,
-                "Value": 128
+                "Offset": 617705,
+                "Value": "start"
               },
               {
-                "Offset": 520418,
-                "Value": 126
+                "Offset": 637252,
+                "Value": "end"
               },
               {
-                "Offset": 597529,
-                "Value": 128
+                "Offset": 666102,
+                "Value": "start"
               },
               {
-                "Offset": 675915,
-                "Value": 128
+                "Offset": 686042,
+                "Value": "end"
               },
               {
-                "Offset": 747118,
-                "Value": 128
+                "Offset": 725490,
+                "Value": "start"
               },
               {
-                "Offset": 837672,
-                "Value": 128
+                "Offset": 744449,
+                "Value": "end"
               },
               {
-                "Offset": 916239,
-                "Value": 128
+                "Offset": 1010329,
+                "Value": "start"
               },
               {
-                "Offset": 994573,
-                "Value": 128
+                "Offset": 1029264,
+                "Value": "end"
               },
               {
-                "Offset": 1073004,
-                "Value": 72
+                "Offset": 1059078,
+                "Value": "start"
               },
               {
-                "Offset": 1117078,
-                "Value": 48
-              },
-              {
-                "Offset": 1146544,
-                "Value": 128
-              },
-              {
-                "Offset": 1225145,
-                "Value": 128
-              },
-              {
-                "Offset": 1303630,
-                "Value": 128
-              },
-              {
-                "Offset": 1381445,
-                "Value": 128
+                "Offset": 1097530,
+                "Value": "end"
               }
             ]
           }
@@ -1715,6 +2183,48 @@
                 "Offset": 1112417,
                 "Title": "Whip (Acapella)",
                 "Artist": "KO"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 44834,
+                "Value": "start"
+              },
+              {
+                "Offset": 84183,
+                "Value": "end"
+              },
+              {
+                "Offset": 272843,
+                "Value": "start"
+              },
+              {
+                "Offset": 312270,
+                "Value": "end"
+              },
+              {
+                "Offset": 915439,
+                "Value": "start"
+              },
+              {
+                "Offset": 944603,
+                "Value": "end"
+              },
+              {
+                "Offset": 1059454,
+                "Value": "start"
+              },
+              {
+                "Offset": 1088578,
+                "Value": "end"
+              },
+              {
+                "Offset": 1126496,
+                "Value": "start"
+              },
+              {
+                "Offset": 1197541,
+                "Value": "end"
               }
             ],
             "Beat": [
@@ -1866,7 +2376,7 @@
                 "Artist": "WAIFER"
               },
               {
-                "Offset": 1218495,
+                "Offset": 1218494,
                 "Title": "Movements",
                 "Artist": "KO & JOY ORBISON"
               }
@@ -1980,6 +2490,64 @@
                 "Offset": 1389857,
                 "Value": 0
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 145966,
+                "Value": "start"
+              },
+              {
+                "Offset": 173953,
+                "Value": "end"
+              },
+              {
+                "Offset": 286276,
+                "Value": "start"
+              },
+              {
+                "Offset": 306967,
+                "Value": "end"
+              },
+              {
+                "Offset": 535471,
+                "Value": "start"
+              },
+              {
+                "Offset": 563552,
+                "Value": "end"
+              },
+              {
+                "Offset": 850628,
+                "Value": "start"
+              },
+              {
+                "Offset": 903587,
+                "Value": "end"
+              },
+              {
+                "Offset": 983064,
+                "Value": "start"
+              },
+              {
+                "Offset": 1009582,
+                "Value": "end"
+              },
+              {
+                "Offset": 1279974,
+                "Value": "start"
+              },
+              {
+                "Offset": 1308436,
+                "Value": "end"
+              },
+              {
+                "Offset": 1362328,
+                "Value": "start"
+              },
+              {
+                "Offset": 1389157,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -1988,6 +2556,20 @@
           "Path": "dlc_hei4_music/hei4_still_slipping_p4",
           "Duration": 460618,
           "Markers": {
+            "Beat": [
+              {
+                "Offset": 438,
+                "Value": 0
+              },
+              {
+                "Offset": 354701,
+                "Value": 64
+              },
+              {
+                "Offset": 410301,
+                "Value": 0
+              }
+            ],
             "Track": [
               {
                 "Offset": 1041,
@@ -2008,20 +2590,6 @@
                 "Offset": 333798,
                 "Title": "Submission",
                 "Artist": "POISON ANNA"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 438,
-                "Value": 0
-              },
-              {
-                "Offset": 354701,
-                "Value": 64
-              },
-              {
-                "Offset": 410301,
-                "Value": 0
               }
             ]
           }
@@ -2157,6 +2725,58 @@
                 "Offset": 309892,
                 "Value": 4
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4951,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 28531,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 289322,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 306138,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 16955,
+                "Value": "start"
+              },
+              {
+                "Offset": 28388,
+                "Value": "end"
+              },
+              {
+                "Offset": 99499,
+                "Value": "start"
+              },
+              {
+                "Offset": 123007,
+                "Value": "end"
+              },
+              {
+                "Offset": 158283,
+                "Value": "start"
+              },
+              {
+                "Offset": 170888,
+                "Value": "end"
+              },
+              {
+                "Offset": 271559,
+                "Value": "start"
+              },
+              {
+                "Offset": 295318,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -2170,6 +2790,24 @@
                 "Offset": 0,
                 "Title": "Alien Crime Lord",
                 "Artist": "THE VOIDZ"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4640,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 24160,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 234750,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 253540,
+                "Value": "outro_end"
               }
             ],
             "Beat": [
@@ -2228,6 +2866,32 @@
               {
                 "Offset": 229890,
                 "Value": 0
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 56163,
+                "Value": "start"
+              },
+              {
+                "Offset": 83352,
+                "Value": "end"
+              },
+              {
+                "Offset": 101813,
+                "Value": "start"
+              },
+              {
+                "Offset": 128975,
+                "Value": "end"
+              },
+              {
+                "Offset": 193197,
+                "Value": "start"
+              },
+              {
+                "Offset": 229896,
+                "Value": "end"
               }
             ]
           }
@@ -2309,6 +2973,58 @@
                 "Offset": 383783,
                 "Value": 18
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4996,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 29910,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 379990,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 394382,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 30870,
+                "Value": "start"
+              },
+              {
+                "Offset": 45622,
+                "Value": "end"
+              },
+              {
+                "Offset": 206388,
+                "Value": "start"
+              },
+              {
+                "Offset": 221084,
+                "Value": "end"
+              },
+              {
+                "Offset": 235696,
+                "Value": "start"
+              },
+              {
+                "Offset": 264308,
+                "Value": "end"
+              },
+              {
+                "Offset": 369106,
+                "Value": "start"
+              },
+              {
+                "Offset": 390857,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -2365,6 +3081,42 @@
                 "Offset": 171069,
                 "Value": 28
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4788,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 17200,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 170972,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 182330,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 75962,
+                "Value": "start"
+              },
+              {
+                "Offset": 95037,
+                "Value": "end"
+              },
+              {
+                "Offset": 152065,
+                "Value": "start"
+              },
+              {
+                "Offset": 171000,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -2420,6 +3172,42 @@
               {
                 "Offset": 210710,
                 "Value": 24
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5250,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 11640,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 210730,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 222710,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 58533,
+                "Value": "start"
+              },
+              {
+                "Offset": 81986,
+                "Value": "end"
+              },
+              {
+                "Offset": 128735,
+                "Value": "start"
+              },
+              {
+                "Offset": 152597,
+                "Value": "end"
               }
             ]
           }
@@ -2504,6 +3292,42 @@
               {
                 "Offset": 215780,
                 "Value": 0
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5150,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14890,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 208581,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 217450,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 44398,
+                "Value": "start"
+              },
+              {
+                "Offset": 52006,
+                "Value": "end"
+              },
+              {
+                "Offset": 95771,
+                "Value": "start"
+              },
+              {
+                "Offset": 151364,
+                "Value": "end"
               }
             ]
           }
@@ -2621,6 +3445,34 @@
                 "Offset": 271000,
                 "Value": 0
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5140,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 22170,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 259890,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 266880,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 237269,
+                "Value": "start"
+              },
+              {
+                "Offset": 259855,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -2629,13 +3481,6 @@
           "Path": "dlc_hei4_music/eisbar",
           "Duration": 260590,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 0,
-                "Title": "Eisbar",
-                "Artist": "GRAUZONE"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 0,
@@ -2709,6 +3554,49 @@
                 "Offset": 243668,
                 "Value": 0
               }
+            ],
+            "Track": [
+              {
+                "Offset": 0,
+                "Title": "Eisbar",
+                "Artist": "GRAUZONE"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5923,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 13412,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 228551,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 255476,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 65360,
+                "Value": "start"
+              },
+              {
+                "Offset": 94998,
+                "Value": "end"
+              },
+              {
+                "Offset": 154380,
+                "Value": "start"
+              },
+              {
+                "Offset": 206310,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -2777,6 +3665,50 @@
                 "Offset": 127080,
                 "Value": 32
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 11390,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 21830,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 121790,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 132590,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 37940,
+                "Value": "start"
+              },
+              {
+                "Offset": 48579,
+                "Value": "end"
+              },
+              {
+                "Offset": 74651,
+                "Value": "start"
+              },
+              {
+                "Offset": 84993,
+                "Value": "end"
+              },
+              {
+                "Offset": 111403,
+                "Value": "start"
+              },
+              {
+                "Offset": 121784,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -2824,6 +3756,42 @@
               {
                 "Offset": 214525,
                 "Value": 0
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4021,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9430,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 204599,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 210027,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 72789,
+                "Value": "start"
+              },
+              {
+                "Offset": 102012,
+                "Value": "end"
+              },
+              {
+                "Offset": 175138,
+                "Value": "start"
+              },
+              {
+                "Offset": 204599,
+                "Value": "end"
               }
             ]
           }
@@ -2916,6 +3884,50 @@
               {
                 "Offset": 264957,
                 "Value": 0
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5165,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10584,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 253528,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 272150,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 57414,
+                "Value": "start"
+              },
+              {
+                "Offset": 73108,
+                "Value": "end"
+              },
+              {
+                "Offset": 104299,
+                "Value": "start"
+              },
+              {
+                "Offset": 123991,
+                "Value": "end"
+              },
+              {
+                "Offset": 182390,
+                "Value": "start"
+              },
+              {
+                "Offset": 197944,
+                "Value": "end"
               }
             ]
           }
@@ -3013,6 +4025,50 @@
                 "Offset": 221107,
                 "Value": 8
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5860,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 31965,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 212174,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 218832,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 5869,
+                "Value": "start"
+              },
+              {
+                "Offset": 20451,
+                "Value": "end"
+              },
+              {
+                "Offset": 104658,
+                "Value": "start"
+              },
+              {
+                "Offset": 125740,
+                "Value": "end"
+              },
+              {
+                "Offset": 200699,
+                "Value": "start"
+              },
+              {
+                "Offset": 223148,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -3068,6 +4124,42 @@
               {
                 "Offset": 128258,
                 "Value": 0
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 14130,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 33306,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 122316,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 125842,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 66152,
+                "Value": "start"
+              },
+              {
+                "Offset": 89788,
+                "Value": "end"
+              },
+              {
+                "Offset": 106311,
+                "Value": "start"
+              },
+              {
+                "Offset": 118278,
+                "Value": "end"
               }
             ]
           }
@@ -3140,6 +4232,50 @@
               {
                 "Offset": 240657,
                 "Value": 32
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4774,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14106,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 240617,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 254644,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 28450,
+                "Value": "start"
+              },
+              {
+                "Offset": 42853,
+                "Value": "end"
+              },
+              {
+                "Offset": 101417,
+                "Value": "start"
+              },
+              {
+                "Offset": 140507,
+                "Value": "end"
+              },
+              {
+                "Offset": 208759,
+                "Value": "start"
+              },
+              {
+                "Offset": 259617,
+                "Value": "end"
               }
             ]
           }
@@ -3225,6 +4361,16 @@
                 "Offset": 227671,
                 "Value": 12
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 216929,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 228056,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -3272,6 +4418,42 @@
               {
                 "Offset": 106489,
                 "Value": 16
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 2872,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 7488,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 91412,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 102448,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 37781,
+                "Value": "start"
+              },
+              {
+                "Offset": 53433,
+                "Value": "end"
+              },
+              {
+                "Offset": 67928,
+                "Value": "start"
+              },
+              {
+                "Offset": 83833,
+                "Value": "end"
               }
             ]
           }
@@ -3341,6 +4523,42 @@
                 "Offset": 230416,
                 "Value": 25
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4827,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 16840,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 225500,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 241087,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 110590,
+                "Value": "start"
+              },
+              {
+                "Offset": 140051,
+                "Value": "end"
+              },
+              {
+                "Offset": 193781,
+                "Value": "start"
+              },
+              {
+                "Offset": 240221,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -3392,6 +4610,42 @@
               {
                 "Offset": 198225,
                 "Value": 25
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5334,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 23590,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 198211,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 211808,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 74332,
+                "Value": "start"
+              },
+              {
+                "Offset": 99119,
+                "Value": "end"
+              },
+              {
+                "Offset": 148609,
+                "Value": "start"
+              },
+              {
+                "Offset": 198183,
+                "Value": "end"
               }
             ]
           }
@@ -3448,6 +4702,34 @@
               {
                 "Offset": 192488,
                 "Value": 0
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5095,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10795,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 179969,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 191173,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 169990,
+                "Value": "start"
+              },
+              {
+                "Offset": 190976,
+                "Value": "end"
               }
             ]
           }
@@ -3553,6 +4835,34 @@
                 "Offset": 291856,
                 "Value": 17
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4996,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 23689,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 278118,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 293756,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 207736,
+                "Value": "start"
+              },
+              {
+                "Offset": 291884,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -3649,6 +4959,50 @@
                 "Offset": 272870,
                 "Value": 16
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5510,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14240,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 259140,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 274670,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 58003,
+                "Value": "start"
+              },
+              {
+                "Offset": 79420,
+                "Value": "end"
+              },
+              {
+                "Offset": 130564,
+                "Value": "start"
+              },
+              {
+                "Offset": 159455,
+                "Value": "end"
+              },
+              {
+                "Offset": 255524,
+                "Value": "start"
+              },
+              {
+                "Offset": 272535,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -3737,6 +5091,50 @@
                 "Offset": 226491,
                 "Value": 0
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 6656,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 19435,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 213058,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 223143,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 52818,
+                "Value": "start"
+              },
+              {
+                "Offset": 65912,
+                "Value": "end"
+              },
+              {
+                "Offset": 105912,
+                "Value": "start"
+              },
+              {
+                "Offset": 132652,
+                "Value": "end"
+              },
+              {
+                "Offset": 186410,
+                "Value": "start"
+              },
+              {
+                "Offset": 223040,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -3801,6 +5199,42 @@
                 "Offset": 138733,
                 "Value": 21
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 35192,
+                "Value": "start"
+              },
+              {
+                "Offset": 49191,
+                "Value": "end"
+              },
+              {
+                "Offset": 84105,
+                "Value": "start"
+              },
+              {
+                "Offset": 111295,
+                "Value": "end"
+              },
+              {
+                "Offset": 124903,
+                "Value": "start"
+              },
+              {
+                "Offset": 142193,
+                "Value": "end"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 131847,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 142812,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -3860,6 +5294,50 @@
               {
                 "Offset": 121739,
                 "Value": 8
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 2786,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 7952,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 109465,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 119839,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 32432,
+                "Value": "start"
+              },
+              {
+                "Offset": 53068,
+                "Value": "end"
+              },
+              {
+                "Offset": 76632,
+                "Value": "start"
+              },
+              {
+                "Offset": 97742,
+                "Value": "end"
+              },
+              {
+                "Offset": 109845,
+                "Value": "start"
+              },
+              {
+                "Offset": 119856,
+                "Value": "end"
               }
             ]
           }
@@ -3928,6 +5406,42 @@
               {
                 "Offset": 179765,
                 "Value": 16
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5278,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 16032,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 179786,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 184037,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 60718,
+                "Value": "start"
+              },
+              {
+                "Offset": 90387,
+                "Value": "end"
+              },
+              {
+                "Offset": 157406,
+                "Value": "start"
+              },
+              {
+                "Offset": 179735,
+                "Value": "end"
               }
             ]
           }
@@ -4045,6 +5559,42 @@
                 "Offset": 279211,
                 "Value": 0
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4319,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 21813,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 275189,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 302886,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 104667,
+                "Value": "start"
+              },
+              {
+                "Offset": 132027,
+                "Value": "end"
+              },
+              {
+                "Offset": 232811,
+                "Value": "start"
+              },
+              {
+                "Offset": 274258,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -4145,6 +5695,50 @@
                 "Offset": 276219,
                 "Value": 8
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5824,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 18088,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 256486,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 274753,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 86298,
+                "Value": "start"
+              },
+              {
+                "Offset": 113647,
+                "Value": "end"
+              },
+              {
+                "Offset": 140553,
+                "Value": "start"
+              },
+              {
+                "Offset": 167735,
+                "Value": "end"
+              },
+              {
+                "Offset": 194918,
+                "Value": "start"
+              },
+              {
+                "Offset": 208399,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -4208,6 +5802,50 @@
               {
                 "Offset": 122080,
                 "Value": 0
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 16843,
+                "Value": "start"
+              },
+              {
+                "Offset": 33714,
+                "Value": "end"
+              },
+              {
+                "Offset": 44618,
+                "Value": "start"
+              },
+              {
+                "Offset": 60959,
+                "Value": "end"
+              },
+              {
+                "Offset": 74986,
+                "Value": "start"
+              },
+              {
+                "Offset": 88818,
+                "Value": "end"
+              },
+              {
+                "Offset": 99917,
+                "Value": "start"
+              },
+              {
+                "Offset": 122087,
+                "Value": "end"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 119310,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 123570,
+                "Value": "outro_end"
               }
             ]
           }
@@ -4281,6 +5919,50 @@
                 "Offset": 130779,
                 "Value": 0
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 10777,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 20822,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 114731,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 130363,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 58681,
+                "Value": "start"
+              },
+              {
+                "Offset": 69711,
+                "Value": "end"
+              },
+              {
+                "Offset": 90710,
+                "Value": "start"
+              },
+              {
+                "Offset": 101426,
+                "Value": "end"
+              },
+              {
+                "Offset": 112063,
+                "Value": "start"
+              },
+              {
+                "Offset": 130629,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -4340,6 +6022,50 @@
               {
                 "Offset": 136480,
                 "Value": 0
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 3570,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 6780,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 127570,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 140570,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 21584,
+                "Value": "start"
+              },
+              {
+                "Offset": 35834,
+                "Value": "end"
+              },
+              {
+                "Offset": 50056,
+                "Value": "start"
+              },
+              {
+                "Offset": 77970,
+                "Value": "end"
+              },
+              {
+                "Offset": 106275,
+                "Value": "start"
+              },
+              {
+                "Offset": 127608,
+                "Value": "end"
               }
             ]
           }
@@ -4433,6 +6159,34 @@
                 "Offset": 217684,
                 "Value": 0
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 78943,
+                "Value": "start"
+              },
+              {
+                "Offset": 107933,
+                "Value": "end"
+              },
+              {
+                "Offset": 166625,
+                "Value": "start"
+              },
+              {
+                "Offset": 175888,
+                "Value": "end"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 203662,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 216907,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -4509,6 +6263,42 @@
                 "Offset": 310360,
                 "Value": 12
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4800,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9250,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 302010,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 313310,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 105496,
+                "Value": "start"
+              },
+              {
+                "Offset": 127538,
+                "Value": "end"
+              },
+              {
+                "Offset": 194115,
+                "Value": "start"
+              },
+              {
+                "Offset": 205235,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -4522,6 +6312,24 @@
                 "Offset": 0,
                 "Title": "Going Back To Cali",
                 "Artist": "LL COOL J"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5568,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 26752,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 214144,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 244949,
+                "Value": "outro_end"
               }
             ],
             "Beat": [
@@ -4564,6 +6372,32 @@
               {
                 "Offset": 249600,
                 "Value": 0
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 79808,
+                "Value": "start"
+              },
+              {
+                "Offset": 93930,
+                "Value": "end"
+              },
+              {
+                "Offset": 122218,
+                "Value": "start"
+              },
+              {
+                "Offset": 136384,
+                "Value": "end"
+              },
+              {
+                "Offset": 200021,
+                "Value": "start"
+              },
+              {
+                "Offset": 244842,
+                "Value": "end"
               }
             ]
           }
@@ -4664,6 +6498,50 @@
               {
                 "Offset": 219232,
                 "Value": 0
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5840,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 24992,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 194384,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 217904,
+                "Value": "outro_end"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 50992,
+                "Value": "start"
+              },
+              {
+                "Offset": 66464,
+                "Value": "end"
+              },
+              {
+                "Offset": 119136,
+                "Value": "start"
+              },
+              {
+                "Offset": 143856,
+                "Value": "end"
+              },
+              {
+                "Offset": 188064,
+                "Value": "start"
+              },
+              {
+                "Offset": 208016,
+                "Value": "end"
               }
             ]
           }
@@ -5027,53 +6905,6 @@
           "Path": "dlc_hei4_music/hei4_mlr_km_beach_p1",
           "Duration": 2329810,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 505,
-                "Title": "Newborn Soul",
-                "Artist": "RAMPA"
-              },
-              {
-                "Offset": 273232,
-                "Title": "The Rapture Pt.II",
-                "Artist": "&ME"
-              },
-              {
-                "Offset": 570257,
-                "Title": "Crush (Unfinished) (Adam Port Edit)",
-                "Artist": "JAI PAUL"
-              },
-              {
-                "Offset": 816208,
-                "Title": "Tell Me Are We",
-                "Artist": "RAMPA & WHOMADEWHO"
-              },
-              {
-                "Offset": 1165298,
-                "Title": "Homeland (&ME Remix + Jinadu Vocals)",
-                "Artist": "JORIS VOORN & MATTHEW DEAR"
-              },
-              {
-                "Offset": 1403315,
-                "Title": "Underwater (Adam Port Remix)",
-                "Artist": "RÜFÜS DU SOL"
-              },
-              {
-                "Offset": 1716703,
-                "Title": "Garden",
-                "Artist": "&ME"
-              },
-              {
-                "Offset": 2030092,
-                "Title": "Ganesha Song",
-                "Artist": "ADAM PORT"
-              },
-              {
-                "Offset": 2260175,
-                "Title": "No War (Rampa Remix)",
-                "Artist": "ÂME"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 0,
@@ -5152,7 +6983,7 @@
                 "Value": 128
               },
               {
-                "Offset": 2159018,
+                "Offset": 2159017,
                 "Value": 128
               },
               {
@@ -5163,6 +6994,175 @@
                 "Offset": 2285960,
                 "Value": 128
               }
+            ],
+            "Track": [
+              {
+                "Offset": 505,
+                "Title": "Newborn Soul",
+                "Artist": "RAMPA"
+              },
+              {
+                "Offset": 273232,
+                "Title": "The Rapture Pt.II",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 570257,
+                "Title": "Crush (Unfinished) (Adam Port Edit)",
+                "Artist": "JAI PAUL"
+              },
+              {
+                "Offset": 816208,
+                "Title": "Tell Me Are We",
+                "Artist": "RAMPA & WHOMADEWHO"
+              },
+              {
+                "Offset": 1165298,
+                "Title": "Homeland (&ME Remix + Jinadu Vocals)",
+                "Artist": "JORIS VOORN & MATTHEW DEAR"
+              },
+              {
+                "Offset": 1403315,
+                "Title": "Underwater (Adam Port Remix)",
+                "Artist": "RÜFÜS DU SOL"
+              },
+              {
+                "Offset": 1716703,
+                "Title": "Garden",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 2030092,
+                "Title": "Ganesha Song",
+                "Artist": "ADAM PORT"
+              },
+              {
+                "Offset": 2260174,
+                "Title": "No War (Rampa Remix)",
+                "Artist": "ÂME"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 96206,
+                "Value": "start"
+              },
+              {
+                "Offset": 110042,
+                "Value": "end"
+              },
+              {
+                "Offset": 139815,
+                "Value": "start"
+              },
+              {
+                "Offset": 165625,
+                "Value": "end"
+              },
+              {
+                "Offset": 493273,
+                "Value": "start"
+              },
+              {
+                "Offset": 524494,
+                "Value": "end"
+              },
+              {
+                "Offset": 627604,
+                "Value": "start"
+              },
+              {
+                "Offset": 643216,
+                "Value": "end"
+              },
+              {
+                "Offset": 707116,
+                "Value": "start"
+              },
+              {
+                "Offset": 722842,
+                "Value": "end"
+              },
+              {
+                "Offset": 913379,
+                "Value": "start"
+              },
+              {
+                "Offset": 944894,
+                "Value": "end"
+              },
+              {
+                "Offset": 1008634,
+                "Value": "start"
+              },
+              {
+                "Offset": 1036403,
+                "Value": "end"
+              },
+              {
+                "Offset": 1310003,
+                "Value": "start"
+              },
+              {
+                "Offset": 1352582,
+                "Value": "end"
+              },
+              {
+                "Offset": 1405306,
+                "Value": "start"
+              },
+              {
+                "Offset": 1420763,
+                "Value": "end"
+              },
+              {
+                "Offset": 1452879,
+                "Value": "start"
+              },
+              {
+                "Offset": 1484808,
+                "Value": "end"
+              },
+              {
+                "Offset": 1579250,
+                "Value": "start"
+              },
+              {
+                "Offset": 1611402,
+                "Value": "end"
+              },
+              {
+                "Offset": 1635392,
+                "Value": "start"
+              },
+              {
+                "Offset": 1664637,
+                "Value": "end"
+              },
+              {
+                "Offset": 1968604,
+                "Value": "start"
+              },
+              {
+                "Offset": 1998356,
+                "Value": "end"
+              },
+              {
+                "Offset": 2174885,
+                "Value": "start"
+              },
+              {
+                "Offset": 2206429,
+                "Value": "end"
+              },
+              {
+                "Offset": 2285960,
+                "Value": "start"
+              },
+              {
+                "Offset": 2313825,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -5171,43 +7171,6 @@
           "Path": "dlc_hei4_music/hei4_mlr_km_beach_p2",
           "Duration": 1575250,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 29871,
-                "Title": "No War (Rampa Remix)",
-                "Artist": "ÂME"
-              },
-              {
-                "Offset": 163430,
-                "Title": "You Need The Drugs (&ME Remix)",
-                "Artist": "WESTBAM FEAT. RICHARD BUTLER"
-              },
-              {
-                "Offset": 447066,
-                "Title": "Inside",
-                "Artist": "NOMI & RAMPA"
-              },
-              {
-                "Offset": 661281,
-                "Title": "No Dancers (Adam Port Remix)",
-                "Artist": "CUBICOLOR"
-              },
-              {
-                "Offset": 867562,
-                "Title": "Won't Change (Rampa Retouch)",
-                "Artist": "MANQO"
-              },
-              {
-                "Offset": 1121447,
-                "Title": "Starting Again",
-                "Artist": "&ME FEAT. ATELIER"
-              },
-              {
-                "Offset": 1401116,
-                "Title": "Far Away Place (Rampa Remix)",
-                "Artist": "XINOBI"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 20620,
@@ -5290,7 +7253,7 @@
                 "Value": 128
               },
               {
-                "Offset": 1230538,
+                "Offset": 1230537,
                 "Value": 128
               },
               {
@@ -5321,6 +7284,117 @@
                 "Offset": 1575166,
                 "Value": 1
               }
+            ],
+            "Track": [
+              {
+                "Offset": 29871,
+                "Title": "No War (Rampa Remix)",
+                "Artist": "ÂME"
+              },
+              {
+                "Offset": 163430,
+                "Title": "You Need The Drugs (&ME Remix)",
+                "Artist": "WESTBAM FEAT. RICHARD BUTLER"
+              },
+              {
+                "Offset": 447066,
+                "Title": "Inside",
+                "Artist": "NOMI & RAMPA"
+              },
+              {
+                "Offset": 661281,
+                "Title": "No Dancers (Adam Port Remix)",
+                "Artist": "CUBICOLOR"
+              },
+              {
+                "Offset": 867562,
+                "Title": "Won't Change (Rampa Retouch)",
+                "Artist": "MANQO"
+              },
+              {
+                "Offset": 1121447,
+                "Title": "Starting Again",
+                "Artist": "&ME FEAT. ATELIER"
+              },
+              {
+                "Offset": 1401116,
+                "Title": "Far Away Place (Rampa Remix)",
+                "Artist": "XINOBI"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 52356,
+                "Value": "start"
+              },
+              {
+                "Offset": 84091,
+                "Value": "end"
+              },
+              {
+                "Offset": 242769,
+                "Value": "start"
+              },
+              {
+                "Offset": 285909,
+                "Value": "end"
+              },
+              {
+                "Offset": 385579,
+                "Value": "start"
+              },
+              {
+                "Offset": 417314,
+                "Value": "end"
+              },
+              {
+                "Offset": 775331,
+                "Value": "start"
+              },
+              {
+                "Offset": 798238,
+                "Value": "end"
+              },
+              {
+                "Offset": 845787,
+                "Value": "start"
+              },
+              {
+                "Offset": 869546,
+                "Value": "end"
+              },
+              {
+                "Offset": 1075827,
+                "Value": "start"
+              },
+              {
+                "Offset": 1099672,
+                "Value": "end"
+              },
+              {
+                "Offset": 1202769,
+                "Value": "start"
+              },
+              {
+                "Offset": 1234504,
+                "Value": "end"
+              },
+              {
+                "Offset": 1313843,
+                "Value": "start"
+              },
+              {
+                "Offset": 1337256,
+                "Value": "end"
+              },
+              {
+                "Offset": 1456723,
+                "Value": "start"
+              },
+              {
+                "Offset": 1512233,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -5329,33 +7403,6 @@
           "Path": "dlc_hei4_music/hei4_mlr_km_beach_p3",
           "Duration": 1152080,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 1029,
-                "Title": "Far Away Place (Rampa Remix)",
-                "Artist": "XINOBI"
-              },
-              {
-                "Offset": 126369,
-                "Title": "The Rapture",
-                "Artist": "&ME"
-              },
-              {
-                "Offset": 475460,
-                "Title": "Muyè",
-                "Artist": "KEINEMUSIK"
-              },
-              {
-                "Offset": 762568,
-                "Title": "In Your Eyes",
-                "Artist": "&ME"
-              },
-              {
-                "Offset": 1110171,
-                "Title": "Sunday",
-                "Artist": "RAMPA"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 915,
@@ -5449,6 +7496,75 @@
                 "Offset": 1151824,
                 "Value": 128
               }
+            ],
+            "Track": [
+              {
+                "Offset": 1029,
+                "Title": "Far Away Place (Rampa Remix)",
+                "Artist": "XINOBI"
+              },
+              {
+                "Offset": 126369,
+                "Title": "The Rapture",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 475460,
+                "Title": "Muyè",
+                "Artist": "KEINEMUSIK"
+              },
+              {
+                "Offset": 762568,
+                "Title": "In Your Eyes",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 1110171,
+                "Title": "Sunday",
+                "Artist": "RAMPA"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 1411,
+                "Value": "start"
+              },
+              {
+                "Offset": 31163,
+                "Value": "end"
+              },
+              {
+                "Offset": 207735,
+                "Value": "start"
+              },
+              {
+                "Offset": 254368,
+                "Value": "end"
+              },
+              {
+                "Offset": 382237,
+                "Value": "start"
+              },
+              {
+                "Offset": 410029,
+                "Value": "end"
+              },
+              {
+                "Offset": 699593,
+                "Value": "start"
+              },
+              {
+                "Offset": 728119,
+                "Value": "end"
+              },
+              {
+                "Offset": 1048780,
+                "Value": "start"
+              },
+              {
+                "Offset": 1104221,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -5457,33 +7573,6 @@
           "Path": "dlc_hei4_music/hei4_mlr_km_beach_p4",
           "Duration": 1075877,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 1046,
-                "Title": "Sunday",
-                "Artist": "RAMPA"
-              },
-              {
-                "Offset": 230826,
-                "Title": "A State Nearby (Adam Port Calypso Remix)",
-                "Artist": "NTEIBINT & STELLA"
-              },
-              {
-                "Offset": 657272,
-                "Title": "Fairchild",
-                "Artist": "&ME"
-              },
-              {
-                "Offset": 833801,
-                "Title": "For This",
-                "Artist": "RAMPA FEAT. CHIARA NORIKO"
-              },
-              {
-                "Offset": 1074793,
-                "Title": "Tonight (Adam Port 12\" Autobahn Edit)",
-                "Artist": "HERE IS WHY"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 248,
@@ -5546,7 +7635,7 @@
                 "Value": 128
               },
               {
-                "Offset": 825868,
+                "Offset": 825867,
                 "Value": 128
               },
               {
@@ -5560,6 +7649,75 @@
               {
                 "Offset": 1016281,
                 "Value": 128
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 1046,
+                "Title": "Sunday",
+                "Artist": "RAMPA"
+              },
+              {
+                "Offset": 230826,
+                "Title": "A State Nearby (Adam Port Calypso Remix)",
+                "Artist": "NTEIBINT & STELLA"
+              },
+              {
+                "Offset": 657272,
+                "Title": "Fairchild",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 833801,
+                "Title": "For This",
+                "Artist": "RAMPA FEAT. CHIARA NORIKO"
+              },
+              {
+                "Offset": 1074793,
+                "Title": "Tonight (Adam Port 12\" Autobahn Edit)",
+                "Artist": "HERE IS WHY"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 151606,
+                "Value": "start"
+              },
+              {
+                "Offset": 197267,
+                "Value": "end"
+              },
+              {
+                "Offset": 342008,
+                "Value": "start"
+              },
+              {
+                "Offset": 374628,
+                "Value": "end"
+              },
+              {
+                "Offset": 532314,
+                "Value": "start"
+              },
+              {
+                "Offset": 564168,
+                "Value": "end"
+              },
+              {
+                "Offset": 802066,
+                "Value": "start"
+              },
+              {
+                "Offset": 825372,
+                "Value": "end"
+              },
+              {
+                "Offset": 1024215,
+                "Value": "start"
+              },
+              {
+                "Offset": 1063608,
+                "Value": "end"
               }
             ]
           }
@@ -5684,6 +7842,80 @@
                 "Offset": 1040611,
                 "Value": 4
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 67006,
+                "Value": "start"
+              },
+              {
+                "Offset": 111267,
+                "Value": "end"
+              },
+              {
+                "Offset": 160911,
+                "Value": "start"
+              },
+              {
+                "Offset": 206198,
+                "Value": "end"
+              },
+              {
+                "Offset": 344529,
+                "Value": "start"
+              },
+              {
+                "Offset": 378001,
+                "Value": "end"
+              },
+              {
+                "Offset": 428029,
+                "Value": "start"
+              },
+              {
+                "Offset": 461084,
+                "Value": "end"
+              },
+              {
+                "Offset": 560283,
+                "Value": "start"
+              },
+              {
+                "Offset": 585266,
+                "Value": "end"
+              },
+              {
+                "Offset": 709041,
+                "Value": "start"
+              },
+              {
+                "Offset": 742068,
+                "Value": "end"
+              },
+              {
+                "Offset": 791647,
+                "Value": "start"
+              },
+              {
+                "Offset": 824785,
+                "Value": "end"
+              },
+              {
+                "Offset": 931662,
+                "Value": "start"
+              },
+              {
+                "Offset": 964168,
+                "Value": "end"
+              },
+              {
+                "Offset": 1005593,
+                "Value": "start"
+              },
+              {
+                "Offset": 1038565,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -5692,53 +7924,6 @@
           "Path": "dlc_hei4_music/hei4_mlr_pt_p2",
           "Duration": 1537938,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 1033,
-                "Title": "Heat You Up (Melt You Down) (Instrumental)",
-                "Artist": "SHIRLEY LITES"
-              },
-              {
-                "Offset": 29947,
-                "Title": "Let The Music Play (Dub Version)",
-                "Artist": "SHANNON"
-              },
-              {
-                "Offset": 206999,
-                "Title": "Transdance (New York Disco Mix)",
-                "Artist": "NIGHT MOVES"
-              },
-              {
-                "Offset": 369530,
-                "Title": "The Rule To Survive (Prins Thomas Remix)",
-                "Artist": "N.O.I.A."
-              },
-              {
-                "Offset": 723332,
-                "Title": "27",
-                "Artist": "TOBIAS BERNSTRUP"
-              },
-              {
-                "Offset": 866407,
-                "Title": "Happy Song (Remix)",
-                "Artist": "BABY'S GANG"
-              },
-              {
-                "Offset": 997065,
-                "Title": "New Dance",
-                "Artist": "MASALO"
-              },
-              {
-                "Offset": 1224247,
-                "Title": "Get Up",
-                "Artist": "DIVA"
-              },
-              {
-                "Offset": 1412944,
-                "Title": "Can You Feel It (Jackin Up The Dub 12\" Mix)",
-                "Artist": "MARIO DIAZ"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 90,
@@ -5769,7 +7954,7 @@
                 "Value": 128
               },
               {
-                "Offset": 393449,
+                "Offset": 393448,
                 "Value": 128
               },
               {
@@ -5843,6 +8028,167 @@
               {
                 "Offset": 1534516,
                 "Value": 8
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 1033,
+                "Title": "Heat You Up (Melt You Down) (Instrumental)",
+                "Artist": "SHIRLEY LITES"
+              },
+              {
+                "Offset": 29947,
+                "Title": "Let The Music Play (Dub Version)",
+                "Artist": "SHANNON"
+              },
+              {
+                "Offset": 206999,
+                "Title": "Transdance (New York Disco Mix)",
+                "Artist": "NIGHT MOVES"
+              },
+              {
+                "Offset": 369530,
+                "Title": "The Rule To Survive (Prins Thomas Remix)",
+                "Artist": "N.O.I.A."
+              },
+              {
+                "Offset": 723332,
+                "Title": "27",
+                "Artist": "TOBIAS BERNSTRUP"
+              },
+              {
+                "Offset": 866407,
+                "Title": "Happy Song (Remix)",
+                "Artist": "BABY'S GANG"
+              },
+              {
+                "Offset": 997065,
+                "Title": "New Dance",
+                "Artist": "MASALO"
+              },
+              {
+                "Offset": 1224247,
+                "Title": "Get Up",
+                "Artist": "DIVA"
+              },
+              {
+                "Offset": 1412944,
+                "Title": "Can You Feel It (Jackin Up The Dub 12\" Mix)",
+                "Artist": "MARIO DIAZ"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 104790,
+                "Value": "start"
+              },
+              {
+                "Offset": 137375,
+                "Value": "end"
+              },
+              {
+                "Offset": 153813,
+                "Value": "start"
+              },
+              {
+                "Offset": 182212,
+                "Value": "end"
+              },
+              {
+                "Offset": 207118,
+                "Value": "start"
+              },
+              {
+                "Offset": 239821,
+                "Value": "end"
+              },
+              {
+                "Offset": 280428,
+                "Value": "start"
+              },
+              {
+                "Offset": 304768,
+                "Value": "end"
+              },
+              {
+                "Offset": 369272,
+                "Value": "start"
+              },
+              {
+                "Offset": 401545,
+                "Value": "end"
+              },
+              {
+                "Offset": 514106,
+                "Value": "start"
+              },
+              {
+                "Offset": 546483,
+                "Value": "end"
+              },
+              {
+                "Offset": 642707,
+                "Value": "start"
+              },
+              {
+                "Offset": 675086,
+                "Value": "end"
+              },
+              {
+                "Offset": 755077,
+                "Value": "start"
+              },
+              {
+                "Offset": 779097,
+                "Value": "end"
+              },
+              {
+                "Offset": 826943,
+                "Value": "start"
+              },
+              {
+                "Offset": 850677,
+                "Value": "end"
+              },
+              {
+                "Offset": 921548,
+                "Value": "start"
+              },
+              {
+                "Offset": 983755,
+                "Value": "end"
+              },
+              {
+                "Offset": 1176902,
+                "Value": "start"
+              },
+              {
+                "Offset": 1220302,
+                "Value": "end"
+              },
+              {
+                "Offset": 1302679,
+                "Value": "start"
+              },
+              {
+                "Offset": 1350251,
+                "Value": "end"
+              },
+              {
+                "Offset": 1428236,
+                "Value": "start"
+              },
+              {
+                "Offset": 1459806,
+                "Value": "end"
+              },
+              {
+                "Offset": 1507075,
+                "Value": "start"
+              },
+              {
+                "Offset": 1536372,
+                "Value": "end"
               }
             ]
           }
@@ -5970,7 +8316,7 @@
                 "Value": 128
               },
               {
-                "Offset": 1703061,
+                "Offset": 1703060,
                 "Value": 128
               },
               {
@@ -5984,6 +8330,144 @@
               {
                 "Offset": 1811124,
                 "Value": 2
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 140981,
+                "Value": "start"
+              },
+              {
+                "Offset": 172380,
+                "Value": "end"
+              },
+              {
+                "Offset": 211743,
+                "Value": "start"
+              },
+              {
+                "Offset": 243649,
+                "Value": "end"
+              },
+              {
+                "Offset": 313931,
+                "Value": "start"
+              },
+              {
+                "Offset": 329634,
+                "Value": "end"
+              },
+              {
+                "Offset": 392485,
+                "Value": "start"
+              },
+              {
+                "Offset": 424023,
+                "Value": "end"
+              },
+              {
+                "Offset": 455425,
+                "Value": "start"
+              },
+              {
+                "Offset": 486853,
+                "Value": "end"
+              },
+              {
+                "Offset": 616949,
+                "Value": "start"
+              },
+              {
+                "Offset": 632726,
+                "Value": "end"
+              },
+              {
+                "Offset": 664122,
+                "Value": "start"
+              },
+              {
+                "Offset": 695581,
+                "Value": "end"
+              },
+              {
+                "Offset": 852344,
+                "Value": "start"
+              },
+              {
+                "Offset": 875703,
+                "Value": "end"
+              },
+              {
+                "Offset": 891943,
+                "Value": "start"
+              },
+              {
+                "Offset": 907783,
+                "Value": "end"
+              },
+              {
+                "Offset": 962238,
+                "Value": "start"
+              },
+              {
+                "Offset": 994638,
+                "Value": "end"
+              },
+              {
+                "Offset": 1033176,
+                "Value": "start"
+              },
+              {
+                "Offset": 1056867,
+                "Value": "end"
+              },
+              {
+                "Offset": 1120035,
+                "Value": "start"
+              },
+              {
+                "Offset": 1151462,
+                "Value": "end"
+              },
+              {
+                "Offset": 1198560,
+                "Value": "start"
+              },
+              {
+                "Offset": 1237787,
+                "Value": "end"
+              },
+              {
+                "Offset": 1262672,
+                "Value": "start"
+              },
+              {
+                "Offset": 1291691,
+                "Value": "end"
+              },
+              {
+                "Offset": 1394525,
+                "Value": "start"
+              },
+              {
+                "Offset": 1426418,
+                "Value": "end"
+              },
+              {
+                "Offset": 1567961,
+                "Value": "start"
+              },
+              {
+                "Offset": 1591871,
+                "Value": "end"
+              },
+              {
+                "Offset": 1740330,
+                "Value": "start"
+              },
+              {
+                "Offset": 1802500,
+                "Value": "end"
               }
             ]
           }
@@ -5999,48 +8483,6 @@
           "Path": "dlc_hei4_music/hei4_mlr_km_club_p1",
           "Duration": 2352424,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 999,
-                "Title": "White Noise Romantica",
-                "Artist": "ADAM PORT"
-              },
-              {
-                "Offset": 332706,
-                "Title": "Deep Musique (Rampa Remix)",
-                "Artist": "OSUNLADE, PASTABOYS"
-              },
-              {
-                "Offset": 611731,
-                "Title": "After Dark",
-                "Artist": "&ME"
-              },
-              {
-                "Offset": 970268,
-                "Title": "It's Not You It's Me (Adam Port Remix)",
-                "Artist": "REZNIK & MIKESH"
-              },
-              {
-                "Offset": 1260511,
-                "Title": "Shadows",
-                "Artist": "&ME"
-              },
-              {
-                "Offset": 1620511,
-                "Title": "Enkidu (Adam Port's Tulum By Night Edit)",
-                "Artist": "SIMPLE SYMMETRY"
-              },
-              {
-                "Offset": 1876121,
-                "Title": "2000",
-                "Artist": "RAMPA"
-              },
-              {
-                "Offset": 2175146,
-                "Title": "1995",
-                "Artist": "&ME"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 999,
@@ -6139,8 +8581,172 @@
                 "Value": 76
               },
               {
-                "Offset": 2350268,
+                "Offset": 2350267,
                 "Value": 12
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 999,
+                "Title": "White Noise Romantica",
+                "Artist": "ADAM PORT"
+              },
+              {
+                "Offset": 332706,
+                "Title": "Deep Musique (Rampa Remix)",
+                "Artist": "OSUNLADE, PASTABOYS"
+              },
+              {
+                "Offset": 611731,
+                "Title": "After Dark",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 970267,
+                "Title": "It's Not You It's Me (Adam Port Remix)",
+                "Artist": "REZNIK & MIKESH"
+              },
+              {
+                "Offset": 1260511,
+                "Title": "Shadows",
+                "Artist": "&ME"
+              },
+              {
+                "Offset": 1620511,
+                "Title": "Enkidu (Adam Port's Tulum By Night Edit)",
+                "Artist": "SIMPLE SYMMETRY"
+              },
+              {
+                "Offset": 1876121,
+                "Title": "2000",
+                "Artist": "RAMPA"
+              },
+              {
+                "Offset": 2175146,
+                "Title": "1995",
+                "Artist": "&ME"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 79048,
+                "Value": "start"
+              },
+              {
+                "Offset": 110267,
+                "Value": "end"
+              },
+              {
+                "Offset": 157097,
+                "Value": "start"
+              },
+              {
+                "Offset": 188316,
+                "Value": "end"
+              },
+              {
+                "Offset": 268316,
+                "Value": "start"
+              },
+              {
+                "Offset": 305389,
+                "Value": "end"
+              },
+              {
+                "Offset": 455633,
+                "Value": "start"
+              },
+              {
+                "Offset": 486530,
+                "Value": "end"
+              },
+              {
+                "Offset": 580511,
+                "Value": "start"
+              },
+              {
+                "Offset": 611731,
+                "Value": "end"
+              },
+              {
+                "Offset": 923926,
+                "Value": "start"
+              },
+              {
+                "Offset": 954658,
+                "Value": "end"
+              },
+              {
+                "Offset": 1033194,
+                "Value": "start"
+              },
+              {
+                "Offset": 1062463,
+                "Value": "end"
+              },
+              {
+                "Offset": 1212706,
+                "Value": "start"
+              },
+              {
+                "Offset": 1240024,
+                "Value": "end"
+              },
+              {
+                "Offset": 1400024,
+                "Value": "start"
+              },
+              {
+                "Offset": 1415731,
+                "Value": "end"
+              },
+              {
+                "Offset": 1446853,
+                "Value": "start"
+              },
+              {
+                "Offset": 1478072,
+                "Value": "end"
+              },
+              {
+                "Offset": 1696714,
+                "Value": "start"
+              },
+              {
+                "Offset": 1723854,
+                "Value": "end"
+              },
+              {
+                "Offset": 1766853,
+                "Value": "start"
+              },
+              {
+                "Offset": 1813682,
+                "Value": "end"
+              },
+              {
+                "Offset": 1977585,
+                "Value": "start"
+              },
+              {
+                "Offset": 2040093,
+                "Value": "end"
+              },
+              {
+                "Offset": 2118072,
+                "Value": "start"
+              },
+              {
+                "Offset": 2156225,
+                "Value": "end"
+              },
+              {
+                "Offset": 2328804,
+                "Value": "start"
+              },
+              {
+                "Offset": 2351243,
+                "Value": "end"
               }
             ]
           }
@@ -6216,7 +8822,7 @@
                 "Value": 256
               },
               {
-                "Offset": 878844,
+                "Offset": 878843,
                 "Value": 256
               },
               {
@@ -6242,6 +8848,96 @@
               {
                 "Offset": 1550063,
                 "Value": 8
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 195917,
+                "Value": "start"
+              },
+              {
+                "Offset": 239331,
+                "Value": "end"
+              },
+              {
+                "Offset": 320795,
+                "Value": "start"
+              },
+              {
+                "Offset": 340307,
+                "Value": "end"
+              },
+              {
+                "Offset": 406648,
+                "Value": "start"
+              },
+              {
+                "Offset": 438548,
+                "Value": "end"
+              },
+              {
+                "Offset": 469087,
+                "Value": "start"
+              },
+              {
+                "Offset": 500307,
+                "Value": "end"
+              },
+              {
+                "Offset": 597868,
+                "Value": "start"
+              },
+              {
+                "Offset": 625366,
+                "Value": "end"
+              },
+              {
+                "Offset": 738356,
+                "Value": "start"
+              },
+              {
+                "Offset": 769930,
+                "Value": "end"
+              },
+              {
+                "Offset": 894453,
+                "Value": "start"
+              },
+              {
+                "Offset": 921211,
+                "Value": "end"
+              },
+              {
+                "Offset": 1066161,
+                "Value": "start"
+              },
+              {
+                "Offset": 1103278,
+                "Value": "end"
+              },
+              {
+                "Offset": 1214453,
+                "Value": "start"
+              },
+              {
+                "Offset": 1260385,
+                "Value": "end"
+              },
+              {
+                "Offset": 1409575,
+                "Value": "start"
+              },
+              {
+                "Offset": 1424263,
+                "Value": "end"
+              },
+              {
+                "Offset": 1503234,
+                "Value": "start"
+              },
+              {
+                "Offset": 1542258,
+                "Value": "end"
               }
             ]
           }
@@ -6324,7 +9020,7 @@
                 "Value": 128
               },
               {
-                "Offset": 1001353,
+                "Offset": 1001352,
                 "Value": 256
               },
               {
@@ -6334,6 +9030,64 @@
               {
                 "Offset": 1149645,
                 "Value": 8
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 224767,
+                "Value": "start"
+              },
+              {
+                "Offset": 246926,
+                "Value": "end"
+              },
+              {
+                "Offset": 365255,
+                "Value": "start"
+              },
+              {
+                "Offset": 396083,
+                "Value": "end"
+              },
+              {
+                "Offset": 552572,
+                "Value": "start"
+              },
+              {
+                "Offset": 581864,
+                "Value": "end"
+              },
+              {
+                "Offset": 716474,
+                "Value": "start"
+              },
+              {
+                "Offset": 747206,
+                "Value": "end"
+              },
+              {
+                "Offset": 810133,
+                "Value": "start"
+              },
+              {
+                "Offset": 843792,
+                "Value": "end"
+              },
+              {
+                "Offset": 1005255,
+                "Value": "start"
+              },
+              {
+                "Offset": 1036484,
+                "Value": "end"
+              },
+              {
+                "Offset": 1114523,
+                "Value": "start"
+              },
+              {
+                "Offset": 1145809,
+                "Value": "end"
               }
             ]
           }
@@ -6360,7 +9114,7 @@
                 "Artist": "&ME FEAT. SABOTA"
               },
               {
-                "Offset": 581492,
+                "Offset": 581491,
                 "Title": "Purge",
                 "Artist": "RAMPA"
               },
@@ -6426,7 +9180,7 @@
                 "Value": 256
               },
               {
-                "Offset": 1001492,
+                "Offset": 1001491,
                 "Value": 256
               },
               {
@@ -6461,6 +9215,80 @@
                 "Offset": 1813199,
                 "Value": 4
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 135150,
+                "Value": "start"
+              },
+              {
+                "Offset": 164031,
+                "Value": "end"
+              },
+              {
+                "Offset": 291248,
+                "Value": "start"
+              },
+              {
+                "Offset": 322486,
+                "Value": "end"
+              },
+              {
+                "Offset": 525157,
+                "Value": "start"
+              },
+              {
+                "Offset": 565971,
+                "Value": "end"
+              },
+              {
+                "Offset": 743936,
+                "Value": "start"
+              },
+              {
+                "Offset": 777219,
+                "Value": "end"
+              },
+              {
+                "Offset": 946857,
+                "Value": "start"
+              },
+              {
+                "Offset": 987345,
+                "Value": "end"
+              },
+              {
+                "Offset": 1071735,
+                "Value": "start"
+              },
+              {
+                "Offset": 1102099,
+                "Value": "end"
+              },
+              {
+                "Offset": 1259052,
+                "Value": "start"
+              },
+              {
+                "Offset": 1286470,
+                "Value": "end"
+              },
+              {
+                "Offset": 1399540,
+                "Value": "start"
+              },
+              {
+                "Offset": 1430760,
+                "Value": "end"
+              },
+              {
+                "Offset": 1696126,
+                "Value": "start"
+              },
+              {
+                "Offset": 1750845,
+                "Value": "end"
+              }
             ]
           }
         }
@@ -6475,48 +9303,6 @@
           "Path": "dlc_hei4_music/hei4_mlr_mm_p1",
           "Duration": 1690197,
           "Markers": {
-            "Track": [
-              {
-                "Offset": 165,
-                "Title": "I Can't Kick This Feeling When it Hits",
-                "Artist": "MOODYMANN"
-              },
-              {
-                "Offset": 263460,
-                "Title": "Pornoviewer",
-                "Artist": "DOPPLEREFFEKT"
-              },
-              {
-                "Offset": 431858,
-                "Title": "Sharivari",
-                "Artist": "THE DIRTBOMBS"
-              },
-              {
-                "Offset": 625062,
-                "Title": "New For U (Live)",
-                "Artist": "ANDRES"
-              },
-              {
-                "Offset": 962168,
-                "Title": "Zug Island",
-                "Artist": "KYLE HALL & KERO"
-              },
-              {
-                "Offset": 1111154,
-                "Title": "Cosmic Wave (Delano Smith Remix)",
-                "Artist": "NORM TALLEY"
-              },
-              {
-                "Offset": 1397416,
-                "Title": "My A.U.X. Mind",
-                "Artist": "AUX 88"
-              },
-              {
-                "Offset": 1576292,
-                "Title": "Cybonix Groove",
-                "Artist": "CYBONIX"
-              }
-            ],
             "Beat": [
               {
                 "Offset": 0,
@@ -6698,6 +9484,90 @@
                 "Offset": 1672610,
                 "Value": 41
               }
+            ],
+            "Track": [
+              {
+                "Offset": 165,
+                "Title": "I Can't Kick This Feeling When it Hits",
+                "Artist": "MOODYMANN"
+              },
+              {
+                "Offset": 263460,
+                "Title": "Pornoviewer",
+                "Artist": "DOPPLEREFFEKT"
+              },
+              {
+                "Offset": 431858,
+                "Title": "Sharivari",
+                "Artist": "THE DIRTBOMBS"
+              },
+              {
+                "Offset": 625062,
+                "Title": "New For U (Live)",
+                "Artist": "ANDRES"
+              },
+              {
+                "Offset": 962168,
+                "Title": "Zug Island",
+                "Artist": "KYLE HALL & KERO"
+              },
+              {
+                "Offset": 1111154,
+                "Title": "Cosmic Wave (Delano Smith Remix)",
+                "Artist": "NORM TALLEY"
+              },
+              {
+                "Offset": 1397416,
+                "Title": "My A.U.X. Mind",
+                "Artist": "AUX 88"
+              },
+              {
+                "Offset": 1576292,
+                "Title": "Cybonix Groove",
+                "Artist": "CYBONIX"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 303209,
+                "Value": "start"
+              },
+              {
+                "Offset": 332837,
+                "Value": "end"
+              },
+              {
+                "Offset": 496379,
+                "Value": "start"
+              },
+              {
+                "Offset": 511932,
+                "Value": "end"
+              },
+              {
+                "Offset": 541717,
+                "Value": "start"
+              },
+              {
+                "Offset": 587909,
+                "Value": "end"
+              },
+              {
+                "Offset": 877276,
+                "Value": "start"
+              },
+              {
+                "Offset": 951854,
+                "Value": "end"
+              },
+              {
+                "Offset": 1397530,
+                "Value": "start"
+              },
+              {
+                "Offset": 1425059,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -6723,7 +9593,7 @@
                 "Artist": "MOODYMANN"
               },
               {
-                "Offset": 502143,
+                "Offset": 502142,
                 "Title": "Oscillator",
                 "Artist": "PAPERCLIP PEOPLE"
               },
@@ -6918,6 +9788,64 @@
                 "Offset": 1580618,
                 "Value": 64
               }
+            ],
+            "Rockout": [
+              {
+                "Offset": 15430,
+                "Value": "start"
+              },
+              {
+                "Offset": 71577,
+                "Value": "end"
+              },
+              {
+                "Offset": 242039,
+                "Value": "start"
+              },
+              {
+                "Offset": 281311,
+                "Value": "end"
+              },
+              {
+                "Offset": 383573,
+                "Value": "start"
+              },
+              {
+                "Offset": 411647,
+                "Value": "end"
+              },
+              {
+                "Offset": 792311,
+                "Value": "start"
+              },
+              {
+                "Offset": 824781,
+                "Value": "end"
+              },
+              {
+                "Offset": 904993,
+                "Value": "start"
+              },
+              {
+                "Offset": 929567,
+                "Value": "end"
+              },
+              {
+                "Offset": 1117527,
+                "Value": "start"
+              },
+              {
+                "Offset": 1135414,
+                "Value": "end"
+              },
+              {
+                "Offset": 1166287,
+                "Value": "start"
+              },
+              {
+                "Offset": 1205014,
+                "Value": "end"
+              }
             ]
           }
         },
@@ -6978,7 +9906,7 @@
                 "Artist": "MOODYMANN"
               },
               {
-                "Offset": 1641806,
+                "Offset": 1641805,
                 "Title": "Love",
                 "Artist": "PIRAHNAHEAD & DIVINITI"
               },
@@ -7137,6 +10065,64 @@
               {
                 "Offset": 2198130,
                 "Value": 64
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 96520,
+                "Value": "start"
+              },
+              {
+                "Offset": 127160,
+                "Value": "end"
+              },
+              {
+                "Offset": 588467,
+                "Value": "start"
+              },
+              {
+                "Offset": 604253,
+                "Value": "end"
+              },
+              {
+                "Offset": 1110276,
+                "Value": "start"
+              },
+              {
+                "Offset": 1136561,
+                "Value": "end"
+              },
+              {
+                "Offset": 1218681,
+                "Value": "start"
+              },
+              {
+                "Offset": 1250274,
+                "Value": "end"
+              },
+              {
+                "Offset": 1369392,
+                "Value": "start"
+              },
+              {
+                "Offset": 1397310,
+                "Value": "end"
+              },
+              {
+                "Offset": 1919974,
+                "Value": "start"
+              },
+              {
+                "Offset": 1938638,
+                "Value": "end"
+              },
+              {
+                "Offset": 1957690,
+                "Value": "start"
+              },
+              {
+                "Offset": 2011971,
+                "Value": "end"
               }
             ]
           }
@@ -7358,7 +10344,7 @@
                 "Value": 120
               },
               {
-                "Offset": 1965771,
+                "Offset": 1965770,
                 "Value": 0
               },
               {
@@ -7368,6 +10354,56 @@
               {
                 "Offset": 2054940,
                 "Value": 0
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 412537,
+                "Value": "start"
+              },
+              {
+                "Offset": 459845,
+                "Value": "end"
+              },
+              {
+                "Offset": 690499,
+                "Value": "start"
+              },
+              {
+                "Offset": 758855,
+                "Value": "end"
+              },
+              {
+                "Offset": 1233227,
+                "Value": "start"
+              },
+              {
+                "Offset": 1293184,
+                "Value": "end"
+              },
+              {
+                "Offset": 1724085,
+                "Value": "start"
+              },
+              {
+                "Offset": 1772144,
+                "Value": "end"
+              },
+              {
+                "Offset": 1915933,
+                "Value": "start"
+              },
+              {
+                "Offset": 1940041,
+                "Value": "end"
+              },
+              {
+                "Offset": 1984367,
+                "Value": "start"
+              },
+              {
+                "Offset": 2005364,
+                "Value": "end"
               }
             ]
           }

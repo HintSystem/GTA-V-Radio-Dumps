@@ -31,6 +31,16 @@
                 "Title": "Act Up",
                 "Artist": "CITY GIRLS"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4036,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 9865,
+                "Value": "intro_end"
+              }
             ]
           }
         },
@@ -44,6 +54,24 @@
                 "Offset": 0,
                 "Title": "Wings",
                 "Artist": "SHORELINE MAFIA"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 9397,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 27884,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 122378,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 136117,
+                "Value": "outro_end"
               }
             ]
           }
@@ -59,6 +87,16 @@
                 "Title": "AL1ENZ",
                 "Artist": "DENZEL CURRY FT. YBN CORDAE"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 3977,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 12356,
+                "Value": "intro_end"
+              }
             ]
           }
         },
@@ -72,6 +110,16 @@
                 "Offset": 0,
                 "Title": "BOP",
                 "Artist": "DABABY"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5344,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14169,
+                "Value": "intro_end"
               }
             ]
           }
@@ -87,6 +135,16 @@
                 "Title": "Cash Shit",
                 "Artist": "MEGAN THEE STALLION FT. DABABY"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4506,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14186,
+                "Value": "intro_end"
+              }
             ]
           }
         },
@@ -100,6 +158,24 @@
                 "Offset": 0,
                 "Title": "Crime Pays",
                 "Artist": "FREDDIE GIBBS & MADLIB"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5051,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 14310,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 147471,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 160271,
+                "Value": "outro_end"
               }
             ]
           }
@@ -115,6 +191,16 @@
                 "Title": "Dance in the Water",
                 "Artist": "DANNY BROWN"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 5053,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15056,
+                "Value": "intro_end"
+              }
             ]
           }
         },
@@ -129,6 +215,24 @@
                 "Title": "Everything She Wants",
                 "Artist": "EGYPTIAN LOVER"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4748,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15121,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 224997,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 234954,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -142,6 +246,24 @@
                 "Offset": 0,
                 "Title": "Highest in the Room",
                 "Artist": "TRAVIS SCOTT"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 4923,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 11980,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 163242,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 170602,
+                "Value": "outro_end"
               }
             ]
           }
@@ -171,6 +293,16 @@
                 "Title": "POP STAR",
                 "Artist": "DABABY FT. KEVIN GATES"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4113,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 10419,
+                "Value": "intro_end"
+              }
             ]
           }
         },
@@ -184,6 +316,24 @@
                 "Offset": 0,
                 "Title": "W",
                 "Artist": "KOFFEE FT. GUNNA"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5137,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 15855,
+                "Value": "intro_end"
+              },
+              {
+                "Offset": 209152,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 222378,
+                "Value": "outro_end"
               }
             ]
           }
@@ -199,6 +349,16 @@
                 "Title": "Ready to Go",
                 "Artist": "BAAUER AND CHANNEL TRES FT. DANNY BROWN"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 146516,
+                "Value": "outro_start"
+              },
+              {
+                "Offset": 157695,
+                "Value": "outro_end"
+              }
             ]
           }
         },
@@ -213,6 +373,16 @@
                 "Title": "With the Thing",
                 "Artist": "ALKALINE"
               }
+            ],
+            "DJ": [
+              {
+                "Offset": 4856,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 19000,
+                "Value": "intro_end"
+              }
             ]
           }
         },
@@ -226,6 +396,16 @@
                 "Offset": 0,
                 "Title": "Hot (Remix)",
                 "Artist": "YOUNG THUG FT. GUNNA & TRAVIS SCOTT"
+              }
+            ],
+            "DJ": [
+              {
+                "Offset": 5465,
+                "Value": "intro_start"
+              },
+              {
+                "Offset": 21279,
+                "Value": "intro_end"
               }
             ]
           }

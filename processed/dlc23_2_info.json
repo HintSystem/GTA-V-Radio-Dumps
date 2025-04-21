@@ -183,7 +183,7 @@
                 "Value": 0
               },
               {
-                "Offset": 1241078,
+                "Offset": 1241077,
                 "Value": 160
               },
               {
@@ -219,7 +219,7 @@
                 "Value": 18
               },
               {
-                "Offset": 1910079,
+                "Offset": 1910078,
                 "Value": 480
               },
               {
@@ -229,6 +229,88 @@
               {
                 "Offset": 2304751,
                 "Value": 0
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 88105,
+                "Value": "start"
+              },
+              {
+                "Offset": 144333,
+                "Value": "end"
+              },
+              {
+                "Offset": 221475,
+                "Value": "start"
+              },
+              {
+                "Offset": 239887,
+                "Value": "end"
+              },
+              {
+                "Offset": 464896,
+                "Value": "start"
+              },
+              {
+                "Offset": 518041,
+                "Value": "end"
+              },
+              {
+                "Offset": 607564,
+                "Value": "start"
+              },
+              {
+                "Offset": 642031,
+                "Value": "end"
+              },
+              {
+                "Offset": 1253146,
+                "Value": "start"
+              },
+              {
+                "Offset": 1285295,
+                "Value": "end"
+              },
+              {
+                "Offset": 1366566,
+                "Value": "start"
+              },
+              {
+                "Offset": 1392666,
+                "Value": "end"
+              },
+              {
+                "Offset": 1461803,
+                "Value": "start"
+              },
+              {
+                "Offset": 1485080,
+                "Value": "end"
+              },
+              {
+                "Offset": 1627549,
+                "Value": "start"
+              },
+              {
+                "Offset": 1665112,
+                "Value": "end"
+              },
+              {
+                "Offset": 1981974,
+                "Value": "start"
+              },
+              {
+                "Offset": 2045594,
+                "Value": "end"
+              },
+              {
+                "Offset": 2249767,
+                "Value": "start"
+              },
+              {
+                "Offset": 2290684,
+                "Value": "end"
               }
             ]
           }
