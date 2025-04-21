@@ -1,3 +1,4 @@
+import math
 from lxml.etree import _Element
 from time import perf_counter
 
@@ -59,29 +60,76 @@ def to_dict(elem: _Element, depth_limit = 0, depth = 0):
         return list(d.values())[0]
             
     return d
-    
-def markerDict(markers_container: _Element, isTrackType = False):
-    markersDict = to_dict(markers_container)
-    if not (type(markersDict) is list):
-        markersDict = [markersDict]
 
-    marker_list = []
+def resolve_marker_trackid(marker: dict[str, any], text_id: str):
+    marker["Title"] = get_trackid_table().resolve(joaat(text_id + "S"))
+    marker["Artist"] = get_trackid_table().resolve(joaat(text_id + "A"))
+
+def marker_dict_awc(markers_container: _Element, stream_info: dict):
+    markers_dict = to_dict(markers_container)
+    if not (type(markers_dict) is list):
+        markers_dict = [markers_dict]
+
+    result: dict[str, list[str]] = {}
+    sample_rate = float(stream_info.get("SampleRate") or 48000)
+    for marker in markers_dict:
+        if "Name" not in marker: # some awc xml files have missing values? (hei4_mlr_mm_p3)
+            continue
+
+        match marker["Name"]:
+            case "trackid":
+                marker_type = "Track"
+            case "beat":
+                marker_type = "Beat"
+            case "rockout":
+                marker_type = "Rockout"
+            case "dj":
+                marker_type = "DJ"
+            case _:
+                continue
+
+        if "Value" not in marker: # some awc xml files have missing values? (flylo_part2)
+            continue
+
+        new_marker = {}
+        new_marker["Offset"] = math.floor((float(marker["SampleOffset"]) * 1000) / sample_rate)
+
+        if marker_type == "Track":
+            resolve_marker_trackid(new_marker, marker["Value"])
+        else:
+            value = marker["Value"]
+            if value.isdigit():
+                value = int(value)
+            new_marker["Value"] = value
+
+        if marker_type not in result:
+            result[marker_type] = []
+        
+        result[marker_type].append(new_marker)
+
+    return result
+    
+def marker_dict_xml(markers_container: _Element, isTrackType = False):
+    markers_dict = to_dict(markers_container)
+    if not (type(markers_dict) is list):
+        markers_dict = [markers_dict]
+
+    result = []
     prev_marker = None
-    for marker in markersDict:
+    for marker in markers_dict:
         new_marker = {}
         new_marker["Offset"] = int(marker["OffsetMs"])
 
         TextId = marker["TextId"]
         if isTrackType:
-            new_marker["Title"] = get_trackid_table().resolve(joaat(TextId + "S"))
-            new_marker["Artist"] = get_trackid_table().resolve(joaat(TextId + "A"))
+            resolve_marker_trackid(new_marker, TextId)
         else:
             new_marker["Value"] = int(TextId)
 
         if new_marker == prev_marker:
             continue
 
-        marker_list.append(new_marker)
+        result.append(new_marker)
         prev_marker = new_marker
 
-    return marker_list
+    return result

@@ -16,14 +16,22 @@ def full_dlc_path(dlcpath: str):
         return f"update/%PLATFORM%/{dlcpath.as_posix()}"
     return f"%PLATFORM%/{dlcpath.as_posix()}"
 
-def GetStreamingSoundInfo(sounds_index: xml.TypeIndex, streamingSoundName: str, dlcname: str):
+solved_sounds: dict[str, str] = {}
+def GetStreamingSoundInfo(sounds_index: xml.TypeIndex, sound_id: str, dlcname: str, tracklist_id: str):
     if sounds_index == None:
         return {}
 
-    streaming_sound: _Element = sounds_index.get("StreamingSound", streamingSoundName, True)
+    streaming_sound: _Element = sounds_index.get("StreamingSound", sound_id, True)
     if streaming_sound == None:
-        print(ANSI(f"Missing sound ref: '{ANSI(streamingSoundName).bold()}'").yellow())
+        if sound_id in solved_sounds:
+            equivalent_track_list = solved_sounds[sound_id]
+            print(ANSI(f"Sound ref '{ANSI(sound_id).bold()}' is identical to sound in track list '{ANSI(solved_sounds[sound_id]).bold()}'").yellow())
+            return {"TrackList": equivalent_track_list}
+        
+        print(ANSI(f"Missing sound ref: '{ANSI(sound_id).bold()}'").yellow())
         return {}
+    else:
+        solved_sounds[sound_id] = tracklist_id
     
     duration = None
     path = None
@@ -41,22 +49,37 @@ def GetStreamingSoundInfo(sounds_index: xml.TypeIndex, streamingSoundName: str, 
         path = container_name.text
 
         special_path = Path(path).parent.name.replace("_", "")
-        if special_path != dlcname and special_path in dlcname_paths: #special case where some tracks contain a path that goes outside of current dlc
+        if special_path != dlcname and special_path in dlcname_paths: # special case where some tracks contain a path that goes outside of current dlc
             print(ANSI(f"Sound path '{ANSI(path).bold()}' is not part of dlc '{ANSI(dlcname).bold()}'").yellow())
             return {"DlcPath": full_dlc_path(dlcname_paths[special_path][0]), "Path": path, "Duration": int(duration)}
         
         return {"Path": path, "Duration": int(duration)}
     
-    print(ANSI(f"Sound path not found: {streamingSoundName}").yellow())
+    print(ANSI(f"Sound path not found: {sound_id}").yellow())
     return {}
 
-def GetTrackMarkers(type_index: xml.TypeIndex, trackName: str) -> _Element:
-    str_is_hash = parse_hash_string(trackName) # check if trackName is a hash string
-    if str_is_hash: # that means the rtt and rtb will also be a hash string instead
-        rtt_id = format_hash(joaat(f"rtt_{str_is_hash:08x}"))
-        rtb_id = format_hash(joaat(f"rtb_{str_is_hash:08x}"))
+trackinfo_path = data_dir / "tracks"
+def GetAwcMarkers(tracklist_id: str, track_path: str):
+    if not track_path:
+        return
+
+    track_info_path = trackinfo_path / tracklist_id / (Path(track_path).name + ".awc.xml")
+    awc_info = etree.parse(track_info_path)
+
+    if track_info_path.is_file():
+        markers: _Element = awc_info.xpath("//Markers")[0]
+        stream_info = awc_info.xpath("//StreamFormat")[0]
+        return xml.marker_dict_awc(markers, xml.to_dict(stream_info))
+    
+    return
+
+def GetRelMarkers(type_index: xml.TypeIndex, track_id: str):
+    id_is_hash = parse_hash_string(track_id) # check if trackName is a hash string
+    if id_is_hash: # that means the rtt and rtb will also be a hash string instead
+        rtt_id = format_hash(joaat(f"rtt_{id_is_hash:08x}"))
+        rtb_id = format_hash(joaat(f"rtb_{id_is_hash:08x}"))
     else:
-        hash_val = joaat(trackName)
+        hash_val = joaat(track_id)
         rtt_id = f"rtt_{hash_val:08x}"
         rtb_id = f"rtb_{hash_val:08x}"
 
@@ -65,9 +88,9 @@ def GetTrackMarkers(type_index: xml.TypeIndex, trackName: str) -> _Element:
 
     res = {}
     if rtt != None:
-        res["Track"] = xml.markerDict(rtt.xpath("./Events")[0], True)
+        res["Track"] = xml.marker_dict_xml(rtt.xpath("./Events")[0], True)
     if rtb != None:
-        res["Beat"] = xml.markerDict(rtb.xpath("./Events")[0])
+        res["Beat"] = xml.marker_dict_xml(rtb.xpath("./Events")[0])
 
     return res
 
@@ -134,30 +157,38 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
         print(ANSI(f"No stations exist for '{dlcname}', export cancelled").red())
         return False
 
-    for track_list_id in unique_track_lists:
-        track_list_el = game_index.get("RadioStationTrackList", track_list_id)
-        if track_list_el == None:
+    for tracklist_id in unique_track_lists:
+        tracklist_el = game_index.get("RadioStationTrackList", tracklist_id)
+        if tracklist_el == None:
             continue
-        track_list = track_list_el.xpath("./Tracks/Item/SoundRef")
+        
+        tracklist_id = nametables.resolve_string(tracklist_id)
+        tracklist_info = filter_dict(xml.to_dict(tracklist_el, 1), {"Flags", "Category"})
 
         collected_tracks = []
-        for track in track_list:
+        for track in tracklist_el.xpath("./Tracks/Item/SoundRef"):
             id_fix = track.text
+            id_resolved = nametables.resolve_string(track.text)
+
             prefix = "hei4_radio_kult_" # fix for kult fm caused by unique bank layout
             if id_fix.startswith(prefix):
                 id_fix = "dlc_hei4_music_" + id_fix[len(prefix):]
 
-            track_info = {"Id": nametables.resolve_string(track.text)} | GetStreamingSoundInfo(sound_index, track.text, dlcname)
+            track_info = {"Id": id_resolved} | GetStreamingSoundInfo(sound_index, track.text, dlcname, tracklist_id)
+            
+            markers = None
+            if tracklist_info["Category"] == "2":
+                markers = GetAwcMarkers(tracklist_id, track_info.get("Path"))
+            if not markers:
+                markers = GetRelMarkers(game_index, id_fix)
 
-            markers = GetTrackMarkers(game_index, id_fix)
             if markers:
                 track_info["Markers"] = markers
 
             collected_tracks.append(track_info)
 
-        track_list_info = filter_dict(xml.to_dict(track_list_el, 1), {"Flags", "Category"})
-        track_list_info["Tracks"] = collected_tracks
-        export_track_info["TrackLists"][nametables.resolve_string(track_list_id)] = track_list_info
+        tracklist_info["Tracks"] = collected_tracks
+        export_track_info["TrackLists"][tracklist_id] = tracklist_info
 
     print(f"[{delta_time_ms(time_start)}ms] Processed all track lists for '{dlcname}'")
 
@@ -209,17 +240,17 @@ def merge_exports(dlc_names: list[str] = None):
                     conflicts.append((["Stations", station_id, property], path.name))
 
 
-        for track_list_id, track_list in data.get("TrackLists", {}).items():
-            if track_list_id not in merged_data["TrackLists"]:
+        for tracklist_id, track_list in data.get("TrackLists", {}).items():
+            if tracklist_id not in merged_data["TrackLists"]:
                 dlcname = path.name.rsplit("_", 1)[0]
                 if dlcname in dlcname_paths:
                     track_list = {"DlcPath": full_dlc_path(dlcname_paths[dlcname][0])} | track_list
                 else:
                     print(ANSI(f"Could not find DlcPath for dlc '{ANSI(dlcname).bold()}'").red())
-                merged_data["TrackLists"][track_list_id] = track_list
+                merged_data["TrackLists"][tracklist_id] = track_list
                 continue
 
-            conflicts.append((["Stations", track_list_id], path.name))
+            conflicts.append((["Stations", tracklist_id], path.name))
 
     with open(merged_out_path, "w", encoding="utf-8") as f:
         json.dump(merged_data, f, indent=2, ensure_ascii=False)
