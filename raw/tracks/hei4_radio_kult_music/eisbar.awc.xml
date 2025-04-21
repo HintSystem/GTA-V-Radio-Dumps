@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <ChunkIndices value="True" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>eisbar_left</Name>
+   <FileName>eisbar_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="12508336" />
+    <SampleRate value="48000" />
+    <Headroom value="-201" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1910" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="284343" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="290049" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="643813" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="1001381" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="1713664" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="2424996" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="3137280" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="3137280" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="3850514" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="4559944" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="4561846" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="5274129" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="5985462" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="6699647" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="7410240" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="7410979" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="8122311" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="8834595" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="9547829" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="9902880" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="10259161" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="10969542" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="10970493" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="11696090" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="12262874" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>eisbar_right</Name>
+   <FileName>eisbar_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="12508336" />
+    <SampleRate value="48000" />
+    <Headroom value="-201" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1910" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="284343" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="290049" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="643813" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="1001381" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="1713664" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="2424996" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="3137280" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="3137280" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="3850514" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="4559944" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="4561846" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="5274129" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="5985462" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="6699647" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="7410240" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="7410979" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="8122311" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="8834595" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="9547829" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="9902880" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="10259161" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="10969542" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="10970493" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="11696090" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="12262874" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

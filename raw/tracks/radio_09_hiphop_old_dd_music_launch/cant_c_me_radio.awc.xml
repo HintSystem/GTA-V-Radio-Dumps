@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>cant_c_me_radio_left</Name>
+   <FileName>cant_c_me_radio_left.wav</FileName>
+   <StreamFormat>
+    <Codec>ADPCM</Codec>
+    <Samples value="15847552" />
+    <SampleRate value="48000" />
+    <Headroom value="-104" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4136" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="846684" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_end</Value>
+       <SampleOffset value="1284690" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="14846976" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="15559680" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>cant_c_me_radio_right</Name>
+   <FileName>cant_c_me_radio_right.wav</FileName>
+   <StreamFormat>
+    <Codec>ADPCM</Codec>
+    <Samples value="15847552" />
+    <SampleRate value="48000" />
+    <Headroom value="-118" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

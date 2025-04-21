@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>gin_and_juice_left</Name>
+   <FileName>gin_and_juice_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="9784320" />
+    <SampleRate value="48000" />
+    <Headroom value="113" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1212" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="4224" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="4608" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="90012" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="494543" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="741376" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_end</Value>
+       <SampleOffset value="968704" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="982217" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="1469131" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="1958347" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="2444497" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="2929864" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="2930972" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="3416009" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="3902173" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="3902573" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="4391367" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="4876751" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="5361356" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="5607879" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="5851340" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="6336726" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="6582203" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="6819840" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="7314161" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="7798771" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="8043379" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="8252544" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="8285679" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="8771055" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="16" />
+       <SampleOffset value="9257211" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="9500672" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="9664512" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="2" />
+       <SampleOffset value="9745408" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>gin_and_juice_right</Name>
+   <FileName>gin_and_juice_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="9784320" />
+    <SampleRate value="48000" />
+    <Headroom value="113" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

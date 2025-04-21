@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>la_fama_left</Name>
+   <FileName>la_fama_left.wav</FileName>
+   <StreamFormat>
+    <Codec>ADPCM</Codec>
+    <Samples value="8939466" />
+    <SampleRate value="48000" />
+    <Headroom value="-124" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4069" />
+       <SampleOffset value="411" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="73529" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_end</Value>
+       <SampleOffset value="305715" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="8324115" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="8828115" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>la_fama_right</Name>
+   <FileName>la_fama_right.wav</FileName>
+   <StreamFormat>
+    <Codec>ADPCM</Codec>
+    <Samples value="8939466" />
+    <SampleRate value="48000" />
+    <Headroom value="-112" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

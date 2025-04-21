@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>high_pressure_left</Name>
+   <FileName>high_pressure_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="8917381" />
+    <SampleRate value="48000" />
+    <Headroom value="116" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1350" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="154624" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="256419" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="995328" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="1511424" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_end</Value>
+       <SampleOffset value="1513984" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="1832517" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="2669722" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="2776037" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="3506089" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="4342465" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="4450872" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="5183437" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="5288175" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="6018048" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="6856704" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="6968228" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="7163904" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="7696148" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="8208384" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="12" />
+       <SampleOffset value="8534029" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="8612869" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="1" />
+       <SampleOffset value="8847488" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>high_pressure_right</Name>
+   <FileName>high_pressure_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="8917381" />
+    <SampleRate value="48000" />
+    <Headroom value="116" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

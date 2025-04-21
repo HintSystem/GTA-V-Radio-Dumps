@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>boogie_in_zero_gravity_left</Name>
+   <FileName>boogie_in_zero_gravity_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="10571776" />
+    <SampleRate value="48000" />
+    <Headroom value="104" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1156" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="247856" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_end</Value>
+       <SampleOffset value="741376" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="748821" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="1499913" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="2244608" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="2248704" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="2985984" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="2998436" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="3747269" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="4496112" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="5056322" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="5246528" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="5807659" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="5994512" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="6742521" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="7305152" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="7491584" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="7970816" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="8241128" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="8802083" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="8990720" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="9739264" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="10113536" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="4" />
+       <SampleOffset value="10489600" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>boogie_in_zero_gravity_right</Name>
+   <FileName>boogie_in_zero_gravity_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="10571776" />
+    <SampleRate value="48000" />
+    <Headroom value="104" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

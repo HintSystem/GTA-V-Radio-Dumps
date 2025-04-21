@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>california_soul_left</Name>
+   <FileName>california_soul_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="8217600" />
+    <SampleRate value="48000" />
+    <Headroom value="131" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1051" />
+       <SampleOffset value="2432" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="268" />
+       <SampleOffset value="32768" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="238976" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_end</Value>
+       <SampleOffset value="501760" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="1974015" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="3442840" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="5389836" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="6859018" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="7109488" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="7993200" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="1" />
+       <SampleOffset value="8190150" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>california_soul_right</Name>
+   <FileName>california_soul_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="8217600" />
+    <SampleRate value="48000" />
+    <Headroom value="128" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

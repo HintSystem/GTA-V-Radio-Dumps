@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>smiling_faces_left</Name>
+   <FileName>smiling_faces_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="9076736" />
+    <SampleRate value="48000" />
+    <Headroom value="117" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1013" />
+       <SampleOffset value="14720" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="45056" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="263284" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_end</Value>
+       <SampleOffset value="703616" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="933888" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="1821867" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="2706560" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="3367928" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="3585988" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="4456183" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="4653056" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="5330234" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="6194292" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="7065990" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="7249920" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="7936166" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="8154114" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="8544256" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="8573440" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="8" />
+       <SampleOffset value="8803217" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="2" />
+       <SampleOffset value="9019392" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>smiling_faces_right</Name>
+   <FileName>smiling_faces_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="9076736" />
+    <SampleRate value="48000" />
+    <Headroom value="118" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

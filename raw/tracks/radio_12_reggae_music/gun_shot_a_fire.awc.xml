@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>gun_shot_a_fire_left</Name>
+   <FileName>gun_shot_a_fire_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="9438208" />
+    <SampleRate value="48000" />
+    <Headroom value="83" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1372" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_start</Value>
+       <SampleOffset value="277504" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="300" />
+       <SampleOffset value="479232" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>intro_end</Value>
+       <SampleOffset value="953344" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="2367488" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="3332860" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="4759730" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="5709567" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="7700480" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="9030656" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="2" />
+       <SampleOffset value="9388032" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>gun_shot_a_fire_right</Name>
+   <FileName>gun_shot_a_fire_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="9438208" />
+    <SampleRate value="48000" />
+    <Headroom value="83" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

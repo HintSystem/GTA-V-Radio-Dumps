@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>it_wont_be_long_hating_you_left</Name>
+   <FileName>it_wont_be_long_hating_you_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="6915072" />
+    <SampleRate value="48000" />
+    <Headroom value="148" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1142" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="28" />
+       <SampleOffset value="215040" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="6" />
+       <SampleOffset value="962899" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="76" />
+       <SampleOffset value="1118208" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="6" />
+       <SampleOffset value="3111936" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="132" />
+       <SampleOffset value="3269632" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="4743928" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_start</Value>
+       <SampleOffset value="5152768" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="5419008" />
+      </Item>
+      <Item>
+       <Name>dj</Name>
+       <Value>outro_end</Value>
+       <SampleOffset value="6444032" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="4" />
+       <SampleOffset value="6726971" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>it_wont_be_long_hating_you_right</Name>
+   <FileName>it_wont_be_long_hating_you_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="6915072" />
+    <SampleRate value="48000" />
+    <Headroom value="150" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

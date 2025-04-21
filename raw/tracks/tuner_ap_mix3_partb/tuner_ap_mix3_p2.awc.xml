@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>tuner_ap_mix3_p2_left</Name>
+   <FileName>tuner_ap_mix3_p2_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="88452188" />
+    <SampleRate value="48000" />
+    <Headroom value="-201" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2080" />
+       <SampleOffset value="1184" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="560" />
+       <SampleOffset value="1184" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="1441184" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="2161184" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="6481184" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="7921184" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="48" />
+       <SampleOffset value="12600763" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2081" />
+       <SampleOffset value="13681128" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="228" />
+       <SampleOffset value="13681128" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="17281128" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="18721128" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="22681128" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="24121128" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="28081128" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="29161128" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="31681128" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="32761128" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="20" />
+       <SampleOffset value="34200842" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2082" />
+       <SampleOffset value="34658880" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="624" />
+       <SampleOffset value="34658880" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="24" />
+       <SampleOffset value="49151084" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2083" />
+       <SampleOffset value="49707670" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="788" />
+       <SampleOffset value="49707670" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="53364813" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="54644813" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="60313384" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="61684813" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="64061956" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="65067670" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="1" />
+       <SampleOffset value="67719229" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2084" />
+       <SampleOffset value="67735751" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="864" />
+       <SampleOffset value="67735751" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="73402848" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="74262203" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="82228654" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="83715106" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="26" />
+       <SampleOffset value="87802828" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>tuner_ap_mix3_p2_right</Name>
+   <FileName>tuner_ap_mix3_p2_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="88452188" />
+    <SampleRate value="48000" />
+    <Headroom value="-201" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

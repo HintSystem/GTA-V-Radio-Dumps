@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <ChunkIndices value="True" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>hei4_mlr_mm_p1_left</Name>
+   <FileName>hei4_mlr_mm_p1_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="81129490" />
+    <SampleRate value="48000" />
+    <Headroom value="-200" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2029" />
+       <SampleOffset value="7956" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="246" />
+       <SampleOffset value="4606803" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="10753836" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="12052052" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2030" />
+       <SampleOffset value="12646083" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="12651483" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="192" />
+       <SampleOffset value="14184000" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="14554038" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="15976220" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="68" />
+       <SampleOffset value="18780540" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="20403086" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2031" />
+       <SampleOffset value="20729223" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="20742377" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="192" />
+       <SampleOffset value="22185457" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="23826217" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="24572770" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="26002417" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="128" />
+       <SampleOffset value="26517693" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="28219678" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="26" />
+       <SampleOffset value="29411174" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="29995314" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2032" />
+       <SampleOffset value="30003018" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="128" />
+       <SampleOffset value="31422906" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="34276332" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="35704042" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="37129554" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="38558814" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="192" />
+       <SampleOffset value="39984370" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="42109284" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="44265153" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="45689002" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="45692490" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2033" />
+       <SampleOffset value="46184088" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="46652621" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="48112084" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="49574026" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="51037431" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="54" />
+       <SampleOffset value="52501224" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2034" />
+       <SampleOffset value="53335411" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="53737164" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="55212405" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="56687040" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="58161600" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="59636160" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="61110332" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="62585220" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="64059796" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="36" />
+       <SampleOffset value="65533920" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="66362645" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2035" />
+       <SampleOffset value="67076009" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="67081170" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="67081459" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="192" />
+       <SampleOffset value="68401683" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="68402857" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="72364903" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="73685760" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="75005760" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2036" />
+       <SampleOffset value="75662034" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="76323840" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="77643840" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="78962880" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="41" />
+       <SampleOffset value="80285280" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>hei4_mlr_mm_p1_right</Name>
+   <FileName>hei4_mlr_mm_p1_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="81129490" />
+    <SampleRate value="48000" />
+    <Headroom value="-200" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2029" />
+       <SampleOffset value="7956" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="246" />
+       <SampleOffset value="4606803" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="10753836" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="12052052" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2030" />
+       <SampleOffset value="12646083" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="12651483" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="192" />
+       <SampleOffset value="14184000" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="14554038" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="15976220" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="68" />
+       <SampleOffset value="18780540" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="20403086" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2031" />
+       <SampleOffset value="20729223" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="20742377" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="192" />
+       <SampleOffset value="22185457" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="23826217" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="24572770" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="26002417" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="128" />
+       <SampleOffset value="26517693" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="28219678" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="26" />
+       <SampleOffset value="29411174" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="29995314" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2032" />
+       <SampleOffset value="30003018" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="128" />
+       <SampleOffset value="31422906" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="34276332" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="35704042" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="37129554" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="38558814" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="192" />
+       <SampleOffset value="39984370" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="42109284" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="44265153" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="45689002" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="45692490" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2033" />
+       <SampleOffset value="46184088" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="46652621" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="48112084" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="49574026" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="51037431" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="54" />
+       <SampleOffset value="52501224" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2034" />
+       <SampleOffset value="53335411" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="53737164" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="55212405" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="56687040" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="58161600" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="59636160" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="61110332" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="62585220" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="64059796" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="36" />
+       <SampleOffset value="65533920" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="66362645" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2035" />
+       <SampleOffset value="67076009" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="67081170" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="67081459" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="192" />
+       <SampleOffset value="68401683" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="68402857" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="72364903" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="73685760" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="75005760" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2036" />
+       <SampleOffset value="75662034" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="76323840" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="77643840" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="78962880" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="41" />
+       <SampleOffset value="80285280" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

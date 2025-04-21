@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>tuner_ap_mix1_p1_left</Name>
+   <FileName>tuner_ap_mix1_p1_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="89339484" />
+    <SampleRate value="48000" />
+    <Headroom value="-199" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4014" />
+       <SampleOffset value="48000" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4015" />
+       <SampleOffset value="4992000" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4016" />
+       <SampleOffset value="9360000" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4017" />
+       <SampleOffset value="16896000" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4018" />
+       <SampleOffset value="23664000" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4019" />
+       <SampleOffset value="31968000" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4020" />
+       <SampleOffset value="38544000" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4021" />
+       <SampleOffset value="44928000" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4022" />
+       <SampleOffset value="53904000" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4023" />
+       <SampleOffset value="70560000" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4024" />
+       <SampleOffset value="79776000" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>tuner_ap_mix1_p1_right</Name>
+   <FileName>tuner_ap_mix1_p1_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="89339484" />
+    <SampleRate value="48000" />
+    <Headroom value="-199" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

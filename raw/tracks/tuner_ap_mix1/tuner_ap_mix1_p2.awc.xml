@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>tuner_ap_mix1_p2_left</Name>
+   <FileName>tuner_ap_mix1_p2_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="98879396" />
+    <SampleRate value="48000" />
+    <Headroom value="-199" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4025" />
+       <SampleOffset value="60516" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4026" />
+       <SampleOffset value="12708516" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4027" />
+       <SampleOffset value="28380516" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4028" />
+       <SampleOffset value="40092516" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4029" />
+       <SampleOffset value="54852516" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4030" />
+       <SampleOffset value="64932516" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4031" />
+       <SampleOffset value="79668516" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4032" />
+       <SampleOffset value="89028516" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>tuner_ap_mix1_p2_right</Name>
+   <FileName>tuner_ap_mix1_p2_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="98879396" />
+    <SampleRate value="48000" />
+    <Headroom value="-199" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

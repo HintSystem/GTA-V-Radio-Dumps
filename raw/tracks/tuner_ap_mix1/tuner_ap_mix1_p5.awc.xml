@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>tuner_ap_mix1_p5_left</Name>
+   <FileName>tuner_ap_mix1_p5_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="80704768" />
+    <SampleRate value="48000" />
+    <Headroom value="-201" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4043" />
+       <SampleOffset value="0" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4044" />
+       <SampleOffset value="7006720" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4045" />
+       <SampleOffset value="15454720" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4046" />
+       <SampleOffset value="25006720" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4047" />
+       <SampleOffset value="40078720" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="4048" />
+       <SampleOffset value="53710720" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>tuner_ap_mix1_p5_right</Name>
+   <FileName>tuner_ap_mix1_p5_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="80704768" />
+    <SampleRate value="48000" />
+    <Headroom value="-201" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <ChunkIndices value="True" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>hei4_still_slipping_p4_left</Name>
+   <FileName>hei4_still_slipping_p4_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="22109696" />
+    <SampleRate value="48000" />
+    <Headroom value="-191" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="21064" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2025" />
+       <SampleOffset value="49968" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2026" />
+       <SampleOffset value="136047" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2027" />
+       <SampleOffset value="10786281" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="2028" />
+       <SampleOffset value="16022346" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="64" />
+       <SampleOffset value="17025648" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="0" />
+       <SampleOffset value="19694486" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>hei4_still_slipping_p4_right</Name>
+   <FileName>hei4_still_slipping_p4_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="22109696" />
+    <SampleRate value="48000" />
+    <Headroom value="-191" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>
