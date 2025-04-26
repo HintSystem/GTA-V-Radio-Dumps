@@ -7,7 +7,7 @@ import json
 
 import xml_utils as xml
 from hash_utils import joaat, parse_hash_string, format_hash, HashMap
-from utils import delta_time_ms, ANSI, script_dir, data_dir, out_dir
+from utils import delta_time_ms, save_json, ANSI, script_dir, data_dir, out_dir
 
 dlcname_paths = {'base': ['audio/sfx'], 'dlcbeach': ['dlcpacks/mpbeach'], 'dlcvalentines': ['dlcpacks/mpvalentines'], 'dlcupdate': ['dlcpacks/patchday2bng'], 'dlcbusiness': ['dlcpacks/mpbusiness'], 'dlcbusi2': ['dlcpacks/mpbusiness2'], 'dlcthelab': ['dlcpacks/patchday3ng', 'dlcpacks/mpluxe2'], 'dlchipster': ['dlcpacks/mphipster'], 'dlcindependence': ['dlcpacks/mpindependence'], 'dlcpilotschool': ['dlcpacks/mppilot'], 'dlcmplts': ['dlcpacks/mplts'], 'dlcxmas2': ['dlcpacks/mpchristmas2'], 'dlcmpheist': ['dlcpacks/mpheist'], 'dlcluxe': ['dlcpacks/mpluxe'], 'dlcsfx1': ['dlcpacks/mpreplay'], 'dlclowrider': ['dlcpacks/mplowrider'], 'dlchalloween': ['dlcpacks/mphalloween'], 'dlcapartment': ['dlcpacks/mpapartment'], 'dlcxmas3': ['dlcpacks/mpxmas_604490'], 'dlcjanuary2016': ['dlcpacks/mpjanuary2016'], 'mpvalentines2': ['dlcpacks/mpvalentines2'], 'dlclow2': ['dlcpacks/mplowrider2'], 'dlcexec1': ['dlcpacks/mpexecutive'], 'dlcstunt': ['dlcpacks/mpstunt'], 'dlcbiker': ['dlcpacks/mpbiker'], 'dlcimportexport': ['dlcpacks/mpimportexport'], 'dlcspecialraces': ['dlcpacks/mpspecialraces'], 'dlcgunrunning': ['dlcpacks/mpgunrunning'], 'dlcairraces': ['dlcpacks/mpairraces'], 'dlcsmuggler': ['dlcpacks/mpsmuggler'], 'dlcchristmas2017': ['dlcpacks/mpchristmas2017'], 'dlcassault': ['dlcpacks/mpassault'], 'dlcbattle': ['dlcpacks/mpbattle'], 'dlcawxm2018': ['dlcpacks/mpchristmas2018'], 'dlcvinewood': ['dlcpacks/mpvinewood'], 'dlcheist3': ['dlcpacks/mpheist3'], 'dlcsum20': ['dlcpacks/mpsum'], 'dlchei4': ['dlcpacks/mpheist4'], 'dlctuner': ['dlcpacks/mptuner'], 'dlcsecurity': ['dlcpacks/mpsecurity'], 'dlcg9ec': ['dlcpacks/mpg9ec'], 'dlcmpsum2': ['dlcpacks/mpsum2'], 'dlccm2022': ['dlcpacks/mpchristmas3'], 'dlcmp2023_1': ['dlcpacks/mp2023_01'], 'dlc23_2': ['dlcpacks/mp2023_02'], 'dlc24-1': ['dlcpacks/mp2024_01'], 'dlc24-2': ['dlcpacks/mp2024_02']}
 def full_dlc_path(dlcpath: str):
@@ -58,6 +58,125 @@ def GetStreamingSoundInfo(sounds_index: xml.TypeIndex, sound_id: str, dlcname: s
     print(ANSI(f"Sound path not found: {sound_id}").yellow())
     return {}
 
+speech_full_lookup_hashes = {
+    "DJ_RADIO_01_CLASS_ROCK_TIMEEVENING": "hash_94860776",
+    "DJ_RADIO_03_HIPHOP_NEW_TIMEMORNING": "hash_9D2EBFE7",
+    "DJ_RADIO_03_HIPHOP_NEW_TOTO_NEWS": "hash_BC0D19AE",
+    "DJ_RADIO_16_SILVERLAKE_TOTO_NEWS": "hash_F4B00F49"
+}
+
+speech_context_lookup_hashes = { # some intro speech hashes are calculated incorrectly so we need to correct them temporarily (these are not guaranteed to be correct but do have the right amount of variations and belong to the right container)
+    # RADIO_01_CLASS_ROCK
+    "fortunate_son": "hash_C2B7DAA9",
+    "peace_of_mind": "hash_B5305BDE",
+    # RADIO_02_POP
+    "adult_education": "hash_5E9215DB",
+    "bad_girls": "hash_7197FF12",
+    "circle_in_the_sand": "hash_B3021ACB",
+    "kids": "hash_67DBA112",
+    "me_and_you": "hash_DF70D30D",
+    "tape_loop": "hash_A52104F5",
+    "tape_loop_alt": "hash_A52104F5",
+    "tell_to_my_heart": "hash_9226104B",
+    "the_time_is_now": "hash_4E4B7EC6",
+    "with_every_heartbeat": "hash_740A6C34",
+    "work": "hash_B215308B",
+    # RADIO_03_HIPHOP_NEW
+    "illuminate": "hash_EC3039FB",
+    # RADIO_04_PUNK
+    "lexicon_devil": "hash_73D453B0",
+    # RADIO_09_HIPHOP_OLD
+    "gin_and_juice": "hash_FDEFB15F",
+    "no_more_questions": "hash_F55916E4",
+    "so_you_want_to_be_a_gangster": "hash_228D7ED7",
+    # RADIO_12_REGGAE
+    "grumblin_dub": "hash_6B9A5F84",
+    "nobody_move_get_hurt": "hash_D1165638",
+    # RADIO_15_MOTOWN
+    "hercules": "hash_DD744275",
+    "i_believe_in_miracles": "hash_B33CEB37",
+    # RADIO_16_SILVERLAKE
+    "old_love": "hash_765071BF",
+    # RADIO_17_FUNK
+    # "cant_hold_back": "???" - before it was removed
+    "heart_beat": "hash_B66D01A2",
+    # RADIO_18_90S_ROCK
+    "nine_is_god": "hash_4B5B10F2"
+}
+
+found_speech_context = {}
+def get_speech_context(speech_index: xml.TypeIndex, voice_name: str, context_name: str):
+    if speech_index == None:
+        return {}
+
+    if context_name in speech_context_lookup_hashes:
+        lookup_string = speech_context_lookup_hashes[context_name]
+    elif (voice_name + context_name).upper() in speech_full_lookup_hashes:
+        lookup_string = speech_full_lookup_hashes[(voice_name + context_name).upper()]
+    else:
+        context_name_hash = joaat(context_name)
+        voice_name_hash = joaat(voice_name)
+
+        lookup_hash = context_name_hash
+        if context_name_hash != voice_name_hash:
+            lookup_hash = (context_name_hash ^ voice_name_hash) & 0xFFFFFFFF
+        lookup_string = f"{lookup_hash:08x}"
+
+    el = speech_index.get("ByteArray", lookup_string, True)
+    if el != None:
+        speech_context = xml.SpeechContext(el)
+
+    #DEBUG
+    if not voice_name in found_speech_context:
+        found_speech_context[voice_name] = {"Count": 0, "Variations": 0, "Items": [], "Lost": []}
+
+    if el == None:
+        found_speech_context[voice_name]["Lost"].append([context_name, context_name])
+        return {}
+        
+    found_speech_context[voice_name]["Count"] += 1
+    found_speech_context[voice_name]["Variations"] += speech_context.num_variations
+    found_speech_context[voice_name]["Items"].append([format_hash(joaat(lookup_string)), context_name, voice_name, speech_context.container_index])
+    #DEBUG END
+
+    container_path = None
+    container = speech_index.get("Container", str(speech_context.container_index), True)
+    if container != None:
+        container_path = container.find("ContainerHash").text
+
+    return {
+        "Variations": speech_context.num_variations,
+        "ContainerPath": container_path 
+    }
+
+def GetIntroInfo(speech_index: xml.TypeIndex, radio_name: str, sound_path: str):
+    if not sound_path:
+        return {}
+    return get_speech_context(speech_index, f"DJ_{radio_name}_INTRO", Path(sound_path).name)
+
+def GetStationSpeechInfo(speech_index: xml.TypeIndex, radio_name: str):
+    speech_categories = {"GENERAL": [], "TAKEOVER_GENERAL": [], "DD_GENERAL": [], "PL_GENERAL": [],
+                         "TIME": ["MORNING", "AFTERNOON", "EVENING", "NIGHT"],
+                         "TO": ["TO_AD", "TO_NEWS", "TO_WEATHER"]}
+    speech_info = {}
+    for category, context_list in speech_categories.items():
+        voice_name = f"DJ_{radio_name}_{category}"
+
+        for context_name in context_list or [category]:
+            speech_context_info = get_speech_context(speech_index, voice_name, context_name)
+            if not speech_context_info:
+                continue
+
+            if len(context_list) == 0:
+                speech_info[category] = speech_context_info
+            else:
+                if category not in speech_info:
+                    speech_info[category] = {}
+                speech_info[category][context_name] = speech_context_info
+
+    return speech_info
+
+
 trackinfo_path = data_dir / "tracks"
 def GetAwcMarkers(tracklist_id: str, track_path: str):
     if not track_path:
@@ -74,7 +193,7 @@ def GetAwcMarkers(tracklist_id: str, track_path: str):
     return
 
 def GetRelMarkers(type_index: xml.TypeIndex, track_id: str):
-    id_is_hash = parse_hash_string(track_id) # check if trackName is a hash string
+    id_is_hash = parse_hash_string(track_id) # check if track_id is a hash string
     if id_is_hash: # that means the rtt and rtb will also be a hash string instead
         rtt_id = format_hash(joaat(f"rtt_{id_is_hash:08x}"))
         rtb_id = format_hash(joaat(f"rtb_{id_is_hash:08x}"))
@@ -98,28 +217,43 @@ def filter_dict(dict: dict[str, any], keep_filter: set[str]):
     return {k: v for k, v in dict.items() if k in keep_filter}
 
 def dlc_file(dlcname, filename):
-    if dlcname == "base" or dlcname == "game":
-        dlcname = ""
-    if dlcname:
-        dlcname += "_"
+    dlcprefix = "" if dlcname == "base" else f"{dlcname}_"
+    return dlcprefix + filename
 
-    return dlcname + filename
+def try_load_data(dlcname: str, data_path: Path, filename: str, saved_types: list[str]):
+    nametable = HashMap()
+    if filename == "speech.dat4.rel.xml" and dlcname == "base":
+        nametable.load_nametable(data_path / "speech.dat4.nametable")
+
+    file_path = data_path / dlc_file(dlcname, filename)
+    if not file_path.is_file():
+        return None, file_path
+    
+    root = etree.parse(file_path).getroot().find("Items")
+    return xml.TypeIndex(root, saved_types, nametable), file_path
 
 def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_path: Path = data_dir, out_path: Path = out_dir):
-    game_path = data_path / dlc_file(dlcname, "game.dat151.rel.xml")
-    if not game_path.is_file():
+    game_index, game_path = try_load_data(
+        dlcname, data_path, "game.dat151.rel.xml",
+        ["RadioTrackTextIDs", "RadioStationTrackList", "RadioStationSettings"]
+    )
+    if game_index == None:
         print(ANSI(f"Game data file '{game_path.name}' does not exist, export cancelled").yellow())
         return False
-    game_root = etree.parse(game_path).getroot().find("Items")
-    game_index = xml.TypeIndex(game_root, ["RadioTrackTextIDs", "RadioStationTrackList", "RadioStationSettings"])
-
-
-    sound_path = data_path / dlc_file(dlcname, "sounds.dat54.rel.xml")
-    if not sound_path.is_file():
+    
+    sound_index, sound_path = try_load_data(
+        dlcname, data_path, "sounds.dat54.rel.xml",
+        ["StreamingSound", "SimpleSound"]
+    )
+    if sound_index == None:
         print(ANSI(f"Sound data file '{sound_path.name}' does not exist, sound path and duration will not be loaded").red())
-    else:
-        sound_root = etree.parse(sound_path).getroot().find("Items")
-        sound_index = xml.TypeIndex(sound_root, ["StreamingSound", "SimpleSound"])
+
+    speech_index, speech_path = try_load_data(
+        dlcname, data_path, "speech.dat4.rel.xml",
+        ["ByteArray", "Hash", "Container"]
+    )
+    if speech_index == None:
+        print(ANSI(f"Speech data file '{speech_path.name}' does not exist, dj speeches will not be loaded").red())
 
 
     nametables = HashMap()
@@ -130,10 +264,10 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
     export_track_info = {"Stations": {}, "TrackLists": {}}
     unique_track_lists = []
 
-    for station_name in station_list:
+    for station_id in station_list:
         station_time_start = perf_counter()
 
-        station_el: _Element = game_index.get("RadioStationSettings", station_name, True)
+        station_el: _Element = game_index.get("RadioStationSettings", station_id, True)
         if station_el == None:
             continue
 
@@ -142,13 +276,19 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
         for track_list in track_list_items:
             station_track_lists.append(nametables.resolve_string(track_list.text))
             if track_list.text not in unique_track_lists:
-                unique_track_lists.append(track_list.text)
+                unique_track_lists.append((track_list.text, station_id))
         
         station_info = filter_dict(xml.to_dict(station_el, 1), {"Flags", "RadioName", "Genre", "AmbientRadioVol"})
-        station_info["TrackLists"] = station_track_lists
-        export_track_info["Stations"][station_name] = station_info
 
-        print(f"[{delta_time_ms(station_time_start)}ms] Processed station '{station_name}' with {len(station_track_lists)} track lists")
+        station_info["TrackLists"] = station_track_lists
+
+        speech_info = GetStationSpeechInfo(speech_index, station_info["RadioName"] or station_id)
+        if speech_info:
+            station_info["Speech"] = speech_info
+
+        export_track_info["Stations"][station_id] = station_info
+
+        print(f"[{delta_time_ms(station_time_start)}ms] Processed station '{station_id}' with {len(station_track_lists)} track lists")
 
     print(f"\n[{delta_time_ms(time_start)}ms] Processed all stations for '{dlcname}'")
     time_start = perf_counter()
@@ -157,7 +297,7 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
         print(ANSI(f"No stations exist for '{dlcname}', export cancelled").red())
         return False
 
-    for tracklist_id in unique_track_lists:
+    for tracklist_id, station_id in unique_track_lists:
         tracklist_el = game_index.get("RadioStationTrackList", tracklist_id)
         if tracklist_el == None:
             continue
@@ -167,20 +307,27 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
 
         collected_tracks = []
         for track in tracklist_el.xpath("./Tracks/Item/SoundRef"):
-            id_fix = track.text
-            id_resolved = nametables.resolve_string(track.text)
+            track_id: str = track.text
+            track_id_marker = track_id
+            track_id_resolved = nametables.resolve_string(track_id)
 
-            prefix = "hei4_radio_kult_" # fix for kult fm caused by unique bank layout
-            if id_fix.startswith(prefix):
-                id_fix = "dlc_hei4_music_" + id_fix[len(prefix):]
+            KULT_PREFIX  = "hei4_radio_kult_" # Special handling for Kult FM due to unique bank layout
+            if track_id_marker.startswith(KULT_PREFIX):
+                track_id_marker = "dlc_hei4_music_" + track_id_marker[len(KULT_PREFIX):]
 
-            track_info = {"Id": id_resolved} | GetStreamingSoundInfo(sound_index, track.text, dlcname, tracklist_id)
+            track_info = {"Id": track_id_resolved} | GetStreamingSoundInfo(sound_index, track_id, dlcname, tracklist_id)
             
             markers = None
             if tracklist_info["Category"] == "2":
                 markers = GetAwcMarkers(tracklist_id, track_info.get("Path"))
+                
+                radio_name = export_track_info['Stations'][station_id].get("RadioName") or station_id
+                intro_info = GetIntroInfo(speech_index, radio_name, track_info.get("Path"))
+                if intro_info:
+                    track_info["Intro"] = intro_info
+
             if not markers:
-                markers = GetRelMarkers(game_index, id_fix)
+                markers = GetRelMarkers(game_index, track_id_marker)
 
             if markers:
                 track_info["Markers"] = markers
@@ -191,9 +338,7 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
         export_track_info["TrackLists"][tracklist_id] = tracklist_info
 
     print(f"[{delta_time_ms(time_start)}ms] Processed all track lists for '{dlcname}'")
-
-    with open(out_path / f"{dlcname}_info.json", "w", encoding="utf-8") as f:
-        json.dump(export_track_info, f, indent=2, ensure_ascii=False)
+    save_json(out_path / f"{dlcname}_info.json", export_track_info)
 
     return True
 
@@ -234,6 +379,13 @@ def merge_exports(dlc_names: list[str] = None):
                         if track not in merged_station[property]:
                             merged_station[property].append(track)
                     continue
+
+                if property == "Speech":
+                    for category_name, category in value.items():
+                        if category_name in merged_station[property]:
+                            conflicts.append((["Stations", station_id, property, category_name], path.name))
+                        merged_station[property][category_name] = category
+                    continue
                 
                 if merged_station[property] != value:
                     merged_station[property] = value
@@ -252,10 +404,9 @@ def merge_exports(dlc_names: list[str] = None):
 
             conflicts.append((["Stations", tracklist_id], path.name))
 
-    with open(merged_out_path, "w", encoding="utf-8") as f:
-        json.dump(merged_data, f, indent=2, ensure_ascii=False)
-
     print(ANSI(f"Merged processed files into '{ANSI(merged_out_path.name).bold()}'").green())
+    save_json(merged_out_path, merged_data)
+
     if conflicts:
         print(ANSI(f"\n{len(conflicts)} conflict(s) detected during merge").red())
         for section, source in conflicts:

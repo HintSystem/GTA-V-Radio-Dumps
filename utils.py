@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 from time import perf_counter
 
@@ -7,6 +8,10 @@ out_dir = script_dir / "processed"
 
 def delta_time_ms(start: float):
     return round((perf_counter() - start)*1000, 3)
+    
+def save_json(file_path: Path | str, object: object):
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(object, f, indent=2, ensure_ascii=False)
     
 class ANSI:
     BOLD = "\033[1m"

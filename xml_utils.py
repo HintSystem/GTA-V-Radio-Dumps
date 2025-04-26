@@ -1,11 +1,12 @@
 import math
+import struct
 from lxml.etree import _Element
 from time import perf_counter
 
-from hash_utils import joaat, format_hash, get_trackid_table
+from hash_utils import joaat, format_hash, get_trackid_table, HashMap
 
 class TypeIndex:
-    def __init__(self, xml_root: _Element, valid_types: list[str]):
+    def __init__(self, xml_root: _Element, valid_types: list[str], nametable: HashMap = None):
         if len(valid_types) == 0:
             raise ValueError("valid_types cannot be empty")
 
@@ -15,8 +16,11 @@ class TypeIndex:
         for type_name in valid_types:
             for item in xml_root.xpath(f".//Item[@type='{type_name}']"):
                 name_elem = item.find("Name")
-                if name_elem is not None and name_elem.text:
-                    self.index[type_name][name_elem.text] = item
+                elem_id = name_elem.text
+                if name_elem is not None and elem_id:
+                    if nametable and not nametable.is_empty:
+                        elem_id = nametable.resolve_string(elem_id)
+                    self.index[type_name][elem_id] = item
 
         print(f"Building xml index took {round((perf_counter() - start_time) * 1000, 3)}ms")
 
@@ -62,6 +66,7 @@ def to_dict(elem: _Element, depth_limit = 0, depth = 0):
     return d
 
 def resolve_marker_trackid(marker: dict[str, any], text_id: str):
+    marker["Id"] = int(text_id)
     marker["Title"] = get_trackid_table().resolve(joaat(text_id + "S"))
     marker["Artist"] = get_trackid_table().resolve(joaat(text_id + "A"))
 
@@ -133,3 +138,20 @@ def marker_dict_xml(markers_container: _Element, isTrackType = False):
         prev_marker = new_marker
 
     return result
+
+class SpeechContext:
+    container_index = None
+
+    def __init__(self, el: _Element):
+        data = bytes.fromhex(el.find("RawData").text)
+        self.num_variations = struct.unpack("B", data[0:1])[0]
+
+        if len(data) >= 3:
+            self.container_index = struct.unpack("<H", data[1:3])[0]
+
+class VariationGroup:
+    def __init__(self, el: _Element):
+        data = bytes.fromhex(el.find("RawData").text)
+        self.num_variations = struct.unpack("B", data[0:1])[0]
+        self.variations = list(data[1 : 1 + self.num_variations])
+        print(self.variations)

@@ -82,12 +82,14 @@ class gxt2_binary:
 class HashMap:
     def __init__(self):
         self.map: dict[int, str] = {}
+        self.is_empty = True
 
     def load_hashmap(self, hash_map: dict[int, str]):
         for k, v in hash_map.items():
             if k in self.map and self.map[k] != v:
                 print(ANSI(f"⚠️ Hashmap conflict '{k}': '{self.map[k]}' != '{v}'").yellow())
             self.map[k] = v
+            self.is_empty = False
         return self
 
     def load_nametable(self, file_path: Path | str):
