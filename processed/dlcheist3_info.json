@@ -17,11 +17,11 @@
         "TIME": {
           "MORNING": {
             "Variations": 4,
-            "ContainerPath": "dlc_heist3/time"
+            "ContainerPath": "update/%PLATFORM%/dlcpacks/mpheist3/dlc_heist3/time"
           },
           "EVENING": {
             "Variations": 3,
-            "ContainerPath": "dlc_heist3/time"
+            "ContainerPath": "update/%PLATFORM%/dlcpacks/mpheist3/dlc_heist3/time"
           }
         }
       }

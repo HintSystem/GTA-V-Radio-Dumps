@@ -16,6 +16,11 @@ def full_dlc_path(dlcpath: str):
         return f"update/%PLATFORM%/{dlcpath.as_posix()}"
     return f"%PLATFORM%/{dlcpath.as_posix()}"
 
+def resolve_dlc_path(dlcname: str, file_path: str):
+    if dlcname not in dlcname_paths:
+        return file_path
+    return f"{full_dlc_path(dlcname_paths[dlcname][0])}/{file_path}"
+
 solved_sounds: dict[str, str] = {}
 def GetStreamingSoundInfo(sounds_index: xml.TypeIndex, sound_id: str, dlcname: str, tracklist_id: str):
     if sounds_index == None:
@@ -154,7 +159,7 @@ def GetIntroInfo(speech_index: xml.TypeIndex, radio_name: str, sound_path: str):
         return {}
     return get_speech_context(speech_index, f"DJ_{radio_name}_INTRO", Path(sound_path).name)
 
-def GetStationSpeechInfo(speech_index: xml.TypeIndex, radio_name: str):
+def GetStationSpeechInfo(speech_index: xml.TypeIndex, radio_name: str, dlcname: str = None):
     speech_categories = {"GENERAL": [], "TAKEOVER_GENERAL": [], "DD_GENERAL": [], "PL_GENERAL": [],
                          "TIME": ["MORNING", "AFTERNOON", "EVENING", "NIGHT"],
                          "TO": ["TO_AD", "TO_NEWS", "TO_WEATHER"]}
@@ -166,6 +171,9 @@ def GetStationSpeechInfo(speech_index: xml.TypeIndex, radio_name: str):
             speech_context_info = get_speech_context(speech_index, voice_name, context_name)
             if not speech_context_info:
                 continue
+
+            if dlcname and "ContainerPath" in speech_context_info:
+                speech_context_info["ContainerPath"] = resolve_dlc_path(dlcname, speech_context_info["ContainerPath"])
 
             if len(context_list) == 0:
                 speech_info[category] = speech_context_info
@@ -282,7 +290,7 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
 
         station_info["TrackLists"] = station_track_lists
 
-        speech_info = GetStationSpeechInfo(speech_index, station_info["RadioName"] or station_id)
+        speech_info = GetStationSpeechInfo(speech_index, station_info["RadioName"] or station_id, dlcname)
         if speech_info:
             station_info["Speech"] = speech_info
 

@@ -15,26 +15,26 @@
       "Speech": {
         "GENERAL": {
           "Variations": 43,
-          "ContainerPath": "radio_01_class_rock/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_01_class_rock/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 7,
-            "ContainerPath": "radio_01_class_rock/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_01_class_rock/time"
           },
           "EVENING": {
             "Variations": 6,
-            "ContainerPath": "radio_01_class_rock/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_01_class_rock/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 7,
-            "ContainerPath": "radio_01_class_rock/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_01_class_rock/to"
           },
           "TO_NEWS": {
             "Variations": 6,
-            "ContainerPath": "radio_01_class_rock/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_01_class_rock/to"
           }
         }
       }
@@ -54,26 +54,26 @@
       "Speech": {
         "GENERAL": {
           "Variations": 46,
-          "ContainerPath": "radio_02_pop/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_02_pop/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 6,
-            "ContainerPath": "radio_02_pop/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_02_pop/time"
           },
           "EVENING": {
             "Variations": 6,
-            "ContainerPath": "radio_02_pop/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_02_pop/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 6,
-            "ContainerPath": "radio_02_pop/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_02_pop/to"
           },
           "TO_NEWS": {
             "Variations": 6,
-            "ContainerPath": "radio_02_pop/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_02_pop/to"
           }
         }
       }
@@ -92,26 +92,26 @@
       "Speech": {
         "GENERAL": {
           "Variations": 45,
-          "ContainerPath": "radio_03_hiphop_new/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_03_hiphop_new/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 5,
-            "ContainerPath": "radio_03_hiphop_new/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_03_hiphop_new/time"
           },
           "EVENING": {
             "Variations": 6,
-            "ContainerPath": "radio_03_hiphop_new/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_03_hiphop_new/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 6,
-            "ContainerPath": "radio_03_hiphop_new/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_03_hiphop_new/to"
           },
           "TO_NEWS": {
             "Variations": 6,
-            "ContainerPath": "radio_03_hiphop_new/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_03_hiphop_new/to"
           }
         }
       }
@@ -131,26 +131,26 @@
       "Speech": {
         "GENERAL": {
           "Variations": 13,
-          "ContainerPath": "radio_04_punk/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_04_punk/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 4,
-            "ContainerPath": "radio_04_punk/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_04_punk/time"
           },
           "EVENING": {
             "Variations": 3,
-            "ContainerPath": "radio_04_punk/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_04_punk/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 5,
-            "ContainerPath": "radio_04_punk/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_04_punk/to"
           },
           "TO_NEWS": {
             "Variations": 4,
-            "ContainerPath": "radio_04_punk/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_04_punk/to"
           }
         }
       }
@@ -181,26 +181,26 @@
       "Speech": {
         "GENERAL": {
           "Variations": 23,
-          "ContainerPath": "radio_06_country/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_06_country/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 4,
-            "ContainerPath": "radio_06_country/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_06_country/time"
           },
           "EVENING": {
             "Variations": 4,
-            "ContainerPath": "radio_06_country/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_06_country/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 4,
-            "ContainerPath": "radio_06_country/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_06_country/to"
           },
           "TO_NEWS": {
             "Variations": 4,
-            "ContainerPath": "radio_06_country/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_06_country/to"
           }
         }
       }
@@ -237,26 +237,26 @@
       "Speech": {
         "GENERAL": {
           "Variations": 50,
-          "ContainerPath": "radio_09_hiphop_old/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_09_hiphop_old/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 8,
-            "ContainerPath": "radio_09_hiphop_old/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_09_hiphop_old/time"
           },
           "EVENING": {
             "Variations": 7,
-            "ContainerPath": "radio_09_hiphop_old/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_09_hiphop_old/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 7,
-            "ContainerPath": "radio_09_hiphop_old/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_09_hiphop_old/to"
           },
           "TO_NEWS": {
             "Variations": 6,
-            "ContainerPath": "radio_09_hiphop_old/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_09_hiphop_old/to"
           }
         }
       }
@@ -287,26 +287,26 @@
       "Speech": {
         "GENERAL": {
           "Variations": 36,
-          "ContainerPath": "radio_12_reggae/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_12_reggae/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 5,
-            "ContainerPath": "radio_12_reggae/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_12_reggae/time"
           },
           "EVENING": {
             "Variations": 3,
-            "ContainerPath": "radio_12_reggae/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_12_reggae/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 5,
-            "ContainerPath": "radio_12_reggae/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_12_reggae/to"
           },
           "TO_NEWS": {
             "Variations": 4,
-            "ContainerPath": "radio_12_reggae/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_12_reggae/to"
           }
         }
       }
@@ -344,22 +344,22 @@
       "Speech": {
         "GENERAL": {
           "Variations": 36,
-          "ContainerPath": "radio_15_motown/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_15_motown/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 6,
-            "ContainerPath": "radio_15_motown/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_15_motown/time"
           },
           "EVENING": {
             "Variations": 5,
-            "ContainerPath": "radio_15_motown/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_15_motown/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 5,
-            "ContainerPath": "radio_15_motown/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_15_motown/to"
           }
         }
       }
@@ -380,26 +380,26 @@
       "Speech": {
         "GENERAL": {
           "Variations": 29,
-          "ContainerPath": "radio_16_silverlake/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_16_silverlake/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 4,
-            "ContainerPath": "radio_16_silverlake/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_16_silverlake/time"
           },
           "EVENING": {
             "Variations": 4,
-            "ContainerPath": "radio_16_silverlake/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_16_silverlake/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 5,
-            "ContainerPath": "radio_16_silverlake/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_16_silverlake/to"
           },
           "TO_NEWS": {
             "Variations": 4,
-            "ContainerPath": "radio_16_silverlake/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_16_silverlake/to"
           }
         }
       }
@@ -419,26 +419,26 @@
       "Speech": {
         "GENERAL": {
           "Variations": 27,
-          "ContainerPath": "radio_17_funk/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_17_funk/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 4,
-            "ContainerPath": "radio_17_funk/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_17_funk/time"
           },
           "EVENING": {
             "Variations": 4,
-            "ContainerPath": "radio_17_funk/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_17_funk/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 5,
-            "ContainerPath": "radio_17_funk/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_17_funk/to"
           },
           "TO_NEWS": {
             "Variations": 5,
-            "ContainerPath": "radio_17_funk/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_17_funk/to"
           }
         }
       }
@@ -458,26 +458,26 @@
       "Speech": {
         "GENERAL": {
           "Variations": 48,
-          "ContainerPath": "radio_18_90s_rock/general"
+          "ContainerPath": "%PLATFORM%/audio/sfx/radio_18_90s_rock/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 5,
-            "ContainerPath": "radio_18_90s_rock/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_18_90s_rock/time"
           },
           "EVENING": {
             "Variations": 5,
-            "ContainerPath": "radio_18_90s_rock/time"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_18_90s_rock/time"
           }
         },
         "TO": {
           "TO_AD": {
             "Variations": 5,
-            "ContainerPath": "radio_18_90s_rock/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_18_90s_rock/to"
           },
           "TO_NEWS": {
             "Variations": 3,
-            "ContainerPath": "radio_18_90s_rock/to"
+            "ContainerPath": "%PLATFORM%/audio/sfx/radio_18_90s_rock/to"
           }
         }
       }

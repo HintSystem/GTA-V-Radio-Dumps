@@ -81,6 +81,9 @@ def marker_dict_awc(markers_container: _Element, stream_info: dict):
         if "Name" not in marker: # some awc xml files have missing values? (hei4_mlr_mm_p3)
             continue
 
+        if "Value" not in marker: # some awc xml files have missing values? (flylo_part2)
+            continue
+
         match marker["Name"]:
             case "trackid":
                 marker_type = "Track"
@@ -92,9 +95,6 @@ def marker_dict_awc(markers_container: _Element, stream_info: dict):
                 marker_type = "DJ"
             case _:
                 continue
-
-        if "Value" not in marker: # some awc xml files have missing values? (flylo_part2)
-            continue
 
         new_marker = {}
         new_marker["Offset"] = math.floor((float(marker["SampleOffset"]) * 1000) / sample_rate)

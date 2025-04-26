@@ -41,16 +41,16 @@
       "Speech": {
         "GENERAL": {
           "Variations": 11,
-          "ContainerPath": "dlc_hei4/general"
+          "ContainerPath": "update/%PLATFORM%/dlcpacks/mpheist4/dlc_hei4/general"
         },
         "TIME": {
           "MORNING": {
             "Variations": 4,
-            "ContainerPath": "dlc_hei4/time"
+            "ContainerPath": "update/%PLATFORM%/dlcpacks/mpheist4/dlc_hei4/time"
           },
           "EVENING": {
             "Variations": 4,
-            "ContainerPath": "dlc_hei4/time"
+            "ContainerPath": "update/%PLATFORM%/dlcpacks/mpheist4/dlc_hei4/time"
           }
         }
       }

@@ -14,11 +14,11 @@
       "Speech": {
         "DD_GENERAL": {
           "Variations": 38,
-          "ContainerPath": "dlc_security_music/hiphop_new_dd_general"
+          "ContainerPath": "update/%PLATFORM%/dlcpacks/mpsecurity/dlc_security_music/hiphop_new_dd_general"
         },
         "PL_GENERAL": {
           "Variations": 79,
-          "ContainerPath": "dlc_security_music/hiphop_new_pl_general"
+          "ContainerPath": "update/%PLATFORM%/dlcpacks/mpsecurity/dlc_security_music/hiphop_new_pl_general"
         }
       }
     },
@@ -37,7 +37,7 @@
       "Speech": {
         "PL_GENERAL": {
           "Variations": 60,
-          "ContainerPath": "dlc_security_music/pl_general"
+          "ContainerPath": "update/%PLATFORM%/dlcpacks/mpsecurity/dlc_security_music/pl_general"
         }
       }
     },
@@ -66,7 +66,7 @@
       "Speech": {
         "GENERAL": {
           "Variations": 11,
-          "ContainerPath": "dlc_security_music/motomami_general"
+          "ContainerPath": "update/%PLATFORM%/dlcpacks/mpsecurity/dlc_security_music/motomami_general"
         }
       }
     }
