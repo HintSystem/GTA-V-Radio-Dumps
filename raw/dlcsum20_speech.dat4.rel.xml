@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat4>
+ <Version value="29825671" />
+ <ContainerPaths>
+  <Item>DLC_SUM20\STRENGTH_TEST</Item>
+  <Item>DLC_SUM20\YACHTCAPTAIN</Item>
+  <Item>DLC_SUM20\CCYC</Item>
+ </ContainerPaths>
+ <Items>
+  <Item type="ByteArray">
+   <Name>7a2f143f</Name>
+   <RawData>0A 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ad7926d6</Name>
+   <RawData>0A 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f5d5e8c4</Name>
+   <RawData>05 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e2c7ddda</Name>
+   <RawData>01 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>378030d4</Name>
+   <RawData>01 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6d6f0535</Name>
+   <RawData>03 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a22f6bfd</Name>
+   <RawData>03 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>bb6f8b1a</Name>
+   <RawData>03 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b7f8a224</Name>
+   <RawData>03 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>25430dc</Name>
+   <RawData>03 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4bf6720f</Name>
+   <RawData>03 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>52202944</Name>
+   <RawData>05 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>39f79e6d</Name>
+   <RawData>05 00 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>bc262b40</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e731cd87</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a51403cc</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>aaad0394</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4fb22ba7</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7a7b07d7</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7f477384</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d9d51cc2</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a1716af4</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9b4b718f</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>5b1a00cf</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>cdcc0f05</Name>
+   <RawData>03 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>57d42f6c</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>37cfb60c</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>311e7972</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6f66a98c</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3a0475ac</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>78adff8d</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e231cb6f</Name>
+   <RawData>02 01 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>56a10578</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>66aba577</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>717a4813</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8fbe739b</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>81e4970e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d074549d</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6ff85d73</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7d92f9ce</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9af2a78e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>29b7c20b</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a32cdafa</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>81c70548</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>90f9a797</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7f2842f2</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8e816012</Name>
+   <RawData>03 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1f179806</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>30fbfca3</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3dbdc32f</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6fc4265a</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e9fe2ab4</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e187170</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e03dd5bd</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6e0db15a</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>34316bdb</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>2784cc80</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>5b9ee26a</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>915c73d6</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>233568ae</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7d86456e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>267942d</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f5c46ddb</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c7f4823d</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8183b662</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>72d9ebf6</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>bc9d706c</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>af6a3295</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>95910dfb</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c913e76f</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>18e31809</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4a477cde</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3d0cdf43</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>673ca3a3</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>5987065e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a4719905</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>11206f62</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3b863236</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>683b43c1</Name>
+   <RawData>04 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9f78ea80</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>dda81606</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f5b24633</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a6f304b1</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b52aa00e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>37f922c7</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1e54708</Name>
+   <RawData>05 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3e1a2ab0</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1d35150e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>92c7a641</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>213ec21a</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7bb5f525</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a0bb4317</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b188e0a8</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4de1a5e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>12be271e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6c9aaad6</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>fb427546</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>dfc64838</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>2d0f95aa</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>51c0b5d0</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>946d810f</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8f270d87</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>18e4d1fb</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f5192f25</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1f4ef297</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d0b2687f</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ae5d6a86</Name>
+   <RawData>05 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>74489717</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b3aee0a9</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a4d4461a</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>5bf297fd</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6341b893</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8c6fced4</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d6881208</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ab2e8952</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ba780ab2</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>cb25a92f</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>49fd53bb</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6c9e6e05</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>48e9a8dc</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3ebc8582</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>86934b6f</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>eae4183c</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>fcadbca1</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f5c1359e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e9116f3e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>36530cbb</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>57daefbc</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>54f236f0</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>553cb487</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d79f9a3a</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7a7e94e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7ba047d6</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>898ee38d</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4f47f016</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9ce51d50</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>274608a</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>25b7fbcf</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>619221da</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>18551467</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1a7e6891</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>45e15f07</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d0262e66</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c1e68ad9</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>672b7e2e</Name>
+   <RawData>04 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f6663a5</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e1b4c738</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>10e2b89c</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>da764d7c</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8520d30d</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6b946df1</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>db8a6cf6</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3f8087aa</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>569765e9</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>45504063</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4478b4df</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9f2ca744</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8c8b03fb</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>28f2cbeb</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d15e57ed</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>29a34794</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>17942371</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>42218e8b</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>30146a7e</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7d11584a</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d29cb540</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ad48a79b</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1a3be055</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>80bffb5f</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>653eb258</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>51eb22c6</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8bdf16af</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3578fbdb</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>cb6a97ad</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b1e07455</Name>
+   <RawData>03 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c3276bbe</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>47846266</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>144200f5</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>2680a468</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f83ed9cc</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>bf3763e1</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8e640542</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>80b938cc</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>53f3da5b</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>643df1d7</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7bb5eae3</Name>
+   <RawData>01 02 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>strength_test</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>yachtcaptain</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="Container" ntOffset="1693">
+   <Name>0</Name>
+   <ContainerHash>dlc_sum20/strength_test</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="1695">
+   <Name>1</Name>
+   <ContainerHash>dlc_sum20/yachtcaptain</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="1697">
+   <Name>2</Name>
+   <ContainerHash>dlc_sum20/ccyc</ContainerHash>
+  </Item>
+ </Items>
+</Dat4>
