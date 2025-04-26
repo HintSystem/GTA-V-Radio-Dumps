@@ -10,7 +10,17 @@
         "radio_03_hiphop_new_dd_djsolo_post_launch",
         "radio_03_hiphop_new_dd_music_launch",
         "radio_03_hiphop_new_dd_music_post_launch"
-      ]
+      ],
+      "Speech": {
+        "DD_GENERAL": {
+          "Variations": 38,
+          "ContainerPath": "dlc_security_music/hiphop_new_dd_general"
+        },
+        "PL_GENERAL": {
+          "Variations": 79,
+          "ContainerPath": "dlc_security_music/hiphop_new_pl_general"
+        }
+      }
     },
     "radio_09_hiphop_old": {
       "Flags": "0xAA800A66",
@@ -23,7 +33,13 @@
         "radio_09_hiphop_old_dd_djsolo_launch",
         "radio_09_hiphop_old_dd_music_post_launch",
         "radio_09_hiphop_old_dd_music_launch"
-      ]
+      ],
+      "Speech": {
+        "PL_GENERAL": {
+          "Variations": 60,
+          "ContainerPath": "dlc_security_music/pl_general"
+        }
+      }
     },
     "radio_36_audioplayer": {
       "Flags": "0xAA9009AA",
@@ -46,7 +62,13 @@
         "radio_37_motomami_music_ordered",
         "radio_37_motomami_idents_ident",
         "radio_37_motomami_djsolo_djsolo"
-      ]
+      ],
+      "Speech": {
+        "GENERAL": {
+          "Variations": 11,
+          "ContainerPath": "dlc_security_music/motomami_general"
+        }
+      }
     }
   },
   "TrackLists": {
@@ -290,10 +312,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_the_box",
           "Path": "dlc_security_music/the_box",
           "Duration": 196652,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4102,
                 "Title": "The Box",
                 "Artist": "RODDY RICCH"
               }
@@ -390,10 +417,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_big_fish",
           "Path": "dlc_security_music/big_fish",
           "Duration": 195128,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4090,
                 "Title": "Big Fish",
                 "Artist": "VINCE STAPLES FEAT. JUICY J"
               }
@@ -422,10 +454,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_kung_fu",
           "Path": "dlc_security_music/kung_fu",
           "Duration": 201024,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4095,
                 "Title": "Kung Fu",
                 "Artist": "CORDAE"
               }
@@ -454,10 +491,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_what_a_life",
           "Path": "dlc_security_music/what_a_life",
           "Duration": 177112,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4112,
                 "Title": "What A Life",
                 "Artist": "BIG SEAN & HIT-BOY"
               }
@@ -486,10 +528,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_chrome_hearts",
           "Path": "dlc_security_music/chrome_hearts",
           "Duration": 247333,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4149,
                 "Title": "Chrome Hearts",
                 "Artist": "D-BLOCK EUROPE FEAT. OFFSET"
               }
@@ -518,10 +565,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_stir_fry",
           "Path": "dlc_security_music/stir_fry",
           "Duration": 191971,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4110,
                 "Title": "Stir Fry",
                 "Artist": "MIGOS"
               }
@@ -542,10 +594,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_go_live",
           "Path": "dlc_security_music/go_live",
           "Duration": 288711,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4150,
                 "Title": "Go Live",
                 "Artist": "FREDO SANTANA FEAT. CHIEF KEEF, BALL OUT & TADOE"
               }
@@ -646,10 +703,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_wow_freestyle",
           "Path": "dlc_security_music/wow_freestyle",
           "Duration": 173966,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4103,
                 "Title": "Wow Freestyle",
                 "Artist": "JAY ROCK FEAT. KENDRICK LAMAR"
               }
@@ -678,10 +740,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_lockjaw",
           "Path": "dlc_security_music/lockjaw",
           "Duration": 221599,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4098,
                 "Title": "Lockjaw",
                 "Artist": "FRENCH MONTANA FEAT. KODAK BLACK"
               }
@@ -710,10 +777,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_zeze",
           "Path": "dlc_security_music/zeze",
           "Duration": 226829,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4104,
                 "Title": "ZEZE",
                 "Artist": "KODAK BLACK FEAT. TRAVIS SCOTT & OFFSET"
               }
@@ -742,10 +814,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_low_life",
           "Path": "dlc_security_music/low_life",
           "Duration": 312433,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4111,
                 "Title": "Low Life",
                 "Artist": "FUTURE FEAT. THE WEEKND"
               }
@@ -774,10 +851,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_my_type",
           "Path": "dlc_security_music/my_type",
           "Duration": 125852,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4099,
                 "Title": "My Type",
                 "Artist": "SAWEETIE"
               }
@@ -806,10 +888,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_flex",
           "Path": "dlc_security_music/flex",
           "Duration": 164414,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4151,
                 "Title": "Flex",
                 "Artist": "POLO G FEAT. JUICE WRLD"
               }
@@ -838,10 +925,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_a_vibe",
           "Path": "dlc_security_music/a_vibe",
           "Duration": 209142,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4089,
                 "Title": "It's A Vibe",
                 "Artist": "2 CHAINZ FEAT. TY DOLLA $IGN, TREY SONGZ, JHENÉ AIKO"
               }
@@ -870,10 +962,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_plain_jane",
           "Path": "dlc_security_music/plain_jane",
           "Duration": 171874,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4100,
                 "Title": "Plain Jane",
                 "Artist": "A$AP FERG"
               }
@@ -902,10 +999,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_feed_dope",
           "Path": "dlc_security_music/feed_dope",
           "Duration": 163677,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4092,
                 "Title": "Feed Me Dope",
                 "Artist": "FUTURE"
               }
@@ -934,10 +1036,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_ski",
           "Path": "dlc_security_music/ski",
           "Duration": 150743,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4101,
                 "Title": "Ski",
                 "Artist": "YOUNG STONER LIFE, YOUNG THUG & GUNNA"
               }
@@ -966,10 +1073,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_lemonhead",
           "Path": "dlc_security_music/lemonhead",
           "Duration": 131560,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4097,
                 "Title": "LEMONHEAD",
                 "Artist": "TYLER, THE CREATOR FEAT. 42 DUGG"
               }
@@ -998,10 +1110,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_big_subwoofer",
           "Path": "dlc_security_music/big_subwoofer",
           "Duration": 241028,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4091,
                 "Title": "Big Subwoofer",
                 "Artist": "MOUNT WESTMORE"
               }
@@ -1030,10 +1147,15 @@
           "Id": "dlc_security_music_radio_ap_dscvrbl_mix_2_schoolboy_lets_get_it",
           "Path": "dlc_security_music/schoolboy_lets_get_it",
           "Duration": 162405,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4131,
                 "Title": "Let's Get It",
                 "Artist": "SCHOOLBOY Q"
               }
@@ -1044,10 +1166,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_pick_the_phone_up",
           "Path": "dlc_security_music/pick_the_phone_up",
           "Duration": 195998,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4166,
                 "Title": "Pick The Phone Up",
                 "Artist": "FREDDIE GIBBS FEAT. JUICY J"
               }
@@ -1076,6 +1203,10 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_miami_vice",
           "Path": "dlc_security_music/miami_vice",
           "Duration": 225864,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -1130,6 +1261,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4165,
                 "Title": "Miami Vice",
                 "Artist": "FREDDIE GIBBS FEAT. PUSHA T"
               }
@@ -1168,10 +1300,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_xl",
           "Path": "dlc_security_music/xl",
           "Duration": 241694,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4167,
                 "Title": "XL",
                 "Artist": "HIT-BOY & DOM KENNEDY"
               }
@@ -1192,10 +1329,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_so_fancy",
           "Path": "dlc_security_music/so_fancy",
           "Duration": 156032,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4168,
                 "Title": "So Fancy",
                 "Artist": "MIKE DEAN & OFFSET"
               }
@@ -1224,10 +1366,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_blue_cheese",
           "Path": "dlc_security_music/blue_cheese",
           "Duration": 175274,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4169,
                 "Title": "Blue Cheese",
                 "Artist": "RICH THE KID & MIKE DEAN"
               }
@@ -1316,6 +1463,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4170,
                 "Title": "Hoppin' Out",
                 "Artist": "MOZZY & YG"
               }
@@ -1344,10 +1492,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_coochie",
           "Path": "dlc_security_music/coochie",
           "Duration": 159020,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4171,
                 "Title": "Coochie",
                 "Artist": "TIA CORINE"
               }
@@ -1382,6 +1535,10 @@
           "Id": "dlc_security_music_radio_ap_dre_ap_dre_black_privilege",
           "Path": "dlc_security_music/ap_dre_black_privilege",
           "Duration": 169472,
+          "Intro": {
+            "Variations": 9,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -1428,6 +1585,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4105,
                 "Title": "Black Privilege",
                 "Artist": "DR. DRE"
               }
@@ -1466,10 +1624,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_stir_fry",
           "Path": "dlc_security_music/stir_fry",
           "Duration": 191971,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4110,
                 "Title": "Stir Fry",
                 "Artist": "MIGOS"
               }
@@ -1490,10 +1653,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_ski",
           "Path": "dlc_security_music/ski",
           "Duration": 150743,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4101,
                 "Title": "Ski",
                 "Artist": "YOUNG STONER LIFE, YOUNG THUG & GUNNA"
               }
@@ -1522,10 +1690,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_wow_freestyle",
           "Path": "dlc_security_music/wow_freestyle",
           "Duration": 173966,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4103,
                 "Title": "Wow Freestyle",
                 "Artist": "JAY ROCK FEAT. KENDRICK LAMAR"
               }
@@ -1554,10 +1727,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_a_vibe",
           "Path": "dlc_security_music/a_vibe",
           "Duration": 209142,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4089,
                 "Title": "It's A Vibe",
                 "Artist": "2 CHAINZ FEAT. TY DOLLA $IGN, TREY SONGZ, JHENÉ AIKO"
               }
@@ -1586,10 +1764,15 @@
           "Id": "dlc_security_music_radio_ap_dre_ap_dre_diamond_mind",
           "Path": "dlc_security_music/ap_dre_diamond_mind",
           "Duration": 291640,
+          "Intro": {
+            "Variations": 7,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4132,
                 "Title": "Diamond Mind",
                 "Artist": "DR. DRE FEAT. NIPSEY HUSSLE & TY DOLLA SIGN"
               }
@@ -1682,10 +1865,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_feed_dope",
           "Path": "dlc_security_music/feed_dope",
           "Duration": 163677,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4092,
                 "Title": "Feed Me Dope",
                 "Artist": "FUTURE"
               }
@@ -1714,10 +1902,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_kung_fu",
           "Path": "dlc_security_music/kung_fu",
           "Duration": 201024,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4095,
                 "Title": "Kung Fu",
                 "Artist": "CORDAE"
               }
@@ -1746,10 +1939,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_plain_jane",
           "Path": "dlc_security_music/plain_jane",
           "Duration": 171874,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4100,
                 "Title": "Plain Jane",
                 "Artist": "A$AP FERG"
               }
@@ -1778,10 +1976,15 @@
           "Id": "dlc_security_music_radio_ap_dre_ap_dre_eta",
           "Path": "dlc_security_music/ap_dre_eta",
           "Duration": 236042,
+          "Intro": {
+            "Variations": 6,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4107,
                 "Title": "ETA",
                 "Artist": "DR. DRE FEAT. SNOOP DOGG, BUSTA RHYMES & ANDERSON .PAAK"
               }
@@ -1874,10 +2077,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_zeze",
           "Path": "dlc_security_music/zeze",
           "Duration": 226829,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4104,
                 "Title": "ZEZE",
                 "Artist": "KODAK BLACK FEAT. TRAVIS SCOTT & OFFSET"
               }
@@ -1906,10 +2114,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_go_live",
           "Path": "dlc_security_music/go_live",
           "Duration": 288711,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4150,
                 "Title": "Go Live",
                 "Artist": "FREDO SANTANA FEAT. CHIEF KEEF, BALL OUT & TADOE"
               }
@@ -2010,10 +2223,15 @@
           "Id": "dlc_security_music_radio_ap_dre_ap_dre_the_scenic_route",
           "Path": "dlc_security_music/ap_dre_the_scenic_route",
           "Duration": 179050,
+          "Intro": {
+            "Variations": 6,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4134,
                 "Title": "The Scenic Route",
                 "Artist": "DR. DRE FEAT. RICK ROSS & ANDERSON .PAAK"
               }
@@ -2110,10 +2328,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_flex",
           "Path": "dlc_security_music/flex",
           "Duration": 164414,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4151,
                 "Title": "Flex",
                 "Artist": "POLO G FEAT. JUICE WRLD"
               }
@@ -2142,10 +2365,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_lemonhead",
           "Path": "dlc_security_music/lemonhead",
           "Duration": 131560,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4097,
                 "Title": "LEMONHEAD",
                 "Artist": "TYLER, THE CREATOR FEAT. 42 DUGG"
               }
@@ -2174,10 +2402,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_my_type",
           "Path": "dlc_security_music/my_type",
           "Duration": 125852,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4099,
                 "Title": "My Type",
                 "Artist": "SAWEETIE"
               }
@@ -2206,10 +2439,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_big_subwoofer",
           "Path": "dlc_security_music/big_subwoofer",
           "Duration": 241028,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4091,
                 "Title": "Big Subwoofer",
                 "Artist": "MOUNT WESTMORE"
               }
@@ -2238,6 +2476,10 @@
           "Id": "dlc_security_music_radio_ap_dre_ap_dre_gospel",
           "Path": "dlc_security_music/ap_dre_gospel",
           "Duration": 205145,
+          "Intro": {
+            "Variations": 6,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -2276,6 +2518,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4133,
                 "Title": "Gospel",
                 "Artist": "DR. DRE FEAT. EMINEM"
               }
@@ -2322,10 +2565,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_big_fish",
           "Path": "dlc_security_music/big_fish",
           "Duration": 195128,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4090,
                 "Title": "Big Fish",
                 "Artist": "VINCE STAPLES FEAT. JUICY J"
               }
@@ -2354,10 +2602,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_chrome_hearts",
           "Path": "dlc_security_music/chrome_hearts",
           "Duration": 247333,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4149,
                 "Title": "Chrome Hearts",
                 "Artist": "D-BLOCK EUROPE FEAT. OFFSET"
               }
@@ -2386,10 +2639,15 @@
           "Id": "dlc_security_music_radio_ap_dre_ap_dre_fallin_up",
           "Path": "dlc_security_music/ap_dre_fallin_up",
           "Duration": 204108,
+          "Intro": {
+            "Variations": 6,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4106,
                 "Title": "Fallin Up",
                 "Artist": "DR. DRE FEAT. THURZ & COCOA SARAI"
               }
@@ -2490,10 +2748,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_the_box",
           "Path": "dlc_security_music/the_box",
           "Duration": 196652,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4102,
                 "Title": "The Box",
                 "Artist": "RODDY RICCH"
               }
@@ -2590,10 +2853,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_low_life",
           "Path": "dlc_security_music/low_life",
           "Duration": 312433,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4111,
                 "Title": "Low Life",
                 "Artist": "FUTURE FEAT. THE WEEKND"
               }
@@ -2622,10 +2890,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_lockjaw",
           "Path": "dlc_security_music/lockjaw",
           "Duration": 221599,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4098,
                 "Title": "Lockjaw",
                 "Artist": "FRENCH MONTANA FEAT. KODAK BLACK"
               }
@@ -2654,10 +2927,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_what_a_life",
           "Path": "dlc_security_music/what_a_life",
           "Duration": 177112,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4112,
                 "Title": "What A Life",
                 "Artist": "BIG SEAN & HIT-BOY"
               }
@@ -2686,10 +2964,15 @@
           "Id": "dlc_security_music_radio_ap_dscvrbl_mix_2_schoolboy_lets_get_it",
           "Path": "dlc_security_music/schoolboy_lets_get_it",
           "Duration": 162405,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4131,
                 "Title": "Let's Get It",
                 "Artist": "SCHOOLBOY Q"
               }
@@ -2700,10 +2983,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_pick_the_phone_up",
           "Path": "dlc_security_music/pick_the_phone_up",
           "Duration": 195998,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4166,
                 "Title": "Pick The Phone Up",
                 "Artist": "FREDDIE GIBBS FEAT. JUICY J"
               }
@@ -2732,6 +3020,10 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_miami_vice",
           "Path": "dlc_security_music/miami_vice",
           "Duration": 225864,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -2786,6 +3078,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4165,
                 "Title": "Miami Vice",
                 "Artist": "FREDDIE GIBBS FEAT. PUSHA T"
               }
@@ -2824,10 +3117,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_xl",
           "Path": "dlc_security_music/xl",
           "Duration": 241694,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4167,
                 "Title": "XL",
                 "Artist": "HIT-BOY & DOM KENNEDY"
               }
@@ -2848,10 +3146,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_so_fancy",
           "Path": "dlc_security_music/so_fancy",
           "Duration": 156032,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4168,
                 "Title": "So Fancy",
                 "Artist": "MIKE DEAN & OFFSET"
               }
@@ -2880,10 +3183,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_blue_cheese",
           "Path": "dlc_security_music/blue_cheese",
           "Duration": 175274,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4169,
                 "Title": "Blue Cheese",
                 "Artist": "RICH THE KID & MIKE DEAN"
               }
@@ -2972,6 +3280,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4170,
                 "Title": "Hoppin' Out",
                 "Artist": "MOZZY & YG"
               }
@@ -3000,10 +3309,15 @@
           "Id": "dlc_security_music_radio_03_hiphop_new_coochie",
           "Path": "dlc_security_music/coochie",
           "Duration": 159020,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/hiphop_new_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4171,
                 "Title": "Coochie",
                 "Artist": "TIA CORINE"
               }
@@ -3310,6 +3624,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4145,
                 "Title": "U Better Recognize",
                 "Artist": "SAM SNEED FEAT. DR. DRE"
               }
@@ -3414,10 +3729,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_california_love_single",
           "Path": "dlc_security_music/california_love_single",
           "Duration": 240568,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4147,
                 "Title": "California Love (Single Version)",
                 "Artist": "2PAC FEAT. DR. DRE & ROGER TROUTMAN"
               }
@@ -3446,10 +3766,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_family_affair",
           "Path": "dlc_security_music/family_affair",
           "Duration": 266061,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4052,
                 "Title": "Family Affair",
                 "Artist": "MARY J. BLIGE"
               }
@@ -3478,10 +3803,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_outta_control",
           "Path": "dlc_security_music/outta_control",
           "Duration": 241409,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4049,
                 "Title": "Outta Control",
                 "Artist": "50 CENT FEAT. MOBB DEEP"
               }
@@ -3510,10 +3840,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_hello",
           "Path": "dlc_security_music/hello",
           "Duration": 232029,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4142,
                 "Title": "Hello",
                 "Artist": "ICE CUBE FEAT. DR. DRE & MC REN"
               }
@@ -3542,10 +3877,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_lil_ghetto_boy",
           "Path": "dlc_security_music/lil_ghetto_boy",
           "Duration": 327960,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4141,
                 "Title": "Lil' Ghetto Boy",
                 "Artist": "DR. DRE FEAT. DAZ & SNOOP DOGG"
               }
@@ -3670,6 +4010,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4143,
                 "Title": "Nas Is Coming",
                 "Artist": "NAS FEAT. DR. DRE"
               }
@@ -3690,10 +4031,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_xxplosive",
           "Path": "dlc_security_music/xxplosive",
           "Duration": 215693,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4140,
                 "Title": "Xxplosive",
                 "Artist": "DR. DRE FEAT. HITTMAN, SIX-TWO, NATE DOGG & KURUPT"
               }
@@ -3726,6 +4072,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4053,
                 "Title": "Addictive",
                 "Artist": "TRUTH HURTS FEAT. RAKIM"
               }
@@ -3758,6 +4105,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4136,
                 "Title": "Can't C Me",
                 "Artist": "2PAC"
               }
@@ -3786,10 +4134,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_jayz_trouble",
           "Path": "dlc_security_music/jayz_trouble",
           "Duration": 289798,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4051,
                 "Title": "Trouble",
                 "Artist": "JAY-Z"
               }
@@ -3818,10 +4171,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_no_diggity",
           "Path": "dlc_security_music/no_diggity",
           "Duration": 305096,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4138,
                 "Title": "No Diggity",
                 "Artist": "BLACKSTREET FEAT. DR. DRE & QUEEN PEN"
               }
@@ -3850,10 +4208,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_papa_lil_soldier",
           "Path": "dlc_security_music/papa_lil_soldier",
           "Duration": 199680,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4172,
                 "Title": "Papa's Lil Soldier",
                 "Artist": "40 GLOCC"
               }
@@ -3954,10 +4317,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_keep_their_heads_ringin",
           "Path": "dlc_security_music/keep_their_heads_ringin",
           "Duration": 305016,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4139,
                 "Title": "Keep Their Heads Ringin'",
                 "Artist": "DR. DRE"
               }
@@ -3990,6 +4358,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4144,
                 "Title": "Shit Hits The Fan (Album Version)",
                 "Artist": "OBIE TRICE FEAT. DR. DRE"
               }
@@ -4022,6 +4391,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4137,
                 "Title": "In Da Club",
                 "Artist": "50 CENT"
               }
@@ -4056,10 +4426,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_outta_control",
           "Path": "dlc_security_music/outta_control",
           "Duration": 241409,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4049,
                 "Title": "Outta Control",
                 "Artist": "50 CENT FEAT. MOBB DEEP"
               }
@@ -4088,10 +4463,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_california_love_single",
           "Path": "dlc_security_music/california_love_single",
           "Duration": 240568,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4147,
                 "Title": "California Love (Single Version)",
                 "Artist": "2PAC FEAT. DR. DRE & ROGER TROUTMAN"
               }
@@ -4120,10 +4500,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_lil_ghetto_boy",
           "Path": "dlc_security_music/lil_ghetto_boy",
           "Duration": 327960,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4141,
                 "Title": "Lil' Ghetto Boy",
                 "Artist": "DR. DRE FEAT. DAZ & SNOOP DOGG"
               }
@@ -4244,10 +4629,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_family_affair",
           "Path": "dlc_security_music/family_affair",
           "Duration": 266061,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4052,
                 "Title": "Family Affair",
                 "Artist": "MARY J. BLIGE"
               }
@@ -4280,6 +4670,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4137,
                 "Title": "In Da Club",
                 "Artist": "50 CENT"
               }
@@ -4308,10 +4699,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_keep_their_heads_ringin",
           "Path": "dlc_security_music/keep_their_heads_ringin",
           "Duration": 305016,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4139,
                 "Title": "Keep Their Heads Ringin'",
                 "Artist": "DR. DRE"
               }
@@ -4340,10 +4736,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_next_episode",
           "Path": "dlc_security_music/next_episode",
           "Duration": 157578,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4050,
                 "Title": "The Next Episode",
                 "Artist": "DR. DRE FEAT. SNOOP DOGG"
               }
@@ -4376,6 +4777,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4053,
                 "Title": "Addictive",
                 "Artist": "TRUTH HURTS FEAT. RAKIM"
               }
@@ -4408,6 +4810,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4145,
                 "Title": "U Better Recognize",
                 "Artist": "SAM SNEED FEAT. DR. DRE"
               }
@@ -4512,10 +4915,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_papa_lil_soldier",
           "Path": "dlc_security_music/papa_lil_soldier",
           "Duration": 199680,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4172,
                 "Title": "Papa's Lil Soldier",
                 "Artist": "40 GLOCC"
               }
@@ -4616,10 +5024,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_hello",
           "Path": "dlc_security_music/hello",
           "Duration": 232029,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4142,
                 "Title": "Hello",
                 "Artist": "ICE CUBE FEAT. DR. DRE & MC REN"
               }
@@ -4652,6 +5065,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4143,
                 "Title": "Nas Is Coming",
                 "Artist": "NAS FEAT. DR. DRE"
               }
@@ -4676,6 +5090,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4136,
                 "Title": "Can't C Me",
                 "Artist": "2PAC"
               }
@@ -4708,6 +5123,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4144,
                 "Title": "Shit Hits The Fan (Album Version)",
                 "Artist": "OBIE TRICE FEAT. DR. DRE"
               }
@@ -4736,10 +5152,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_no_diggity",
           "Path": "dlc_security_music/no_diggity",
           "Duration": 305096,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4138,
                 "Title": "No Diggity",
                 "Artist": "BLACKSTREET FEAT. DR. DRE & QUEEN PEN"
               }
@@ -4768,10 +5189,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_jayz_trouble",
           "Path": "dlc_security_music/jayz_trouble",
           "Duration": 289798,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4051,
                 "Title": "Trouble",
                 "Artist": "JAY-Z"
               }
@@ -4800,10 +5226,15 @@
           "Id": "dlc_security_music_radio_09_hiphop_old_xxplosive",
           "Path": "dlc_security_music/xxplosive",
           "Duration": 215693,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4140,
                 "Title": "Xxplosive",
                 "Artist": "DR. DRE FEAT. HITTMAN, SIX-TWO, NATE DOGG & KURUPT"
               }
@@ -4842,6 +5273,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4107,
                 "Title": "ETA",
                 "Artist": "DR. DRE FEAT. SNOOP DOGG, BUSTA RHYMES & ANDERSON .PAAK"
               }
@@ -4980,6 +5412,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4105,
                 "Title": "Black Privilege",
                 "Artist": "DR. DRE"
               }
@@ -5022,6 +5455,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4134,
                 "Title": "The Scenic Route",
                 "Artist": "DR. DRE FEAT. RICK ROSS & ANDERSON .PAAK"
               }
@@ -5156,6 +5590,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4133,
                 "Title": "Gospel",
                 "Artist": "DR. DRE FEAT. EMINEM"
               }
@@ -5206,6 +5641,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4106,
                 "Title": "Fallin Up",
                 "Artist": "DR. DRE FEAT. THURZ & COCOA SARAI"
               }
@@ -5310,6 +5746,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4132,
                 "Title": "Diamond Mind",
                 "Artist": "DR. DRE FEAT. NIPSEY HUSSLE & TY DOLLA SIGN"
               }
@@ -5454,6 +5891,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4105,
                 "Title": "Black Privilege",
                 "Artist": "DR. DRE"
               }
@@ -5502,6 +5940,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4108,
                 "Title": "You Wanna?",
                 "Artist": "NEZ"
               }
@@ -5610,6 +6049,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4131,
                 "Title": "Let's Get It",
                 "Artist": "SCHOOLBOY Q"
               }
@@ -5626,6 +6066,10 @@
           "Id": "dlc_security_music_radio_37_motomami_418",
           "Path": "dlc_security_music/418",
           "Duration": 186966,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -5700,6 +6144,7 @@
             "Track": [
               {
                 "Offset": 25,
+                "Id": 4055,
                 "Title": "418 (Bounce Mix)",
                 "Artist": "DJ SLUGO"
               }
@@ -5746,10 +6191,15 @@
           "Id": "dlc_security_music_radio_37_motomami_volando_voy",
           "Path": "dlc_security_music/volando_voy",
           "Duration": 198160,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 10,
+                "Id": 4155,
                 "Title": "Volando Voy",
                 "Artist": "CAMARÓN DE LA ISLA"
               }
@@ -5778,10 +6228,15 @@
           "Id": "dlc_security_music_radio_37_motomami_con_altura",
           "Path": "dlc_security_music/con_altura",
           "Duration": 152854,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 173,
+                "Id": 4060,
                 "Title": "Con Altura",
                 "Artist": "ROSALÍA FEAT. J BALVIN"
               }
@@ -5810,6 +6265,10 @@
           "Id": "dlc_security_music_radio_37_motomami_mystery_love",
           "Path": "dlc_security_music/mystery_love",
           "Duration": 422979,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -5920,6 +6379,7 @@
             "Track": [
               {
                 "Offset": 29,
+                "Id": 4073,
                 "Title": "Mystery of Love (2011) (Instrumental)",
                 "Artist": "MR. FINGERS"
               }
@@ -5966,10 +6426,15 @@
           "Id": "dlc_security_music_radio_37_motomami_klk",
           "Path": "dlc_security_music/klk",
           "Duration": 221393,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 1,
+                "Id": 4068,
                 "Title": "KLK",
                 "Artist": "ARCA FEAT. ROSALÍA"
               }
@@ -5998,10 +6463,15 @@
           "Id": "dlc_security_music_radio_37_motomami_a_pale",
           "Path": "dlc_security_music/a_pale",
           "Duration": 102425,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 41,
+                "Id": 4057,
                 "Title": "A Palé",
                 "Artist": "ROSALÍA"
               }
@@ -6030,10 +6500,15 @@
           "Id": "dlc_security_music_radio_37_motomami_linda",
           "Path": "dlc_security_music/linda",
           "Duration": 131096,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 7,
+                "Id": 4070,
                 "Title": "Linda",
                 "Artist": "TOKISCHA & ROSALÍA"
               }
@@ -6066,6 +6541,7 @@
             "Track": [
               {
                 "Offset": 20,
+                "Id": 4161,
                 "Title": "Dos Locos",
                 "Artist": "MONCHY & ALEJANDRA"
               }
@@ -6206,6 +6682,7 @@
             "Track": [
               {
                 "Offset": 31,
+                "Id": 4082,
                 "Title": "Vamos Pa la Disco",
                 "Artist": "LAS GUANABANAS"
               }
@@ -6252,6 +6729,10 @@
           "Id": "dlc_security_music_radio_37_motomami_mi_coranzoncito",
           "Path": "dlc_security_music/mi_coranzoncito",
           "Duration": 226543,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -6326,6 +6807,7 @@
             "Track": [
               {
                 "Offset": 23,
+                "Id": 4154,
                 "Title": "Mi Corazoncito",
                 "Artist": "AVENTURA"
               }
@@ -6346,10 +6828,15 @@
           "Id": "dlc_security_music_radio_37_motomami_duro",
           "Path": "dlc_security_music/duro",
           "Duration": 135483,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 1,
+                "Id": 4064,
                 "Title": "Duro 2005",
                 "Artist": "LA GOONY CHONGA"
               }
@@ -6378,6 +6865,10 @@
           "Id": "dlc_security_music_radio_37_motomami_tukuntazo",
           "Path": "dlc_security_music/tukuntazo",
           "Duration": 187411,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -6436,6 +6927,7 @@
             "Track": [
               {
                 "Offset": 34,
+                "Id": 4081,
                 "Title": "Tukuntaso",
                 "Artist": "TOKISCHA & HARACA KIKO & EL CHERRY SCOM"
               }
@@ -6482,10 +6974,15 @@
           "Id": "dlc_security_music_radio_37_motomami_bank_robber",
           "Path": "dlc_security_music/bank_robber",
           "Duration": 197786,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4087,
                 "Title": "Skinny Jeans",
                 "Artist": "LIKKLE VYBZ & LIKKLE ADDI"
               }
@@ -6594,6 +7091,10 @@
           "Id": "dlc_security_music_radio_37_motomami_algo_como_tu",
           "Path": "dlc_security_music/algo_como_tu",
           "Duration": 168149,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -6636,6 +7137,7 @@
             "Track": [
               {
                 "Offset": 3,
+                "Id": 4056,
                 "Title": "Algo Como Tú",
                 "Artist": "KAYDY CAIN & LOS DEL CONTROL"
               }
@@ -6664,6 +7166,10 @@
           "Id": "dlc_security_music_radio_37_motomami_dominicana",
           "Path": "dlc_security_music/dominicana",
           "Duration": 137546,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -6702,6 +7208,7 @@
             "Track": [
               {
                 "Offset": 111,
+                "Id": 4156,
                 "Title": "Dominicana",
                 "Artist": "CHUCKY73"
               }
@@ -6734,6 +7241,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4054,
                 "Title": "100% of Disin' You",
                 "Artist": "ARMANDO"
               }
@@ -6884,6 +7392,7 @@
             "Track": [
               {
                 "Offset": 11,
+                "Id": 4164,
                 "Title": "Tumbando Fronte",
                 "Artist": "ALBERTO STYLEE"
               }
@@ -6968,6 +7477,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 4130,
                 "Title": "XULITA",
                 "Artist": "YOUNG CISTER FEAT. KAYDY CAIN"
               }
@@ -7014,10 +7524,15 @@
           "Id": "dlc_security_music_radio_37_motomami_la_fama",
           "Path": "dlc_security_music/la_fama",
           "Duration": 186238,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 8,
+                "Id": 4069,
                 "Title": "LA FAMA",
                 "Artist": "ROSALÍA & THE WEEKND"
               }
@@ -7046,10 +7561,15 @@
           "Id": "dlc_security_music_radio_37_motomami_snap_and_roll",
           "Path": "dlc_security_music/snap_and_roll",
           "Duration": 199627,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 12,
+                "Id": 4128,
                 "Title": "Snap And Roll",
                 "Artist": "SOULJA BOY TELL'EM"
               }
@@ -7120,6 +7640,7 @@
             "Track": [
               {
                 "Offset": 81,
+                "Id": 4083,
                 "Title": "Take Me Where Your Heart Is",
                 "Artist": "Q"
               }
@@ -7146,10 +7667,15 @@
           "Id": "dlc_security_music_radio_37_motomami_nubes",
           "Path": "dlc_security_music/nubes",
           "Duration": 166164,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 6,
+                "Id": 4122,
                 "Title": "Nubes",
                 "Artist": "RAUW ALEJANDRO"
               }
@@ -7178,6 +7704,10 @@
           "Id": "dlc_security_music_radio_37_motomami_dipra",
           "Path": "dlc_security_music/dipra",
           "Duration": 170879,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -7232,6 +7762,7 @@
             "Track": [
               {
                 "Offset": 10,
+                "Id": 4062,
                 "Title": "A La Mía",
                 "Artist": "BAD GYAL"
               }
@@ -7348,6 +7879,7 @@
             "Track": [
               {
                 "Offset": 9,
+                "Id": 4117,
                 "Title": "Bounce N Break Yo Back",
                 "Artist": "DJ SPINN"
               }
@@ -7386,10 +7918,15 @@
           "Id": "dlc_security_music_radio_37_motomami_mi_nombre",
           "Path": "dlc_security_music/mi_nombre",
           "Duration": 159886,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 27,
+                "Id": 4072,
                 "Title": "DI MI NOMBRE (Cap.8: Éxtasis)",
                 "Artist": "ROSALÍA"
               }
@@ -7418,6 +7955,10 @@
           "Id": "dlc_security_music_radio_37_motomami_contigo",
           "Path": "dlc_security_music/contigo",
           "Duration": 190908,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -7464,6 +8005,7 @@
             "Track": [
               {
                 "Offset": 19,
+                "Id": 4059,
                 "Title": "Vacilar Contigo",
                 "Artist": "ÑEJO & DALMATA"
               }
@@ -7510,6 +8052,10 @@
           "Id": "dlc_security_music_radio_37_motomami_body_so_good",
           "Path": "dlc_security_music/body_so_good",
           "Duration": 182519,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -7560,6 +8106,7 @@
             "Track": [
               {
                 "Offset": 30,
+                "Id": 4124,
                 "Title": "Body So Good",
                 "Artist": "POPCAAN"
               }
@@ -7614,10 +8161,15 @@
           "Id": "dlc_security_music_radio_37_motomami_rockstar_made",
           "Path": "dlc_security_music/rockstar_made",
           "Duration": 192545,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 6,
+                "Id": 4162,
                 "Title": "Rockstar Made",
                 "Artist": "PLAYBOI CARTI"
               }
@@ -7646,6 +8198,10 @@
           "Id": "dlc_security_music_radio_37_motomami_bunny_rider",
           "Path": "dlc_security_music/bunny_rider",
           "Duration": 191989,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -7696,6 +8252,7 @@
             "Track": [
               {
                 "Offset": 4,
+                "Id": 4058,
                 "Title": "Bunny Is A Rider",
                 "Artist": "CAROLINE POLACHEK"
               }
@@ -7742,6 +8299,10 @@
           "Id": "dlc_security_music_radio_37_motomami_calle_luna",
           "Path": "dlc_security_music/calle_luna",
           "Duration": 225692,
+          "Intro": {
+            "Variations": 3,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -7836,6 +8397,7 @@
             "Track": [
               {
                 "Offset": 28,
+                "Id": 4129,
                 "Title": "Calle Luna Calle Sol",
                 "Artist": "WILLIE COLÓN & HÉCTOR LAVOE"
               }
@@ -7864,10 +8426,15 @@
           "Id": "dlc_security_music_radio_37_motomami_stress",
           "Path": "dlc_security_music/stress",
           "Duration": 299563,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 11,
+                "Id": 4078,
                 "Title": "Stress",
                 "Artist": "JUSTICE"
               }
@@ -7896,10 +8463,15 @@
           "Id": "dlc_security_music_radio_37_motomami_machote",
           "Path": "dlc_security_music/machote",
           "Duration": 151009,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 4,
+                "Id": 4114,
                 "Title": "Machote",
                 "Artist": "ARCA"
               }
@@ -7964,6 +8536,10 @@
           "Id": "dlc_security_music_radio_37_motomami_salgo_calle",
           "Path": "dlc_security_music/salgo_calle",
           "Duration": 264310,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_security_music/motomami_intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -8022,6 +8598,7 @@
             "Track": [
               {
                 "Offset": 14,
+                "Id": 4077,
                 "Title": "Salgo Pa' La Calle",
                 "Artist": "DADDY YANKEE"
               }

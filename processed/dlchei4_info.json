@@ -37,7 +37,23 @@
         "hei4_radio_kult_ads",
         "hei4_radio_kult_custom_idents",
         "hei4_radio_kult_djsolo"
-      ]
+      ],
+      "Speech": {
+        "GENERAL": {
+          "Variations": 11,
+          "ContainerPath": "dlc_hei4/general"
+        },
+        "TIME": {
+          "MORNING": {
+            "Variations": 4,
+            "ContainerPath": "dlc_hei4/time"
+          },
+          "EVENING": {
+            "Variations": 4,
+            "ContainerPath": "dlc_hei4/time"
+          }
+        }
+      }
     },
     "radio_35_dlc_hei4_mlr": {
       "Flags": "0xAA900100",
@@ -191,61 +207,73 @@
             "Track": [
               {
                 "Offset": 290,
+                "Id": 1954,
                 "Title": "The Message (GP And 2bo4 Remix)",
                 "Artist": "KAMASI WASHINGTON"
               },
               {
                 "Offset": 279656,
+                "Id": 1955,
                 "Title": "Birthright",
                 "Artist": "SARATHY KORWAR"
               },
               {
                 "Offset": 517406,
+                "Id": 1956,
                 "Title": "Lost Touch",
                 "Artist": "MR. MITCH FEAT. DUVAL TIMOTHY"
               },
               {
                 "Offset": 525338,
+                "Id": 1957,
                 "Title": "Sandman",
                 "Artist": "THE UNDISPUTED TRUTH"
               },
               {
                 "Offset": 675201,
+                "Id": 1958,
                 "Title": "The People",
                 "Artist": "PHOTAY"
               },
               {
                 "Offset": 900610,
+                "Id": 1959,
                 "Title": "Could Heaven Ever Be Like This",
                 "Artist": "IDRIS MUHAMMAD"
               },
               {
                 "Offset": 1092283,
+                "Id": 1960,
                 "Title": "Jazz Carnival",
                 "Artist": "AZYMUTH"
               },
               {
                 "Offset": 1356026,
+                "Id": 1961,
                 "Title": "Azaa (Branko Edit)",
                 "Artist": "GAFACCI"
               },
               {
                 "Offset": 1483502,
+                "Id": 1962,
                 "Title": "Bim Bam Bam",
                 "Artist": "KOKOKO!"
               },
               {
                 "Offset": 1643894,
+                "Id": 1963,
                 "Title": "Labyrinth",
                 "Artist": "TSVI"
               },
               {
                 "Offset": 1841497,
+                "Id": 1964,
                 "Title": "Riesling Pour Robert (Rhythm Heavy Version)",
                 "Artist": "JAHARI MASSAMBA UNIT"
               },
               {
                 "Offset": 2003934,
+                "Id": 1965,
                 "Title": "Self:Love",
                 "Artist": "JOE ARMON-JONES FEAT. OBONGJAYAR"
               }
@@ -334,56 +362,67 @@
             "Track": [
               {
                 "Offset": 998,
+                "Id": 1965,
                 "Title": "Self:Love",
                 "Artist": "JOE ARMON-JONES FEAT. OBONGJAYAR"
               },
               {
                 "Offset": 25361,
+                "Id": 1966,
                 "Title": "Baba Ayoola",
                 "Artist": "KOKOROKO"
               },
               {
                 "Offset": 251587,
+                "Id": 1967,
                 "Title": "Time (You And I) (Original And GP Dub)",
                 "Artist": "KHRUANGBIN"
               },
               {
                 "Offset": 504494,
+                "Id": 1968,
                 "Title": "Fight For Your Rights",
                 "Artist": "ARTHUR ADAMS"
               },
               {
                 "Offset": 654152,
+                "Id": 1969,
                 "Title": "Mysteries Of The World",
                 "Artist": "MFSB"
               },
               {
                 "Offset": 871076,
+                "Id": 1970,
                 "Title": "Aspects (Demus Dub)",
                 "Artist": "STR4TA"
               },
               {
                 "Offset": 1139828,
+                "Id": 1971,
                 "Title": "Emergency On Planet Earth (London Rican Mix)",
                 "Artist": "JAMIROQUAI"
               },
               {
                 "Offset": 1470017,
+                "Id": 1972,
                 "Title": "Natural Thing",
                 "Artist": "RONI SIZE"
               },
               {
                 "Offset": 1689905,
+                "Id": 1973,
                 "Title": "Worldwide FM (Dubplate Special)",
                 "Artist": "DRS & DYNAMITE MC"
               },
               {
                 "Offset": 1863587,
+                "Id": 1974,
                 "Title": "Fusion Swirl",
                 "Artist": "JEFF PARKER"
               },
               {
                 "Offset": 2026730,
+                "Id": 1974,
                 "Title": "Fusion Swirl",
                 "Artist": "JEFF PARKER"
               }
@@ -760,56 +799,67 @@
             "Track": [
               {
                 "Offset": 1000,
+                "Id": 1974,
                 "Title": "Fusion Swirl",
                 "Artist": "JEFF PARKER"
               },
               {
                 "Offset": 28713,
+                "Id": 1975,
                 "Title": "Wax & Buff",
                 "Artist": "SAUCE & DOGS"
               },
               {
                 "Offset": 250338,
+                "Id": 1976,
                 "Title": "THE CHOCOLATE CONQUISTADORS",
                 "Artist": "BADBADNOTGOOD FEAT. MF DOOM"
               },
               {
                 "Offset": 667113,
+                "Id": 1977,
                 "Title": "The Beat",
                 "Artist": "ESG"
               },
               {
                 "Offset": 801131,
+                "Id": 1978,
                 "Title": "Kimchi King Kong",
                 "Artist": "THE DIABOLICAL LIBERTIES"
               },
               {
                 "Offset": 942919,
+                "Id": 1979,
                 "Title": "What More",
                 "Artist": "SWINDLE FEAT. GREENTEA PENG"
               },
               {
                 "Offset": 1085524,
+                "Id": 1980,
                 "Title": "Times Up",
                 "Artist": "FUSELAGE"
               },
               {
                 "Offset": 1306638,
+                "Id": 1981,
                 "Title": "Muslem & Christian",
                 "Artist": "MADLIB"
               },
               {
                 "Offset": 1438408,
+                "Id": 1982,
                 "Title": "Pure Agony",
                 "Artist": "KAYTRANADA"
               },
               {
                 "Offset": 1538180,
+                "Id": 1983,
                 "Title": "Why Don't I Feel",
                 "Artist": "LYAM"
               },
               {
                 "Offset": 1572410,
+                "Id": 1983,
                 "Title": "Why Don't I Feel",
                 "Artist": "LYAM"
               }
@@ -886,36 +936,43 @@
             "Track": [
               {
                 "Offset": 1000,
+                "Id": 1983,
                 "Title": "Why Don't I Feel",
                 "Artist": "LYAM"
               },
               {
                 "Offset": 113463,
+                "Id": 1984,
                 "Title": "Directions",
                 "Artist": "JAB"
               },
               {
                 "Offset": 444777,
+                "Id": 1985,
                 "Title": "Desire (Moodymann Remix)",
                 "Artist": "JOSÉ JAMES"
               },
               {
                 "Offset": 704942,
+                "Id": 1986,
                 "Title": "Ekkles",
                 "Artist": "CALL SUPER"
               },
               {
                 "Offset": 867277,
+                "Id": 1987,
                 "Title": "Ascending",
                 "Artist": "JONNY FAITH"
               },
               {
                 "Offset": 1017754,
+                "Id": 1988,
                 "Title": "State Of Mind (Alex Patchwork Remix)",
                 "Artist": "ZARA MCFARLANE"
               },
               {
                 "Offset": 1021936,
+                "Id": 1988,
                 "Title": "State Of Mind (Alex Patchwork Remix)",
                 "Artist": "ZARA MCFARLANE"
               }
@@ -1082,36 +1139,43 @@
             "Track": [
               {
                 "Offset": 1000,
+                "Id": 1988,
                 "Title": "State Of Mind (Alex Patchwork Remix)",
                 "Artist": "ZARA MCFARLANE"
               },
               {
                 "Offset": 177757,
+                "Id": 1989,
                 "Title": "New Gods (Ron Basejam Remix)",
                 "Artist": "CATCHING FLIES"
               },
               {
                 "Offset": 459900,
+                "Id": 1990,
                 "Title": "Full Moon (Full Length Version)",
                 "Artist": "DELE SOSIMI & MEDLAR"
               },
               {
                 "Offset": 720576,
+                "Id": 1991,
                 "Title": "Movementt",
                 "Artist": "EMMA-JEAN THACKRAY"
               },
               {
                 "Offset": 922779,
+                "Id": 2070,
                 "Title": "Grand Hi",
                 "Artist": "BRUISE"
               },
               {
                 "Offset": 1072949,
+                "Id": 1993,
                 "Title": "Landline",
                 "Artist": "KASSA OVERALL FEAT. CARLOS OVERALL"
               },
               {
                 "Offset": 1150819,
+                "Id": 1994,
                 "Title": "The Sun (Full Length Mix)",
                 "Artist": "SECRET NIGHT GANG"
               }
@@ -1360,66 +1424,79 @@
             "Track": [
               {
                 "Offset": 36,
+                "Id": 1932,
                 "Title": "Possessed",
                 "Artist": "CAPTAIN MURPHY"
               },
               {
                 "Offset": 158961,
+                "Id": 1933,
                 "Title": "Fuck The Police",
                 "Artist": "J DILLA"
               },
               {
                 "Offset": 311694,
+                "Id": 1934,
                 "Title": "Black Heaven",
                 "Artist": "FLYING LOTUS, RAS G"
               },
               {
                 "Offset": 389642,
+                "Id": 1935,
                 "Title": "Been Cosmic",
                 "Artist": "RAS G"
               },
               {
                 "Offset": 448200,
+                "Id": 1936,
                 "Title": "The Daisy",
                 "Artist": "ROSS FROM FRIENDS"
               },
               {
                 "Offset": 571338,
+                "Id": 1937,
                 "Title": "Topdown",
                 "Artist": "CHANNEL TRES"
               },
               {
                 "Offset": 734983,
+                "Id": 1938,
                 "Title": "Spiritual",
                 "Artist": "SMOKE DZA"
               },
               {
                 "Offset": 874409,
+                "Id": 2071,
                 "Title": "Afterlife Currency",
                 "Artist": "DAVID FIRTH"
               },
               {
                 "Offset": 911184,
+                "Id": 1939,
                 "Title": "Lunch Break",
                 "Artist": "FLYING LOTUS, MF DOOM"
               },
               {
                 "Offset": 1061260,
+                "Id": 1940,
                 "Title": "Dragonball Durag",
                 "Artist": "THUNDERCAT"
               },
               {
                 "Offset": 1226930,
+                "Id": 1941,
                 "Title": "GLOMERULONEPHROPATHY",
                 "Artist": "SYUNSUKE ONO"
               },
               {
                 "Offset": 1349663,
+                "Id": 1942,
                 "Title": "The Bean Kicked In",
                 "Artist": "ZACK FOX"
               },
               {
                 "Offset": 1451246,
+                "Id": 1943,
                 "Title": "Black Balloons Reprise",
                 "Artist": "FLYING LOTUS FEAT. DENZEL CURRY"
               }
@@ -1808,51 +1885,61 @@
             "Track": [
               {
                 "Offset": 1272,
+                "Id": 1944,
                 "Title": "Automatic",
                 "Artist": "FREDDIE GIBBS"
               },
               {
                 "Offset": 143245,
+                "Id": 1945,
                 "Title": "Homicidal Thoughts",
                 "Artist": "LITTLE SNAKE"
               },
               {
                 "Offset": 295143,
+                "Id": 1946,
                 "Title": "Arrogant",
                 "Artist": "TIERRA WHACK"
               },
               {
                 "Offset": 428408,
+                "Id": 1947,
                 "Title": "You're Untouchable",
                 "Artist": "DORIAN CONCEPT"
               },
               {
                 "Offset": 536129,
+                "Id": 1948,
                 "Title": "U Have To Be Odd",
                 "Artist": "FLYING LOTUS"
               },
               {
                 "Offset": 697167,
+                "Id": 1949,
                 "Title": "Planet X",
                 "Artist": "LOUIS COLE"
               },
               {
                 "Offset": 863054,
+                "Id": 1950,
                 "Title": "Itkanbe [Sonice]",
                 "Artist": "KNXWLEDGE FEAT. ANDERSON .PAAK, NXWORRIES"
               },
               {
                 "Offset": 957876,
+                "Id": 1951,
                 "Title": "Shine A Light",
                 "Artist": "SHABAZZ PALACES"
               },
               {
                 "Offset": 1114427,
+                "Id": 1952,
                 "Title": "Road Of The Lonely Ones",
                 "Artist": "MADLIB"
               },
               {
                 "Offset": 1319218,
+                "Id": 1953,
                 "Title": "In The Wake Of Poseidon",
                 "Artist": "KING CRIMSON"
               }
@@ -2009,56 +2096,67 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1995,
                 "Title": "5 Violinos",
                 "Artist": "DJ NIGGA FOX"
               },
               {
                 "Offset": 159006,
+                "Id": 1996,
                 "Title": "Feediback",
                 "Artist": "MR. MANKWA"
               },
               {
                 "Offset": 294336,
+                "Id": 1997,
                 "Title": "Not Modular",
                 "Artist": "MR. MITCH"
               },
               {
                 "Offset": 368441,
+                "Id": 1998,
                 "Title": "The Devil's Dance",
                 "Artist": "JOSI DEVIL"
               },
               {
                 "Offset": 524858,
+                "Id": 1999,
                 "Title": "A Wah!",
                 "Artist": "KEMIKAL"
               },
               {
                 "Offset": 747874,
+                "Id": 2000,
                 "Title": "COYP",
                 "Artist": "JOY ORBISON"
               },
               {
                 "Offset": 840260,
+                "Id": 2001,
                 "Title": "Sparky / Hi Press (Dub)",
                 "Artist": "CRUEL SANTINO / ROBERT FLECK"
               },
               {
                 "Offset": 848658,
+                "Id": 2002,
                 "Title": "Sparky / Hi Press (Dub)",
                 "Artist": "CRUEL SANTINO / ROBERT FLECK"
               },
               {
                 "Offset": 961963,
+                "Id": 2003,
                 "Title": "No Warnin'",
                 "Artist": "PA SALIEU"
               },
               {
                 "Offset": 1098681,
+                "Id": 2004,
                 "Title": "Almost Blue",
                 "Artist": "L U C Y"
               },
               {
                 "Offset": 1255201,
+                "Id": 2005,
                 "Title": "Elephant Man",
                 "Artist": "TIME COW & RTKAL"
               }
@@ -2131,56 +2229,67 @@
             "Track": [
               {
                 "Offset": 1018,
+                "Id": 2005,
                 "Title": "Elephant Man",
                 "Artist": "TIME COW & RTKAL"
               },
               {
                 "Offset": 24896,
+                "Id": 2006,
                 "Title": "Cayendo (Sango Remix)",
                 "Artist": "FRANK OCEAN"
               },
               {
                 "Offset": 159297,
+                "Id": 2072,
                 "Title": "Mirror Park Tavern",
                 "Artist": "Commercial"
               },
               {
                 "Offset": 170919,
+                "Id": 2008,
                 "Title": "No Love",
                 "Artist": "DJ SCUD"
               },
               {
                 "Offset": 316335,
+                "Id": 2009,
                 "Title": "Trimmers (INSTINCT Remix)",
                 "Artist": "FRANKEL & HARPER"
               },
               {
                 "Offset": 517496,
+                "Id": 2010,
                 "Title": "Givin' Up On Love",
                 "Artist": "HORSEPOWER PRODUCTIONS"
               },
               {
                 "Offset": 742083,
+                "Id": 2011,
                 "Title": "Shippuden",
                 "Artist": "BLANCO"
               },
               {
                 "Offset": 858217,
+                "Id": 2012,
                 "Title": "Polar",
                 "Artist": "PEARLY"
               },
               {
                 "Offset": 975510,
+                "Id": 2013,
                 "Title": "Digdim Patrol 2016",
                 "Artist": "BYANO DJ"
               },
               {
                 "Offset": 1092527,
+                "Id": 2014,
                 "Title": "Operation",
                 "Artist": "INSTINCT"
               },
               {
                 "Offset": 1112417,
+                "Id": 2015,
                 "Title": "Whip (Acapella)",
                 "Artist": "KO"
               }
@@ -2327,56 +2436,67 @@
             "Track": [
               {
                 "Offset": 1011,
+                "Id": 2015,
                 "Title": "Whip (Acapella)",
                 "Artist": "KO"
               },
               {
                 "Offset": 17548,
+                "Id": 2016,
                 "Title": "Pieces Of 8",
                 "Artist": "OVERMONO"
               },
               {
                 "Offset": 182797,
+                "Id": 2017,
                 "Title": "Bromley",
                 "Artist": "JOY ORBISON & OVERMONO"
               },
               {
                 "Offset": 412467,
+                "Id": 2018,
                 "Title": "Babylon",
                 "Artist": "MEZ"
               },
               {
                 "Offset": 565949,
+                "Id": 2019,
                 "Title": "Joyride",
                 "Artist": "SPOOKY"
               },
               {
                 "Offset": 619761,
+                "Id": 2020,
                 "Title": "Wealthy Humans",
                 "Artist": "CELINE GILLAIN"
               },
               {
                 "Offset": 733574,
+                "Id": 2021,
                 "Title": "Mad About Bars",
                 "Artist": "KWENGFACE"
               },
               {
                 "Offset": 824348,
+                "Id": 2022,
                 "Title": "No Rap Cap",
                 "Artist": "M1LLIONZ"
               },
               {
                 "Offset": 982913,
+                "Id": 2023,
                 "Title": "Party Popper",
                 "Artist": "BACKROAD GEE"
               },
               {
                 "Offset": 1129157,
+                "Id": 2024,
                 "Title": "Shower Hour",
                 "Artist": "WAIFER"
               },
               {
                 "Offset": 1218494,
+                "Id": 2025,
                 "Title": "Movements",
                 "Artist": "KO & JOY ORBISON"
               }
@@ -2573,21 +2693,25 @@
             "Track": [
               {
                 "Offset": 1041,
+                "Id": 2025,
                 "Title": "Movements",
                 "Artist": "KO & JOY ORBISON"
               },
               {
                 "Offset": 2834,
+                "Id": 2026,
                 "Title": "Mad Friday",
                 "Artist": "RAP"
               },
               {
                 "Offset": 224714,
+                "Id": 2027,
                 "Title": "Presence: Martin",
                 "Artist": "THOMAS BUSH"
               },
               {
                 "Offset": 333798,
+                "Id": 2028,
                 "Title": "Submission",
                 "Artist": "POISON ANNA"
               }
@@ -2604,10 +2728,15 @@
           "Id": "hei4_radio_kult_age_of_consent",
           "Path": "dlc_hei4_music/age_of_consent",
           "Duration": 311304,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1918,
                 "Title": "Age Of Consent",
                 "Artist": "NEW ORDER"
               }
@@ -2784,10 +2913,15 @@
           "Id": "hei4_radio_kult_alien_crime_lord",
           "Path": "dlc_hei4_music/alien_crime_lord",
           "Duration": 258864,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1929,
                 "Title": "Alien Crime Lord",
                 "Artist": "THE VOIDZ"
               }
@@ -2900,10 +3034,15 @@
           "Id": "hei4_radio_kult_baby_i_love_you_so",
           "Path": "dlc_hei4_music/baby_i_love_you_so",
           "Duration": 399392,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1904,
                 "Title": "Baby I Love You So",
                 "Artist": "COLOURBOX"
               }
@@ -3032,10 +3171,15 @@
           "Id": "hei4_radio_kult_cycle",
           "Path": "dlc_hei4_music/cycle",
           "Duration": 187828,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1911,
                 "Title": "Cycle",
                 "Artist": "ICKY BLOSSOMS"
               }
@@ -3124,10 +3268,15 @@
           "Id": "hei4_radio_kult_deep",
           "Path": "dlc_hei4_music/deep",
           "Duration": 228245,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1908,
                 "Title": "Deep",
                 "Artist": "DANZIG"
               }
@@ -3216,10 +3365,15 @@
           "Id": "hei4_radio_kult_down_on_the_street",
           "Path": "dlc_hei4_music/down_on_the_street",
           "Duration": 222583,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1925,
                 "Title": "Down On The Street",
                 "Artist": "THE STOOGES"
               }
@@ -3336,10 +3490,15 @@
           "Id": "hei4_radio_kult_drab_measure",
           "Path": "dlc_hei4_music/drab_measure",
           "Duration": 271991,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1906,
                 "Title": "Drab Measure",
                 "Artist": "CRACK CLOUD"
               }
@@ -3480,6 +3639,10 @@
           "Id": "hei4_radio_kult_eisbar",
           "Path": "dlc_hei4_music/eisbar",
           "Duration": 260590,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Beat": [
               {
@@ -3558,6 +3721,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1910,
                 "Title": "Eisbar",
                 "Artist": "GRAUZONE"
               }
@@ -3604,10 +3768,15 @@
           "Id": "hei4_radio_kult_faceless",
           "Path": "dlc_hei4_music/faceless",
           "Duration": 137823,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1900,
                 "Title": "Faceless",
                 "Artist": "A CERTAIN RATIO"
               }
@@ -3716,10 +3885,15 @@
           "Id": "hei4_radio_kult_four_shadows",
           "Path": "dlc_hei4_music/four_shadows",
           "Duration": 215347,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1901,
                 "Title": "Four Shadows",
                 "Artist": "ARIEL PINK"
               }
@@ -3800,10 +3974,15 @@
           "Id": "hei4_radio_kult_girls_and_boys",
           "Path": "dlc_hei4_music/girls_and_boys",
           "Duration": 277333,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1931,
                 "Title": "Girls & Boys",
                 "Artist": "VIAGRA BOYS"
               }
@@ -3936,10 +4115,15 @@
           "Id": "hei4_radio_kult_hard_to_explain",
           "Path": "dlc_hei4_music/hard_to_explain",
           "Duration": 224025,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1926,
                 "Title": "Hard To Explain",
                 "Artist": "THE STROKES"
               }
@@ -4076,10 +4260,15 @@
           "Id": "hei4_radio_kult_human_fly",
           "Path": "dlc_hei4_music/human_fly",
           "Duration": 131000,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1923,
                 "Title": "Human Fly",
                 "Artist": "THE CRAMPS"
               }
@@ -4168,10 +4357,15 @@
           "Id": "hei4_radio_kult_its_yours",
           "Path": "dlc_hei4_music/its_yours",
           "Duration": 260293,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1922,
                 "Title": "It's Yours",
                 "Artist": "T LA ROCK"
               }
@@ -4284,10 +4478,15 @@
           "Id": "hei4_radio_kult_liebe_auf_den_ersten_blick",
           "Path": "dlc_hei4_music/liebe_auf_den_ersten_blick",
           "Duration": 233167,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1907,
                 "Title": "Liebe Auf Den Ersten Blick",
                 "Artist": "DAF"
               }
@@ -4378,10 +4577,15 @@
           "Id": "hei4_radio_kult_many_tears_ago",
           "Path": "dlc_hei4_music/many_tears_ago",
           "Duration": 114120,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1905,
                 "Title": "Many Tears Ago",
                 "Artist": "CONNIE FRANCIS"
               }
@@ -4462,10 +4666,15 @@
           "Id": "hei4_radio_kult_nightclubbing",
           "Path": "dlc_hei4_music/nightclubbing",
           "Duration": 246624,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1912,
                 "Title": "Nightclubbing",
                 "Artist": "IGGY POP"
               }
@@ -4566,10 +4775,15 @@
           "Id": "hei4_radio_kult_on_the_level",
           "Path": "dlc_hei4_music/on_the_level",
           "Duration": 217018,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1915,
                 "Title": "On The Level",
                 "Artist": "MAC DEMARCO"
               }
@@ -4654,10 +4868,15 @@
           "Id": "hei4_radio_kult_pool_song",
           "Path": "dlc_hei4_music/pool_song",
           "Duration": 197000,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1914,
                 "Title": "Pool Song",
                 "Artist": "LEA PORCELAIN"
               }
@@ -4738,10 +4957,15 @@
           "Id": "hei4_radio_kult_raga_madhuvanti",
           "Path": "dlc_hei4_music/raga_madhuvanti",
           "Duration": 299250,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1903,
                 "Title": "Raga Madhuvanti",
                 "Artist": "CHARANJIT SINGH"
               }
@@ -4870,10 +5094,15 @@
           "Id": "hei4_radio_kult_rock_and_roll",
           "Path": "dlc_hei4_music/rock_and_roll",
           "Duration": 279895,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1928,
                 "Title": "Rock And Roll",
                 "Artist": "THE VELVET UNDERGROUND"
               }
@@ -5010,10 +5239,15 @@
           "Id": "hei4_radio_kult_shes_lost_control",
           "Path": "dlc_hei4_music/shes_lost_control",
           "Duration": 228872,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1913,
                 "Title": "She's Lost Control",
                 "Artist": "JOY DIVISION"
               }
@@ -5142,10 +5376,15 @@
           "Id": "hei4_radio_kult_so_it_goes",
           "Path": "dlc_hei4_music/so_it_goes",
           "Duration": 147924,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1919,
                 "Title": "So It Goes",
                 "Artist": "NICK LOWE"
               }
@@ -5246,6 +5485,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1909,
                 "Title": "Tainted Love",
                 "Artist": "GLORIA JONES"
               }
@@ -5346,10 +5586,15 @@
           "Id": "hei4_radio_kult_take_down_the_house",
           "Path": "dlc_hei4_music/take_down_the_house",
           "Duration": 187436,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1920,
                 "Title": "Take Down The House",
                 "Artist": "PROMISELAND"
               }
@@ -5450,10 +5695,15 @@
           "Id": "hei4_radio_kult_the_adults_are_talking",
           "Path": "dlc_hei4_music/the_adults_are_talking",
           "Duration": 308696,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1927,
                 "Title": "The Adults Are Talking",
                 "Artist": "THE STROKES"
               }
@@ -5602,10 +5852,15 @@
           "Id": "hei4_radio_kult_this_is_the_day",
           "Path": "dlc_hei4_music/this_is_the_day",
           "Duration": 280000,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1930,
                 "Title": "This Is The Day",
                 "Artist": "THE THE"
               }
@@ -5746,10 +6001,15 @@
           "Id": "hei4_radio_kult_time_bomb",
           "Path": "dlc_hei4_music/time_bomb",
           "Duration": 128640,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1921,
                 "Title": "Time Bomb",
                 "Artist": "RAMONES"
               }
@@ -5854,10 +6114,15 @@
           "Id": "hei4_radio_kult_too_much_money",
           "Path": "dlc_hei4_music/too_much_money",
           "Duration": 134966,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1902,
                 "Title": "Too Much Money",
                 "Artist": "AUTOMATIC"
               }
@@ -5970,10 +6235,15 @@
           "Id": "hei4_radio_kult_tv_casualty",
           "Path": "dlc_hei4_music/tv_casualty",
           "Duration": 145600,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1917,
                 "Title": "TV Casualty",
                 "Artist": "MISFITS"
               }
@@ -6074,10 +6344,15 @@
           "Id": "hei4_radio_kult_typical_girls",
           "Path": "dlc_hei4_music/typical_girls",
           "Duration": 220943,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1924,
                 "Title": "Typical Girls",
                 "Artist": "THE SLITS"
               }
@@ -6194,10 +6469,15 @@
           "Id": "hei4_radio_kult_lft_me_lonely",
           "Path": "dlc_hei4_music/lft_me_lonely",
           "Duration": 318733,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1916,
                 "Title": "Left Me Lonely",
                 "Artist": "MC SHAN FEAT. TJ SWAN"
               }
@@ -6310,6 +6590,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 2074,
                 "Title": "Going Back To Cali",
                 "Artist": "LL COOL J"
               }
@@ -6406,10 +6687,15 @@
           "Id": "hei4_radio_kult_where_no_eagles_fly",
           "Path": "dlc_hei4_music/where_no_eagles_fly",
           "Duration": 223285,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_hei4/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 2073,
                 "Title": "Where No Eagles Fly",
                 "Artist": "THE VOIDZ"
               }
@@ -6998,46 +7284,55 @@
             "Track": [
               {
                 "Offset": 505,
+                "Id": 1846,
                 "Title": "Newborn Soul",
                 "Artist": "RAMPA"
               },
               {
                 "Offset": 273232,
+                "Id": 1847,
                 "Title": "The Rapture Pt.II",
                 "Artist": "&ME"
               },
               {
                 "Offset": 570257,
+                "Id": 1848,
                 "Title": "Crush (Unfinished) (Adam Port Edit)",
                 "Artist": "JAI PAUL"
               },
               {
                 "Offset": 816208,
+                "Id": 1849,
                 "Title": "Tell Me Are We",
                 "Artist": "RAMPA & WHOMADEWHO"
               },
               {
                 "Offset": 1165298,
+                "Id": 1850,
                 "Title": "Homeland (&ME Remix + Jinadu Vocals)",
                 "Artist": "JORIS VOORN & MATTHEW DEAR"
               },
               {
                 "Offset": 1403315,
+                "Id": 1851,
                 "Title": "Underwater (Adam Port Remix)",
                 "Artist": "RÜFÜS DU SOL"
               },
               {
                 "Offset": 1716703,
+                "Id": 1852,
                 "Title": "Garden",
                 "Artist": "&ME"
               },
               {
                 "Offset": 2030092,
+                "Id": 1853,
                 "Title": "Ganesha Song",
                 "Artist": "ADAM PORT"
               },
               {
                 "Offset": 2260174,
+                "Id": 1854,
                 "Title": "No War (Rampa Remix)",
                 "Artist": "ÂME"
               }
@@ -7288,36 +7583,43 @@
             "Track": [
               {
                 "Offset": 29871,
+                "Id": 1854,
                 "Title": "No War (Rampa Remix)",
                 "Artist": "ÂME"
               },
               {
                 "Offset": 163430,
+                "Id": 1855,
                 "Title": "You Need The Drugs (&ME Remix)",
                 "Artist": "WESTBAM FEAT. RICHARD BUTLER"
               },
               {
                 "Offset": 447066,
+                "Id": 1856,
                 "Title": "Inside",
                 "Artist": "NOMI & RAMPA"
               },
               {
                 "Offset": 661281,
+                "Id": 1857,
                 "Title": "No Dancers (Adam Port Remix)",
                 "Artist": "CUBICOLOR"
               },
               {
                 "Offset": 867562,
+                "Id": 1858,
                 "Title": "Won't Change (Rampa Retouch)",
                 "Artist": "MANQO"
               },
               {
                 "Offset": 1121447,
+                "Id": 1859,
                 "Title": "Starting Again",
                 "Artist": "&ME FEAT. ATELIER"
               },
               {
                 "Offset": 1401116,
+                "Id": 1860,
                 "Title": "Far Away Place (Rampa Remix)",
                 "Artist": "XINOBI"
               }
@@ -7500,26 +7802,31 @@
             "Track": [
               {
                 "Offset": 1029,
+                "Id": 1860,
                 "Title": "Far Away Place (Rampa Remix)",
                 "Artist": "XINOBI"
               },
               {
                 "Offset": 126369,
+                "Id": 1861,
                 "Title": "The Rapture",
                 "Artist": "&ME"
               },
               {
                 "Offset": 475460,
+                "Id": 1862,
                 "Title": "Muyè",
                 "Artist": "KEINEMUSIK"
               },
               {
                 "Offset": 762568,
+                "Id": 1863,
                 "Title": "In Your Eyes",
                 "Artist": "&ME"
               },
               {
                 "Offset": 1110171,
+                "Id": 1864,
                 "Title": "Sunday",
                 "Artist": "RAMPA"
               }
@@ -7654,26 +7961,31 @@
             "Track": [
               {
                 "Offset": 1046,
+                "Id": 1864,
                 "Title": "Sunday",
                 "Artist": "RAMPA"
               },
               {
                 "Offset": 230826,
+                "Id": 1865,
                 "Title": "A State Nearby (Adam Port Calypso Remix)",
                 "Artist": "NTEIBINT & STELLA"
               },
               {
                 "Offset": 657272,
+                "Id": 1866,
                 "Title": "Fairchild",
                 "Artist": "&ME"
               },
               {
                 "Offset": 833801,
+                "Id": 1867,
                 "Title": "For This",
                 "Artist": "RAMPA FEAT. CHIARA NORIKO"
               },
               {
                 "Offset": 1074793,
+                "Id": 1868,
                 "Title": "Tonight (Adam Port 12\" Autobahn Edit)",
                 "Artist": "HERE IS WHY"
               }
@@ -7736,31 +8048,37 @@
             "Track": [
               {
                 "Offset": 41,
+                "Id": 1823,
                 "Title": "Professor 3",
                 "Artist": "PROFESSOR RHYTHM"
               },
               {
                 "Offset": 154010,
+                "Id": 1893,
                 "Title": "Petu (Dub Mix)",
                 "Artist": "PALMS TRAX"
               },
               {
                 "Offset": 411303,
+                "Id": 1825,
                 "Title": "The MBO Theme",
                 "Artist": "KLEIN & MBO"
               },
               {
                 "Offset": 635135,
+                "Id": 1826,
                 "Title": "Baja Imperial (Maxi Version)",
                 "Artist": "PLASTIC MODE"
               },
               {
                 "Offset": 741229,
+                "Id": 1827,
                 "Title": "Let's Make Love Tonight",
                 "Artist": "L'AMOUR FEAT. KRYSTAL"
               },
               {
                 "Offset": 874897,
+                "Id": 1828,
                 "Title": "Heat You Up (Melt You Down) (Instrumental)",
                 "Artist": "SHIRLEY LITES"
               }
@@ -8033,46 +8351,55 @@
             "Track": [
               {
                 "Offset": 1033,
+                "Id": 1828,
                 "Title": "Heat You Up (Melt You Down) (Instrumental)",
                 "Artist": "SHIRLEY LITES"
               },
               {
                 "Offset": 29947,
+                "Id": 1829,
                 "Title": "Let The Music Play (Dub Version)",
                 "Artist": "SHANNON"
               },
               {
                 "Offset": 206999,
+                "Id": 1830,
                 "Title": "Transdance (New York Disco Mix)",
                 "Artist": "NIGHT MOVES"
               },
               {
                 "Offset": 369530,
+                "Id": 1831,
                 "Title": "The Rule To Survive (Prins Thomas Remix)",
                 "Artist": "N.O.I.A."
               },
               {
                 "Offset": 723332,
+                "Id": 1832,
                 "Title": "27",
                 "Artist": "TOBIAS BERNSTRUP"
               },
               {
                 "Offset": 866407,
+                "Id": 1833,
                 "Title": "Happy Song (Remix)",
                 "Artist": "BABY'S GANG"
               },
               {
                 "Offset": 997065,
+                "Id": 1834,
                 "Title": "New Dance",
                 "Artist": "MASALO"
               },
               {
                 "Offset": 1224247,
+                "Id": 1835,
                 "Title": "Get Up",
                 "Artist": "DIVA"
               },
               {
                 "Offset": 1412944,
+                "Id": 1836,
                 "Title": "Can You Feel It (Jackin Up The Dub 12\" Mix)",
                 "Artist": "MARIO DIAZ"
               }
@@ -8201,51 +8528,61 @@
             "Track": [
               {
                 "Offset": 1026,
+                "Id": 1836,
                 "Title": "Can You Feel It (Jackin Up The Dub 12\" Mix)",
                 "Artist": "MARIO DIAZ"
               },
               {
                 "Offset": 59041,
+                "Id": 1837,
                 "Title": "Freeze (Limelight Mix)",
                 "Artist": "SCRAPPY"
               },
               {
                 "Offset": 172909,
+                "Id": 1838,
                 "Title": "For The Same Man",
                 "Artist": "B BEAT GIRLS"
               },
               {
                 "Offset": 314456,
+                "Id": 1839,
                 "Title": "Got U On My Mind",
                 "Artist": "GREG LEE"
               },
               {
                 "Offset": 565653,
+                "Id": 1840,
                 "Title": "Visions",
                 "Artist": "ROBERT OWENS"
               },
               {
                 "Offset": 772876,
+                "Id": 1841,
                 "Title": "When Can I Call You (Tommy Musto & Frankie Bones British Telecom Mix)",
                 "Artist": "LISA LEE"
               },
               {
                 "Offset": 1073037,
+                "Id": 1842,
                 "Title": "Dream Girl (Original Ralphi Rosario Club Mix)",
                 "Artist": "PIERRE'S PFANTASY CLUB"
               },
               {
                 "Offset": 1200239,
+                "Id": 1843,
                 "Title": "Show Me What You Got (Acid Mix - Part 1)",
                 "Artist": "S.L.F."
               },
               {
                 "Offset": 1363762,
+                "Id": 1844,
                 "Title": "String Free (Club LeRay Mix)",
                 "Artist": "PHORTUNE"
               },
               {
                 "Offset": 1545028,
+                "Id": 1845,
                 "Title": "Indaba Kabani",
                 "Artist": "KAMAZU"
               }
@@ -8588,41 +8925,49 @@
             "Track": [
               {
                 "Offset": 999,
+                "Id": 1870,
                 "Title": "White Noise Romantica",
                 "Artist": "ADAM PORT"
               },
               {
                 "Offset": 332706,
+                "Id": 1871,
                 "Title": "Deep Musique (Rampa Remix)",
                 "Artist": "OSUNLADE, PASTABOYS"
               },
               {
                 "Offset": 611731,
+                "Id": 1872,
                 "Title": "After Dark",
                 "Artist": "&ME"
               },
               {
                 "Offset": 970267,
+                "Id": 1873,
                 "Title": "It's Not You It's Me (Adam Port Remix)",
                 "Artist": "REZNIK & MIKESH"
               },
               {
                 "Offset": 1260511,
+                "Id": 1874,
                 "Title": "Shadows",
                 "Artist": "&ME"
               },
               {
                 "Offset": 1620511,
+                "Id": 1875,
                 "Title": "Enkidu (Adam Port's Tulum By Night Edit)",
                 "Artist": "SIMPLE SYMMETRY"
               },
               {
                 "Offset": 1876121,
+                "Id": 1876,
                 "Title": "2000",
                 "Artist": "RAMPA"
               },
               {
                 "Offset": 2175146,
+                "Id": 1877,
                 "Title": "1995",
                 "Artist": "&ME"
               }
@@ -8759,31 +9104,37 @@
             "Track": [
               {
                 "Offset": 1009,
+                "Id": 1877,
                 "Title": "1995",
                 "Artist": "&ME"
               },
               {
                 "Offset": 10551,
+                "Id": 1878,
                 "Title": "Terrace",
                 "Artist": "RAMPA"
               },
               {
                 "Offset": 345185,
+                "Id": 1879,
                 "Title": "Woods",
                 "Artist": "&ME"
               },
               {
                 "Offset": 722746,
+                "Id": 1880,
                 "Title": "Connection (Reznik & Mikesh Remix)",
                 "Artist": "TÉLÉPOPMUSIK FEAT. YOUNG & SICK"
               },
               {
                 "Offset": 956892,
+                "Id": 1881,
                 "Title": "Want You (Need You) (Adam Port Remix)",
                 "Artist": "BELL TOWERS"
               },
               {
                 "Offset": 1276892,
+                "Id": 1882,
                 "Title": "Civilist",
                 "Artist": "KEINEMUSIK"
               }
@@ -8950,26 +9301,31 @@
             "Track": [
               {
                 "Offset": 1008,
+                "Id": 1882,
                 "Title": "Civilist",
                 "Artist": "KEINEMUSIK"
               },
               {
                 "Offset": 20865,
+                "Id": 1883,
                 "Title": "Bimma",
                 "Artist": "RAMPA"
               },
               {
                 "Offset": 284767,
+                "Id": 1884,
                 "Title": "Place",
                 "Artist": "ADAM PORT & STEREO MC'S"
               },
               {
                 "Offset": 630621,
+                "Id": 1885,
                 "Title": "Thunda (Rampa Remix)",
                 "Artist": "HONEY DIJON, JOHN MENDELSOHN, TIM K"
               },
               {
                 "Offset": 834523,
+                "Id": 1886,
                 "Title": "Solaris",
                 "Artist": "&ME"
               }
@@ -9100,36 +9456,43 @@
             "Track": [
               {
                 "Offset": 1014,
+                "Id": 1886,
                 "Title": "Solaris",
                 "Artist": "&ME"
               },
               {
                 "Offset": 27833,
+                "Id": 1887,
                 "Title": "Do You Still Think Of Me?",
                 "Artist": "ADAM PORT"
               },
               {
                 "Offset": 324418,
+                "Id": 1888,
                 "Title": "Trilogy",
                 "Artist": "&ME FEAT. SABOTA"
               },
               {
                 "Offset": 581491,
+                "Id": 1889,
                 "Title": "Purge",
                 "Artist": "RAMPA"
               },
               {
                 "Offset": 823443,
+                "Id": 1890,
                 "Title": "Caught In A Wave (&ME Remix)",
                 "Artist": "SIMIAN MOBILE DISCO FEAT. DEEP THROAT CHOIR"
               },
               {
                 "Offset": 1165394,
+                "Id": 1891,
                 "Title": "Run Run Run (Adam Port Remix)",
                 "Artist": "YEAH BUT NO"
               },
               {
                 "Offset": 1432711,
+                "Id": 1892,
                 "Title": "528Hz",
                 "Artist": "RAMPA"
               }
@@ -9488,41 +9851,49 @@
             "Track": [
               {
                 "Offset": 165,
+                "Id": 2029,
                 "Title": "I Can't Kick This Feeling When it Hits",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 263460,
+                "Id": 2030,
                 "Title": "Pornoviewer",
                 "Artist": "DOPPLEREFFEKT"
               },
               {
                 "Offset": 431858,
+                "Id": 2031,
                 "Title": "Sharivari",
                 "Artist": "THE DIRTBOMBS"
               },
               {
                 "Offset": 625062,
+                "Id": 2032,
                 "Title": "New For U (Live)",
                 "Artist": "ANDRES"
               },
               {
                 "Offset": 962168,
+                "Id": 2033,
                 "Title": "Zug Island",
                 "Artist": "KYLE HALL & KERO"
               },
               {
                 "Offset": 1111154,
+                "Id": 2034,
                 "Title": "Cosmic Wave (Delano Smith Remix)",
                 "Artist": "NORM TALLEY"
               },
               {
                 "Offset": 1397416,
+                "Id": 2035,
                 "Title": "My A.U.X. Mind",
                 "Artist": "AUX 88"
               },
               {
                 "Offset": 1576292,
+                "Id": 2036,
                 "Title": "Cybonix Groove",
                 "Artist": "CYBONIX"
               }
@@ -9579,46 +9950,55 @@
             "Track": [
               {
                 "Offset": 1052,
+                "Id": 2036,
                 "Title": "Cybonix Groove",
                 "Artist": "CYBONIX"
               },
               {
                 "Offset": 15435,
+                "Id": 2037,
                 "Title": "I Think Of Saturday",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 210179,
+                "Id": 2038,
                 "Title": "I'll Provide",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 502142,
+                "Id": 2039,
                 "Title": "Oscillator",
                 "Artist": "PAPERCLIP PEOPLE"
               },
               {
                 "Offset": 727393,
+                "Id": 2040,
                 "Title": "When We Used To Play",
                 "Artist": "BLAKE BAXTER"
               },
               {
                 "Offset": 931228,
+                "Id": 2041,
                 "Title": "JAN",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 1053560,
+                "Id": 2042,
                 "Title": "I'm The Baddest Bitch",
                 "Artist": "NORMA JEAN BELL"
               },
               {
                 "Offset": 1220572,
+                "Id": 2043,
                 "Title": "Runaway",
                 "Artist": "ROBERTA SWEED"
               },
               {
                 "Offset": 1419785,
+                "Id": 2044,
                 "Title": "Formula For Passion",
                 "Artist": "GMI/UHM"
               }
@@ -9857,66 +10237,79 @@
             "Track": [
               {
                 "Offset": 1025,
+                "Id": 2044,
                 "Title": "Formula For Passion",
                 "Artist": "GMI/UHM"
               },
               {
                 "Offset": 48975,
+                "Id": 2045,
                 "Title": "Power In Numbers",
                 "Artist": "WAAJEED"
               },
               {
                 "Offset": 329382,
+                "Id": 2046,
                 "Title": "Time To Express",
                 "Artist": "EDDIE FOWLKES"
               },
               {
                 "Offset": 524221,
+                "Id": 2047,
                 "Title": "Thinkin Bout You",
                 "Artist": "SHEEFY MCFLY"
               },
               {
                 "Offset": 774183,
+                "Id": 2048,
                 "Title": "Over U",
                 "Artist": "AMP FIDDLER"
               },
               {
                 "Offset": 1018539,
+                "Id": 2049,
                 "Title": "We Almost Lost Detroit",
                 "Artist": "GIL SCOTT-HERON"
               },
               {
                 "Offset": 1193716,
+                "Id": 2050,
                 "Title": "Get Back",
                 "Artist": "APOLLO BROWN FEAT. PLANET ASIA"
               },
               {
                 "Offset": 1284860,
+                "Id": 2051,
                 "Title": "Shhhh",
                 "Artist": "EGB"
               },
               {
                 "Offset": 1354227,
+                "Id": 2052,
                 "Title": "Clout",
                 "Artist": "EGB"
               },
               {
                 "Offset": 1505871,
+                "Id": 2053,
                 "Title": "Sinner",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 1641805,
+                "Id": 2054,
                 "Title": "Love",
                 "Artist": "PIRAHNAHEAD & DIVINITI"
               },
               {
                 "Offset": 1844619,
+                "Id": 2055,
                 "Title": "Got Me Coming Back Rite Now",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 2198246,
+                "Id": 2056,
                 "Title": "Soul Control",
                 "Artist": "THEO PARRISH"
               }
@@ -10135,61 +10528,73 @@
             "Track": [
               {
                 "Offset": 1022,
+                "Id": 2056,
                 "Title": "Soul Control",
                 "Artist": "THEO PARRISH"
               },
               {
                 "Offset": 98367,
+                "Id": 2057,
                 "Title": "Red Dogon Star",
                 "Artist": "MARCELLUS PITTMAN"
               },
               {
                 "Offset": 193303,
+                "Id": 2058,
                 "Title": "Rectify",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 412648,
+                "Id": 2059,
                 "Title": "Runaway",
                 "Artist": "MOODYMANN FEAT. PITCH BLACK CITY"
               },
               {
                 "Offset": 553316,
+                "Id": 2060,
                 "Title": "Let Me Show You Love",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 774972,
+                "Id": 2061,
                 "Title": "I Get Moody Sometimes",
                 "Artist": "AMP FIDDLER FEAT. MOODYMANN"
               },
               {
                 "Offset": 1044133,
+                "Id": 2062,
                 "Title": "No",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 1217298,
+                "Id": 2063,
                 "Title": "It's 2 Late 4 U & Me",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 1340002,
+                "Id": 2064,
                 "Title": "Got 2 Make It 2 Heaven",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 1453512,
+                "Id": 2065,
                 "Title": "Freeki Muthafucka",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 1692462,
+                "Id": 2066,
                 "Title": "I Got Werk",
                 "Artist": "MOODYMANN"
               },
               {
                 "Offset": 1897589,
+                "Id": 2067,
                 "Title": "1988",
                 "Artist": "MOODYMANN"
               }

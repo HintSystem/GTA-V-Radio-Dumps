@@ -12,7 +12,19 @@
         "dlc_heist3_heist3_radio_takeover_idents",
         "dlc_heist3_heist3_radio_takeover_musi_ord",
         "dlc_heist3_heist3_radio_djsolo"
-      ]
+      ],
+      "Speech": {
+        "TIME": {
+          "MORNING": {
+            "Variations": 4,
+            "ContainerPath": "dlc_heist3/time"
+          },
+          "EVENING": {
+            "Variations": 3,
+            "ContainerPath": "dlc_heist3/time"
+          }
+        }
+      }
     }
   },
   "TrackLists": {
@@ -24,10 +36,15 @@
           "Id": "dlc_heist3_act_up",
           "Path": "dlc_heist3/act_up",
           "Duration": 149453,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1770,
                 "Title": "Act Up",
                 "Artist": "CITY GIRLS"
               }
@@ -48,10 +65,15 @@
           "Id": "dlc_heist3_wings",
           "Path": "dlc_heist3/wings",
           "Duration": 142140,
+          "Intro": {
+            "Variations": 4,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1802,
                 "Title": "Wings",
                 "Artist": "SHORELINE MAFIA"
               }
@@ -80,10 +102,15 @@
           "Id": "dlc_heist3_aliens",
           "Path": "dlc_heist3/aliens",
           "Duration": 152937,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1771,
                 "Title": "AL1ENZ",
                 "Artist": "DENZEL CURRY FT. YBN CORDAE"
               }
@@ -104,10 +131,15 @@
           "Id": "dlc_heist3_bop",
           "Path": "dlc_heist3/bop",
           "Duration": 158428,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1778,
                 "Title": "BOP",
                 "Artist": "DABABY"
               }
@@ -128,10 +160,15 @@
           "Id": "dlc_heist3_cash_shit",
           "Path": "dlc_heist3/cash_shit",
           "Duration": 192054,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1779,
                 "Title": "Cash Shit",
                 "Artist": "MEGAN THEE STALLION FT. DABABY"
               }
@@ -152,10 +189,15 @@
           "Id": "dlc_heist3_crime_pays",
           "Path": "dlc_heist3/crime_pays",
           "Duration": 164031,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1780,
                 "Title": "Crime Pays",
                 "Artist": "FREDDIE GIBBS & MADLIB"
               }
@@ -184,10 +226,15 @@
           "Id": "dlc_heist3_dance_in_the_water",
           "Path": "dlc_heist3/dance_in_the_water",
           "Duration": 154789,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1822,
                 "Title": "Dance in the Water",
                 "Artist": "DANNY BROWN"
               }
@@ -208,10 +255,15 @@
           "Id": "dlc_heist3_everything_she_wants",
           "Path": "dlc_heist3/everything_she_wants",
           "Duration": 240989,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1783,
                 "Title": "Everything She Wants",
                 "Artist": "EGYPTIAN LOVER"
               }
@@ -240,10 +292,15 @@
           "Id": "dlc_heist3_highest_in_the_room",
           "Path": "dlc_heist3/highest_in_the_room",
           "Duration": 176649,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1786,
                 "Title": "Highest in the Room",
                 "Artist": "TRAVIS SCOTT"
               }
@@ -272,10 +329,15 @@
           "Id": "dlc_heist3_numb_numb_juice",
           "Path": "dlc_heist3/numb_numb_juice",
           "Duration": 107559,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1824,
                 "Title": "Numb Numb Juice",
                 "Artist": "SCHOOLBOY Q"
               }
@@ -286,10 +348,15 @@
           "Id": "dlc_heist3_pop_star",
           "Path": "dlc_heist3/pop_star",
           "Duration": 171792,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1797,
                 "Title": "POP STAR",
                 "Artist": "DABABY FT. KEVIN GATES"
               }
@@ -310,10 +377,15 @@
           "Id": "dlc_heist3_w",
           "Path": "dlc_heist3/w",
           "Duration": 229138,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1819,
                 "Title": "W",
                 "Artist": "KOFFEE FT. GUNNA"
               }
@@ -342,10 +414,15 @@
           "Id": "dlc_heist3_tbd",
           "Path": "dlc_heist3/tbd",
           "Duration": 163207,
+          "Intro": {
+            "Variations": 1,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 3839,
+                "Id": 1820,
                 "Title": "Ready to Go",
                 "Artist": "BAAUER AND CHANNEL TRES FT. DANNY BROWN"
               }
@@ -366,10 +443,15 @@
           "Id": "dlc_heist3_with_the_thing",
           "Path": "dlc_heist3/with_the_thing",
           "Duration": 218948,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1803,
                 "Title": "With the Thing",
                 "Artist": "ALKALINE"
               }
@@ -390,10 +472,15 @@
           "Id": "dlc_heist3_hot_remix",
           "Path": "dlc_heist3/hot_remix",
           "Duration": 261321,
+          "Intro": {
+            "Variations": 2,
+            "ContainerPath": "dlc_heist3/intro"
+          },
           "Markers": {
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1788,
                 "Title": "Hot (Remix)",
                 "Artist": "YOUNG THUG FT. GUNNA & TRAVIS SCOTT"
               }
@@ -617,6 +704,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1773,
                 "Title": "Back to Basics (Floating Points Remix)",
                 "Artist": "HEADIE ONE FT. SKEPTA"
               }
@@ -631,6 +719,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1806,
                 "Title": "100k on a Coupe",
                 "Artist": "POP SMOKE FT. CALBOY"
               }
@@ -645,6 +734,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1807,
                 "Title": "I Need",
                 "Artist": "SLOWTHAI"
               }
@@ -659,6 +749,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1793,
                 "Title": "Money in the Bank",
                 "Artist": "KRANIUM FT. AJ TRACEY"
               }
@@ -673,6 +764,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1789,
                 "Title": "Killin Dem",
                 "Artist": "BURNA BOY FT. ZLATAN"
               }
@@ -687,6 +779,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1812,
                 "Title": "Greaze Mode",
                 "Artist": "SKEPTA FT. NAFE SMALLZ"
               }
@@ -701,6 +794,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1791,
                 "Title": "Kitchen Kings",
                 "Artist": "D-BLOCK EUROPE"
               }
@@ -715,6 +809,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1792,
                 "Title": "Knock Your Block Off",
                 "Artist": "JME FT. GIGGS"
               }
@@ -729,6 +824,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1794,
                 "Title": "Must Be",
                 "Artist": "J HUS"
               }
@@ -743,6 +839,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1790,
                 "Title": "Kiss and Tell",
                 "Artist": "AJ TRACEY & SKEPTA"
               }
@@ -757,6 +854,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1814,
                 "Title": "Opotoyi (Marlians)",
                 "Artist": "NAIRA MARLEY"
               }
@@ -771,6 +869,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1796,
                 "Title": "Original Format",
                 "Artist": "D DOUBLE E & WATCH THE RIDE FT. DJ DIE & DISMANTLE & DIEMANTLE & DJ RANDALL"
               }
@@ -785,6 +884,7 @@
             "Track": [
               {
                 "Offset": 0,
+                "Id": 1815,
                 "Title": "Pattern Chanel",
                 "Artist": "ESSIE GANG FT. SQ DIESEL"
               }
