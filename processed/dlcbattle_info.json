@@ -1,0 +1,2296 @@
+{
+  "Stations": {
+    "radio_22_dlc_battle_mix1_radio": {
+      "Flags": "0xAA800100",
+      "Genre": "10",
+      "AmbientRadioVol": "0",
+      "RadioName": "RADIO_22_DLC_BATTLE_MIX1_RADIO",
+      "TrackLists": [
+        "battle_mix1_radio",
+        "battle_mix2_radio",
+        "battle_mix3_radio",
+        "battle_mix4_radio"
+      ]
+    }
+  },
+  "TrackLists": {
+    "battle_mix1_radio": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_battle_music_battle_mix1_radio_01",
+          "Path": "dlc_battle_music/battle_mix1_radio_01",
+          "Duration": 1704526,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 45,
+                "Id": 1717,
+                "Title": "The Plan",
+                "Artist": "AM$TRAD BILLIONAIRE"
+              },
+              {
+                "Offset": 273599,
+                "Id": 1718,
+                "Title": "Natural States (Edit)",
+                "Artist": "ARA KOUFAX"
+              },
+              {
+                "Offset": 619098,
+                "Id": 1719,
+                "Title": "In The Car Crash (Headgear's Always Crashing In The Same Car Mix)",
+                "Artist": "SWAYZAK"
+              },
+              {
+                "Offset": 976036,
+                "Id": 1720,
+                "Title": "Bitcoins (Original Mix)",
+                "Artist": "D. LYNNWOOD"
+              },
+              {
+                "Offset": 1173322,
+                "Id": 1721,
+                "Title": "Don't Stop The Dance (Todd Terje Remix)",
+                "Artist": "BRYAN FERRY"
+              },
+              {
+                "Offset": 1517692,
+                "Id": 1722,
+                "Title": "Madness Of Many",
+                "Artist": "DENIS HORVAT"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 69,
+                "Value": 2
+              },
+              {
+                "Offset": 1031,
+                "Value": 78
+              },
+              {
+                "Offset": 40359,
+                "Value": 184
+              },
+              {
+                "Offset": 133132,
+                "Value": 160
+              },
+              {
+                "Offset": 213533,
+                "Value": 120
+              },
+              {
+                "Offset": 273599,
+                "Value": 72
+              },
+              {
+                "Offset": 309512,
+                "Value": 96
+              },
+              {
+                "Offset": 357352,
+                "Value": 224
+              },
+              {
+                "Offset": 468230,
+                "Value": 128
+              },
+              {
+                "Offset": 531156,
+                "Value": 180
+              },
+              {
+                "Offset": 619098,
+                "Value": 284
+              },
+              {
+                "Offset": 756716,
+                "Value": 192
+              },
+              {
+                "Offset": 849701,
+                "Value": 4
+              },
+              {
+                "Offset": 851642,
+                "Value": 208
+              },
+              {
+                "Offset": 952757,
+                "Value": 48
+              },
+              {
+                "Offset": 976036,
+                "Value": 96
+              },
+              {
+                "Offset": 1022980,
+                "Value": 108
+              },
+              {
+                "Offset": 1075668,
+                "Value": 20
+              },
+              {
+                "Offset": 1085449,
+                "Value": 80
+              },
+              {
+                "Offset": 1124651,
+                "Value": 96
+              },
+              {
+                "Offset": 1171874,
+                "Value": 608
+              },
+              {
+                "Offset": 1468657,
+                "Value": 176
+              },
+              {
+                "Offset": 1554731,
+                "Value": 160
+              },
+              {
+                "Offset": 1633099,
+                "Value": 136
+              },
+              {
+                "Offset": 1699711,
+                "Value": 8
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 133249,
+                "Value": "start"
+              },
+              {
+                "Offset": 164225,
+                "Value": "end"
+              },
+              {
+                "Offset": 436831,
+                "Value": "start"
+              },
+              {
+                "Offset": 499685,
+                "Value": "end"
+              },
+              {
+                "Offset": 665512,
+                "Value": "start"
+              },
+              {
+                "Offset": 692954,
+                "Value": "end"
+              },
+              {
+                "Offset": 898447,
+                "Value": "start"
+              },
+              {
+                "Offset": 925499,
+                "Value": "end"
+              },
+              {
+                "Offset": 976145,
+                "Value": "start"
+              },
+              {
+                "Offset": 1014660,
+                "Value": "end"
+              },
+              {
+                "Offset": 1085213,
+                "Value": "start"
+              },
+              {
+                "Offset": 1116583,
+                "Value": "end"
+              },
+              {
+                "Offset": 1171620,
+                "Value": "start"
+              },
+              {
+                "Offset": 1219177,
+                "Value": "end"
+              },
+              {
+                "Offset": 1297322,
+                "Value": "start"
+              },
+              {
+                "Offset": 1328580,
+                "Value": "end"
+              },
+              {
+                "Offset": 1390873,
+                "Value": "start"
+              },
+              {
+                "Offset": 1429699,
+                "Value": "end"
+              },
+              {
+                "Offset": 1570272,
+                "Value": "start"
+              },
+              {
+                "Offset": 1617494,
+                "Value": "end"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_battle_music_battle_mix1_radio_02",
+          "Path": "dlc_battle_music/battle_mix1_radio_02",
+          "Duration": 2308447,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 1722,
+                "Title": "Madness Of Many",
+                "Artist": "DENIS HORVAT"
+              },
+              {
+                "Offset": 126416,
+                "Id": 1723,
+                "Title": "Incoherence",
+                "Artist": "JOHANNES BRECHT"
+              },
+              {
+                "Offset": 471523,
+                "Id": 1724,
+                "Title": "Ich Muss Los",
+                "Artist": "SOLOMUN"
+              },
+              {
+                "Offset": 751396,
+                "Id": 1725,
+                "Title": "Monster",
+                "Artist": "MATTHEW DEAR"
+              },
+              {
+                "Offset": 961032,
+                "Id": 1726,
+                "Title": "WRKTRX3",
+                "Artist": "TRUNCATE"
+              },
+              {
+                "Offset": 1200043,
+                "Id": 1727,
+                "Title": "Spin (Original Mix)",
+                "Artist": "FLOORPLAN"
+              },
+              {
+                "Offset": 1488049,
+                "Id": 1728,
+                "Title": "The Freaks Come Out (Original 2000 Freaks Mix)",
+                "Artist": "CEVIN FISHER"
+              },
+              {
+                "Offset": 1779967,
+                "Id": 1729,
+                "Title": "You're Mine (Clean Version)",
+                "Artist": "CHRIS LUM"
+              },
+              {
+                "Offset": 1979211,
+                "Id": 1730,
+                "Title": "The Q",
+                "Artist": "ALEX METRIC & TEN VEN"
+              },
+              {
+                "Offset": 2285436,
+                "Id": 1731,
+                "Title": "Customer Is King",
+                "Artist": "SOLOMUN"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 1049,
+                "Value": 144
+              },
+              {
+                "Offset": 71476,
+                "Value": 80
+              },
+              {
+                "Offset": 110578,
+                "Value": 196
+              },
+              {
+                "Offset": 206315,
+                "Value": 424
+              },
+              {
+                "Offset": 413083,
+                "Value": 120
+              },
+              {
+                "Offset": 471523,
+                "Value": 288
+              },
+              {
+                "Offset": 611633,
+                "Value": 328
+              },
+              {
+                "Offset": 770961,
+                "Value": 344
+              },
+              {
+                "Offset": 937659,
+                "Value": 512
+              },
+              {
+                "Offset": 1182766,
+                "Value": 256
+              },
+              {
+                "Offset": 1305295,
+                "Value": 64
+              },
+              {
+                "Offset": 1427829,
+                "Value": 96
+              },
+              {
+                "Offset": 1473773,
+                "Value": 416
+              },
+              {
+                "Offset": 1672876,
+                "Value": 192
+              },
+              {
+                "Offset": 1764784,
+                "Value": 192
+              },
+              {
+                "Offset": 1856681,
+                "Value": 256
+              },
+              {
+                "Offset": 2055792,
+                "Value": 384
+              },
+              {
+                "Offset": 2224273,
+                "Value": 64
+              },
+              {
+                "Offset": 2254902,
+                "Value": 96
+              },
+              {
+                "Offset": 2300848,
+                "Value": 10
+              },
+              {
+                "Offset": 2305635,
+                "Value": 6
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 1050,
+                "Value": "start"
+              },
+              {
+                "Offset": 32746,
+                "Value": "end"
+              },
+              {
+                "Offset": 126368,
+                "Value": "start"
+              },
+              {
+                "Offset": 157790,
+                "Value": "end"
+              },
+              {
+                "Offset": 206282,
+                "Value": "start"
+              },
+              {
+                "Offset": 238180,
+                "Value": "end"
+              },
+              {
+                "Offset": 378104,
+                "Value": "start"
+              },
+              {
+                "Offset": 410010,
+                "Value": "end"
+              },
+              {
+                "Offset": 471499,
+                "Value": "start"
+              },
+              {
+                "Offset": 502903,
+                "Value": "end"
+              },
+              {
+                "Offset": 611652,
+                "Value": "start"
+              },
+              {
+                "Offset": 661350,
+                "Value": "end"
+              },
+              {
+                "Offset": 937735,
+                "Value": "start"
+              },
+              {
+                "Offset": 983433,
+                "Value": "end"
+              },
+              {
+                "Offset": 1015044,
+                "Value": "start"
+              },
+              {
+                "Offset": 1044682,
+                "Value": "end"
+              },
+              {
+                "Offset": 1121653,
+                "Value": "start"
+              },
+              {
+                "Offset": 1152137,
+                "Value": "end"
+              },
+              {
+                "Offset": 1182847,
+                "Value": "start"
+              },
+              {
+                "Offset": 1214350,
+                "Value": "end"
+              },
+              {
+                "Offset": 1305290,
+                "Value": "start"
+              },
+              {
+                "Offset": 1346592,
+                "Value": "end"
+              },
+              {
+                "Offset": 1427902,
+                "Value": "start"
+              },
+              {
+                "Offset": 1458555,
+                "Value": "end"
+              },
+              {
+                "Offset": 1642868,
+                "Value": "start"
+              },
+              {
+                "Offset": 1672957,
+                "Value": "end"
+              },
+              {
+                "Offset": 1856594,
+                "Value": "start"
+              },
+              {
+                "Offset": 1887247,
+                "Value": "end"
+              },
+              {
+                "Offset": 1948497,
+                "Value": "start"
+              },
+              {
+                "Offset": 1979150,
+                "Value": "end"
+              },
+              {
+                "Offset": 2163068,
+                "Value": "start"
+              },
+              {
+                "Offset": 2197834,
+                "Value": "end"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_battle_music_battle_mix1_radio_03",
+          "Path": "dlc_battle_music/battle_mix1_radio_03",
+          "Duration": 1211157,
+          "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 1061,
+                "Value": 64
+              },
+              {
+                "Offset": 31721,
+                "Value": 16
+              },
+              {
+                "Offset": 39351,
+                "Value": 832
+              },
+              {
+                "Offset": 437725,
+                "Value": 832
+              },
+              {
+                "Offset": 838132,
+                "Value": 384
+              },
+              {
+                "Offset": 1023696,
+                "Value": 32
+              },
+              {
+                "Offset": 1039226,
+                "Value": 32
+              },
+              {
+                "Offset": 1054720,
+                "Value": 252
+              },
+              {
+                "Offset": 1176857,
+                "Value": 4
+              },
+              {
+                "Offset": 1178800,
+                "Value": 64
+              },
+              {
+                "Offset": 1209704,
+                "Value": 4
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 1731,
+                "Title": "Customer Is King",
+                "Artist": "SOLOMUN"
+              },
+              {
+                "Offset": 207889,
+                "Id": 1732,
+                "Title": "Planet 9",
+                "Artist": "ADAM PORT"
+              },
+              {
+                "Offset": 453169,
+                "Id": 1733,
+                "Title": "The End To My Beginning",
+                "Artist": "DUBFIRE"
+              },
+              {
+                "Offset": 876529,
+                "Id": 1734,
+                "Title": "You Want It Darker (Solomun Remix)",
+                "Artist": "LEONARD COHEN"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 1049,
+                "Value": "start"
+              },
+              {
+                "Offset": 31547,
+                "Value": "end"
+              },
+              {
+                "Offset": 116243,
+                "Value": "start"
+              },
+              {
+                "Offset": 131547,
+                "Value": "end"
+              },
+              {
+                "Offset": 391715,
+                "Value": "start"
+              },
+              {
+                "Offset": 422326,
+                "Value": "end"
+              },
+              {
+                "Offset": 668181,
+                "Value": "start"
+              },
+              {
+                "Offset": 700197,
+                "Value": "end"
+              },
+              {
+                "Offset": 892933,
+                "Value": "start"
+              },
+              {
+                "Offset": 938956,
+                "Value": "end"
+              },
+              {
+                "Offset": 1054647,
+                "Value": "start"
+              },
+              {
+                "Offset": 1086184,
+                "Value": "end"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "battle_mix2_radio": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_battle_music_battle_mix2_radio_01",
+          "Path": "dlc_battle_music/battle_mix2_radio_01",
+          "Duration": 1006471,
+          "Markers": {
+            "Beat": [
+              {
+                "Offset": 24,
+                "Value": 31
+              },
+              {
+                "Offset": 15450,
+                "Value": 32
+              },
+              {
+                "Offset": 30992,
+                "Value": 1936
+              },
+              {
+                "Offset": 967766,
+                "Value": 76
+              },
+              {
+                "Offset": 1004539,
+                "Value": 4
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 25,
+                "Id": 1735,
+                "Title": "Overture",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 61901,
+                "Id": 1736,
+                "Title": "1911",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 288618,
+                "Id": 1737,
+                "Title": "Trevor's Dream",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 437428,
+                "Id": 1738,
+                "Title": "Vinewood Blues",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 642747,
+                "Id": 1739,
+                "Title": "Anywhere",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 874828,
+                "Id": 1740,
+                "Title": "Symphony Of The Night",
+                "Artist": "TALE OF US"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 100672,
+                "Value": "start"
+              },
+              {
+                "Offset": 131102,
+                "Value": "end"
+              },
+              {
+                "Offset": 224535,
+                "Value": "start"
+              },
+              {
+                "Offset": 255187,
+                "Value": "end"
+              },
+              {
+                "Offset": 317442,
+                "Value": "start"
+              },
+              {
+                "Offset": 348196,
+                "Value": "end"
+              },
+              {
+                "Offset": 580670,
+                "Value": "start"
+              },
+              {
+                "Offset": 610006,
+                "Value": "end"
+              },
+              {
+                "Offset": 814865,
+                "Value": "start"
+              },
+              {
+                "Offset": 847863,
+                "Value": "end"
+              },
+              {
+                "Offset": 905831,
+                "Value": "start"
+              },
+              {
+                "Offset": 936534,
+                "Value": "end"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_battle_music_battle_mix2_radio_02",
+          "Path": "dlc_battle_music/battle_mix2_radio_02",
+          "Duration": 1350033,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 21,
+                "Id": 1740,
+                "Title": "Symphony Of The Night",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 39011,
+                "Id": 1741,
+                "Title": "Another World",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 239912,
+                "Id": 1742,
+                "Title": "The Portal",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 449926,
+                "Id": 1743,
+                "Title": "Solitude",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 728129,
+                "Id": 1744,
+                "Title": "Morgan's Fate",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 1018092,
+                "Id": 1745,
+                "Title": "Fisherman's Horizon",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 1208688,
+                "Id": 1746,
+                "Title": "Myst",
+                "Artist": "TALE OF US"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 34,
+                "Value": 5
+              },
+              {
+                "Offset": 2441,
+                "Value": 2560
+              },
+              {
+                "Offset": 1241151,
+                "Value": 32
+              },
+              {
+                "Offset": 1256635,
+                "Value": 29
+              },
+              {
+                "Offset": 1270680,
+                "Value": 80
+              },
+              {
+                "Offset": 1309389,
+                "Value": 80
+              },
+              {
+                "Offset": 1348060,
+                "Value": 4
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 32440,
+                "Value": "start"
+              },
+              {
+                "Offset": 64401,
+                "Value": "end"
+              },
+              {
+                "Offset": 126306,
+                "Value": "start"
+              },
+              {
+                "Offset": 153362,
+                "Value": "end"
+              },
+              {
+                "Offset": 186715,
+                "Value": "start"
+              },
+              {
+                "Offset": 248167,
+                "Value": "end"
+              },
+              {
+                "Offset": 388120,
+                "Value": "start"
+              },
+              {
+                "Offset": 435701,
+                "Value": "end"
+              },
+              {
+                "Offset": 786819,
+                "Value": "start"
+              },
+              {
+                "Offset": 844792,
+                "Value": "end"
+              },
+              {
+                "Offset": 1108307,
+                "Value": "start"
+              },
+              {
+                "Offset": 1138514,
+                "Value": "end"
+              },
+              {
+                "Offset": 1270897,
+                "Value": "start"
+              },
+              {
+                "Offset": 1317616,
+                "Value": "end"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_battle_music_battle_mix2_radio_03",
+          "Path": "dlc_battle_music/battle_mix2_radio_03",
+          "Duration": 1223074,
+          "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 2
+              },
+              {
+                "Offset": 1000,
+                "Value": 2524
+              },
+              {
+                "Offset": 1222290,
+                "Value": 2
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 452,
+                "Id": 1746,
+                "Title": "Myst",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 24224,
+                "Id": 1747,
+                "Title": "Seeds",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 204922,
+                "Id": 1748,
+                "Title": "Endless Journey",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 391898,
+                "Id": 1749,
+                "Title": "Valkyr",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 560004,
+                "Id": 1750,
+                "Title": "In Hyrule",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 709049,
+                "Id": 1751,
+                "Title": "Disgracelands",
+                "Artist": "TALE OF US"
+              },
+              {
+                "Offset": 944111,
+                "Id": 1752,
+                "Title": "Heart Of Darkness",
+                "Artist": "TALE OF US"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 55168,
+                "Value": "start"
+              },
+              {
+                "Offset": 92005,
+                "Value": "end"
+              },
+              {
+                "Offset": 180944,
+                "Value": "start"
+              },
+              {
+                "Offset": 209079,
+                "Value": "end"
+              },
+              {
+                "Offset": 281731,
+                "Value": "start"
+              },
+              {
+                "Offset": 320363,
+                "Value": "end"
+              },
+              {
+                "Offset": 351255,
+                "Value": "start"
+              },
+              {
+                "Offset": 378378,
+                "Value": "end"
+              },
+              {
+                "Offset": 424952,
+                "Value": "start"
+              },
+              {
+                "Offset": 478862,
+                "Value": "end"
+              },
+              {
+                "Offset": 653245,
+                "Value": "start"
+              },
+              {
+                "Offset": 699684,
+                "Value": "end"
+              },
+              {
+                "Offset": 854585,
+                "Value": "start"
+              },
+              {
+                "Offset": 907655,
+                "Value": "end"
+              },
+              {
+                "Offset": 1127536,
+                "Value": "start"
+              },
+              {
+                "Offset": 1185539,
+                "Value": "end"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "battle_mix3_radio": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_battle_music_battle_mix3_radio_01",
+          "Path": "dlc_battle_music/battle_mix3_radio_01",
+          "Duration": 1173841,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 1688,
+                "Title": "Convergence",
+                "Artist": "CARL FINLOW"
+              },
+              {
+                "Offset": 257069,
+                "Id": 1689,
+                "Title": "Yes I Do",
+                "Artist": "CARAVACA"
+              },
+              {
+                "Offset": 482360,
+                "Id": 1690,
+                "Title": "The Atmospherian (Tornado Wallace Remix)",
+                "Artist": "WARP FACTOR 9"
+              },
+              {
+                "Offset": 744932,
+                "Id": 1691,
+                "Title": "Roman (Bas Ibellini Mix)",
+                "Artist": "MASHROU' LEILA"
+              },
+              {
+                "Offset": 980259,
+                "Id": 1692,
+                "Title": "Connection (I-Cube Rework)",
+                "Artist": "FUTURE FOUR"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 19,
+                "Value": 2
+              },
+              {
+                "Offset": 1022,
+                "Value": 512
+              },
+              {
+                "Offset": 249022,
+                "Value": 56
+              },
+              {
+                "Offset": 277022,
+                "Value": 8
+              },
+              {
+                "Offset": 281042,
+                "Value": 124
+              },
+              {
+                "Offset": 343209,
+                "Value": 132
+              },
+              {
+                "Offset": 409574,
+                "Value": 64
+              },
+              {
+                "Offset": 441819,
+                "Value": 28
+              },
+              {
+                "Offset": 455988,
+                "Value": 36
+              },
+              {
+                "Offset": 474359,
+                "Value": 640
+              },
+              {
+                "Offset": 802564,
+                "Value": 32
+              },
+              {
+                "Offset": 818904,
+                "Value": 32
+              },
+              {
+                "Offset": 835114,
+                "Value": 304
+              },
+              {
+                "Offset": 988390,
+                "Value": 348
+              },
+              {
+                "Offset": 1163790,
+                "Value": 16
+              },
+              {
+                "Offset": 1171822,
+                "Value": 4
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 224991,
+                "Value": "start"
+              },
+              {
+                "Offset": 257057,
+                "Value": "end"
+              },
+              {
+                "Offset": 321109,
+                "Value": "start"
+              },
+              {
+                "Offset": 351894,
+                "Value": "end"
+              },
+              {
+                "Offset": 417531,
+                "Value": "start"
+              },
+              {
+                "Offset": 448991,
+                "Value": "end"
+              },
+              {
+                "Offset": 482267,
+                "Value": "start"
+              },
+              {
+                "Offset": 515142,
+                "Value": "end"
+              },
+              {
+                "Offset": 746925,
+                "Value": "start"
+              },
+              {
+                "Offset": 810960,
+                "Value": "end"
+              },
+              {
+                "Offset": 843164,
+                "Value": "start"
+              },
+              {
+                "Offset": 873286,
+                "Value": "end"
+              },
+              {
+                "Offset": 931989,
+                "Value": "start"
+              },
+              {
+                "Offset": 964272,
+                "Value": "end"
+              },
+              {
+                "Offset": 1044752,
+                "Value": "start"
+              },
+              {
+                "Offset": 1076989,
+                "Value": "end"
+              },
+              {
+                "Offset": 1093461,
+                "Value": "start"
+              },
+              {
+                "Offset": 1125130,
+                "Value": "end"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_battle_music_battle_mix3_radio_02",
+          "Path": "dlc_battle_music/battle_mix3_radio_02",
+          "Duration": 1391811,
+          "Markers": {
+            "Beat": [
+              {
+                "Offset": 25,
+                "Value": 2
+              },
+              {
+                "Offset": 1026,
+                "Value": 2756
+              },
+              {
+                "Offset": 1390606,
+                "Value": 4
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 28,
+                "Id": 1692,
+                "Title": "Connection (I-Cube Rework)",
+                "Artist": "FUTURE FOUR"
+              },
+              {
+                "Offset": 33315,
+                "Id": 1693,
+                "Title": "Quinquerime",
+                "Artist": "RITE DE PASSAGE"
+              },
+              {
+                "Offset": 234936,
+                "Id": 1694,
+                "Title": "Electro Pharaoh (Instrumental)",
+                "Artist": "THE EGYPTIAN LOVER"
+              },
+              {
+                "Offset": 396313,
+                "Id": 1695,
+                "Title": "Telstar",
+                "Artist": "MARCUS L."
+              },
+              {
+                "Offset": 653956,
+                "Id": 1696,
+                "Title": "Bring U Up (Deetron Edit)",
+                "Artist": "ROMANTHONY"
+              },
+              {
+                "Offset": 936883,
+                "Id": 1697,
+                "Title": "5 Seconds",
+                "Artist": "SOLAR"
+              },
+              {
+                "Offset": 1259468,
+                "Id": 1698,
+                "Title": "And Dance",
+                "Artist": "SHARIF LAFFREY"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 33318,
+                "Value": "start"
+              },
+              {
+                "Offset": 65508,
+                "Value": "end"
+              },
+              {
+                "Offset": 202579,
+                "Value": "start"
+              },
+              {
+                "Offset": 234928,
+                "Value": "end"
+              },
+              {
+                "Offset": 331851,
+                "Value": "start"
+              },
+              {
+                "Offset": 349580,
+                "Value": "end"
+              },
+              {
+                "Offset": 429004,
+                "Value": "start"
+              },
+              {
+                "Offset": 476957,
+                "Value": "end"
+              },
+              {
+                "Offset": 573867,
+                "Value": "start"
+              },
+              {
+                "Offset": 605539,
+                "Value": "end"
+              },
+              {
+                "Offset": 702794,
+                "Value": "start"
+              },
+              {
+                "Offset": 719104,
+                "Value": "end"
+              },
+              {
+                "Offset": 775433,
+                "Value": "start"
+              },
+              {
+                "Offset": 809822,
+                "Value": "end"
+              },
+              {
+                "Offset": 904359,
+                "Value": "start"
+              },
+              {
+                "Offset": 936892,
+                "Value": "end"
+              },
+              {
+                "Offset": 1033802,
+                "Value": "start"
+              },
+              {
+                "Offset": 1073909,
+                "Value": "end"
+              },
+              {
+                "Offset": 1259466,
+                "Value": "start"
+              },
+              {
+                "Offset": 1283565,
+                "Value": "end"
+              },
+              {
+                "Offset": 1324360,
+                "Value": "start"
+              },
+              {
+                "Offset": 1351901,
+                "Value": "end"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_battle_music_battle_mix3_radio_03",
+          "Path": "dlc_battle_music/battle_mix3_radio_03",
+          "Duration": 1260625,
+          "Markers": {
+            "Beat": [
+              {
+                "Offset": 25,
+                "Value": 2
+              },
+              {
+                "Offset": 1023,
+                "Value": 376
+              },
+              {
+                "Offset": 190603,
+                "Value": 304
+              },
+              {
+                "Offset": 343881,
+                "Value": 176
+              },
+              {
+                "Offset": 432620,
+                "Value": 200
+              },
+              {
+                "Offset": 532630,
+                "Value": 24
+              },
+              {
+                "Offset": 544484,
+                "Value": 64
+              },
+              {
+                "Offset": 576219,
+                "Value": 1312
+              },
+              {
+                "Offset": 1226798,
+                "Value": 60
+              },
+              {
+                "Offset": 1256551,
+                "Value": 8
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 34,
+                "Id": 1698,
+                "Title": "And Dance",
+                "Artist": "SHARIF LAFFREY"
+              },
+              {
+                "Offset": 190607,
+                "Id": 1699,
+                "Title": "Sensation (Dub Version)",
+                "Artist": "RON HARDY"
+              },
+              {
+                "Offset": 343880,
+                "Id": 1700,
+                "Title": "Sharivari (Digital Original Aux 88 Mix)",
+                "Artist": "AUX 88"
+              },
+              {
+                "Offset": 592088,
+                "Id": 1701,
+                "Title": "OAR03-B",
+                "Artist": "ONI AYHUN"
+              },
+              {
+                "Offset": 909452,
+                "Id": 1702,
+                "Title": "Reach Out Your Hand (Erol Alkan Rework) - GTA Edit",
+                "Artist": "TCK FT. JG"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 5099,
+                "Value": "start"
+              },
+              {
+                "Offset": 27179,
+                "Value": "end"
+              },
+              {
+                "Offset": 55518,
+                "Value": "start"
+              },
+              {
+                "Offset": 73522,
+                "Value": "end"
+              },
+              {
+                "Offset": 126106,
+                "Value": "start"
+              },
+              {
+                "Offset": 190603,
+                "Value": "end"
+              },
+              {
+                "Offset": 239157,
+                "Value": "start"
+              },
+              {
+                "Offset": 271258,
+                "Value": "end"
+              },
+              {
+                "Offset": 303425,
+                "Value": "start"
+              },
+              {
+                "Offset": 335323,
+                "Value": "end"
+              },
+              {
+                "Offset": 592082,
+                "Value": "start"
+              },
+              {
+                "Offset": 655559,
+                "Value": "end"
+              },
+              {
+                "Offset": 798438,
+                "Value": "start"
+              },
+              {
+                "Offset": 877397,
+                "Value": "end"
+              },
+              {
+                "Offset": 925834,
+                "Value": "start"
+              },
+              {
+                "Offset": 957019,
+                "Value": "end"
+              },
+              {
+                "Offset": 1020496,
+                "Value": "start"
+              },
+              {
+                "Offset": 1083752,
+                "Value": "end"
+              },
+              {
+                "Offset": 1179521,
+                "Value": "start"
+              },
+              {
+                "Offset": 1226852,
+                "Value": "end"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "battle_mix4_radio": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "2",
+      "Tracks": [
+        {
+          "Id": "dlc_battle_music_battle_mix4_radio_01",
+          "Path": "dlc_battle_music/battle_mix4_radio_01",
+          "Duration": 923496,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 13,
+                "Id": 1703,
+                "Title": "Sensation",
+                "Artist": "RON HARDY"
+              },
+              {
+                "Offset": 212530,
+                "Id": 1704,
+                "Title": "Where Ya At",
+                "Artist": "DERRICK CARTER"
+              },
+              {
+                "Offset": 372516,
+                "Id": 1705,
+                "Title": "Bugatti",
+                "Artist": "TIGA"
+              },
+              {
+                "Offset": 682532,
+                "Id": 1706,
+                "Title": "Miura",
+                "Artist": "METRO AREA"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 21,
+                "Value": 2
+              },
+              {
+                "Offset": 1019,
+                "Value": 14
+              },
+              {
+                "Offset": 8031,
+                "Value": 14
+              },
+              {
+                "Offset": 15050,
+                "Value": 14
+              },
+              {
+                "Offset": 22064,
+                "Value": 14
+              },
+              {
+                "Offset": 29052,
+                "Value": 14
+              },
+              {
+                "Offset": 36060,
+                "Value": 12
+              },
+              {
+                "Offset": 42033,
+                "Value": 6
+              },
+              {
+                "Offset": 45016,
+                "Value": 31
+              },
+              {
+                "Offset": 60542,
+                "Value": 28
+              },
+              {
+                "Offset": 74551,
+                "Value": 4
+              },
+              {
+                "Offset": 76537,
+                "Value": 96
+              },
+              {
+                "Offset": 124521,
+                "Value": 333
+              },
+              {
+                "Offset": 291021,
+                "Value": 35
+              },
+              {
+                "Offset": 308521,
+                "Value": 1226
+              },
+              {
+                "Offset": 921521,
+                "Value": 4
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 108504,
+                "Value": "start"
+              },
+              {
+                "Offset": 140024,
+                "Value": "end"
+              },
+              {
+                "Offset": 172560,
+                "Value": "start"
+              },
+              {
+                "Offset": 204444,
+                "Value": "end"
+              },
+              {
+                "Offset": 372613,
+                "Value": "start"
+              },
+              {
+                "Offset": 436504,
+                "Value": "end"
+              },
+              {
+                "Offset": 564491,
+                "Value": "start"
+              },
+              {
+                "Offset": 619591,
+                "Value": "end"
+              },
+              {
+                "Offset": 682562,
+                "Value": "start"
+              },
+              {
+                "Offset": 732141,
+                "Value": "end"
+              },
+              {
+                "Offset": 842545,
+                "Value": "start"
+              },
+              {
+                "Offset": 874644,
+                "Value": "end"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_battle_music_battle_mix4_radio_02",
+          "Path": "dlc_battle_music/battle_mix4_radio_02",
+          "Duration": 1772747,
+          "Markers": {
+            "Beat": [
+              {
+                "Offset": 0,
+                "Value": 624
+              },
+              {
+                "Offset": 311970,
+                "Value": 40
+              },
+              {
+                "Offset": 331965,
+                "Value": 49
+              },
+              {
+                "Offset": 356447,
+                "Value": 29
+              },
+              {
+                "Offset": 370954,
+                "Value": 6
+              },
+              {
+                "Offset": 373953,
+                "Value": 76
+              },
+              {
+                "Offset": 411969,
+                "Value": 100
+              },
+              {
+                "Offset": 461954,
+                "Value": 61
+              },
+              {
+                "Offset": 492469,
+                "Value": 72
+              },
+              {
+                "Offset": 528468,
+                "Value": 72
+              },
+              {
+                "Offset": 564500,
+                "Value": 941
+              },
+              {
+                "Offset": 1035019,
+                "Value": 117
+              },
+              {
+                "Offset": 1093519,
+                "Value": 116
+              },
+              {
+                "Offset": 1151565,
+                "Value": 80
+              },
+              {
+                "Offset": 1191737,
+                "Value": 120
+              },
+              {
+                "Offset": 1251746,
+                "Value": 59
+              },
+              {
+                "Offset": 1281229,
+                "Value": 30
+              },
+              {
+                "Offset": 1296020,
+                "Value": 6
+              },
+              {
+                "Offset": 1298960,
+                "Value": 14
+              },
+              {
+                "Offset": 1305862,
+                "Value": 9
+              },
+              {
+                "Offset": 1310255,
+                "Value": 4
+              },
+              {
+                "Offset": 1312220,
+                "Value": 4
+              },
+              {
+                "Offset": 1314199,
+                "Value": 4
+              },
+              {
+                "Offset": 1316194,
+                "Value": 4
+              },
+              {
+                "Offset": 1318151,
+                "Value": 19
+              },
+              {
+                "Offset": 1327521,
+                "Value": 11
+              },
+              {
+                "Offset": 1332936,
+                "Value": 21
+              },
+              {
+                "Offset": 1343256,
+                "Value": 5
+              },
+              {
+                "Offset": 1345707,
+                "Value": 15
+              },
+              {
+                "Offset": 1353104,
+                "Value": 13
+              },
+              {
+                "Offset": 1359500,
+                "Value": 89
+              },
+              {
+                "Offset": 1403295,
+                "Value": 33
+              },
+              {
+                "Offset": 1419751,
+                "Value": 32
+              },
+              {
+                "Offset": 1435752,
+                "Value": 32
+              },
+              {
+                "Offset": 1451713,
+                "Value": 97
+              },
+              {
+                "Offset": 1500255,
+                "Value": 166
+              },
+              {
+                "Offset": 1583233,
+                "Value": 73
+              },
+              {
+                "Offset": 1619744,
+                "Value": 272
+              },
+              {
+                "Offset": 1755763,
+                "Value": 32
+              },
+              {
+                "Offset": 1771747,
+                "Value": 2
+              }
+            ],
+            "Track": [
+              {
+                "Offset": 3,
+                "Id": 1706,
+                "Title": "Miura",
+                "Artist": "METRO AREA"
+              },
+              {
+                "Offset": 127944,
+                "Id": 1707,
+                "Title": "A Jealous Heart Never Rests",
+                "Artist": "THE BLACK MADONNA"
+              },
+              {
+                "Offset": 287201,
+                "Id": 1708,
+                "Title": "Beat Box",
+                "Artist": "ART OF NOISE"
+              },
+              {
+                "Offset": 564480,
+                "Id": 1709,
+                "Title": "We Still Believe",
+                "Artist": "THE BLACK MADONNA FT. JAMIE PRINCIPLE"
+              },
+              {
+                "Offset": 932485,
+                "Id": 1710,
+                "Title": "Can't Believe",
+                "Artist": "NANCY MARTIN"
+              },
+              {
+                "Offset": 1250776,
+                "Id": 1711,
+                "Title": "Hydraulic Pump Pt. 3",
+                "Artist": "P-FUNK ALL STARS"
+              },
+              {
+                "Offset": 1419752,
+                "Id": 1712,
+                "Title": "Computer Madness",
+                "Artist": "STEVE POINDEXTER"
+              },
+              {
+                "Offset": 1575907,
+                "Id": 1713,
+                "Title": "Devotion",
+                "Artist": "TEN CITY"
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 16087,
+                "Value": "start"
+              },
+              {
+                "Offset": 64303,
+                "Value": "end"
+              },
+              {
+                "Offset": 127931,
+                "Value": "start"
+              },
+              {
+                "Offset": 175864,
+                "Value": "end"
+              },
+              {
+                "Offset": 315947,
+                "Value": "start"
+              },
+              {
+                "Offset": 370799,
+                "Value": "end"
+              },
+              {
+                "Offset": 492486,
+                "Value": "start"
+              },
+              {
+                "Offset": 564216,
+                "Value": "end"
+              },
+              {
+                "Offset": 740586,
+                "Value": "start"
+              },
+              {
+                "Offset": 790037,
+                "Value": "end"
+              },
+              {
+                "Offset": 820586,
+                "Value": "start"
+              },
+              {
+                "Offset": 884045,
+                "Value": "end"
+              },
+              {
+                "Offset": 945480,
+                "Value": "start"
+              },
+              {
+                "Offset": 1002471,
+                "Value": "end"
+              },
+              {
+                "Offset": 1138896,
+                "Value": "start"
+              },
+              {
+                "Offset": 1182659,
+                "Value": "end"
+              },
+              {
+                "Offset": 1264634,
+                "Value": "start"
+              },
+              {
+                "Offset": 1325571,
+                "Value": "end"
+              },
+              {
+                "Offset": 1368498,
+                "Value": "start"
+              },
+              {
+                "Offset": 1419818,
+                "Value": "end"
+              },
+              {
+                "Offset": 1607923,
+                "Value": "start"
+              },
+              {
+                "Offset": 1624156,
+                "Value": "end"
+              },
+              {
+                "Offset": 1704294,
+                "Value": "start"
+              },
+              {
+                "Offset": 1755771,
+                "Value": "end"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "dlc_battle_music_battle_mix4_radio_03",
+          "Path": "dlc_battle_music/battle_mix4_radio_03",
+          "Duration": 1407922,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 12,
+                "Id": 1713,
+                "Title": "Devotion",
+                "Artist": "TEN CITY"
+              },
+              {
+                "Offset": 161006,
+                "Id": 1714,
+                "Title": "We Can Never Be Apart",
+                "Artist": "THE BLACK MADONNA"
+              },
+              {
+                "Offset": 614127,
+                "Id": 1715,
+                "Title": "Steppin' Out",
+                "Artist": "JOE JACKSON"
+              },
+              {
+                "Offset": 861734,
+                "Id": 1716,
+                "Title": "He Is The Voice I Hear",
+                "Artist": "THE BLACK MADONNA"
+              }
+            ],
+            "Beat": [
+              {
+                "Offset": 38,
+                "Value": 320
+              },
+              {
+                "Offset": 158538,
+                "Value": 65
+              },
+              {
+                "Offset": 190262,
+                "Value": 192
+              },
+              {
+                "Offset": 285538,
+                "Value": 64
+              },
+              {
+                "Offset": 317281,
+                "Value": 256
+              },
+              {
+                "Offset": 444335,
+                "Value": 64
+              },
+              {
+                "Offset": 476081,
+                "Value": 64
+              },
+              {
+                "Offset": 507876,
+                "Value": 132
+              },
+              {
+                "Offset": 573348,
+                "Value": 8
+              },
+              {
+                "Offset": 577201,
+                "Value": 8
+              },
+              {
+                "Offset": 580959,
+                "Value": 8
+              },
+              {
+                "Offset": 584639,
+                "Value": 8
+              },
+              {
+                "Offset": 588218,
+                "Value": 8
+              },
+              {
+                "Offset": 591708,
+                "Value": 8
+              },
+              {
+                "Offset": 595118,
+                "Value": 8
+              },
+              {
+                "Offset": 598464,
+                "Value": 8
+              },
+              {
+                "Offset": 601740,
+                "Value": 8
+              },
+              {
+                "Offset": 604922,
+                "Value": 8
+              },
+              {
+                "Offset": 608063,
+                "Value": 8
+              },
+              {
+                "Offset": 611125,
+                "Value": 8
+              },
+              {
+                "Offset": 614128,
+                "Value": 156
+              },
+              {
+                "Offset": 672554,
+                "Value": 112
+              },
+              {
+                "Offset": 714538,
+                "Value": 120
+              },
+              {
+                "Offset": 759469,
+                "Value": 72
+              },
+              {
+                "Offset": 786449,
+                "Value": 177
+              },
+              {
+                "Offset": 852843,
+                "Value": 1
+              },
+              {
+                "Offset": 862538,
+                "Value": 31
+              },
+              {
+                "Offset": 878038,
+                "Value": 32
+              },
+              {
+                "Offset": 894278,
+                "Value": 53
+              },
+              {
+                "Offset": 921394,
+                "Value": 249
+              },
+              {
+                "Offset": 1047971,
+                "Value": 701
+              },
+              {
+                "Offset": 1404406,
+                "Value": 6
+              }
+            ],
+            "Rockout": [
+              {
+                "Offset": 47936,
+                "Value": "start"
+              },
+              {
+                "Offset": 72105,
+                "Value": "end"
+              },
+              {
+                "Offset": 127945,
+                "Value": "start"
+              },
+              {
+                "Offset": 159826,
+                "Value": "end"
+              },
+              {
+                "Offset": 286652,
+                "Value": "start"
+              },
+              {
+                "Offset": 319389,
+                "Value": "end"
+              },
+              {
+                "Offset": 350808,
+                "Value": "start"
+              },
+              {
+                "Offset": 381877,
+                "Value": "end"
+              },
+              {
+                "Offset": 509542,
+                "Value": "start"
+              },
+              {
+                "Offset": 558064,
+                "Value": "end"
+              },
+              {
+                "Offset": 614136,
+                "Value": "start"
+              },
+              {
+                "Offset": 649373,
+                "Value": "end"
+              },
+              {
+                "Offset": 704047,
+                "Value": "start"
+              },
+              {
+                "Offset": 727958,
+                "Value": "end"
+              },
+              {
+                "Offset": 781793,
+                "Value": "start"
+              },
+              {
+                "Offset": 805704,
+                "Value": "end"
+              },
+              {
+                "Offset": 992797,
+                "Value": "start"
+              },
+              {
+                "Offset": 1027395,
+                "Value": "end"
+              },
+              {
+                "Offset": 1141540,
+                "Value": "start"
+              },
+              {
+                "Offset": 1174358,
+                "Value": "end"
+              },
+              {
+                "Offset": 1208640,
+                "Value": "start"
+              },
+              {
+                "Offset": 1283798,
+                "Value": "end"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

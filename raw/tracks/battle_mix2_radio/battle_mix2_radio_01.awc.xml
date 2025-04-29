@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <ChunkIndices value="True" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>battle_mix2_radio_01_left</Name>
+   <FileName>battle_mix2_radio_01_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="48310608" />
+    <SampleRate value="48000" />
+    <Headroom value="-201" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>beat</Name>
+       <Value value="31" />
+       <SampleOffset value="1182" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1735" />
+       <SampleOffset value="1228" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="741631" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="1936" />
+       <SampleOffset value="1487634" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1736" />
+       <SampleOffset value="2971278" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="4832275" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="6292896" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="10777692" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="12248989" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1737" />
+       <SampleOffset value="13853680" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="15237241" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="16713450" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1738" />
+       <SampleOffset value="20996551" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="27872184" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="29280297" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1739" />
+       <SampleOffset value="30851898" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="39113541" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="40697437" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1740" />
+       <SampleOffset value="41991763" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="43479927" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="44953642" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="76" />
+       <SampleOffset value="46452795" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="4" />
+       <SampleOffset value="48217900" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>battle_mix2_radio_01_right</Name>
+   <FileName>battle_mix2_radio_01_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="48310608" />
+    <SampleRate value="48000" />
+    <Headroom value="-201" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>beat</Name>
+       <Value value="31" />
+       <SampleOffset value="1182" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1735" />
+       <SampleOffset value="1228" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="32" />
+       <SampleOffset value="741631" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="1936" />
+       <SampleOffset value="1487634" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1736" />
+       <SampleOffset value="2971278" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="4832275" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="6292896" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="10777692" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="12248989" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1737" />
+       <SampleOffset value="13853680" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="15237241" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="16713450" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1738" />
+       <SampleOffset value="20996551" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="27872184" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="29280297" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1739" />
+       <SampleOffset value="30851898" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="39113541" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="40697437" />
+      </Item>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="1740" />
+       <SampleOffset value="41991763" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>start</Value>
+       <SampleOffset value="43479927" />
+      </Item>
+      <Item>
+       <Name>rockout</Name>
+       <Value>end</Value>
+       <SampleOffset value="44953642" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="76" />
+       <SampleOffset value="46452795" />
+      </Item>
+      <Item>
+       <Name>beat</Name>
+       <Value value="4" />
+       <SampleOffset value="48217900" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

@@ -191,6 +191,9 @@ def GetAwcMarkers(tracklist_id: str, track_path: str):
         return
 
     track_info_path = trackinfo_path / tracklist_id / (Path(track_path).name + ".awc.xml")
+    if not track_info_path.is_file():
+        return
+
     awc_info = etree.parse(track_info_path)
 
     if track_info_path.is_file():
@@ -427,9 +430,9 @@ def merge_exports(dlc_names: list[str] = None):
 # The order reflects their chronological release, with 'base' representing base game content.
 all_dlc = ['base', 'dlcbeach', 'dlcvalentines', 'dlcbusiness', 'dlcbusi2', 'dlcthelab', 'dlchipster', 'dlcindependence', 'dlcpilotschool', 'dlcmplts', 'dlcxmas2', 'dlcmpheist', 'dlcluxe', 'dlcthelab', 'dlcsfx1', 'dlclowrider', 'dlchalloween', 'dlcapartment', 'dlcxmas3', 'dlcjanuary2016', 'mpvalentines2', 'dlclow2', 'dlcexec1', 'dlcstunt', 'dlcbiker', 'dlcimportexport', 'dlcspecialraces', 'dlcgunrunning', 'dlcairraces', 'dlcsmuggler', 'dlcchristmas2017', 'dlcassault', 'dlcbattle', 'dlcawxm2018', 'dlcvinewood', 'dlcheist3', 'dlcsum20', 'dlchei4', 'dlctuner', 'dlcsecurity', 'dlcg9ec', 'dlcmpsum2', 'dlccm2022', 'dlcmp2023_1', 'dlc23_2', 'dlc24-1', 'dlc24-2']
 # Subset of the above DLCs that contain radio station metadata
-all_radio_dlc = ['base', 'dlcthelab', 'dlcchristmas2017', 'dlcheist3', 'dlcsum20', 'dlchei4', 'dlctuner', 'dlcsecurity', 'dlcmpsum2', 'dlc23_2', 'dlc24-1']
+all_radio_dlc = ['base', 'dlcthelab', 'dlcchristmas2017', 'dlcbattle', 'dlcheist3', 'dlcsum20', 'dlchei4', 'dlctuner', 'dlcsecurity', 'dlcmpsum2', 'dlc23_2', 'dlc24-1']
 # List of all known radio station identifiers (excluding ones not shown on radio wheel)
-all_stations = ["radio_01_class_rock", "radio_02_pop", "radio_03_hiphop_new", "radio_04_punk", "radio_05_talk_01", "radio_06_country", "radio_07_dance_01", "radio_08_mexican", "radio_09_hiphop_old", "radio_11_talk_02", "radio_12_reggae", "radio_13_jazz", "radio_14_dance_02", "radio_15_motown", "radio_16_silverlake", "radio_17_funk", "radio_18_90s_rock", "radio_19_user", "radio_20_thelab", "radio_21_dlc_xm17", "radio_23_dlc_xm19_radio", "radio_27_dlc_prhei4", "radio_34_dlc_hei4_kult", "radio_35_dlc_hei4_mlr", "radio_36_audioplayer", "radio_37_motomami"]
+all_stations = ["radio_01_class_rock", "radio_02_pop", "radio_03_hiphop_new", "radio_04_punk", "radio_05_talk_01", "radio_06_country", "radio_07_dance_01", "radio_08_mexican", "radio_09_hiphop_old", "radio_11_talk_02", "radio_12_reggae", "radio_13_jazz", "radio_14_dance_02", "radio_15_motown", "radio_16_silverlake", "radio_17_funk", "radio_18_90s_rock", "radio_19_user", "radio_20_thelab", "radio_21_dlc_xm17", "radio_22_dlc_battle_mix1_radio", "radio_23_dlc_xm19_radio", "radio_27_dlc_prhei4", "radio_34_dlc_hei4_kult", "radio_35_dlc_hei4_mlr", "radio_36_audioplayer", "radio_37_motomami"]
 
 for dlc in all_radio_dlc:
     print(ANSI(f"\n\nLoading radio dlc: '{ANSI(dlc).bold()}'").green())
