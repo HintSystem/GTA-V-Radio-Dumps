@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <ChunkIndices value="True" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>kult_ad010_scorpio_left</Name>
+   <FileName>kult_ad010_scorpio_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="2676823" />
+    <SampleRate value="48000" />
+    <Headroom value="-200" />
+   </StreamFormat>
+  </Item>
+  <Item>
+   <Name>kult_ad010_scorpio_right</Name>
+   <FileName>kult_ad010_scorpio_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="2676823" />
+    <SampleRate value="48000" />
+    <Headroom value="-200" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

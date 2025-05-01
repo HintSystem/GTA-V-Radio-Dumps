@@ -197,9 +197,12 @@ def GetAwcMarkers(tracklist_id: str, track_path: str):
     awc_info = etree.parse(track_info_path)
 
     if track_info_path.is_file():
-        markers: _Element = awc_info.xpath("//Markers")[0]
+        markers: _Element = awc_info.xpath("//Markers")
+        if not markers:
+            return
+
         stream_info = awc_info.xpath("//StreamFormat")[0]
-        return xml.marker_dict_awc(markers, xml.to_dict(stream_info))
+        return xml.marker_dict_awc(markers[0], xml.to_dict(stream_info))
     
     return
 
@@ -329,7 +332,7 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
             track_info = {"Id": track_id_resolved} | GetStreamingSoundInfo(sound_index, track_id, dlcname, tracklist_id)
             
             markers = None
-            if tracklist_info["Category"] == "2":
+            if tracklist_info["Category"] in ("0", "2"):
                 markers = GetAwcMarkers(tracklist_id, track_info.get("Path"))
                 
                 radio_name = export_track_info['Stations'][station_id].get("RadioName") or station_id

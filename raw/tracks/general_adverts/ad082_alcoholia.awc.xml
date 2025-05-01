@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioWaveContainer>
+ <Version value="1" />
+ <MultiChannel value="True" />
+ <MultiChannelEncrypt value="True" />
+ <Streams>
+  <Item>
+   <Name />
+   <Chunks>
+    <Item>
+     <Type>streamformat</Type>
+     <BlockSize value="524288" />
+    </Item>
+    <Item>
+     <Type>data</Type>
+    </Item>
+    <Item>
+     <Type>seektable</Type>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>ad082_alcoholia_left</Name>
+   <FileName>ad082_alcoholia_left.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="2317056" />
+    <SampleRate value="48000" />
+    <Headroom value="135" />
+   </StreamFormat>
+   <Chunks>
+    <Item>
+     <Type>markers</Type>
+     <Markers>
+      <Item>
+       <Name>trackid</Name>
+       <Value value="3180" />
+       <SampleOffset value="0" />
+      </Item>
+     </Markers>
+    </Item>
+   </Chunks>
+  </Item>
+  <Item>
+   <Name>ad082_alcoholia_right</Name>
+   <FileName>ad082_alcoholia_right.wav</FileName>
+   <StreamFormat>
+    <Codec>7</Codec>
+    <Samples value="2317056" />
+    <SampleRate value="48000" />
+    <Headroom value="135" />
+   </StreamFormat>
+  </Item>
+ </Streams>
+</AudioWaveContainer>

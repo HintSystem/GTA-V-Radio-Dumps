@@ -5218,55 +5218,145 @@
           "Id": "radio_adverts_mono_ad_ng_001_extpal",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_001_extpal",
-          "Duration": 49941
+          "Duration": 49941,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3196,
+                "Title": "Extreme Paleo TM \"Get Extreme\"",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_002_extpal",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_002_extpal",
-          "Duration": 48341
+          "Duration": 48341,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3197,
+                "Title": "Extreme Paleo TM 2 \"Real Paleo\"",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_003_macrac",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_003_macrac",
-          "Duration": 47658
+          "Duration": 47658,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3198,
+                "Title": "Machiavelli Race \"Win\"",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_004_macrac2",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_004_macrac2",
-          "Duration": 47658
+          "Duration": 47658,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3199,
+                "Title": "Machiavelli Race \"The Race\"",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_005_mysta",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_005_mysta",
-          "Duration": 55717
+          "Duration": 55717,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3200,
+                "Title": "Mystaspot",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_006_phachi",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_006_phachi",
-          "Duration": 54576
+          "Duration": 54576,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3201,
+                "Title": "Phat Chips",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_007_tcse",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_007_tcse",
-          "Duration": 60842
+          "Duration": 60842,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3202,
+                "Title": "TCS Energy Pro 1",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_008_tcse2",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_008_tcse2",
-          "Duration": 48344
+          "Duration": 48344,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3203,
+                "Title": "TCS Energy Pro 2",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_009_vislib",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_009_vislib",
-          "Duration": 52266
+          "Duration": 52266,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3204,
+                "Title": "Visit Liberty City",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         }
       ]
     },
@@ -23994,55 +24084,145 @@
           "Id": "radio_adverts_mono_ad_ng_009_vislib",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_009_vislib",
-          "Duration": 52266
+          "Duration": 52266,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3204,
+                "Title": "Visit Liberty City",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_008_tcse2",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_008_tcse2",
-          "Duration": 48344
+          "Duration": 48344,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3203,
+                "Title": "TCS Energy Pro 2",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_007_tcse",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_007_tcse",
-          "Duration": 60842
+          "Duration": 60842,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3202,
+                "Title": "TCS Energy Pro 1",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_006_phachi",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_006_phachi",
-          "Duration": 54576
+          "Duration": 54576,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3201,
+                "Title": "Phat Chips",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_005_mysta",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_005_mysta",
-          "Duration": 55717
+          "Duration": 55717,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3200,
+                "Title": "Mystaspot",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_004_macrac2",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_004_macrac2",
-          "Duration": 47658
+          "Duration": 47658,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3199,
+                "Title": "Machiavelli Race \"The Race\"",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_003_macrac",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_003_macrac",
-          "Duration": 47658
+          "Duration": 47658,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3198,
+                "Title": "Machiavelli Race \"Win\"",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_002_extpal",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_002_extpal",
-          "Duration": 48341
+          "Duration": 48341,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3197,
+                "Title": "Extreme Paleo TM 2 \"Real Paleo\"",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         },
         {
           "Id": "radio_adverts_mono_ad_ng_001_extpal",
           "DlcPath": "update/%PLATFORM%/dlcpacks/patchday2bng",
           "Path": "dlc_update/mono_ad_ng_001_extpal",
-          "Duration": 49941
+          "Duration": 49941,
+          "Markers": {
+            "Track": [
+              {
+                "Offset": 0,
+                "Id": 3196,
+                "Title": "Extreme Paleo TM \"Get Extreme\"",
+                "Artist": "Commercial"
+              }
+            ]
+          }
         }
       ]
     },
