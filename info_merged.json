@@ -654,6 +654,553 @@
     }
   },
   "TrackLists": {
+    "RADIO_NEWS_01": {
+      "Flags": "0xAAAAAAA1",
+      "Category": "3",
+      "Tracks": [
+        {
+          "Id": "radio_news_mono_news_01",
+          "Path": "radio_news/mono_news_01",
+          "Duration": 150162
+        },
+        {
+          "Id": "radio_news_mono_news_02",
+          "Path": "radio_news/mono_news_02",
+          "Duration": 151333
+        },
+        {
+          "Id": "radio_news_mono_news_03",
+          "Path": "radio_news/mono_news_03",
+          "Duration": 104751
+        },
+        {
+          "Id": "radio_news_mono_news_04",
+          "Path": "radio_news/mono_news_04",
+          "Duration": 148306
+        },
+        {
+          "Id": "radio_news_mono_news_05",
+          "Path": "radio_news/mono_news_05",
+          "Duration": 121782
+        },
+        {
+          "Id": "radio_news_mono_news_06",
+          "Path": "radio_news/mono_news_06",
+          "Duration": 141692
+        },
+        {
+          "Id": "radio_news_mono_news_07",
+          "Path": "radio_news/mono_news_07",
+          "Duration": 100216
+        },
+        {
+          "Id": "radio_news_mono_news_08",
+          "Path": "radio_news/mono_news_08",
+          "Duration": 131703
+        },
+        {
+          "Id": "radio_news_mono_news_09",
+          "Path": "radio_news/mono_news_09",
+          "Duration": 125542
+        },
+        {
+          "Id": "radio_news_mono_news_10",
+          "Path": "radio_news/mono_news_10",
+          "Duration": 104176
+        },
+        {
+          "Id": "radio_news_mono_news_11",
+          "Path": "radio_news/mono_news_11",
+          "Duration": 121767
+        },
+        {
+          "Id": "radio_news_mono_news_12",
+          "Path": "radio_news/mono_news_12",
+          "Duration": 123320
+        },
+        {
+          "Id": "radio_news_mono_news_13",
+          "Path": "radio_news/mono_news_13",
+          "Duration": 83079
+        },
+        {
+          "Id": "radio_news_mono_news_14",
+          "Path": "radio_news/mono_news_14",
+          "Duration": 149203
+        },
+        {
+          "Id": "radio_news_mono_news_15",
+          "Path": "radio_news/mono_news_15",
+          "Duration": 131379
+        },
+        {
+          "Id": "radio_news_mono_news_16",
+          "Path": "radio_news/mono_news_16",
+          "Duration": 73796
+        },
+        {
+          "Id": "radio_news_mono_news_17",
+          "Path": "radio_news/mono_news_17",
+          "Duration": 87267
+        },
+        {
+          "Id": "radio_news_mono_news_18",
+          "Path": "radio_news/mono_news_18",
+          "Duration": 101286
+        },
+        {
+          "Id": "radio_news_mono_news_19",
+          "Path": "radio_news/mono_news_19",
+          "Duration": 111887
+        },
+        {
+          "Id": "radio_news_mono_news_20",
+          "Path": "radio_news/mono_news_20",
+          "Duration": 66795
+        },
+        {
+          "Id": "radio_news_mono_news_21",
+          "Path": "radio_news/mono_news_21",
+          "Duration": 121810
+        },
+        {
+          "Id": "radio_news_mono_news_22",
+          "Path": "radio_news/mono_news_22",
+          "Duration": 115790
+        },
+        {
+          "Id": "radio_news_mono_news_23",
+          "Path": "radio_news/mono_news_23",
+          "Duration": 117974
+        },
+        {
+          "Id": "radio_news_mono_news_24",
+          "Path": "radio_news/mono_news_24",
+          "Duration": 88230
+        },
+        {
+          "Id": "radio_news_mono_news_25",
+          "Path": "radio_news/mono_news_25",
+          "Duration": 98214
+        },
+        {
+          "Id": "radio_news_mono_news_26",
+          "Path": "radio_news/mono_news_26",
+          "Duration": 90411
+        },
+        {
+          "Id": "radio_news_mono_news_27",
+          "Path": "radio_news/mono_news_27",
+          "Duration": 82258
+        },
+        {
+          "Id": "radio_news_mono_news_28",
+          "Path": "radio_news/mono_news_28",
+          "Duration": 106890
+        },
+        {
+          "Id": "radio_news_mono_news_29",
+          "Path": "radio_news/mono_news_29",
+          "Duration": 114620
+        },
+        {
+          "Id": "radio_news_mono_news_30",
+          "Path": "radio_news/mono_news_30",
+          "Duration": 81185
+        },
+        {
+          "Id": "radio_news_mono_news_31",
+          "Path": "radio_news/mono_news_31",
+          "Duration": 105302
+        },
+        {
+          "Id": "radio_news_mono_news_32",
+          "Path": "radio_news/mono_news_32",
+          "Duration": 49532
+        },
+        {
+          "Id": "radio_news_mono_news_33",
+          "Path": "radio_news/mono_news_33",
+          "Duration": 50270
+        },
+        {
+          "Id": "radio_news_mono_news_34",
+          "Path": "radio_news/mono_news_34",
+          "Duration": 102946
+        },
+        {
+          "Id": "radio_news_mono_news_35",
+          "Path": "radio_news/mono_news_35",
+          "Duration": 98543
+        },
+        {
+          "Id": "radio_news_mono_news_36",
+          "Path": "radio_news/mono_news_36",
+          "Duration": 79038
+        },
+        {
+          "Id": "radio_news_mono_news_37",
+          "Path": "radio_news/mono_news_37",
+          "Duration": 86769
+        },
+        {
+          "Id": "radio_news_mono_news_38",
+          "Path": "radio_news/mono_news_38",
+          "Duration": 64024
+        },
+        {
+          "Id": "radio_news_mono_news_39",
+          "Path": "radio_news/mono_news_39",
+          "Duration": 92689
+        },
+        {
+          "Id": "radio_news_mono_news_40",
+          "Path": "radio_news/mono_news_40",
+          "Duration": 92678
+        },
+        {
+          "Id": "radio_news_mono_news_41",
+          "Path": "radio_news/mono_news_41",
+          "Duration": 87767
+        },
+        {
+          "Id": "radio_news_mono_news_42",
+          "Path": "radio_news/mono_news_42",
+          "Duration": 46312
+        },
+        {
+          "Id": "radio_news_mono_news_43",
+          "Path": "radio_news/mono_news_43",
+          "Duration": 71997
+        },
+        {
+          "Id": "radio_news_mono_news_44",
+          "Path": "radio_news/mono_news_44",
+          "Duration": 57405
+        },
+        {
+          "Id": "radio_news_mono_news_45",
+          "Path": "radio_news/mono_news_45",
+          "Duration": 59453
+        },
+        {
+          "Id": "radio_news_mono_news_46",
+          "Path": "radio_news/mono_news_46",
+          "Duration": 60306
+        },
+        {
+          "Id": "radio_news_mono_news_47",
+          "Path": "radio_news/mono_news_47",
+          "Duration": 49128
+        },
+        {
+          "Id": "radio_news_mono_news_48",
+          "Path": "radio_news/mono_news_48",
+          "Duration": 59538
+        },
+        {
+          "Id": "radio_news_mono_news_49",
+          "Path": "radio_news/mono_news_49",
+          "Duration": 65682
+        },
+        {
+          "Id": "radio_news_mono_news_50",
+          "Path": "radio_news/mono_news_50",
+          "Duration": 49981
+        },
+        {
+          "Id": "radio_news_mono_news_51",
+          "Path": "radio_news/mono_news_51",
+          "Duration": 65512
+        },
+        {
+          "Id": "radio_news_mono_news_52",
+          "Path": "radio_news/mono_news_52",
+          "Duration": 56466
+        },
+        {
+          "Id": "radio_news_mono_news_53",
+          "Path": "radio_news/mono_news_53",
+          "Duration": 49640
+        },
+        {
+          "Id": "radio_news_mono_news_54",
+          "Path": "radio_news/mono_news_54",
+          "Duration": 59026
+        },
+        {
+          "Id": "radio_news_mono_news_55",
+          "Path": "radio_news/mono_news_55",
+          "Duration": 59368
+        },
+        {
+          "Id": "radio_news_mono_news_56",
+          "Path": "radio_news/mono_news_56",
+          "Duration": 51959
+        },
+        {
+          "Id": "radio_news_mono_news_57",
+          "Path": "radio_news/mono_news_57",
+          "Duration": 53888
+        },
+        {
+          "Id": "radio_news_mono_news_58",
+          "Path": "radio_news/mono_news_58",
+          "Duration": 63728
+        },
+        {
+          "Id": "radio_news_mono_news_59",
+          "Path": "radio_news/mono_news_59",
+          "Duration": 59659
+        },
+        {
+          "Id": "radio_news_mono_news_60",
+          "Path": "radio_news/mono_news_60",
+          "Duration": 72720
+        },
+        {
+          "Id": "radio_news_mono_news_61",
+          "Path": "radio_news/mono_news_61",
+          "Duration": 49130
+        },
+        {
+          "Id": "radio_news_mono_news_62",
+          "Path": "radio_news/mono_news_62",
+          "Duration": 77044
+        },
+        {
+          "Id": "radio_news_mono_news_63",
+          "Path": "radio_news/mono_news_63",
+          "Duration": 56554
+        },
+        {
+          "Id": "radio_news_mono_news_64",
+          "Path": "radio_news/mono_news_64",
+          "Duration": 57246
+        }
+      ]
+    },
+    "RADIO_NEWS_02": {
+      "Flags": "0xAAAAAAA0",
+      "Category": "3",
+      "Tracks": [
+        {
+          "Id": "radio_news_mono_news_81",
+          "Path": "radio_news/mono_news_81",
+          "Duration": 59709
+        },
+        {
+          "Id": "radio_news_mono_news_82",
+          "Path": "radio_news/mono_news_82",
+          "Duration": 65469
+        },
+        {
+          "Id": "radio_news_mono_news_83",
+          "Path": "radio_news/mono_news_83",
+          "Duration": 65256
+        },
+        {
+          "Id": "radio_news_mono_news_84",
+          "Path": "radio_news/mono_news_84",
+          "Duration": 63464
+        },
+        {
+          "Id": "radio_news_mono_news_85",
+          "Path": "radio_news/mono_news_85",
+          "Duration": 64744
+        },
+        {
+          "Id": "radio_news_mono_news_86",
+          "Path": "radio_news/mono_news_86",
+          "Duration": 55272
+        },
+        {
+          "Id": "radio_news_mono_news_87",
+          "Path": "radio_news/mono_news_87",
+          "Duration": 48786
+        },
+        {
+          "Id": "radio_news_mono_news_88",
+          "Path": "radio_news/mono_news_88",
+          "Duration": 78397
+        },
+        {
+          "Id": "radio_news_mono_news_89",
+          "Path": "radio_news/mono_news_89",
+          "Duration": 67048
+        },
+        {
+          "Id": "radio_news_mono_news_90",
+          "Path": "radio_news/mono_news_90",
+          "Duration": 64061
+        },
+        {
+          "Id": "radio_news_mono_news_91",
+          "Path": "radio_news/mono_news_91",
+          "Duration": 37138
+        },
+        {
+          "Id": "radio_news_mono_news_92",
+          "Path": "radio_news/mono_news_92",
+          "Duration": 56978
+        },
+        {
+          "Id": "radio_news_mono_news_93",
+          "Path": "radio_news/mono_news_93",
+          "Duration": 63976
+        },
+        {
+          "Id": "radio_news_mono_news_94",
+          "Path": "radio_news/mono_news_94",
+          "Duration": 69693
+        },
+        {
+          "Id": "radio_news_mono_news_95",
+          "Path": "radio_news/mono_news_95",
+          "Duration": 62952
+        },
+        {
+          "Id": "radio_news_mono_news_96",
+          "Path": "radio_news/mono_news_96",
+          "Duration": 56466
+        },
+        {
+          "Id": "radio_news_mono_news_97",
+          "Path": "radio_news/mono_news_97",
+          "Duration": 61330
+        },
+        {
+          "Id": "radio_news_mono_news_98",
+          "Path": "radio_news/mono_news_98",
+          "Duration": 66536
+        },
+        {
+          "Id": "radio_news_mono_news_99",
+          "Path": "radio_news/mono_news_99",
+          "Duration": 61245
+        },
+        {
+          "Id": "radio_news_mono_news_100",
+          "Path": "radio_news/mono_news_100",
+          "Duration": 50834
+        },
+        {
+          "Id": "radio_news_mono_news_101",
+          "Path": "radio_news/mono_news_101",
+          "Duration": 68584
+        },
+        {
+          "Id": "radio_news_mono_news_102",
+          "Path": "radio_news/mono_news_102",
+          "Duration": 58514
+        },
+        {
+          "Id": "radio_news_mono_news_103",
+          "Path": "radio_news/mono_news_103",
+          "Duration": 67389
+        },
+        {
+          "Id": "radio_news_mono_news_104",
+          "Path": "radio_news/mono_news_104",
+          "Duration": 49384
+        },
+        {
+          "Id": "radio_news_mono_news_105",
+          "Path": "radio_news/mono_news_105",
+          "Duration": 45714
+        },
+        {
+          "Id": "radio_news_mono_news_106",
+          "Path": "radio_news/mono_news_106",
+          "Duration": 56381
+        },
+        {
+          "Id": "radio_news_mono_news_107",
+          "Path": "radio_news/mono_news_107",
+          "Duration": 70376
+        },
+        {
+          "Id": "radio_news_mono_news_108",
+          "Path": "radio_news/mono_news_108",
+          "Duration": 63037
+        },
+        {
+          "Id": "radio_news_mono_news_109",
+          "Path": "radio_news/mono_news_109",
+          "Duration": 70973
+        },
+        {
+          "Id": "radio_news_mono_news_110",
+          "Path": "radio_news/mono_news_110",
+          "Duration": 46397
+        },
+        {
+          "Id": "radio_news_mono_news_111",
+          "Path": "radio_news/mono_news_111",
+          "Duration": 66450
+        },
+        {
+          "Id": "radio_news_mono_news_112",
+          "Path": "radio_news/mono_news_112",
+          "Duration": 65597
+        },
+        {
+          "Id": "radio_news_mono_news_113",
+          "Path": "radio_news/mono_news_113",
+          "Duration": 48104
+        },
+        {
+          "Id": "radio_news_mono_news_114",
+          "Path": "radio_news/mono_news_114",
+          "Duration": 38717
+        },
+        {
+          "Id": "radio_news_mono_news_115",
+          "Path": "radio_news/mono_news_115",
+          "Duration": 76776
+        },
+        {
+          "Id": "radio_news_mono_news_116",
+          "Path": "radio_news/mono_news_116",
+          "Duration": 46397
+        },
+        {
+          "Id": "radio_news_mono_news_117",
+          "Path": "radio_news/mono_news_117",
+          "Duration": 56722
+        },
+        {
+          "Id": "radio_news_mono_news_118",
+          "Path": "radio_news/mono_news_118",
+          "Duration": 63378
+        },
+        {
+          "Id": "radio_news_mono_news_119",
+          "Path": "radio_news/mono_news_119",
+          "Duration": 59880
+        },
+        {
+          "Id": "radio_news_mono_news_120",
+          "Path": "radio_news/mono_news_120",
+          "Duration": 72338
+        },
+        {
+          "Id": "radio_news_mono_news_121",
+          "Path": "radio_news/mono_news_121",
+          "Duration": 74728
+        },
+        {
+          "Id": "radio_news_mono_news_122",
+          "Path": "radio_news/mono_news_122",
+          "Duration": 36712
+        },
+        {
+          "Id": "radio_news_mono_news_123",
+          "Path": "radio_news/mono_news_123",
+          "Duration": 62013
+        }
+      ]
+    },
     "radio_01_class_rock_djsolo": {
       "DlcPath": "%PLATFORM%/audio/sfx",
       "Flags": "0xAAAAAAA0",

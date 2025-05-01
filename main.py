@@ -22,11 +22,11 @@ def resolve_dlc_path(dlcname: str, file_path: str):
     return f"{full_dlc_path(dlcname_paths[dlcname][0])}/{file_path}"
 
 solved_sounds: dict[str, str] = {}
-def GetStreamingSoundInfo(sounds_index: xml.TypeIndex, sound_id: str, dlcname: str, tracklist_id: str):
-    if sounds_index == None:
+def GetStreamingSoundInfo(sound_index: xml.TypeIndex, sound_id: str, dlcname: str, tracklist_id: str):
+    if sound_index == None:
         return {}
 
-    streaming_sound: _Element = sounds_index.get("StreamingSound", sound_id, True)
+    streaming_sound: _Element = sound_index.get("StreamingSound", sound_id, True)
     if streaming_sound == None:
         if sound_id in solved_sounds:
             equivalent_track_list = solved_sounds[sound_id]
@@ -49,7 +49,7 @@ def GetStreamingSoundInfo(sounds_index: xml.TypeIndex, sound_id: str, dlcname: s
         if not item.text:
             continue
 
-        simple_sound: _Element = sounds_index.get("SimpleSound", item.text)
+        simple_sound: _Element = sound_index.get("SimpleSound", item.text)
         container_name = simple_sound.xpath("./ContainerName")[0]
         path = container_name.text
 
@@ -353,9 +353,46 @@ def export_dlc_radio_info(station_list: list[str], dlcname: str = "base", data_p
 
     return True
 
+def get_news_tracklists():
+    print(ANSI("\n\nLoading news track lists").green())
+
+    game_index, _ = try_load_data(
+        "base", data_dir, "game.dat151.rel.xml",
+        ["RadioStationTrackList"]
+    )
+    sound_index, _ = try_load_data(
+        "base", data_dir, "sounds.dat54.rel.xml",
+        ["StreamingSound", "SimpleSound"]
+    )
+
+    nametables = HashMap()
+    nametables.load_nametable(data_dir / dlc_file("base", "sounds.dat54.nametable"))
+
+    tracklists_result = {}
+    for index in range(1, 64):
+        tracklist_id = f"RADIO_NEWS_{index:02d}"
+        tracklist_el = game_index.get("RadioStationTrackList", tracklist_id, True)
+        if tracklist_el == None:
+            continue
+
+        tracklist_info = filter_dict(xml.to_dict(tracklist_el, 1), {"Flags", "Category"})
+        tracklist_info["Tracks"] = []
+
+        for track in tracklist_el.xpath("./Tracks/Item/SoundRef"):
+            track_id: str = track.text
+            track_id_resolved = nametables.resolve_string(track_id)
+
+            track_info = {"Id": track_id_resolved} | GetStreamingSoundInfo(sound_index, track_id, "base", tracklist_id)
+            tracklist_info["Tracks"].append(track_info)
+
+        tracklists_result[tracklist_id] = tracklist_info
+
+    return tracklists_result
+
+
 def merge_exports(dlc_names: list[str] = None):
     merged_out_path = script_dir / "info_merged.json"
-    merged_data = {"Stations": {}, "TrackLists": {}}
+    merged_data = {"Stations": {}, "TrackLists": get_news_tracklists()}
     conflicts = []
 
     dlc_paths = []
