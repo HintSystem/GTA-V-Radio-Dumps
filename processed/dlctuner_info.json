@@ -1,2584 +1,2588 @@
 {
-  "Stations": {
-    "radio_36_audioplayer": {
-      "Flags": "0xAA9009AA",
-      "Genre": "10",
-      "AmbientRadioVol": "0",
-      "RadioName": "RADIO_36_AUDIOPLAYER",
-      "TrackLists": [
-        "tuner_ap_silence_music",
-        "tuner_ap_mix1",
-        "tuner_ap_mix2",
-        "tuner_ap_mix3",
-        "tuner_ap_mix3_parta",
-        "tuner_ap_mix3_partb",
-        "tuner_ap_mix3_partc",
-        "tuner_ap_mix3_partd"
-      ]
+    "Stations": {
+        "radio_36_audioplayer": {
+            "FlagsValue": "0xAA9009AA",
+            "Flags": [
+                "SEQUENTIALMUSIC",
+                "ISMIXSTATION"
+            ],
+            "Genre": "10",
+            "AmbientRadioVol": "0",
+            "RadioName": "RADIO_36_AUDIOPLAYER",
+            "TrackLists": [
+                "tuner_ap_silence_music",
+                "tuner_ap_mix1",
+                "tuner_ap_mix2",
+                "tuner_ap_mix3",
+                "tuner_ap_mix3_parta",
+                "tuner_ap_mix3_partb",
+                "tuner_ap_mix3_partc",
+                "tuner_ap_mix3_partd"
+            ]
+        }
+    },
+    "TrackLists": {
+        "tuner_ap_silence_music": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_nomix_silence",
+                    "Path": "dlc_tuner_music/tuner_ap_nomix_silence",
+                    "Duration": 35461,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 0,
+                                "Id": 2095,
+                                "Title": "Off",
+                                "Artist": "Media Player"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "tuner_ap_mix1": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix1_p1",
+                    "Path": "dlc_tuner_music/tuner_ap_mix1_p1",
+                    "Duration": 1861239,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 1000,
+                                "Id": 4014,
+                                "Title": "Them Changes",
+                                "Artist": "THUNDERCAT"
+                            },
+                            {
+                                "Offset": 104000,
+                                "Id": 4015,
+                                "Title": "Pimp This Love",
+                                "Artist": "CHRISTION"
+                            },
+                            {
+                                "Offset": 195000,
+                                "Id": 4016,
+                                "Title": "So Into You",
+                                "Artist": "ATLANTA RHYTHM SECTION"
+                            },
+                            {
+                                "Offset": 352000,
+                                "Id": 4017,
+                                "Title": "GA$",
+                                "Artist": "RO JAMES"
+                            },
+                            {
+                                "Offset": 493000,
+                                "Id": 4018,
+                                "Title": "For The Sake Of Love",
+                                "Artist": "CLAUDJA BARRY"
+                            },
+                            {
+                                "Offset": 666000,
+                                "Id": 4019,
+                                "Title": "My World Is Empty Without You",
+                                "Artist": "BARBARA MCNAIR"
+                            },
+                            {
+                                "Offset": 803000,
+                                "Id": 4020,
+                                "Title": "Plenty Good Lovin'",
+                                "Artist": "MFSB"
+                            },
+                            {
+                                "Offset": 936000,
+                                "Id": 4021,
+                                "Title": "I Don't Wanna Lose Your Love",
+                                "Artist": "THE EMOTIONS"
+                            },
+                            {
+                                "Offset": 1123000,
+                                "Id": 4022,
+                                "Title": "Livin' It Up (Friday Night)",
+                                "Artist": "BELL & JAMES"
+                            },
+                            {
+                                "Offset": 1470000,
+                                "Id": 4023,
+                                "Title": "Where The Devil Plays",
+                                "Artist": "JESSE JOHNSON / MOODYMANN"
+                            },
+                            {
+                                "Offset": 1662000,
+                                "Id": 4024,
+                                "Title": "Gold Town",
+                                "Artist": "STAVROZ"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix1_p2",
+                    "Path": "dlc_tuner_music/tuner_ap_mix1_p2",
+                    "Duration": 2059987,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 1260,
+                                "Id": 4025,
+                                "Title": "Lamentation",
+                                "Artist": "LARRY HEARD"
+                            },
+                            {
+                                "Offset": 264760,
+                                "Id": 4026,
+                                "Title": "Cradle to the Grave",
+                                "Artist": "MOBB DEEP"
+                            },
+                            {
+                                "Offset": 591260,
+                                "Id": 4027,
+                                "Title": "Checc Me Out",
+                                "Artist": "NIPSEY HUSSLE"
+                            },
+                            {
+                                "Offset": 835260,
+                                "Id": 4028,
+                                "Title": "Hood Pass Intact",
+                                "Artist": "DAM-FUNK"
+                            },
+                            {
+                                "Offset": 1142760,
+                                "Id": 4029,
+                                "Title": "Where I Wanna Be",
+                                "Artist": "SHADE SHEIST"
+                            },
+                            {
+                                "Offset": 1352760,
+                                "Id": 4030,
+                                "Title": "Bad Side",
+                                "Artist": "LTJ XPERIENCE FEAT. ANDUZE"
+                            },
+                            {
+                                "Offset": 1659760,
+                                "Id": 4031,
+                                "Title": "Make Up Your Mind",
+                                "Artist": "AURRA"
+                            },
+                            {
+                                "Offset": 1854760,
+                                "Id": 4032,
+                                "Title": "I Love You Baby",
+                                "Artist": "PUFF DADDY & THE FAMILY FEAT. BLACK ROB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix1_p3",
+                    "Path": "dlc_tuner_music/tuner_ap_mix1_p3",
+                    "Duration": 1878685,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 1273,
+                                "Id": 4033,
+                                "Title": "Deja Vu",
+                                "Artist": "TEENA MARIE"
+                            },
+                            {
+                                "Offset": 298773,
+                                "Id": 4034,
+                                "Title": "Hollywood",
+                                "Artist": "RICK JAMES"
+                            },
+                            {
+                                "Offset": 548773,
+                                "Id": 4035,
+                                "Title": "Elastic",
+                                "Artist": "JOEY PURP"
+                            },
+                            {
+                                "Offset": 817773,
+                                "Id": 4036,
+                                "Title": "Skate Depot (MOODYMANN REMIX)",
+                                "Artist": "CHANNEL TRES"
+                            },
+                            {
+                                "Offset": 1048773,
+                                "Id": 4037,
+                                "Title": "The Letter",
+                                "Artist": "MARVIN BELTON"
+                            },
+                            {
+                                "Offset": 1401773,
+                                "Id": 4038,
+                                "Title": "Basement Party",
+                                "Artist": "MOODYMANN"
+                            },
+                            {
+                                "Offset": 1574773,
+                                "Id": 4039,
+                                "Title": "Pray 4 Love",
+                                "Artist": "MOODYMANN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix1_p4",
+                    "Path": "dlc_tuner_music/tuner_ap_mix1_p4",
+                    "Duration": 1348114,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 1000,
+                                "Id": 4039,
+                                "Title": "Pray 4 Love",
+                                "Artist": "MOODYMANN"
+                            },
+                            {
+                                "Offset": 163088,
+                                "Id": 4040,
+                                "Title": "Technologystolemyvinyle",
+                                "Artist": "MOODYMANN"
+                            },
+                            {
+                                "Offset": 395088,
+                                "Id": 4041,
+                                "Title": "I Get Moody Sometimes",
+                                "Artist": "AMP FIDDLER FEAT. MOODYMANN"
+                            },
+                            {
+                                "Offset": 643088,
+                                "Id": 4042,
+                                "Title": "I Think I'll Do Some Steppin On My Own (Opolopo Rework)",
+                                "Artist": "SANDY BARBER"
+                            },
+                            {
+                                "Offset": 1157088,
+                                "Id": 4043,
+                                "Title": "9 Nights 2 Nowhere",
+                                "Artist": "MOODYMANN"
+                            },
+                            {
+                                "Offset": 1348114,
+                                "Id": 4043,
+                                "Title": "9 Nights 2 Nowhere",
+                                "Artist": "MOODYMANN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix1_p5",
+                    "Path": "dlc_tuner_music/tuner_ap_mix1_p5",
+                    "Duration": 1681349,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 0,
+                                "Id": 4043,
+                                "Title": "9 Nights 2 Nowhere",
+                                "Artist": "MOODYMANN"
+                            },
+                            {
+                                "Offset": 145973,
+                                "Id": 4044,
+                                "Title": "Freaks",
+                                "Artist": "NEZ FEAT. GANGSTA BOO & MOODYMANN"
+                            },
+                            {
+                                "Offset": 321973,
+                                "Id": 4045,
+                                "Title": "The Set Up",
+                                "Artist": "OBIE TRICE FEAT. NATE DOGG"
+                            },
+                            {
+                                "Offset": 520973,
+                                "Id": 4046,
+                                "Title": "Love Conversation",
+                                "Artist": "JOSE JAMES"
+                            },
+                            {
+                                "Offset": 834973,
+                                "Id": 4047,
+                                "Title": "Misled",
+                                "Artist": "MOODYMANN"
+                            },
+                            {
+                                "Offset": 1118973,
+                                "Id": 4048,
+                                "Title": "I Need Your Lovin'",
+                                "Artist": "TEENA MARIE"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "tuner_ap_mix2": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix2_p1",
+                    "Path": "dlc_tuner_music/tuner_ap_mix2_p1",
+                    "Duration": 1804100,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 11,
+                                "Id": 4000,
+                                "Title": "Forever Free (Edited)",
+                                "Artist": "CARL CRAIG"
+                            },
+                            {
+                                "Offset": 176876,
+                                "Id": 4001,
+                                "Title": "Raindrops (Edited)",
+                                "Artist": "BUTCH FEAT. KEMELION"
+                            },
+                            {
+                                "Offset": 441247,
+                                "Id": 4002,
+                                "Title": "The Church (Edited)",
+                                "Artist": "RAMPA"
+                            },
+                            {
+                                "Offset": 786264,
+                                "Id": 4003,
+                                "Title": "Keep On Coming (Edited)",
+                                "Artist": "MOODYMANN FEAT. CD"
+                            },
+                            {
+                                "Offset": 1213762,
+                                "Id": 4004,
+                                "Title": "As If To Say (Edited)",
+                                "Artist": "MANO LE TOUGH"
+                            },
+                            {
+                                "Offset": 1473110,
+                                "Id": 4005,
+                                "Title": "Break It Up (Edited)",
+                                "Artist": "ADAM BEYER"
+                            },
+                            {
+                                "Offset": 1657696,
+                                "Id": 4006,
+                                "Title": "Autonom (Dixon Edit)",
+                                "Artist": "DEICHKIND"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 66840,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 132309,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 197848,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 263431,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 328993,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 361787,
+                                "Value": 76
+                            },
+                            {
+                                "Offset": 400745,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 433539,
+                                "Value": 68
+                            },
+                            {
+                                "Offset": 468704,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 501220,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 534034,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 599648,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 632399,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 697876,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 730587,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 763264,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 795882,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 828548,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 861124,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 893776,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 926316,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 958908,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 991437,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1023925,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1056441,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1088901,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1121361,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1153765,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1186169,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1218573,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1250949,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1283298,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1315646,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1347958,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1380231,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1412496,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1444733,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1476942,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1509123,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1541325,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1573508,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1605638,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1637763,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1669875,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1701931,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1733961,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1766029,
+                                "Value": 52
+                            },
+                            {
+                                "Offset": 1792060,
+                                "Value": 24
+                            },
+                            {
+                                "Offset": 1803110,
+                                "Value": 10
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 501258,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 560097,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1171400,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1205661,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1529022,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1573394,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1743950,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1791712,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix2_p2",
+                    "Path": "dlc_tuner_music/tuner_ap_mix2_p2",
+                    "Duration": 1092933,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 10,
+                                "Id": 4006,
+                                "Title": "Autonom (Dixon Edit)",
+                                "Artist": "DEICHKIND"
+                            },
+                            {
+                                "Offset": 33128,
+                                "Id": 4007,
+                                "Title": "What If, Then What? (Edited)",
+                                "Artist": "TINI FEAT. AMITURE"
+                            },
+                            {
+                                "Offset": 367831,
+                                "Id": 4008,
+                                "Title": "Lumartes (Edited)",
+                                "Artist": "SETH TROXLER"
+                            },
+                            {
+                                "Offset": 648741,
+                                "Id": 4009,
+                                "Title": "Atlanta (Edited)",
+                                "Artist": "DJ TENNIS FEAT. ASHEE"
+                            },
+                            {
+                                "Offset": 1049343,
+                                "Id": 4010,
+                                "Title": "Calib (Edited)",
+                                "Artist": "RED AXES"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 10,
+                                "Value": 10
+                            },
+                            {
+                                "Offset": 5000,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 37000,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 68926,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 100877,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 132840,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 164753,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 196646,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 228527,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 260384,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 292432,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 324016,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 355802,
+                                "Value": 30
+                            },
+                            {
+                                "Offset": 370665,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 402409,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 434085,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 465748,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 497316,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 528895,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 560389,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 591865,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 623267,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 654692,
+                                "Value": 56
+                            },
+                            {
+                                "Offset": 682030,
+                                "Value": 122
+                            },
+                            {
+                                "Offset": 743597,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 775218,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 806698,
+                                "Value": 112
+                            },
+                            {
+                                "Offset": 861797,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 893262,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 924670,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 956102,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 987531,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1018906,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1050267,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1081651,
+                                "Value": 23
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 112873,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 144752,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 224531,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 259504,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 513092,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 548151,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 601672,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 635418,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 863762,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 901695,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 980938,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1026198,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix2_p3",
+                    "Path": "dlc_tuner_music/tuner_ap_mix2_p3",
+                    "Duration": 1374207,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 0,
+                                "Id": 4010,
+                                "Title": "Calib (Edited)",
+                                "Artist": "RED AXES"
+                            },
+                            {
+                                "Offset": 134575,
+                                "Id": 4011,
+                                "Title": "Reverie (Edited) / Laser Lass (Edited)",
+                                "Artist": "SAMA' ABDULHADI / JAMIE JONES"
+                            },
+                            {
+                                "Offset": 624424,
+                                "Id": 4012,
+                                "Title": "Up In Flames",
+                                "Artist": "BEDOUIN"
+                            },
+                            {
+                                "Offset": 854698,
+                                "Id": 4013,
+                                "Title": "Revision Of The Past",
+                                "Artist": "LOST SOULS OF SATURN & TOKIMONSTA"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 1996,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 84711,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 115163,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 145838,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 176457,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 207252,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 238086,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 269375,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 300552,
+                                "Value": 67
+                            },
+                            {
+                                "Offset": 333180,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 364887,
+                                "Value": 75
+                            },
+                            {
+                                "Offset": 401757,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 432588,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 463653,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 494838,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 525902,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 556916,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 587925,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 618989,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 649915,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 681008,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 712130,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 743390,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 774679,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 806079,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 822755,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 834050,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 848690,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 856665,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 888397,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 920112,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 951898,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 983605,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1015368,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1047053,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1078853,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1110573,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1142279,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1174031,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1205770,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1237529,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1269248,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1300987,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1332706,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1364702,
+                                "Value": 0
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 153262,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 198096,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 447998,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 516405,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 649984,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 692970,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1070898,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1106644,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "tuner_ap_mix3": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix2_p1",
+                    "Path": "dlc_tuner_music/tuner_ap_mix2_p1",
+                    "Duration": 1804100,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 11,
+                                "Id": 4000,
+                                "Title": "Forever Free (Edited)",
+                                "Artist": "CARL CRAIG"
+                            },
+                            {
+                                "Offset": 176876,
+                                "Id": 4001,
+                                "Title": "Raindrops (Edited)",
+                                "Artist": "BUTCH FEAT. KEMELION"
+                            },
+                            {
+                                "Offset": 441247,
+                                "Id": 4002,
+                                "Title": "The Church (Edited)",
+                                "Artist": "RAMPA"
+                            },
+                            {
+                                "Offset": 786264,
+                                "Id": 4003,
+                                "Title": "Keep On Coming (Edited)",
+                                "Artist": "MOODYMANN FEAT. CD"
+                            },
+                            {
+                                "Offset": 1213762,
+                                "Id": 4004,
+                                "Title": "As If To Say (Edited)",
+                                "Artist": "MANO LE TOUGH"
+                            },
+                            {
+                                "Offset": 1473110,
+                                "Id": 4005,
+                                "Title": "Break It Up (Edited)",
+                                "Artist": "ADAM BEYER"
+                            },
+                            {
+                                "Offset": 1657696,
+                                "Id": 4006,
+                                "Title": "Autonom (Dixon Edit)",
+                                "Artist": "DEICHKIND"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 66840,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 132309,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 197848,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 263431,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 328993,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 361787,
+                                "Value": 76
+                            },
+                            {
+                                "Offset": 400745,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 433539,
+                                "Value": 68
+                            },
+                            {
+                                "Offset": 468704,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 501220,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 534034,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 599648,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 632399,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 697876,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 730587,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 763264,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 795882,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 828548,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 861124,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 893776,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 926316,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 958908,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 991437,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1023925,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1056441,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1088901,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1121361,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1153765,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1186169,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1218573,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1250949,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1283298,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1315646,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1347958,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1380231,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1412496,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1444733,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1476942,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1509123,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1541325,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1573508,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1605638,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1637763,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1669875,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1701931,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1733961,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1766029,
+                                "Value": 52
+                            },
+                            {
+                                "Offset": 1792060,
+                                "Value": 24
+                            },
+                            {
+                                "Offset": 1803110,
+                                "Value": 10
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 501258,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 560097,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1171400,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1205661,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1529022,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1573394,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1743950,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1791712,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix2_p2",
+                    "Path": "dlc_tuner_music/tuner_ap_mix2_p2",
+                    "Duration": 1092933,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 10,
+                                "Id": 4006,
+                                "Title": "Autonom (Dixon Edit)",
+                                "Artist": "DEICHKIND"
+                            },
+                            {
+                                "Offset": 33128,
+                                "Id": 4007,
+                                "Title": "What If, Then What? (Edited)",
+                                "Artist": "TINI FEAT. AMITURE"
+                            },
+                            {
+                                "Offset": 367831,
+                                "Id": 4008,
+                                "Title": "Lumartes (Edited)",
+                                "Artist": "SETH TROXLER"
+                            },
+                            {
+                                "Offset": 648741,
+                                "Id": 4009,
+                                "Title": "Atlanta (Edited)",
+                                "Artist": "DJ TENNIS FEAT. ASHEE"
+                            },
+                            {
+                                "Offset": 1049343,
+                                "Id": 4010,
+                                "Title": "Calib (Edited)",
+                                "Artist": "RED AXES"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 10,
+                                "Value": 10
+                            },
+                            {
+                                "Offset": 5000,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 37000,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 68926,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 100877,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 132840,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 164753,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 196646,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 228527,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 260384,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 292432,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 324016,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 355802,
+                                "Value": 30
+                            },
+                            {
+                                "Offset": 370665,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 402409,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 434085,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 465748,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 497316,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 528895,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 560389,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 591865,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 623267,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 654692,
+                                "Value": 56
+                            },
+                            {
+                                "Offset": 682030,
+                                "Value": 122
+                            },
+                            {
+                                "Offset": 743597,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 775218,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 806698,
+                                "Value": 112
+                            },
+                            {
+                                "Offset": 861797,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 893262,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 924670,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 956102,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 987531,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1018906,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1050267,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1081651,
+                                "Value": 23
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 112873,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 144752,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 224531,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 259504,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 513092,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 548151,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 601672,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 635418,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 863762,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 901695,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 980938,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1026198,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix2_p3",
+                    "Path": "dlc_tuner_music/tuner_ap_mix2_p3",
+                    "Duration": 1374207,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 0,
+                                "Id": 4010,
+                                "Title": "Calib (Edited)",
+                                "Artist": "RED AXES"
+                            },
+                            {
+                                "Offset": 134575,
+                                "Id": 4011,
+                                "Title": "Reverie (Edited) / Laser Lass (Edited)",
+                                "Artist": "SAMA' ABDULHADI / JAMIE JONES"
+                            },
+                            {
+                                "Offset": 624424,
+                                "Id": 4012,
+                                "Title": "Up In Flames",
+                                "Artist": "BEDOUIN"
+                            },
+                            {
+                                "Offset": 854698,
+                                "Id": 4013,
+                                "Title": "Revision Of The Past",
+                                "Artist": "LOST SOULS OF SATURN & TOKIMONSTA"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 1996,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 84711,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 115163,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 145838,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 176457,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 207252,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 238086,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 269375,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 300552,
+                                "Value": 67
+                            },
+                            {
+                                "Offset": 333180,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 364887,
+                                "Value": 75
+                            },
+                            {
+                                "Offset": 401757,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 432588,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 463653,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 494838,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 525902,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 556916,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 587925,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 618989,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 649915,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 681008,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 712130,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 743390,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 774679,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 806079,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 822755,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 834050,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 848690,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 856665,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 888397,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 920112,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 951898,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 983605,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1015368,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1047053,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1078853,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1110573,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1142279,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1174031,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1205770,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1237529,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1269248,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1300987,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1332706,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1364702,
+                                "Value": 0
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 153262,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 198096,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 447998,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 516405,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 649984,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 692970,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1070898,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1106644,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "tuner_ap_mix3_parta": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix3_p1",
+                    "Path": "dlc_tuner_music/tuner_ap_mix3_p1",
+                    "Duration": 1761429,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 44,
+                                "Id": 2075,
+                                "Title": "Lumartes (Edited Version)",
+                                "Artist": "SETH TROXLER"
+                            },
+                            {
+                                "Offset": 233270,
+                                "Id": 2076,
+                                "Title": "Reverie",
+                                "Artist": "SAMA' ABDULHADI"
+                            },
+                            {
+                                "Offset": 623700,
+                                "Id": 2077,
+                                "Title": "The Church",
+                                "Artist": "RAMPA"
+                            },
+                            {
+                                "Offset": 1062300,
+                                "Id": 2078,
+                                "Title": "Autonom (Dixon Edit)",
+                                "Artist": "DEICHKIND"
+                            },
+                            {
+                                "Offset": 1374808,
+                                "Id": 2079,
+                                "Title": "You",
+                                "Artist": "KERRI CHANDLER"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 44,
+                                "Value": 480
+                            },
+                            {
+                                "Offset": 230430,
+                                "Value": 6
+                            },
+                            {
+                                "Offset": 233270,
+                                "Value": 832
+                            },
+                            {
+                                "Offset": 623260,
+                                "Value": 1
+                            },
+                            {
+                                "Offset": 623700,
+                                "Value": 896
+                            },
+                            {
+                                "Offset": 1060769,
+                                "Value": 3
+                            },
+                            {
+                                "Offset": 1062300,
+                                "Value": 640
+                            },
+                            {
+                                "Offset": 1374484,
+                                "Value": 1
+                            },
+                            {
+                                "Offset": 1374808,
+                                "Value": 816
+                            },
+                            {
+                                "Offset": 1760320,
+                                "Value": 2
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 69164,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 86444,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 130604,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 159404,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 308270,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 323270,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 353270,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 381395,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 503270,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 530926,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 748578,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 779797,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 920285,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 935895,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 951504,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 974919,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1093519,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1124739,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1171568,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1202787,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1249617,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1280836,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1312056,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1327665,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1435281,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1465517,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1571344,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1594021,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1654494,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1684730,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "tuner_ap_mix3_partb": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix3_p2",
+                    "Path": "dlc_tuner_music/tuner_ap_mix3_p2",
+                    "Duration": 1842753,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 24,
+                                "Id": 2080,
+                                "Title": "What If, Then What?",
+                                "Artist": "TINI FEAT. AMITURE"
+                            },
+                            {
+                                "Offset": 285023,
+                                "Id": 2081,
+                                "Title": "Atlanta",
+                                "Artist": "DJ TENNIS FEAT. ASHEE"
+                            },
+                            {
+                                "Offset": 722060,
+                                "Id": 2082,
+                                "Title": "Keep On Coming",
+                                "Artist": "MOODYMANN FEAT. CD"
+                            },
+                            {
+                                "Offset": 1035576,
+                                "Id": 2083,
+                                "Title": "Laser Lass",
+                                "Artist": "JAMIE JONES"
+                            },
+                            {
+                                "Offset": 1411161,
+                                "Id": 2084,
+                                "Title": "As If To Say",
+                                "Artist": "MANO LE TOUGH"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 24,
+                                "Value": 560
+                            },
+                            {
+                                "Offset": 262515,
+                                "Value": 48
+                            },
+                            {
+                                "Offset": 285023,
+                                "Value": 228
+                            },
+                            {
+                                "Offset": 712517,
+                                "Value": 20
+                            },
+                            {
+                                "Offset": 722060,
+                                "Value": 624
+                            },
+                            {
+                                "Offset": 1023980,
+                                "Value": 24
+                            },
+                            {
+                                "Offset": 1035576,
+                                "Value": 788
+                            },
+                            {
+                                "Offset": 1410817,
+                                "Value": 1
+                            },
+                            {
+                                "Offset": 1411161,
+                                "Value": 864
+                            },
+                            {
+                                "Offset": 1829225,
+                                "Value": 26
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 30024,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 45024,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 135024,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 165024,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 360023,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 390023,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 472523,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 502523,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 585023,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 607523,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 660023,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 682523,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1111766,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1138433,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1256528,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1285100,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1334624,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1355576,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1529226,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1547129,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1713096,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1744064,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "tuner_ap_mix3_partc": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix3_p3",
+                    "Path": "dlc_tuner_music/tuner_ap_mix3_p3",
+                    "Duration": 2316782,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 25,
+                                "Id": 2085,
+                                "Title": "Raindrops",
+                                "Artist": "BUTCH FEAT. KEMELION"
+                            },
+                            {
+                                "Offset": 357478,
+                                "Id": 2086,
+                                "Title": "Forever Free",
+                                "Artist": "CARL CRAIG"
+                            },
+                            {
+                                "Offset": 835840,
+                                "Id": 2087,
+                                "Title": "Wishing Well",
+                                "Artist": "MARGARET DYGAS"
+                            },
+                            {
+                                "Offset": 1255835,
+                                "Id": 2088,
+                                "Title": "Calib",
+                                "Artist": "RED AXES"
+                            },
+                            {
+                                "Offset": 1620103,
+                                "Id": 2089,
+                                "Title": "Mantra For Lizzie",
+                                "Artist": "LUCIANO"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 25,
+                                "Value": 736
+                            },
+                            {
+                                "Offset": 347734,
+                                "Value": 18
+                            },
+                            {
+                                "Offset": 357478,
+                                "Value": 880
+                            },
+                            {
+                                "Offset": 816594,
+                                "Value": 37
+                            },
+                            {
+                                "Offset": 835840,
+                                "Value": 836
+                            },
+                            {
+                                "Offset": 1253848,
+                                "Value": 4
+                            },
+                            {
+                                "Offset": 1255835,
+                                "Value": 704
+                            },
+                            {
+                                "Offset": 1607835,
+                                "Value": 24
+                            },
+                            {
+                                "Offset": 1620103,
+                                "Value": 1368
+                            },
+                            {
+                                "Offset": 2304103,
+                                "Value": 25
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 45380,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 60498,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 166325,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 196561,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 257033,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 287270,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1331835,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1349835,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1379835,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1394835,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1427835,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1443835,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1495835,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1515335,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1999603,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 2030103,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 2105603,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 2163603,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "tuner_ap_mix3_partd": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_tuner_music_tuner_ap_mix3_p4",
+                    "Path": "dlc_tuner_music/tuner_ap_mix3_p4",
+                    "Duration": 1959302,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 40,
+                                "Id": 2090,
+                                "Title": "Revision of the Past",
+                                "Artist": "LOST SOULS OF SATURN & TOKIMONSTA"
+                            },
+                            {
+                                "Offset": 496349,
+                                "Id": 2091,
+                                "Title": "Break It Up",
+                                "Artist": "ADAM BEYER"
+                            },
+                            {
+                                "Offset": 802137,
+                                "Id": 2092,
+                                "Title": "Nova Two",
+                                "Artist": "TALE OF US"
+                            },
+                            {
+                                "Offset": 1140013,
+                                "Id": 2093,
+                                "Title": "Up In Flames",
+                                "Artist": "BEDOUIN"
+                            },
+                            {
+                                "Offset": 1534840,
+                                "Id": 2094,
+                                "Title": "The Future",
+                                "Artist": "DAMIAN LAZARUS FEAT. ROBERT OWENS"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 40,
+                                "Value": 964
+                            },
+                            {
+                                "Offset": 478057,
+                                "Value": 36
+                            },
+                            {
+                                "Offset": 496349,
+                                "Value": 592
+                            },
+                            {
+                                "Offset": 776033,
+                                "Value": 56
+                            },
+                            {
+                                "Offset": 802137,
+                                "Value": 668
+                            },
+                            {
+                                "Offset": 1122765,
+                                "Value": 3
+                            },
+                            {
+                                "Offset": 1124274,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1140013,
+                                "Value": 784
+                            },
+                            {
+                                "Offset": 1525560,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1533402,
+                                "Value": 3
+                            },
+                            {
+                                "Offset": 1534798,
+                                "Value": 836
+                            },
+                            {
+                                "Offset": 1942605,
+                                "Value": 34
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 222189,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 241528,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 503908,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 530365,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 685325,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 711782,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 878937,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 909657,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1017177,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1047897,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1250177,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1273783,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1344603,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1368210,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1642617,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1666032,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1783105,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1812373,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1876763,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1906520,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
     }
-  },
-  "TrackLists": {
-    "tuner_ap_silence_music": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_tuner_music_tuner_ap_nomix_silence",
-          "Path": "dlc_tuner_music/tuner_ap_nomix_silence",
-          "Duration": 35461,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 0,
-                "Id": 2095,
-                "Title": "Off",
-                "Artist": "Media Player"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "tuner_ap_mix1": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix1_p1",
-          "Path": "dlc_tuner_music/tuner_ap_mix1_p1",
-          "Duration": 1861239,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1000,
-                "Id": 4014,
-                "Title": "Them Changes",
-                "Artist": "THUNDERCAT"
-              },
-              {
-                "Offset": 104000,
-                "Id": 4015,
-                "Title": "Pimp This Love",
-                "Artist": "CHRISTION"
-              },
-              {
-                "Offset": 195000,
-                "Id": 4016,
-                "Title": "So Into You",
-                "Artist": "ATLANTA RHYTHM SECTION"
-              },
-              {
-                "Offset": 352000,
-                "Id": 4017,
-                "Title": "GA$",
-                "Artist": "RO JAMES"
-              },
-              {
-                "Offset": 493000,
-                "Id": 4018,
-                "Title": "For The Sake Of Love",
-                "Artist": "CLAUDJA BARRY"
-              },
-              {
-                "Offset": 666000,
-                "Id": 4019,
-                "Title": "My World Is Empty Without You",
-                "Artist": "BARBARA MCNAIR"
-              },
-              {
-                "Offset": 803000,
-                "Id": 4020,
-                "Title": "Plenty Good Lovin'",
-                "Artist": "MFSB"
-              },
-              {
-                "Offset": 936000,
-                "Id": 4021,
-                "Title": "I Don't Wanna Lose Your Love",
-                "Artist": "THE EMOTIONS"
-              },
-              {
-                "Offset": 1123000,
-                "Id": 4022,
-                "Title": "Livin' It Up (Friday Night)",
-                "Artist": "BELL & JAMES"
-              },
-              {
-                "Offset": 1470000,
-                "Id": 4023,
-                "Title": "Where The Devil Plays",
-                "Artist": "JESSE JOHNSON / MOODYMANN"
-              },
-              {
-                "Offset": 1662000,
-                "Id": 4024,
-                "Title": "Gold Town",
-                "Artist": "STAVROZ"
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix1_p2",
-          "Path": "dlc_tuner_music/tuner_ap_mix1_p2",
-          "Duration": 2059987,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1260,
-                "Id": 4025,
-                "Title": "Lamentation",
-                "Artist": "LARRY HEARD"
-              },
-              {
-                "Offset": 264760,
-                "Id": 4026,
-                "Title": "Cradle to the Grave",
-                "Artist": "MOBB DEEP"
-              },
-              {
-                "Offset": 591260,
-                "Id": 4027,
-                "Title": "Checc Me Out",
-                "Artist": "NIPSEY HUSSLE"
-              },
-              {
-                "Offset": 835260,
-                "Id": 4028,
-                "Title": "Hood Pass Intact",
-                "Artist": "DAM-FUNK"
-              },
-              {
-                "Offset": 1142760,
-                "Id": 4029,
-                "Title": "Where I Wanna Be",
-                "Artist": "SHADE SHEIST"
-              },
-              {
-                "Offset": 1352760,
-                "Id": 4030,
-                "Title": "Bad Side",
-                "Artist": "LTJ XPERIENCE FEAT. ANDUZE"
-              },
-              {
-                "Offset": 1659760,
-                "Id": 4031,
-                "Title": "Make Up Your Mind",
-                "Artist": "AURRA"
-              },
-              {
-                "Offset": 1854760,
-                "Id": 4032,
-                "Title": "I Love You Baby",
-                "Artist": "PUFF DADDY & THE FAMILY FEAT. BLACK ROB"
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix1_p3",
-          "Path": "dlc_tuner_music/tuner_ap_mix1_p3",
-          "Duration": 1878685,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1273,
-                "Id": 4033,
-                "Title": "Deja Vu",
-                "Artist": "TEENA MARIE"
-              },
-              {
-                "Offset": 298773,
-                "Id": 4034,
-                "Title": "Hollywood",
-                "Artist": "RICK JAMES"
-              },
-              {
-                "Offset": 548773,
-                "Id": 4035,
-                "Title": "Elastic",
-                "Artist": "JOEY PURP"
-              },
-              {
-                "Offset": 817773,
-                "Id": 4036,
-                "Title": "Skate Depot (MOODYMANN REMIX)",
-                "Artist": "CHANNEL TRES"
-              },
-              {
-                "Offset": 1048773,
-                "Id": 4037,
-                "Title": "The Letter",
-                "Artist": "MARVIN BELTON"
-              },
-              {
-                "Offset": 1401773,
-                "Id": 4038,
-                "Title": "Basement Party",
-                "Artist": "MOODYMANN"
-              },
-              {
-                "Offset": 1574773,
-                "Id": 4039,
-                "Title": "Pray 4 Love",
-                "Artist": "MOODYMANN"
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix1_p4",
-          "Path": "dlc_tuner_music/tuner_ap_mix1_p4",
-          "Duration": 1348114,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1000,
-                "Id": 4039,
-                "Title": "Pray 4 Love",
-                "Artist": "MOODYMANN"
-              },
-              {
-                "Offset": 163088,
-                "Id": 4040,
-                "Title": "Technologystolemyvinyle",
-                "Artist": "MOODYMANN"
-              },
-              {
-                "Offset": 395088,
-                "Id": 4041,
-                "Title": "I Get Moody Sometimes",
-                "Artist": "AMP FIDDLER FEAT. MOODYMANN"
-              },
-              {
-                "Offset": 643088,
-                "Id": 4042,
-                "Title": "I Think I'll Do Some Steppin On My Own (Opolopo Rework)",
-                "Artist": "SANDY BARBER"
-              },
-              {
-                "Offset": 1157088,
-                "Id": 4043,
-                "Title": "9 Nights 2 Nowhere",
-                "Artist": "MOODYMANN"
-              },
-              {
-                "Offset": 1348114,
-                "Id": 4043,
-                "Title": "9 Nights 2 Nowhere",
-                "Artist": "MOODYMANN"
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix1_p5",
-          "Path": "dlc_tuner_music/tuner_ap_mix1_p5",
-          "Duration": 1681349,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 0,
-                "Id": 4043,
-                "Title": "9 Nights 2 Nowhere",
-                "Artist": "MOODYMANN"
-              },
-              {
-                "Offset": 145973,
-                "Id": 4044,
-                "Title": "Freaks",
-                "Artist": "NEZ FEAT. GANGSTA BOO & MOODYMANN"
-              },
-              {
-                "Offset": 321973,
-                "Id": 4045,
-                "Title": "The Set Up",
-                "Artist": "OBIE TRICE FEAT. NATE DOGG"
-              },
-              {
-                "Offset": 520973,
-                "Id": 4046,
-                "Title": "Love Conversation",
-                "Artist": "JOSE JAMES"
-              },
-              {
-                "Offset": 834973,
-                "Id": 4047,
-                "Title": "Misled",
-                "Artist": "MOODYMANN"
-              },
-              {
-                "Offset": 1118973,
-                "Id": 4048,
-                "Title": "I Need Your Lovin'",
-                "Artist": "TEENA MARIE"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "tuner_ap_mix2": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix2_p1",
-          "Path": "dlc_tuner_music/tuner_ap_mix2_p1",
-          "Duration": 1804100,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 11,
-                "Id": 4000,
-                "Title": "Forever Free (Edited)",
-                "Artist": "CARL CRAIG"
-              },
-              {
-                "Offset": 176876,
-                "Id": 4001,
-                "Title": "Raindrops (Edited)",
-                "Artist": "BUTCH FEAT. KEMELION"
-              },
-              {
-                "Offset": 441247,
-                "Id": 4002,
-                "Title": "The Church (Edited)",
-                "Artist": "RAMPA"
-              },
-              {
-                "Offset": 786264,
-                "Id": 4003,
-                "Title": "Keep On Coming (Edited)",
-                "Artist": "MOODYMANN FEAT. CD"
-              },
-              {
-                "Offset": 1213762,
-                "Id": 4004,
-                "Title": "As If To Say (Edited)",
-                "Artist": "MANO LE TOUGH"
-              },
-              {
-                "Offset": 1473110,
-                "Id": 4005,
-                "Title": "Break It Up (Edited)",
-                "Artist": "ADAM BEYER"
-              },
-              {
-                "Offset": 1657696,
-                "Id": 4006,
-                "Title": "Autonom (Dixon Edit)",
-                "Artist": "DEICHKIND"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 66840,
-                "Value": 128
-              },
-              {
-                "Offset": 132309,
-                "Value": 128
-              },
-              {
-                "Offset": 197848,
-                "Value": 128
-              },
-              {
-                "Offset": 263431,
-                "Value": 128
-              },
-              {
-                "Offset": 328993,
-                "Value": 64
-              },
-              {
-                "Offset": 361787,
-                "Value": 76
-              },
-              {
-                "Offset": 400745,
-                "Value": 64
-              },
-              {
-                "Offset": 433539,
-                "Value": 68
-              },
-              {
-                "Offset": 468704,
-                "Value": 64
-              },
-              {
-                "Offset": 501220,
-                "Value": 64
-              },
-              {
-                "Offset": 534034,
-                "Value": 128
-              },
-              {
-                "Offset": 599648,
-                "Value": 64
-              },
-              {
-                "Offset": 632399,
-                "Value": 128
-              },
-              {
-                "Offset": 697876,
-                "Value": 64
-              },
-              {
-                "Offset": 730587,
-                "Value": 64
-              },
-              {
-                "Offset": 763264,
-                "Value": 64
-              },
-              {
-                "Offset": 795882,
-                "Value": 64
-              },
-              {
-                "Offset": 828548,
-                "Value": 64
-              },
-              {
-                "Offset": 861124,
-                "Value": 64
-              },
-              {
-                "Offset": 893776,
-                "Value": 64
-              },
-              {
-                "Offset": 926316,
-                "Value": 64
-              },
-              {
-                "Offset": 958908,
-                "Value": 64
-              },
-              {
-                "Offset": 991437,
-                "Value": 64
-              },
-              {
-                "Offset": 1023925,
-                "Value": 64
-              },
-              {
-                "Offset": 1056441,
-                "Value": 64
-              },
-              {
-                "Offset": 1088901,
-                "Value": 64
-              },
-              {
-                "Offset": 1121361,
-                "Value": 64
-              },
-              {
-                "Offset": 1153765,
-                "Value": 64
-              },
-              {
-                "Offset": 1186169,
-                "Value": 64
-              },
-              {
-                "Offset": 1218573,
-                "Value": 64
-              },
-              {
-                "Offset": 1250949,
-                "Value": 64
-              },
-              {
-                "Offset": 1283298,
-                "Value": 64
-              },
-              {
-                "Offset": 1315646,
-                "Value": 64
-              },
-              {
-                "Offset": 1347958,
-                "Value": 64
-              },
-              {
-                "Offset": 1380231,
-                "Value": 64
-              },
-              {
-                "Offset": 1412496,
-                "Value": 64
-              },
-              {
-                "Offset": 1444733,
-                "Value": 64
-              },
-              {
-                "Offset": 1476942,
-                "Value": 64
-              },
-              {
-                "Offset": 1509123,
-                "Value": 64
-              },
-              {
-                "Offset": 1541325,
-                "Value": 64
-              },
-              {
-                "Offset": 1573508,
-                "Value": 64
-              },
-              {
-                "Offset": 1605638,
-                "Value": 64
-              },
-              {
-                "Offset": 1637763,
-                "Value": 64
-              },
-              {
-                "Offset": 1669875,
-                "Value": 64
-              },
-              {
-                "Offset": 1701931,
-                "Value": 64
-              },
-              {
-                "Offset": 1733961,
-                "Value": 64
-              },
-              {
-                "Offset": 1766029,
-                "Value": 52
-              },
-              {
-                "Offset": 1792060,
-                "Value": 24
-              },
-              {
-                "Offset": 1803110,
-                "Value": 10
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 501258,
-                "Value": "start"
-              },
-              {
-                "Offset": 560097,
-                "Value": "end"
-              },
-              {
-                "Offset": 1171400,
-                "Value": "start"
-              },
-              {
-                "Offset": 1205661,
-                "Value": "end"
-              },
-              {
-                "Offset": 1529022,
-                "Value": "start"
-              },
-              {
-                "Offset": 1573394,
-                "Value": "end"
-              },
-              {
-                "Offset": 1743950,
-                "Value": "start"
-              },
-              {
-                "Offset": 1791712,
-                "Value": "end"
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix2_p2",
-          "Path": "dlc_tuner_music/tuner_ap_mix2_p2",
-          "Duration": 1092933,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 10,
-                "Id": 4006,
-                "Title": "Autonom (Dixon Edit)",
-                "Artist": "DEICHKIND"
-              },
-              {
-                "Offset": 33128,
-                "Id": 4007,
-                "Title": "What If, Then What? (Edited)",
-                "Artist": "TINI FEAT. AMITURE"
-              },
-              {
-                "Offset": 367831,
-                "Id": 4008,
-                "Title": "Lumartes (Edited)",
-                "Artist": "SETH TROXLER"
-              },
-              {
-                "Offset": 648741,
-                "Id": 4009,
-                "Title": "Atlanta (Edited)",
-                "Artist": "DJ TENNIS FEAT. ASHEE"
-              },
-              {
-                "Offset": 1049343,
-                "Id": 4010,
-                "Title": "Calib (Edited)",
-                "Artist": "RED AXES"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 10,
-                "Value": 10
-              },
-              {
-                "Offset": 5000,
-                "Value": 64
-              },
-              {
-                "Offset": 37000,
-                "Value": 64
-              },
-              {
-                "Offset": 68926,
-                "Value": 64
-              },
-              {
-                "Offset": 100877,
-                "Value": 64
-              },
-              {
-                "Offset": 132840,
-                "Value": 64
-              },
-              {
-                "Offset": 164753,
-                "Value": 64
-              },
-              {
-                "Offset": 196646,
-                "Value": 64
-              },
-              {
-                "Offset": 228527,
-                "Value": 64
-              },
-              {
-                "Offset": 260384,
-                "Value": 64
-              },
-              {
-                "Offset": 292432,
-                "Value": 64
-              },
-              {
-                "Offset": 324016,
-                "Value": 64
-              },
-              {
-                "Offset": 355802,
-                "Value": 30
-              },
-              {
-                "Offset": 370665,
-                "Value": 64
-              },
-              {
-                "Offset": 402409,
-                "Value": 64
-              },
-              {
-                "Offset": 434085,
-                "Value": 64
-              },
-              {
-                "Offset": 465748,
-                "Value": 64
-              },
-              {
-                "Offset": 497316,
-                "Value": 64
-              },
-              {
-                "Offset": 528895,
-                "Value": 64
-              },
-              {
-                "Offset": 560389,
-                "Value": 64
-              },
-              {
-                "Offset": 591865,
-                "Value": 64
-              },
-              {
-                "Offset": 623267,
-                "Value": 64
-              },
-              {
-                "Offset": 654692,
-                "Value": 56
-              },
-              {
-                "Offset": 682030,
-                "Value": 122
-              },
-              {
-                "Offset": 743597,
-                "Value": 64
-              },
-              {
-                "Offset": 775218,
-                "Value": 64
-              },
-              {
-                "Offset": 806698,
-                "Value": 112
-              },
-              {
-                "Offset": 861797,
-                "Value": 64
-              },
-              {
-                "Offset": 893262,
-                "Value": 64
-              },
-              {
-                "Offset": 924670,
-                "Value": 64
-              },
-              {
-                "Offset": 956102,
-                "Value": 64
-              },
-              {
-                "Offset": 987531,
-                "Value": 64
-              },
-              {
-                "Offset": 1018906,
-                "Value": 64
-              },
-              {
-                "Offset": 1050267,
-                "Value": 64
-              },
-              {
-                "Offset": 1081651,
-                "Value": 23
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 112873,
-                "Value": "start"
-              },
-              {
-                "Offset": 144752,
-                "Value": "end"
-              },
-              {
-                "Offset": 224531,
-                "Value": "start"
-              },
-              {
-                "Offset": 259504,
-                "Value": "end"
-              },
-              {
-                "Offset": 513092,
-                "Value": "start"
-              },
-              {
-                "Offset": 548151,
-                "Value": "end"
-              },
-              {
-                "Offset": 601672,
-                "Value": "start"
-              },
-              {
-                "Offset": 635418,
-                "Value": "end"
-              },
-              {
-                "Offset": 863762,
-                "Value": "start"
-              },
-              {
-                "Offset": 901695,
-                "Value": "end"
-              },
-              {
-                "Offset": 980938,
-                "Value": "start"
-              },
-              {
-                "Offset": 1026198,
-                "Value": "end"
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix2_p3",
-          "Path": "dlc_tuner_music/tuner_ap_mix2_p3",
-          "Duration": 1374207,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 0,
-                "Id": 4010,
-                "Title": "Calib (Edited)",
-                "Artist": "RED AXES"
-              },
-              {
-                "Offset": 134575,
-                "Id": 4011,
-                "Title": "Reverie (Edited) / Laser Lass (Edited)",
-                "Artist": "SAMA' ABDULHADI / JAMIE JONES"
-              },
-              {
-                "Offset": 624424,
-                "Id": 4012,
-                "Title": "Up In Flames",
-                "Artist": "BEDOUIN"
-              },
-              {
-                "Offset": 854698,
-                "Id": 4013,
-                "Title": "Revision Of The Past",
-                "Artist": "LOST SOULS OF SATURN & TOKIMONSTA"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 1996,
-                "Value": 0
-              },
-              {
-                "Offset": 84711,
-                "Value": 64
-              },
-              {
-                "Offset": 115163,
-                "Value": 64
-              },
-              {
-                "Offset": 145838,
-                "Value": 64
-              },
-              {
-                "Offset": 176457,
-                "Value": 64
-              },
-              {
-                "Offset": 207252,
-                "Value": 64
-              },
-              {
-                "Offset": 238086,
-                "Value": 64
-              },
-              {
-                "Offset": 269375,
-                "Value": 64
-              },
-              {
-                "Offset": 300552,
-                "Value": 67
-              },
-              {
-                "Offset": 333180,
-                "Value": 64
-              },
-              {
-                "Offset": 364887,
-                "Value": 75
-              },
-              {
-                "Offset": 401757,
-                "Value": 0
-              },
-              {
-                "Offset": 432588,
-                "Value": 64
-              },
-              {
-                "Offset": 463653,
-                "Value": 64
-              },
-              {
-                "Offset": 494838,
-                "Value": 64
-              },
-              {
-                "Offset": 525902,
-                "Value": 64
-              },
-              {
-                "Offset": 556916,
-                "Value": 64
-              },
-              {
-                "Offset": 587925,
-                "Value": 64
-              },
-              {
-                "Offset": 618989,
-                "Value": 64
-              },
-              {
-                "Offset": 649915,
-                "Value": 64
-              },
-              {
-                "Offset": 681008,
-                "Value": 64
-              },
-              {
-                "Offset": 712130,
-                "Value": 64
-              },
-              {
-                "Offset": 743390,
-                "Value": 64
-              },
-              {
-                "Offset": 774679,
-                "Value": 64
-              },
-              {
-                "Offset": 806079,
-                "Value": 32
-              },
-              {
-                "Offset": 822755,
-                "Value": 16
-              },
-              {
-                "Offset": 834050,
-                "Value": 16
-              },
-              {
-                "Offset": 848690,
-                "Value": 0
-              },
-              {
-                "Offset": 856665,
-                "Value": 64
-              },
-              {
-                "Offset": 888397,
-                "Value": 64
-              },
-              {
-                "Offset": 920112,
-                "Value": 64
-              },
-              {
-                "Offset": 951898,
-                "Value": 64
-              },
-              {
-                "Offset": 983605,
-                "Value": 64
-              },
-              {
-                "Offset": 1015368,
-                "Value": 64
-              },
-              {
-                "Offset": 1047053,
-                "Value": 64
-              },
-              {
-                "Offset": 1078853,
-                "Value": 64
-              },
-              {
-                "Offset": 1110573,
-                "Value": 64
-              },
-              {
-                "Offset": 1142279,
-                "Value": 64
-              },
-              {
-                "Offset": 1174031,
-                "Value": 64
-              },
-              {
-                "Offset": 1205770,
-                "Value": 64
-              },
-              {
-                "Offset": 1237529,
-                "Value": 64
-              },
-              {
-                "Offset": 1269248,
-                "Value": 64
-              },
-              {
-                "Offset": 1300987,
-                "Value": 64
-              },
-              {
-                "Offset": 1332706,
-                "Value": 64
-              },
-              {
-                "Offset": 1364702,
-                "Value": 0
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 153262,
-                "Value": "start"
-              },
-              {
-                "Offset": 198096,
-                "Value": "end"
-              },
-              {
-                "Offset": 447998,
-                "Value": "start"
-              },
-              {
-                "Offset": 516405,
-                "Value": "end"
-              },
-              {
-                "Offset": 649984,
-                "Value": "start"
-              },
-              {
-                "Offset": 692970,
-                "Value": "end"
-              },
-              {
-                "Offset": 1070898,
-                "Value": "start"
-              },
-              {
-                "Offset": 1106644,
-                "Value": "end"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "tuner_ap_mix3": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix2_p1",
-          "Path": "dlc_tuner_music/tuner_ap_mix2_p1",
-          "Duration": 1804100,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 11,
-                "Id": 4000,
-                "Title": "Forever Free (Edited)",
-                "Artist": "CARL CRAIG"
-              },
-              {
-                "Offset": 176876,
-                "Id": 4001,
-                "Title": "Raindrops (Edited)",
-                "Artist": "BUTCH FEAT. KEMELION"
-              },
-              {
-                "Offset": 441247,
-                "Id": 4002,
-                "Title": "The Church (Edited)",
-                "Artist": "RAMPA"
-              },
-              {
-                "Offset": 786264,
-                "Id": 4003,
-                "Title": "Keep On Coming (Edited)",
-                "Artist": "MOODYMANN FEAT. CD"
-              },
-              {
-                "Offset": 1213762,
-                "Id": 4004,
-                "Title": "As If To Say (Edited)",
-                "Artist": "MANO LE TOUGH"
-              },
-              {
-                "Offset": 1473110,
-                "Id": 4005,
-                "Title": "Break It Up (Edited)",
-                "Artist": "ADAM BEYER"
-              },
-              {
-                "Offset": 1657696,
-                "Id": 4006,
-                "Title": "Autonom (Dixon Edit)",
-                "Artist": "DEICHKIND"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 66840,
-                "Value": 128
-              },
-              {
-                "Offset": 132309,
-                "Value": 128
-              },
-              {
-                "Offset": 197848,
-                "Value": 128
-              },
-              {
-                "Offset": 263431,
-                "Value": 128
-              },
-              {
-                "Offset": 328993,
-                "Value": 64
-              },
-              {
-                "Offset": 361787,
-                "Value": 76
-              },
-              {
-                "Offset": 400745,
-                "Value": 64
-              },
-              {
-                "Offset": 433539,
-                "Value": 68
-              },
-              {
-                "Offset": 468704,
-                "Value": 64
-              },
-              {
-                "Offset": 501220,
-                "Value": 64
-              },
-              {
-                "Offset": 534034,
-                "Value": 128
-              },
-              {
-                "Offset": 599648,
-                "Value": 64
-              },
-              {
-                "Offset": 632399,
-                "Value": 128
-              },
-              {
-                "Offset": 697876,
-                "Value": 64
-              },
-              {
-                "Offset": 730587,
-                "Value": 64
-              },
-              {
-                "Offset": 763264,
-                "Value": 64
-              },
-              {
-                "Offset": 795882,
-                "Value": 64
-              },
-              {
-                "Offset": 828548,
-                "Value": 64
-              },
-              {
-                "Offset": 861124,
-                "Value": 64
-              },
-              {
-                "Offset": 893776,
-                "Value": 64
-              },
-              {
-                "Offset": 926316,
-                "Value": 64
-              },
-              {
-                "Offset": 958908,
-                "Value": 64
-              },
-              {
-                "Offset": 991437,
-                "Value": 64
-              },
-              {
-                "Offset": 1023925,
-                "Value": 64
-              },
-              {
-                "Offset": 1056441,
-                "Value": 64
-              },
-              {
-                "Offset": 1088901,
-                "Value": 64
-              },
-              {
-                "Offset": 1121361,
-                "Value": 64
-              },
-              {
-                "Offset": 1153765,
-                "Value": 64
-              },
-              {
-                "Offset": 1186169,
-                "Value": 64
-              },
-              {
-                "Offset": 1218573,
-                "Value": 64
-              },
-              {
-                "Offset": 1250949,
-                "Value": 64
-              },
-              {
-                "Offset": 1283298,
-                "Value": 64
-              },
-              {
-                "Offset": 1315646,
-                "Value": 64
-              },
-              {
-                "Offset": 1347958,
-                "Value": 64
-              },
-              {
-                "Offset": 1380231,
-                "Value": 64
-              },
-              {
-                "Offset": 1412496,
-                "Value": 64
-              },
-              {
-                "Offset": 1444733,
-                "Value": 64
-              },
-              {
-                "Offset": 1476942,
-                "Value": 64
-              },
-              {
-                "Offset": 1509123,
-                "Value": 64
-              },
-              {
-                "Offset": 1541325,
-                "Value": 64
-              },
-              {
-                "Offset": 1573508,
-                "Value": 64
-              },
-              {
-                "Offset": 1605638,
-                "Value": 64
-              },
-              {
-                "Offset": 1637763,
-                "Value": 64
-              },
-              {
-                "Offset": 1669875,
-                "Value": 64
-              },
-              {
-                "Offset": 1701931,
-                "Value": 64
-              },
-              {
-                "Offset": 1733961,
-                "Value": 64
-              },
-              {
-                "Offset": 1766029,
-                "Value": 52
-              },
-              {
-                "Offset": 1792060,
-                "Value": 24
-              },
-              {
-                "Offset": 1803110,
-                "Value": 10
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 501258,
-                "Value": "start"
-              },
-              {
-                "Offset": 560097,
-                "Value": "end"
-              },
-              {
-                "Offset": 1171400,
-                "Value": "start"
-              },
-              {
-                "Offset": 1205661,
-                "Value": "end"
-              },
-              {
-                "Offset": 1529022,
-                "Value": "start"
-              },
-              {
-                "Offset": 1573394,
-                "Value": "end"
-              },
-              {
-                "Offset": 1743950,
-                "Value": "start"
-              },
-              {
-                "Offset": 1791712,
-                "Value": "end"
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix2_p2",
-          "Path": "dlc_tuner_music/tuner_ap_mix2_p2",
-          "Duration": 1092933,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 10,
-                "Id": 4006,
-                "Title": "Autonom (Dixon Edit)",
-                "Artist": "DEICHKIND"
-              },
-              {
-                "Offset": 33128,
-                "Id": 4007,
-                "Title": "What If, Then What? (Edited)",
-                "Artist": "TINI FEAT. AMITURE"
-              },
-              {
-                "Offset": 367831,
-                "Id": 4008,
-                "Title": "Lumartes (Edited)",
-                "Artist": "SETH TROXLER"
-              },
-              {
-                "Offset": 648741,
-                "Id": 4009,
-                "Title": "Atlanta (Edited)",
-                "Artist": "DJ TENNIS FEAT. ASHEE"
-              },
-              {
-                "Offset": 1049343,
-                "Id": 4010,
-                "Title": "Calib (Edited)",
-                "Artist": "RED AXES"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 10,
-                "Value": 10
-              },
-              {
-                "Offset": 5000,
-                "Value": 64
-              },
-              {
-                "Offset": 37000,
-                "Value": 64
-              },
-              {
-                "Offset": 68926,
-                "Value": 64
-              },
-              {
-                "Offset": 100877,
-                "Value": 64
-              },
-              {
-                "Offset": 132840,
-                "Value": 64
-              },
-              {
-                "Offset": 164753,
-                "Value": 64
-              },
-              {
-                "Offset": 196646,
-                "Value": 64
-              },
-              {
-                "Offset": 228527,
-                "Value": 64
-              },
-              {
-                "Offset": 260384,
-                "Value": 64
-              },
-              {
-                "Offset": 292432,
-                "Value": 64
-              },
-              {
-                "Offset": 324016,
-                "Value": 64
-              },
-              {
-                "Offset": 355802,
-                "Value": 30
-              },
-              {
-                "Offset": 370665,
-                "Value": 64
-              },
-              {
-                "Offset": 402409,
-                "Value": 64
-              },
-              {
-                "Offset": 434085,
-                "Value": 64
-              },
-              {
-                "Offset": 465748,
-                "Value": 64
-              },
-              {
-                "Offset": 497316,
-                "Value": 64
-              },
-              {
-                "Offset": 528895,
-                "Value": 64
-              },
-              {
-                "Offset": 560389,
-                "Value": 64
-              },
-              {
-                "Offset": 591865,
-                "Value": 64
-              },
-              {
-                "Offset": 623267,
-                "Value": 64
-              },
-              {
-                "Offset": 654692,
-                "Value": 56
-              },
-              {
-                "Offset": 682030,
-                "Value": 122
-              },
-              {
-                "Offset": 743597,
-                "Value": 64
-              },
-              {
-                "Offset": 775218,
-                "Value": 64
-              },
-              {
-                "Offset": 806698,
-                "Value": 112
-              },
-              {
-                "Offset": 861797,
-                "Value": 64
-              },
-              {
-                "Offset": 893262,
-                "Value": 64
-              },
-              {
-                "Offset": 924670,
-                "Value": 64
-              },
-              {
-                "Offset": 956102,
-                "Value": 64
-              },
-              {
-                "Offset": 987531,
-                "Value": 64
-              },
-              {
-                "Offset": 1018906,
-                "Value": 64
-              },
-              {
-                "Offset": 1050267,
-                "Value": 64
-              },
-              {
-                "Offset": 1081651,
-                "Value": 23
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 112873,
-                "Value": "start"
-              },
-              {
-                "Offset": 144752,
-                "Value": "end"
-              },
-              {
-                "Offset": 224531,
-                "Value": "start"
-              },
-              {
-                "Offset": 259504,
-                "Value": "end"
-              },
-              {
-                "Offset": 513092,
-                "Value": "start"
-              },
-              {
-                "Offset": 548151,
-                "Value": "end"
-              },
-              {
-                "Offset": 601672,
-                "Value": "start"
-              },
-              {
-                "Offset": 635418,
-                "Value": "end"
-              },
-              {
-                "Offset": 863762,
-                "Value": "start"
-              },
-              {
-                "Offset": 901695,
-                "Value": "end"
-              },
-              {
-                "Offset": 980938,
-                "Value": "start"
-              },
-              {
-                "Offset": 1026198,
-                "Value": "end"
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix2_p3",
-          "Path": "dlc_tuner_music/tuner_ap_mix2_p3",
-          "Duration": 1374207,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 0,
-                "Id": 4010,
-                "Title": "Calib (Edited)",
-                "Artist": "RED AXES"
-              },
-              {
-                "Offset": 134575,
-                "Id": 4011,
-                "Title": "Reverie (Edited) / Laser Lass (Edited)",
-                "Artist": "SAMA' ABDULHADI / JAMIE JONES"
-              },
-              {
-                "Offset": 624424,
-                "Id": 4012,
-                "Title": "Up In Flames",
-                "Artist": "BEDOUIN"
-              },
-              {
-                "Offset": 854698,
-                "Id": 4013,
-                "Title": "Revision Of The Past",
-                "Artist": "LOST SOULS OF SATURN & TOKIMONSTA"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 1996,
-                "Value": 0
-              },
-              {
-                "Offset": 84711,
-                "Value": 64
-              },
-              {
-                "Offset": 115163,
-                "Value": 64
-              },
-              {
-                "Offset": 145838,
-                "Value": 64
-              },
-              {
-                "Offset": 176457,
-                "Value": 64
-              },
-              {
-                "Offset": 207252,
-                "Value": 64
-              },
-              {
-                "Offset": 238086,
-                "Value": 64
-              },
-              {
-                "Offset": 269375,
-                "Value": 64
-              },
-              {
-                "Offset": 300552,
-                "Value": 67
-              },
-              {
-                "Offset": 333180,
-                "Value": 64
-              },
-              {
-                "Offset": 364887,
-                "Value": 75
-              },
-              {
-                "Offset": 401757,
-                "Value": 0
-              },
-              {
-                "Offset": 432588,
-                "Value": 64
-              },
-              {
-                "Offset": 463653,
-                "Value": 64
-              },
-              {
-                "Offset": 494838,
-                "Value": 64
-              },
-              {
-                "Offset": 525902,
-                "Value": 64
-              },
-              {
-                "Offset": 556916,
-                "Value": 64
-              },
-              {
-                "Offset": 587925,
-                "Value": 64
-              },
-              {
-                "Offset": 618989,
-                "Value": 64
-              },
-              {
-                "Offset": 649915,
-                "Value": 64
-              },
-              {
-                "Offset": 681008,
-                "Value": 64
-              },
-              {
-                "Offset": 712130,
-                "Value": 64
-              },
-              {
-                "Offset": 743390,
-                "Value": 64
-              },
-              {
-                "Offset": 774679,
-                "Value": 64
-              },
-              {
-                "Offset": 806079,
-                "Value": 32
-              },
-              {
-                "Offset": 822755,
-                "Value": 16
-              },
-              {
-                "Offset": 834050,
-                "Value": 16
-              },
-              {
-                "Offset": 848690,
-                "Value": 0
-              },
-              {
-                "Offset": 856665,
-                "Value": 64
-              },
-              {
-                "Offset": 888397,
-                "Value": 64
-              },
-              {
-                "Offset": 920112,
-                "Value": 64
-              },
-              {
-                "Offset": 951898,
-                "Value": 64
-              },
-              {
-                "Offset": 983605,
-                "Value": 64
-              },
-              {
-                "Offset": 1015368,
-                "Value": 64
-              },
-              {
-                "Offset": 1047053,
-                "Value": 64
-              },
-              {
-                "Offset": 1078853,
-                "Value": 64
-              },
-              {
-                "Offset": 1110573,
-                "Value": 64
-              },
-              {
-                "Offset": 1142279,
-                "Value": 64
-              },
-              {
-                "Offset": 1174031,
-                "Value": 64
-              },
-              {
-                "Offset": 1205770,
-                "Value": 64
-              },
-              {
-                "Offset": 1237529,
-                "Value": 64
-              },
-              {
-                "Offset": 1269248,
-                "Value": 64
-              },
-              {
-                "Offset": 1300987,
-                "Value": 64
-              },
-              {
-                "Offset": 1332706,
-                "Value": 64
-              },
-              {
-                "Offset": 1364702,
-                "Value": 0
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 153262,
-                "Value": "start"
-              },
-              {
-                "Offset": 198096,
-                "Value": "end"
-              },
-              {
-                "Offset": 447998,
-                "Value": "start"
-              },
-              {
-                "Offset": 516405,
-                "Value": "end"
-              },
-              {
-                "Offset": 649984,
-                "Value": "start"
-              },
-              {
-                "Offset": 692970,
-                "Value": "end"
-              },
-              {
-                "Offset": 1070898,
-                "Value": "start"
-              },
-              {
-                "Offset": 1106644,
-                "Value": "end"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "tuner_ap_mix3_parta": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix3_p1",
-          "Path": "dlc_tuner_music/tuner_ap_mix3_p1",
-          "Duration": 1761429,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 44,
-                "Id": 2075,
-                "Title": "Lumartes (Edited Version)",
-                "Artist": "SETH TROXLER"
-              },
-              {
-                "Offset": 233270,
-                "Id": 2076,
-                "Title": "Reverie",
-                "Artist": "SAMA' ABDULHADI"
-              },
-              {
-                "Offset": 623700,
-                "Id": 2077,
-                "Title": "The Church",
-                "Artist": "RAMPA"
-              },
-              {
-                "Offset": 1062300,
-                "Id": 2078,
-                "Title": "Autonom (Dixon Edit)",
-                "Artist": "DEICHKIND"
-              },
-              {
-                "Offset": 1374808,
-                "Id": 2079,
-                "Title": "You",
-                "Artist": "KERRI CHANDLER"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 44,
-                "Value": 480
-              },
-              {
-                "Offset": 230430,
-                "Value": 6
-              },
-              {
-                "Offset": 233270,
-                "Value": 832
-              },
-              {
-                "Offset": 623260,
-                "Value": 1
-              },
-              {
-                "Offset": 623700,
-                "Value": 896
-              },
-              {
-                "Offset": 1060769,
-                "Value": 3
-              },
-              {
-                "Offset": 1062300,
-                "Value": 640
-              },
-              {
-                "Offset": 1374484,
-                "Value": 1
-              },
-              {
-                "Offset": 1374808,
-                "Value": 816
-              },
-              {
-                "Offset": 1760320,
-                "Value": 2
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 69164,
-                "Value": "start"
-              },
-              {
-                "Offset": 86444,
-                "Value": "end"
-              },
-              {
-                "Offset": 130604,
-                "Value": "start"
-              },
-              {
-                "Offset": 159404,
-                "Value": "end"
-              },
-              {
-                "Offset": 308270,
-                "Value": "start"
-              },
-              {
-                "Offset": 323270,
-                "Value": "end"
-              },
-              {
-                "Offset": 353270,
-                "Value": "start"
-              },
-              {
-                "Offset": 381395,
-                "Value": "end"
-              },
-              {
-                "Offset": 503270,
-                "Value": "start"
-              },
-              {
-                "Offset": 530926,
-                "Value": "end"
-              },
-              {
-                "Offset": 748578,
-                "Value": "start"
-              },
-              {
-                "Offset": 779797,
-                "Value": "end"
-              },
-              {
-                "Offset": 920285,
-                "Value": "start"
-              },
-              {
-                "Offset": 935895,
-                "Value": "end"
-              },
-              {
-                "Offset": 951504,
-                "Value": "start"
-              },
-              {
-                "Offset": 974919,
-                "Value": "end"
-              },
-              {
-                "Offset": 1093519,
-                "Value": "start"
-              },
-              {
-                "Offset": 1124739,
-                "Value": "end"
-              },
-              {
-                "Offset": 1171568,
-                "Value": "start"
-              },
-              {
-                "Offset": 1202787,
-                "Value": "end"
-              },
-              {
-                "Offset": 1249617,
-                "Value": "start"
-              },
-              {
-                "Offset": 1280836,
-                "Value": "end"
-              },
-              {
-                "Offset": 1312056,
-                "Value": "start"
-              },
-              {
-                "Offset": 1327665,
-                "Value": "end"
-              },
-              {
-                "Offset": 1435281,
-                "Value": "start"
-              },
-              {
-                "Offset": 1465517,
-                "Value": "end"
-              },
-              {
-                "Offset": 1571344,
-                "Value": "start"
-              },
-              {
-                "Offset": 1594021,
-                "Value": "end"
-              },
-              {
-                "Offset": 1654494,
-                "Value": "start"
-              },
-              {
-                "Offset": 1684730,
-                "Value": "end"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "tuner_ap_mix3_partb": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix3_p2",
-          "Path": "dlc_tuner_music/tuner_ap_mix3_p2",
-          "Duration": 1842753,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 24,
-                "Id": 2080,
-                "Title": "What If, Then What?",
-                "Artist": "TINI FEAT. AMITURE"
-              },
-              {
-                "Offset": 285023,
-                "Id": 2081,
-                "Title": "Atlanta",
-                "Artist": "DJ TENNIS FEAT. ASHEE"
-              },
-              {
-                "Offset": 722060,
-                "Id": 2082,
-                "Title": "Keep On Coming",
-                "Artist": "MOODYMANN FEAT. CD"
-              },
-              {
-                "Offset": 1035576,
-                "Id": 2083,
-                "Title": "Laser Lass",
-                "Artist": "JAMIE JONES"
-              },
-              {
-                "Offset": 1411161,
-                "Id": 2084,
-                "Title": "As If To Say",
-                "Artist": "MANO LE TOUGH"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 24,
-                "Value": 560
-              },
-              {
-                "Offset": 262515,
-                "Value": 48
-              },
-              {
-                "Offset": 285023,
-                "Value": 228
-              },
-              {
-                "Offset": 712517,
-                "Value": 20
-              },
-              {
-                "Offset": 722060,
-                "Value": 624
-              },
-              {
-                "Offset": 1023980,
-                "Value": 24
-              },
-              {
-                "Offset": 1035576,
-                "Value": 788
-              },
-              {
-                "Offset": 1410817,
-                "Value": 1
-              },
-              {
-                "Offset": 1411161,
-                "Value": 864
-              },
-              {
-                "Offset": 1829225,
-                "Value": 26
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 30024,
-                "Value": "start"
-              },
-              {
-                "Offset": 45024,
-                "Value": "end"
-              },
-              {
-                "Offset": 135024,
-                "Value": "start"
-              },
-              {
-                "Offset": 165024,
-                "Value": "end"
-              },
-              {
-                "Offset": 360023,
-                "Value": "start"
-              },
-              {
-                "Offset": 390023,
-                "Value": "end"
-              },
-              {
-                "Offset": 472523,
-                "Value": "start"
-              },
-              {
-                "Offset": 502523,
-                "Value": "end"
-              },
-              {
-                "Offset": 585023,
-                "Value": "start"
-              },
-              {
-                "Offset": 607523,
-                "Value": "end"
-              },
-              {
-                "Offset": 660023,
-                "Value": "start"
-              },
-              {
-                "Offset": 682523,
-                "Value": "end"
-              },
-              {
-                "Offset": 1111766,
-                "Value": "start"
-              },
-              {
-                "Offset": 1138433,
-                "Value": "end"
-              },
-              {
-                "Offset": 1256528,
-                "Value": "start"
-              },
-              {
-                "Offset": 1285100,
-                "Value": "end"
-              },
-              {
-                "Offset": 1334624,
-                "Value": "start"
-              },
-              {
-                "Offset": 1355576,
-                "Value": "end"
-              },
-              {
-                "Offset": 1529226,
-                "Value": "start"
-              },
-              {
-                "Offset": 1547129,
-                "Value": "end"
-              },
-              {
-                "Offset": 1713096,
-                "Value": "start"
-              },
-              {
-                "Offset": 1744064,
-                "Value": "end"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "tuner_ap_mix3_partc": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix3_p3",
-          "Path": "dlc_tuner_music/tuner_ap_mix3_p3",
-          "Duration": 2316782,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 25,
-                "Id": 2085,
-                "Title": "Raindrops",
-                "Artist": "BUTCH FEAT. KEMELION"
-              },
-              {
-                "Offset": 357478,
-                "Id": 2086,
-                "Title": "Forever Free",
-                "Artist": "CARL CRAIG"
-              },
-              {
-                "Offset": 835840,
-                "Id": 2087,
-                "Title": "Wishing Well",
-                "Artist": "MARGARET DYGAS"
-              },
-              {
-                "Offset": 1255835,
-                "Id": 2088,
-                "Title": "Calib",
-                "Artist": "RED AXES"
-              },
-              {
-                "Offset": 1620103,
-                "Id": 2089,
-                "Title": "Mantra For Lizzie",
-                "Artist": "LUCIANO"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 25,
-                "Value": 736
-              },
-              {
-                "Offset": 347734,
-                "Value": 18
-              },
-              {
-                "Offset": 357478,
-                "Value": 880
-              },
-              {
-                "Offset": 816594,
-                "Value": 37
-              },
-              {
-                "Offset": 835840,
-                "Value": 836
-              },
-              {
-                "Offset": 1253848,
-                "Value": 4
-              },
-              {
-                "Offset": 1255835,
-                "Value": 704
-              },
-              {
-                "Offset": 1607835,
-                "Value": 24
-              },
-              {
-                "Offset": 1620103,
-                "Value": 1368
-              },
-              {
-                "Offset": 2304103,
-                "Value": 25
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 45380,
-                "Value": "start"
-              },
-              {
-                "Offset": 60498,
-                "Value": "end"
-              },
-              {
-                "Offset": 166325,
-                "Value": "start"
-              },
-              {
-                "Offset": 196561,
-                "Value": "end"
-              },
-              {
-                "Offset": 257033,
-                "Value": "start"
-              },
-              {
-                "Offset": 287270,
-                "Value": "end"
-              },
-              {
-                "Offset": 1331835,
-                "Value": "start"
-              },
-              {
-                "Offset": 1349835,
-                "Value": "end"
-              },
-              {
-                "Offset": 1379835,
-                "Value": "start"
-              },
-              {
-                "Offset": 1394835,
-                "Value": "end"
-              },
-              {
-                "Offset": 1427835,
-                "Value": "start"
-              },
-              {
-                "Offset": 1443835,
-                "Value": "end"
-              },
-              {
-                "Offset": 1495835,
-                "Value": "start"
-              },
-              {
-                "Offset": 1515335,
-                "Value": "end"
-              },
-              {
-                "Offset": 1999603,
-                "Value": "start"
-              },
-              {
-                "Offset": 2030103,
-                "Value": "end"
-              },
-              {
-                "Offset": 2105603,
-                "Value": "start"
-              },
-              {
-                "Offset": 2163603,
-                "Value": "end"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "tuner_ap_mix3_partd": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_tuner_music_tuner_ap_mix3_p4",
-          "Path": "dlc_tuner_music/tuner_ap_mix3_p4",
-          "Duration": 1959302,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 40,
-                "Id": 2090,
-                "Title": "Revision of the Past",
-                "Artist": "LOST SOULS OF SATURN & TOKIMONSTA"
-              },
-              {
-                "Offset": 496349,
-                "Id": 2091,
-                "Title": "Break It Up",
-                "Artist": "ADAM BEYER"
-              },
-              {
-                "Offset": 802137,
-                "Id": 2092,
-                "Title": "Nova Two",
-                "Artist": "TALE OF US"
-              },
-              {
-                "Offset": 1140013,
-                "Id": 2093,
-                "Title": "Up In Flames",
-                "Artist": "BEDOUIN"
-              },
-              {
-                "Offset": 1534840,
-                "Id": 2094,
-                "Title": "The Future",
-                "Artist": "DAMIAN LAZARUS FEAT. ROBERT OWENS"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 40,
-                "Value": 964
-              },
-              {
-                "Offset": 478057,
-                "Value": 36
-              },
-              {
-                "Offset": 496349,
-                "Value": 592
-              },
-              {
-                "Offset": 776033,
-                "Value": 56
-              },
-              {
-                "Offset": 802137,
-                "Value": 668
-              },
-              {
-                "Offset": 1122765,
-                "Value": 3
-              },
-              {
-                "Offset": 1124274,
-                "Value": 32
-              },
-              {
-                "Offset": 1140013,
-                "Value": 784
-              },
-              {
-                "Offset": 1525560,
-                "Value": 16
-              },
-              {
-                "Offset": 1533402,
-                "Value": 3
-              },
-              {
-                "Offset": 1534798,
-                "Value": 836
-              },
-              {
-                "Offset": 1942605,
-                "Value": 34
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 222189,
-                "Value": "start"
-              },
-              {
-                "Offset": 241528,
-                "Value": "end"
-              },
-              {
-                "Offset": 503908,
-                "Value": "start"
-              },
-              {
-                "Offset": 530365,
-                "Value": "end"
-              },
-              {
-                "Offset": 685325,
-                "Value": "start"
-              },
-              {
-                "Offset": 711782,
-                "Value": "end"
-              },
-              {
-                "Offset": 878937,
-                "Value": "start"
-              },
-              {
-                "Offset": 909657,
-                "Value": "end"
-              },
-              {
-                "Offset": 1017177,
-                "Value": "start"
-              },
-              {
-                "Offset": 1047897,
-                "Value": "end"
-              },
-              {
-                "Offset": 1250177,
-                "Value": "start"
-              },
-              {
-                "Offset": 1273783,
-                "Value": "end"
-              },
-              {
-                "Offset": 1344603,
-                "Value": "start"
-              },
-              {
-                "Offset": 1368210,
-                "Value": "end"
-              },
-              {
-                "Offset": 1642617,
-                "Value": "start"
-              },
-              {
-                "Offset": 1666032,
-                "Value": "end"
-              },
-              {
-                "Offset": 1783105,
-                "Value": "start"
-              },
-              {
-                "Offset": 1812373,
-                "Value": "end"
-              },
-              {
-                "Offset": 1876763,
-                "Value": "start"
-              },
-              {
-                "Offset": 1906520,
-                "Value": "end"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  }
 }

@@ -1,1372 +1,1375 @@
 {
-  "Stations": {
-    "radio_21_dlc_xm17": {
-      "Flags": "0xAA8009AA",
-      "Genre": "4",
-      "AmbientRadioVol": "0",
-      "RadioName": "RADIO_21_DLC_XM17",
-      "TrackLists": [
-        "dlc_christmas2017_music"
-      ]
-    }
-  },
-  "TrackLists": {
-    "dlc_christmas2017_music": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_christmas2017_radio_xm17_p1",
-          "Path": "dlc_christmas2017/radio_xm17_p1",
-          "Duration": 1863693,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 26816,
-                "Id": 1659,
-                "Title": "International Feel",
-                "Artist": "TODD RUNDGREN"
-              },
-              {
-                "Offset": 204986,
-                "Id": 1660,
-                "Title": "Mr Noah",
-                "Artist": "PANDA BEAR"
-              },
-              {
-                "Offset": 413856,
-                "Id": 1681,
-                "Title": "Provider",
-                "Artist": "FRANK OCEAN"
-              },
-              {
-                "Offset": 653461,
-                "Id": 1661,
-                "Title": "Kno Ya Wrong",
-                "Artist": "SCHOOLBOY Q FEAT. LANCE SKIIIWALKER"
-              },
-              {
-                "Offset": 983828,
-                "Id": 1662,
-                "Title": "Rain",
-                "Artist": "SWV"
-              },
-              {
-                "Offset": 1230002,
-                "Id": 1663,
-                "Title": "On a Farm",
-                "Artist": "JOY AGAIN"
-              },
-              {
-                "Offset": 1318069,
-                "Id": 1682,
-                "Title": "Ivy",
-                "Artist": "FRANK OCEAN"
-              },
-              {
-                "Offset": 1556509,
-                "Id": 1664,
-                "Title": "So In Love",
-                "Artist": "CURTIS MAYFIELD"
-              }
+    "Stations": {
+        "radio_21_dlc_xm17": {
+            "FlagsValue": "0xAA8009AA",
+            "Flags": [
+                "SEQUENTIALMUSIC"
             ],
-            "Beat": [
-              {
-                "Offset": 38635,
-                "Value": 32
-              },
-              {
-                "Offset": 62215,
-                "Value": 32
-              },
-              {
-                "Offset": 85437,
-                "Value": 8
-              },
-              {
-                "Offset": 90968,
-                "Value": 32
-              },
-              {
-                "Offset": 113331,
-                "Value": 32
-              },
-              {
-                "Offset": 135750,
-                "Value": 8
-              },
-              {
-                "Offset": 141493,
-                "Value": 32
-              },
-              {
-                "Offset": 163683,
-                "Value": 5
-              },
-              {
-                "Offset": 167118,
-                "Value": 0
-              },
-              {
-                "Offset": 215498,
-                "Value": 16
-              },
-              {
-                "Offset": 224541,
-                "Value": 12
-              },
-              {
-                "Offset": 231333,
-                "Value": 64
-              },
-              {
-                "Offset": 267538,
-                "Value": 64
-              },
-              {
-                "Offset": 303800,
-                "Value": 64
-              },
-              {
-                "Offset": 340033,
-                "Value": 64
-              },
-              {
-                "Offset": 376242,
-                "Value": 32
-              },
-              {
-                "Offset": 394362,
-                "Value": 32
-              },
-              {
-                "Offset": 412441,
-                "Value": 0
-              },
-              {
-                "Offset": 429393,
-                "Value": 32
-              },
-              {
-                "Offset": 456861,
-                "Value": 32
-              },
-              {
-                "Offset": 484293,
-                "Value": 16
-              },
-              {
-                "Offset": 497733,
-                "Value": 0
-              },
-              {
-                "Offset": 542620,
-                "Value": 32
-              },
-              {
-                "Offset": 569989,
-                "Value": 32
-              },
-              {
-                "Offset": 597487,
-                "Value": 32
-              },
-              {
-                "Offset": 624968,
-                "Value": 16
-              },
-              {
-                "Offset": 638637,
-                "Value": 0
-              },
-              {
-                "Offset": 659794,
-                "Value": 32
-              },
-              {
-                "Offset": 685262,
-                "Value": 32
-              },
-              {
-                "Offset": 710666,
-                "Value": 32
-              },
-              {
-                "Offset": 736094,
-                "Value": 32
-              },
-              {
-                "Offset": 761519,
-                "Value": 16
-              },
-              {
-                "Offset": 774295,
-                "Value": 0
-              },
-              {
-                "Offset": 799225,
-                "Value": 32
-              },
-              {
-                "Offset": 821327,
-                "Value": 32
-              },
-              {
-                "Offset": 843357,
-                "Value": 32
-              },
-              {
-                "Offset": 865345,
-                "Value": 32
-              },
-              {
-                "Offset": 887515,
-                "Value": 32
-              },
-              {
-                "Offset": 909549,
-                "Value": 32
-              },
-              {
-                "Offset": 931403,
-                "Value": 32
-              },
-              {
-                "Offset": 953535,
-                "Value": 32
-              },
-              {
-                "Offset": 975549,
-                "Value": 0
-              },
-              {
-                "Offset": 989821,
-                "Value": 64
-              },
-              {
-                "Offset": 1045363,
-                "Value": 64
-              },
-              {
-                "Offset": 1100979,
-                "Value": 32
-              },
-              {
-                "Offset": 1128696,
-                "Value": 64
-              },
-              {
-                "Offset": 1184372,
-                "Value": 32
-              },
-              {
-                "Offset": 1212144,
-                "Value": 12
-              },
-              {
-                "Offset": 1222262,
-                "Value": 0
-              },
-              {
-                "Offset": 1229076,
-                "Value": 16
-              },
-              {
-                "Offset": 1241898,
-                "Value": 32
-              },
-              {
-                "Offset": 1267883,
-                "Value": 32
-              },
-              {
-                "Offset": 1293788,
-                "Value": 0
-              },
-              {
-                "Offset": 1317654,
-                "Value": 16
-              },
-              {
-                "Offset": 1325919,
-                "Value": 128
-              },
-              {
-                "Offset": 1391882,
-                "Value": 128
-              },
-              {
-                "Offset": 1457703,
-                "Value": 128
-              },
-              {
-                "Offset": 1523595,
-                "Value": 36
-              },
-              {
-                "Offset": 1542211,
-                "Value": 0
-              },
-              {
-                "Offset": 1557208,
-                "Value": 32
-              },
-              {
-                "Offset": 1589093,
-                "Value": 128
-              },
-              {
-                "Offset": 1716534,
-                "Value": 128
-              },
-              {
-                "Offset": 1844020,
-                "Value": 16
-              },
-              {
-                "Offset": 1859937,
-                "Value": 1
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 60711,
-                "Value": "start"
-              },
-              {
-                "Offset": 89863,
-                "Value": "end"
-              },
-              {
-                "Offset": 113207,
-                "Value": "start"
-              },
-              {
-                "Offset": 139991,
-                "Value": "end"
-              },
-              {
-                "Offset": 217294,
-                "Value": "start"
-              },
-              {
-                "Offset": 231084,
-                "Value": "end"
-              },
-              {
-                "Offset": 443242,
-                "Value": "start"
-              },
-              {
-                "Offset": 461054,
-                "Value": "end"
-              },
-              {
-                "Offset": 611118,
-                "Value": "start"
-              },
-              {
-                "Offset": 638626,
-                "Value": "end"
-              },
-              {
-                "Offset": 710948,
-                "Value": "start"
-              },
-              {
-                "Offset": 736150,
-                "Value": "end"
-              },
-              {
-                "Offset": 799277,
-                "Value": "start"
-              },
-              {
-                "Offset": 821379,
-                "Value": "end"
-              },
-              {
-                "Offset": 931419,
-                "Value": "start"
-              },
-              {
-                "Offset": 953395,
-                "Value": "end"
-              },
-              {
-                "Offset": 1045102,
-                "Value": "start"
-              },
-              {
-                "Offset": 1073151,
-                "Value": "end"
-              },
-              {
-                "Offset": 1100798,
-                "Value": "start"
-              },
-              {
-                "Offset": 1128374,
-                "Value": "end"
-              },
-              {
-                "Offset": 1621021,
-                "Value": "start"
-              },
-              {
-                "Offset": 1652889,
-                "Value": "end"
-              },
-              {
-                "Offset": 1748538,
-                "Value": "start"
-              },
-              {
-                "Offset": 1780466,
-                "Value": "end"
-              }
+            "Genre": "4",
+            "AmbientRadioVol": "0",
+            "RadioName": "RADIO_21_DLC_XM17",
+            "TrackLists": [
+                "dlc_christmas2017_music"
             ]
-          }
-        },
-        {
-          "Id": "dlc_christmas2017_radio_xm17_p2",
-          "Path": "dlc_christmas2017/radio_xm17_p2",
-          "Duration": 2356933,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 2710,
-                "Id": 1665,
-                "Title": "When Did You Stop Loving Me, When Did I Stop Loving You",
-                "Artist": "MARVIN GAYE"
-              },
-              {
-                "Offset": 378006,
-                "Id": 1666,
-                "Title": "Je ne bois pas beaucoup",
-                "Artist": "LES YA TOUPAS DU ZAIRE"
-              },
-              {
-                "Offset": 590998,
-                "Id": 1667,
-                "Title": "Andreaen Sand Dunes",
-                "Artist": "DREXCIYA"
-              },
-              {
-                "Offset": 739051,
-                "Id": 1668,
-                "Title": "Dead Presidents II",
-                "Artist": "JAY-Z"
-              },
-              {
-                "Offset": 952202,
-                "Id": 1669,
-                "Title": "Crack Rock",
-                "Artist": "FRANK OCEAN"
-              },
-              {
-                "Offset": 1178304,
-                "Id": 1687,
-                "Title": null,
-                "Artist": null
-              },
-              {
-                "Offset": 1242794,
-                "Id": 1670,
-                "Title": "EZ Come, EZ Go",
-                "Artist": "M.C. MACK"
-              },
-              {
-                "Offset": 1467506,
-                "Id": 1671,
-                "Title": "IZ-US",
-                "Artist": "APHEX TWIN"
-              },
-              {
-                "Offset": 1621920,
-                "Id": 1672,
-                "Title": "Hiders",
-                "Artist": "BURIAL"
-              },
-              {
-                "Offset": 1821973,
-                "Id": 1686,
-                "Title": "Codeine Crazy",
-                "Artist": "FUTURE"
-              },
-              {
-                "Offset": 2144549,
-                "Id": 1683,
-                "Title": "Chanel",
-                "Artist": "FRANK OCEAN"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 3105,
-                "Value": 64
-              },
-              {
-                "Offset": 38378,
-                "Value": 64
-              },
-              {
-                "Offset": 73461,
-                "Value": 64
-              },
-              {
-                "Offset": 108399,
-                "Value": 64
-              },
-              {
-                "Offset": 143380,
-                "Value": 64
-              },
-              {
-                "Offset": 178378,
-                "Value": 64
-              },
-              {
-                "Offset": 213405,
-                "Value": 64
-              },
-              {
-                "Offset": 248267,
-                "Value": 64
-              },
-              {
-                "Offset": 283264,
-                "Value": 64
-              },
-              {
-                "Offset": 318103,
-                "Value": 64
-              },
-              {
-                "Offset": 352927,
-                "Value": 32
-              },
-              {
-                "Offset": 370168,
-                "Value": 0
-              },
-              {
-                "Offset": 383824,
-                "Value": 64
-              },
-              {
-                "Offset": 413257,
-                "Value": 64
-              },
-              {
-                "Offset": 443001,
-                "Value": 64
-              },
-              {
-                "Offset": 473173,
-                "Value": 64
-              },
-              {
-                "Offset": 503707,
-                "Value": 64
-              },
-              {
-                "Offset": 533919,
-                "Value": 64
-              },
-              {
-                "Offset": 563851,
-                "Value": 60
-              },
-              {
-                "Offset": 591486,
-                "Value": 128
-              },
-              {
-                "Offset": 650030,
-                "Value": 128
-              },
-              {
-                "Offset": 708637,
-                "Value": 48
-              },
-              {
-                "Offset": 730734,
-                "Value": 0
-              },
-              {
-                "Offset": 740297,
-                "Value": 64
-              },
-              {
-                "Offset": 784299,
-                "Value": 64
-              },
-              {
-                "Offset": 828372,
-                "Value": 64
-              },
-              {
-                "Offset": 872441,
-                "Value": 64
-              },
-              {
-                "Offset": 916482,
-                "Value": 48
-              },
-              {
-                "Offset": 949541,
-                "Value": 0
-              },
-              {
-                "Offset": 952474,
-                "Value": 64
-              },
-              {
-                "Offset": 995123,
-                "Value": 128
-              },
-              {
-                "Offset": 1080471,
-                "Value": 128
-              },
-              {
-                "Offset": 1165759,
-                "Value": 16
-              },
-              {
-                "Offset": 1176511,
-                "Value": 0
-              },
-              {
-                "Offset": 1242904,
-                "Value": 32
-              },
-              {
-                "Offset": 1272668,
-                "Value": 32
-              },
-              {
-                "Offset": 1302421,
-                "Value": 32
-              },
-              {
-                "Offset": 1332210,
-                "Value": 32
-              },
-              {
-                "Offset": 1362113,
-                "Value": 32
-              },
-              {
-                "Offset": 1391950,
-                "Value": 32
-              },
-              {
-                "Offset": 1421617,
-                "Value": 32
-              },
-              {
-                "Offset": 1451712,
-                "Value": 16
-              },
-              {
-                "Offset": 1467529,
-                "Value": 64
-              },
-              {
-                "Offset": 1499794,
-                "Value": 64
-              },
-              {
-                "Offset": 1532090,
-                "Value": 64
-              },
-              {
-                "Offset": 1564291,
-                "Value": 64
-              },
-              {
-                "Offset": 1596618,
-                "Value": 48
-              },
-              {
-                "Offset": 1620809,
-                "Value": 0
-              },
-              {
-                "Offset": 1658948,
-                "Value": 64
-              },
-              {
-                "Offset": 1715136,
-                "Value": 48
-              },
-              {
-                "Offset": 1757187,
-                "Value": 64
-              },
-              {
-                "Offset": 1785159,
-                "Value": 32
-              },
-              {
-                "Offset": 1799294,
-                "Value": 0
-              },
-              {
-                "Offset": 1822593,
-                "Value": 64
-              },
-              {
-                "Offset": 1883484,
-                "Value": 64
-              },
-              {
-                "Offset": 1944409,
-                "Value": 64
-              },
-              {
-                "Offset": 2005377,
-                "Value": 64
-              },
-              {
-                "Offset": 2066355,
-                "Value": 64
-              },
-              {
-                "Offset": 2127311,
-                "Value": 16
-              },
-              {
-                "Offset": 2142608,
-                "Value": 0
-              },
-              {
-                "Offset": 2144612,
-                "Value": 128
-              },
-              {
-                "Offset": 2284235,
-                "Value": 64
-              },
-              {
-                "Offset": 2354031,
-                "Value": 0
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 112803,
-                "Value": "start"
-              },
-              {
-                "Offset": 152097,
-                "Value": "end"
-              },
-              {
-                "Offset": 230838,
-                "Value": "start"
-              },
-              {
-                "Offset": 270159,
-                "Value": "end"
-              },
-              {
-                "Offset": 335572,
-                "Value": "start"
-              },
-              {
-                "Offset": 359689,
-                "Value": "end"
-              },
-              {
-                "Offset": 546951,
-                "Value": "start"
-              },
-              {
-                "Offset": 562113,
-                "Value": "end"
-              },
-              {
-                "Offset": 591486,
-                "Value": "start"
-              },
-              {
-                "Offset": 620705,
-                "Value": "end"
-              },
-              {
-                "Offset": 694030,
-                "Value": "start"
-              },
-              {
-                "Offset": 715510,
-                "Value": "end"
-              },
-              {
-                "Offset": 752763,
-                "Value": "start"
-              },
-              {
-                "Offset": 773296,
-                "Value": "end"
-              },
-              {
-                "Offset": 817290,
-                "Value": "start"
-              },
-              {
-                "Offset": 828372,
-                "Value": "end"
-              },
-              {
-                "Offset": 877923,
-                "Value": "start"
-              },
-              {
-                "Offset": 894451,
-                "Value": "end"
-              },
-              {
-                "Offset": 1059109,
-                "Value": "start"
-              },
-              {
-                "Offset": 1069808,
-                "Value": "end"
-              },
-              {
-                "Offset": 1106977,
-                "Value": "start"
-              },
-              {
-                "Offset": 1133704,
-                "Value": "end"
-              },
-              {
-                "Offset": 1250357,
-                "Value": "start"
-              },
-              {
-                "Offset": 1272784,
-                "Value": "end"
-              },
-              {
-                "Offset": 1339723,
-                "Value": "start"
-              },
-              {
-                "Offset": 1369086,
-                "Value": "end"
-              },
-              {
-                "Offset": 1436781,
-                "Value": "start"
-              },
-              {
-                "Offset": 1451717,
-                "Value": "end"
-              },
-              {
-                "Offset": 1580411,
-                "Value": "start"
-              },
-              {
-                "Offset": 1595988,
-                "Value": "end"
-              },
-              {
-                "Offset": 1757187,
-                "Value": "start"
-              },
-              {
-                "Offset": 1785159,
-                "Value": "end"
-              },
-              {
-                "Offset": 1929217,
-                "Value": "start"
-              },
-              {
-                "Offset": 1960229,
-                "Value": "end"
-              },
-              {
-                "Offset": 2066355,
-                "Value": "start"
-              },
-              {
-                "Offset": 2081638,
-                "Value": "end"
-              },
-              {
-                "Offset": 2196932,
-                "Value": "start"
-              },
-              {
-                "Offset": 2231720,
-                "Value": "end"
-              }
-            ]
-          }
-        },
-        {
-          "Id": "dlc_christmas2017_radio_xm17_p3",
-          "Path": "dlc_christmas2017/radio_xm17_p3",
-          "Duration": 1919238,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 1833,
-                "Id": 1673,
-                "Title": "For Real",
-                "Artist": "LIL UZI VERT"
-              },
-              {
-                "Offset": 170281,
-                "Id": 1674,
-                "Title": "First 48",
-                "Artist": "MIGOS"
-              },
-              {
-                "Offset": 368255,
-                "Id": 1675,
-                "Title": "FBG",
-                "Artist": "SUSPECT"
-              },
-              {
-                "Offset": 553818,
-                "Id": 1684,
-                "Title": "Nights",
-                "Artist": "FRANK OCEAN"
-              },
-              {
-                "Offset": 861080,
-                "Id": 1687,
-                "Title": null,
-                "Artist": null
-              },
-              {
-                "Offset": 913715,
-                "Id": 1676,
-                "Title": "YSL",
-                "Artist": "GUNNA FEAT. PLAYBOI CARTI"
-              },
-              {
-                "Offset": 1069978,
-                "Id": 1677,
-                "Title": "Winnin",
-                "Artist": "CHIEF KEEF FEAT. KING LOUIE"
-              },
-              {
-                "Offset": 1307698,
-                "Id": 1678,
-                "Title": "Miss White Cocaine",
-                "Artist": "LIL SKO"
-              },
-              {
-                "Offset": 1451537,
-                "Id": 1679,
-                "Title": "Man Don't Care",
-                "Artist": "JME FEAT. GIGGS"
-              },
-              {
-                "Offset": 1655068,
-                "Id": 1680,
-                "Title": "Master",
-                "Artist": "(SANDY) ALEX G"
-              },
-              {
-                "Offset": 1767769,
-                "Id": 1685,
-                "Title": "Pretty Sweet",
-                "Artist": "FRANK OCEAN"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 16353,
-                "Value": 64
-              },
-              {
-                "Offset": 74604,
-                "Value": 60
-              },
-              {
-                "Offset": 129158,
-                "Value": 32
-              },
-              {
-                "Offset": 158226,
-                "Value": 0
-              },
-              {
-                "Offset": 169545,
-                "Value": 16
-              },
-              {
-                "Offset": 182547,
-                "Value": 64
-              },
-              {
-                "Offset": 234379,
-                "Value": 64
-              },
-              {
-                "Offset": 286308,
-                "Value": 64
-              },
-              {
-                "Offset": 338209,
-                "Value": 32
-              },
-              {
-                "Offset": 364126,
-                "Value": 0
-              },
-              {
-                "Offset": 368050,
-                "Value": 28
-              },
-              {
-                "Offset": 395133,
-                "Value": 64
-              },
-              {
-                "Offset": 457053,
-                "Value": 64
-              },
-              {
-                "Offset": 518942,
-                "Value": 32
-              },
-              {
-                "Offset": 550064,
-                "Value": 0
-              },
-              {
-                "Offset": 554292,
-                "Value": 32
-              },
-              {
-                "Offset": 578248,
-                "Value": 32
-              },
-              {
-                "Offset": 602281,
-                "Value": 6
-              },
-              {
-                "Offset": 606801,
-                "Value": 64
-              },
-              {
-                "Offset": 654768,
-                "Value": 64
-              },
-              {
-                "Offset": 678746,
-                "Value": 64
-              },
-              {
-                "Offset": 726939,
-                "Value": 32
-              },
-              {
-                "Offset": 750750,
-                "Value": 16
-              },
-              {
-                "Offset": 762769,
-                "Value": 3
-              },
-              {
-                "Offset": 764304,
-                "Value": 32
-              },
-              {
-                "Offset": 806891,
-                "Value": 32
-              },
-              {
-                "Offset": 849596,
-                "Value": 8
-              },
-              {
-                "Offset": 860175,
-                "Value": 0
-              },
-              {
-                "Offset": 917209,
-                "Value": 32
-              },
-              {
-                "Offset": 940849,
-                "Value": 64
-              },
-              {
-                "Offset": 987937,
-                "Value": 64
-              },
-              {
-                "Offset": 1035036,
-                "Value": 32
-              },
-              {
-                "Offset": 1058613,
-                "Value": 16
-              },
-              {
-                "Offset": 1067431,
-                "Value": 0
-              },
-              {
-                "Offset": 1071721,
-                "Value": 16
-              },
-              {
-                "Offset": 1085626,
-                "Value": 12
-              },
-              {
-                "Offset": 1096280,
-                "Value": 32
-              },
-              {
-                "Offset": 1124239,
-                "Value": 64
-              },
-              {
-                "Offset": 1180302,
-                "Value": 32
-              },
-              {
-                "Offset": 1208386,
-                "Value": 32
-              },
-              {
-                "Offset": 1236410,
-                "Value": 32
-              },
-              {
-                "Offset": 1264411,
-                "Value": 32
-              },
-              {
-                "Offset": 1292414,
-                "Value": 16
-              },
-              {
-                "Offset": 1306456,
-                "Value": 0
-              },
-              {
-                "Offset": 1315360,
-                "Value": 64
-              },
-              {
-                "Offset": 1373192,
-                "Value": 64
-              },
-              {
-                "Offset": 1431019,
-                "Value": 16
-              },
-              {
-                "Offset": 1445463,
-                "Value": 0
-              },
-              {
-                "Offset": 1459252,
-                "Value": 64
-              },
-              {
-                "Offset": 1514067,
-                "Value": 32
-              },
-              {
-                "Offset": 1541491,
-                "Value": 32
-              },
-              {
-                "Offset": 1568898,
-                "Value": 64
-              },
-              {
-                "Offset": 1623776,
-                "Value": 32
-              },
-              {
-                "Offset": 1651189,
-                "Value": 0
-              },
-              {
-                "Offset": 1657176,
-                "Value": 64
-              },
-              {
-                "Offset": 1705713,
-                "Value": 64
-              },
-              {
-                "Offset": 1753980,
-                "Value": 16
-              },
-              {
-                "Offset": 1765913,
-                "Value": 0
-              },
-              {
-                "Offset": 1798045,
-                "Value": 64
-              },
-              {
-                "Offset": 1822798,
-                "Value": 64
-              },
-              {
-                "Offset": 1847491,
-                "Value": 64
-              },
-              {
-                "Offset": 1872234,
-                "Value": 64
-              },
-              {
-                "Offset": 1903201,
-                "Value": 16
-              },
-              {
-                "Offset": 1915549,
-                "Value": 0
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 30929,
-                "Value": "start"
-              },
-              {
-                "Offset": 46214,
-                "Value": "end"
-              },
-              {
-                "Offset": 129158,
-                "Value": "start"
-              },
-              {
-                "Offset": 158186,
-                "Value": "end"
-              },
-              {
-                "Offset": 234379,
-                "Value": "start"
-              },
-              {
-                "Offset": 260340,
-                "Value": "end"
-              },
-              {
-                "Offset": 286308,
-                "Value": "start"
-              },
-              {
-                "Offset": 312254,
-                "Value": "end"
-              },
-              {
-                "Offset": 338209,
-                "Value": "start"
-              },
-              {
-                "Offset": 364126,
-                "Value": "end"
-              },
-              {
-                "Offset": 395133,
-                "Value": "start"
-              },
-              {
-                "Offset": 426482,
-                "Value": "end"
-              },
-              {
-                "Offset": 917209,
-                "Value": "start"
-              },
-              {
-                "Offset": 940849,
-                "Value": "end"
-              },
-              {
-                "Offset": 1019974,
-                "Value": "start"
-              },
-              {
-                "Offset": 1043267,
-                "Value": "end"
-              },
-              {
-                "Offset": 1096280,
-                "Value": "start"
-              },
-              {
-                "Offset": 1124239,
-                "Value": "end"
-              },
-              {
-                "Offset": 1166258,
-                "Value": "start"
-              },
-              {
-                "Offset": 1190729,
-                "Value": "end"
-              },
-              {
-                "Offset": 1236410,
-                "Value": "start"
-              },
-              {
-                "Offset": 1264411,
-                "Value": "end"
-              },
-              {
-                "Offset": 1529049,
-                "Value": "start"
-              },
-              {
-                "Offset": 1541491,
-                "Value": "end"
-              },
-              {
-                "Offset": 1623776,
-                "Value": "start"
-              },
-              {
-                "Offset": 1651189,
-                "Value": "end"
-              },
-              {
-                "Offset": 1736085,
-                "Value": "start"
-              },
-              {
-                "Offset": 1753980,
-                "Value": "end"
-              },
-              {
-                "Offset": 1866080,
-                "Value": "start"
-              },
-              {
-                "Offset": 1890791,
-                "Value": "end"
-              }
-            ]
-          }
         }
-      ]
+    },
+    "TrackLists": {
+        "dlc_christmas2017_music": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_christmas2017_radio_xm17_p1",
+                    "Path": "dlc_christmas2017/radio_xm17_p1",
+                    "Duration": 1863693,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 26816,
+                                "Id": 1659,
+                                "Title": "International Feel",
+                                "Artist": "TODD RUNDGREN"
+                            },
+                            {
+                                "Offset": 204986,
+                                "Id": 1660,
+                                "Title": "Mr Noah",
+                                "Artist": "PANDA BEAR"
+                            },
+                            {
+                                "Offset": 413856,
+                                "Id": 1681,
+                                "Title": "Provider",
+                                "Artist": "FRANK OCEAN"
+                            },
+                            {
+                                "Offset": 653461,
+                                "Id": 1661,
+                                "Title": "Kno Ya Wrong",
+                                "Artist": "SCHOOLBOY Q FEAT. LANCE SKIIIWALKER"
+                            },
+                            {
+                                "Offset": 983828,
+                                "Id": 1662,
+                                "Title": "Rain",
+                                "Artist": "SWV"
+                            },
+                            {
+                                "Offset": 1230002,
+                                "Id": 1663,
+                                "Title": "On a Farm",
+                                "Artist": "JOY AGAIN"
+                            },
+                            {
+                                "Offset": 1318069,
+                                "Id": 1682,
+                                "Title": "Ivy",
+                                "Artist": "FRANK OCEAN"
+                            },
+                            {
+                                "Offset": 1556509,
+                                "Id": 1664,
+                                "Title": "So In Love",
+                                "Artist": "CURTIS MAYFIELD"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 38635,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 62215,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 85437,
+                                "Value": 8
+                            },
+                            {
+                                "Offset": 90968,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 113331,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 135750,
+                                "Value": 8
+                            },
+                            {
+                                "Offset": 141493,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 163683,
+                                "Value": 5
+                            },
+                            {
+                                "Offset": 167118,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 215498,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 224541,
+                                "Value": 12
+                            },
+                            {
+                                "Offset": 231333,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 267538,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 303800,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 340033,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 376242,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 394362,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 412441,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 429393,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 456861,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 484293,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 497733,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 542620,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 569989,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 597487,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 624968,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 638637,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 659794,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 685262,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 710666,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 736094,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 761519,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 774295,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 799225,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 821327,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 843357,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 865345,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 887515,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 909549,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 931403,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 953535,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 975549,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 989821,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1045363,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1100979,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1128696,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1184372,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1212144,
+                                "Value": 12
+                            },
+                            {
+                                "Offset": 1222262,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1229076,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1241898,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1267883,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1293788,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1317654,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1325919,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 1391882,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 1457703,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 1523595,
+                                "Value": 36
+                            },
+                            {
+                                "Offset": 1542211,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1557208,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1589093,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 1716534,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 1844020,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1859937,
+                                "Value": 1
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 60711,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 89863,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 113207,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 139991,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 217294,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 231084,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 443242,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 461054,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 611118,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 638626,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 710948,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 736150,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 799277,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 821379,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 931419,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 953395,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1045102,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1073151,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1100798,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1128374,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1621021,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1652889,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1748538,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1780466,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "dlc_christmas2017_radio_xm17_p2",
+                    "Path": "dlc_christmas2017/radio_xm17_p2",
+                    "Duration": 2356933,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 2710,
+                                "Id": 1665,
+                                "Title": "When Did You Stop Loving Me, When Did I Stop Loving You",
+                                "Artist": "MARVIN GAYE"
+                            },
+                            {
+                                "Offset": 378006,
+                                "Id": 1666,
+                                "Title": "Je ne bois pas beaucoup",
+                                "Artist": "LES YA TOUPAS DU ZAIRE"
+                            },
+                            {
+                                "Offset": 590998,
+                                "Id": 1667,
+                                "Title": "Andreaen Sand Dunes",
+                                "Artist": "DREXCIYA"
+                            },
+                            {
+                                "Offset": 739051,
+                                "Id": 1668,
+                                "Title": "Dead Presidents II",
+                                "Artist": "JAY-Z"
+                            },
+                            {
+                                "Offset": 952202,
+                                "Id": 1669,
+                                "Title": "Crack Rock",
+                                "Artist": "FRANK OCEAN"
+                            },
+                            {
+                                "Offset": 1178304,
+                                "Id": 1687,
+                                "Title": null,
+                                "Artist": null
+                            },
+                            {
+                                "Offset": 1242794,
+                                "Id": 1670,
+                                "Title": "EZ Come, EZ Go",
+                                "Artist": "M.C. MACK"
+                            },
+                            {
+                                "Offset": 1467506,
+                                "Id": 1671,
+                                "Title": "IZ-US",
+                                "Artist": "APHEX TWIN"
+                            },
+                            {
+                                "Offset": 1621920,
+                                "Id": 1672,
+                                "Title": "Hiders",
+                                "Artist": "BURIAL"
+                            },
+                            {
+                                "Offset": 1821973,
+                                "Id": 1686,
+                                "Title": "Codeine Crazy",
+                                "Artist": "FUTURE"
+                            },
+                            {
+                                "Offset": 2144549,
+                                "Id": 1683,
+                                "Title": "Chanel",
+                                "Artist": "FRANK OCEAN"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 3105,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 38378,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 73461,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 108399,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 143380,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 178378,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 213405,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 248267,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 283264,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 318103,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 352927,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 370168,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 383824,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 413257,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 443001,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 473173,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 503707,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 533919,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 563851,
+                                "Value": 60
+                            },
+                            {
+                                "Offset": 591486,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 650030,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 708637,
+                                "Value": 48
+                            },
+                            {
+                                "Offset": 730734,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 740297,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 784299,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 828372,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 872441,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 916482,
+                                "Value": 48
+                            },
+                            {
+                                "Offset": 949541,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 952474,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 995123,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 1080471,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 1165759,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1176511,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1242904,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1272668,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1302421,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1332210,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1362113,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1391950,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1421617,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1451712,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1467529,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1499794,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1532090,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1564291,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1596618,
+                                "Value": 48
+                            },
+                            {
+                                "Offset": 1620809,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1658948,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1715136,
+                                "Value": 48
+                            },
+                            {
+                                "Offset": 1757187,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1785159,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1799294,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1822593,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1883484,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1944409,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 2005377,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 2066355,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 2127311,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 2142608,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 2144612,
+                                "Value": 128
+                            },
+                            {
+                                "Offset": 2284235,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 2354031,
+                                "Value": 0
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 112803,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 152097,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 230838,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 270159,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 335572,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 359689,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 546951,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 562113,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 591486,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 620705,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 694030,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 715510,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 752763,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 773296,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 817290,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 828372,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 877923,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 894451,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1059109,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1069808,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1106977,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1133704,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1250357,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1272784,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1339723,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1369086,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1436781,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1451717,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1580411,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1595988,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1757187,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1785159,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1929217,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1960229,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 2066355,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 2081638,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 2196932,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 2231720,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "dlc_christmas2017_radio_xm17_p3",
+                    "Path": "dlc_christmas2017/radio_xm17_p3",
+                    "Duration": 1919238,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 1833,
+                                "Id": 1673,
+                                "Title": "For Real",
+                                "Artist": "LIL UZI VERT"
+                            },
+                            {
+                                "Offset": 170281,
+                                "Id": 1674,
+                                "Title": "First 48",
+                                "Artist": "MIGOS"
+                            },
+                            {
+                                "Offset": 368255,
+                                "Id": 1675,
+                                "Title": "FBG",
+                                "Artist": "SUSPECT"
+                            },
+                            {
+                                "Offset": 553818,
+                                "Id": 1684,
+                                "Title": "Nights",
+                                "Artist": "FRANK OCEAN"
+                            },
+                            {
+                                "Offset": 861080,
+                                "Id": 1687,
+                                "Title": null,
+                                "Artist": null
+                            },
+                            {
+                                "Offset": 913715,
+                                "Id": 1676,
+                                "Title": "YSL",
+                                "Artist": "GUNNA FEAT. PLAYBOI CARTI"
+                            },
+                            {
+                                "Offset": 1069978,
+                                "Id": 1677,
+                                "Title": "Winnin",
+                                "Artist": "CHIEF KEEF FEAT. KING LOUIE"
+                            },
+                            {
+                                "Offset": 1307698,
+                                "Id": 1678,
+                                "Title": "Miss White Cocaine",
+                                "Artist": "LIL SKO"
+                            },
+                            {
+                                "Offset": 1451537,
+                                "Id": 1679,
+                                "Title": "Man Don't Care",
+                                "Artist": "JME FEAT. GIGGS"
+                            },
+                            {
+                                "Offset": 1655068,
+                                "Id": 1680,
+                                "Title": "Master",
+                                "Artist": "(SANDY) ALEX G"
+                            },
+                            {
+                                "Offset": 1767769,
+                                "Id": 1685,
+                                "Title": "Pretty Sweet",
+                                "Artist": "FRANK OCEAN"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 16353,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 74604,
+                                "Value": 60
+                            },
+                            {
+                                "Offset": 129158,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 158226,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 169545,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 182547,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 234379,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 286308,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 338209,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 364126,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 368050,
+                                "Value": 28
+                            },
+                            {
+                                "Offset": 395133,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 457053,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 518942,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 550064,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 554292,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 578248,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 602281,
+                                "Value": 6
+                            },
+                            {
+                                "Offset": 606801,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 654768,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 678746,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 726939,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 750750,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 762769,
+                                "Value": 3
+                            },
+                            {
+                                "Offset": 764304,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 806891,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 849596,
+                                "Value": 8
+                            },
+                            {
+                                "Offset": 860175,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 917209,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 940849,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 987937,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1035036,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1058613,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1067431,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1071721,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1085626,
+                                "Value": 12
+                            },
+                            {
+                                "Offset": 1096280,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1124239,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1180302,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1208386,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1236410,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1264411,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1292414,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1306456,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1315360,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1373192,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1431019,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1445463,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1459252,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1514067,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1541491,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1568898,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1623776,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1651189,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1657176,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1705713,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1753980,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1765913,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1798045,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1822798,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1847491,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1872234,
+                                "Value": 64
+                            },
+                            {
+                                "Offset": 1903201,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1915549,
+                                "Value": 0
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 30929,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 46214,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 129158,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 158186,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 234379,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 260340,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 286308,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 312254,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 338209,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 364126,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 395133,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 426482,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 917209,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 940849,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1019974,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1043267,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1096280,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1124239,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1166258,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1190729,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1236410,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1264411,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1529049,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1541491,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1623776,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1651189,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1736085,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1753980,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1866080,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1890791,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
     }
-  }
 }

@@ -1,27 +1,30 @@
 {
-  "Stations": {
-    "radio_23_dlc_xm19_radio": {
-      "Flags": "0xAA8006AA",
-      "Genre": "4",
-      "AmbientRadioVol": "0",
-      "RadioName": "RADIO_23_DLC_XM19_RADIO",
-      "TrackLists": [
-        "dlc_heist3_dj_solo_locked"
-      ]
-    }
-  },
-  "TrackLists": {
-    "dlc_heist3_dj_solo_locked": {
-      "Flags": "0xAAAAAAA1",
-      "Category": "5",
-      "Tracks": [
-        {
-          "Id": "dlc_ch_finale_radio_djsolo",
-          "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist3",
-          "Path": "dlc_heist3/custom_djsolo_13",
-          "Duration": 30187
+    "Stations": {
+        "radio_23_dlc_xm19_radio": {
+            "FlagsValue": "0xAA8006AA",
+            "Flags": [
+                "IDENTSINSTEADOFADS"
+            ],
+            "Genre": "4",
+            "AmbientRadioVol": "0",
+            "RadioName": "RADIO_23_DLC_XM19_RADIO",
+            "TrackLists": [
+                "dlc_heist3_dj_solo_locked"
+            ]
         }
-      ]
+    },
+    "TrackLists": {
+        "dlc_heist3_dj_solo_locked": {
+            "FlagsValue": "0xAAAAAAA1",
+            "Category": "5",
+            "Tracks": [
+                {
+                    "Id": "dlc_ch_finale_radio_djsolo",
+                    "DlcPath": "update/%PLATFORM%/dlcpacks/mpheist3",
+                    "Path": "dlc_heist3/custom_djsolo_13",
+                    "Duration": 30187
+                }
+            ]
+        }
     }
-  }
 }

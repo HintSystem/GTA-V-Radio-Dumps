@@ -1,336 +1,345 @@
 {
-  "Stations": {
-    "radio_09_hiphop_old": {
-      "Flags": "0xAA800A66",
-      "Genre": "4",
-      "AmbientRadioVol": "0",
-      "RadioName": "RADIO_09_HIPHOP_OLD",
-      "TrackLists": [
-        "radio_09_hiphop_old_dlc_23_2_djsolo"
-      ]
-    },
-    "radio_36_audioplayer": {
-      "Flags": "0xAA9009AA",
-      "Genre": "16",
-      "AmbientRadioVol": "0",
-      "RadioName": "RADIO_36_AUDIOPLAYER",
-      "TrackLists": [
-        "radio_ap_dlc_23_2"
-      ]
-    }
-  },
-  "TrackLists": {
-    "radio_09_hiphop_old_dlc_23_2_djsolo": {
-      "Flags": "0xAAAAAAA1",
-      "Category": "5",
-      "Tracks": [
-        {
-          "Id": "dlc_23_2_dj_mono_solo_dlc_23_2_01",
-          "Path": "dlc_23_2/dj_mono_solo_dlc_23_2_01",
-          "Duration": 29791
-        }
-      ]
-    },
-    "radio_ap_dlc_23_2": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_23_2_ap_23_2_df_mix_1",
-          "Path": "dlc_23_2/ap_23_2_df_mix_1",
-          "Duration": 2314738,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 328,
-                "Id": 4173,
-                "Title": "The Contract - Space",
-                "Artist": "DaM-FunK"
-              },
-              {
-                "Offset": 147827,
-                "Id": 4174,
-                "Title": "Los Santos Drug Wars",
-                "Artist": "SOULWAX"
-              },
-              {
-                "Offset": 264504,
-                "Id": 4175,
-                "Title": "The Diamond Casino Heist",
-                "Artist": "NICK HOOK"
-              },
-              {
-                "Offset": 456706,
-                "Id": 4176,
-                "Title": "The Cayo Perico Heist II",
-                "Artist": "RAMPA"
-              },
-              {
-                "Offset": 595439,
-                "Id": 4177,
-                "Title": "Lowriders",
-                "Artist": "OH NO"
-              },
-              {
-                "Offset": 734173,
-                "Id": 4178,
-                "Title": "Bikers",
-                "Artist": "HOLY FUCK"
-              },
-              {
-                "Offset": 840299,
-                "Id": 4179,
-                "Title": "Arena Wars",
-                "Artist": "HEALTH"
-              },
-              {
-                "Offset": 1004551,
-                "Id": 4180,
-                "Title": "The Cayo Perico Heist I",
-                "Artist": "&ME"
-              },
-              {
-                "Offset": 1234828,
-                "Id": 4181,
-                "Title": "The Contract - The Journey",
-                "Artist": "DaM-FunK"
-              },
-              {
-                "Offset": 1340549,
-                "Id": 4182,
-                "Title": "The Contract - Mass",
-                "Artist": "DaM-FunK"
-              },
-              {
-                "Offset": 1496903,
-                "Id": 4183,
-                "Title": "Smuggler's Run",
-                "Artist": "SHOW ME THE BODY"
-              },
-              {
-                "Offset": 1608295,
-                "Id": 4184,
-                "Title": "Import/Export",
-                "Artist": "TAKE A DAYTRIP"
-              },
-              {
-                "Offset": 1740750,
-                "Id": 4185,
-                "Title": "Executives And Other Criminals",
-                "Artist": "JAMES CURD AKA GREENSKEEPERS"
-              },
-              {
-                "Offset": 1909660,
-                "Id": 4186,
-                "Title": "The Contract - House Call",
-                "Artist": "DaM-FunK"
-              },
-              {
-                "Offset": 2150672,
-                "Id": 4187,
-                "Title": "The Contract - Smooth Kill",
-                "Artist": "DaM-FunK"
-              }
+    "Stations": {
+        "radio_09_hiphop_old": {
+            "FlagsValue": "0xAA800A66",
+            "Flags": [
+                "BACK2BACKADS",
+                "PLAYNEWS",
+                "USERANDOMIZEDSTRIDESELECTION"
             ],
-            "Beat": [
-              {
-                "Offset": 340,
-                "Value": 288
-              },
-              {
-                "Offset": 144317,
-                "Value": 8
-              },
-              {
-                "Offset": 148389,
-                "Value": 192
-              },
-              {
-                "Offset": 258227,
-                "Value": 32
-              },
-              {
-                "Offset": 267323,
-                "Value": 384
-              },
-              {
-                "Offset": 456170,
-                "Value": 240
-              },
-              {
-                "Offset": 589533,
-                "Value": 0
-              },
-              {
-                "Offset": 596266,
-                "Value": 192
-              },
-              {
-                "Offset": 733776,
-                "Value": 8
-              },
-              {
-                "Offset": 739566,
-                "Value": 224
-              },
-              {
-                "Offset": 839841,
-                "Value": 16
-              },
-              {
-                "Offset": 847349,
-                "Value": 168
-              },
-              {
-                "Offset": 1005066,
-                "Value": 16
-              },
-              {
-                "Offset": 1012835,
-                "Value": 384
-              },
-              {
-                "Offset": 1204862,
-                "Value": 21
-              },
-              {
-                "Offset": 1215418,
-                "Value": 0
-              },
-              {
-                "Offset": 1241077,
-                "Value": 160
-              },
-              {
-                "Offset": 1321750,
-                "Value": 32
-              },
-              {
-                "Offset": 1337932,
-                "Value": 0
-              },
-              {
-                "Offset": 1340575,
-                "Value": 224
-              },
-              {
-                "Offset": 1461919,
-                "Value": 32
-              },
-              {
-                "Offset": 1496649,
-                "Value": 224
-              },
-              {
-                "Offset": 1608612,
-                "Value": 224
-              },
-              {
-                "Offset": 1740442,
-                "Value": 256
-              },
-              {
-                "Offset": 1898825,
-                "Value": 18
-              },
-              {
-                "Offset": 1910078,
-                "Value": 480
-              },
-              {
-                "Offset": 2150048,
-                "Value": 264
-              },
-              {
-                "Offset": 2304751,
-                "Value": 0
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 88105,
-                "Value": "start"
-              },
-              {
-                "Offset": 144333,
-                "Value": "end"
-              },
-              {
-                "Offset": 221475,
-                "Value": "start"
-              },
-              {
-                "Offset": 239887,
-                "Value": "end"
-              },
-              {
-                "Offset": 464896,
-                "Value": "start"
-              },
-              {
-                "Offset": 518041,
-                "Value": "end"
-              },
-              {
-                "Offset": 607564,
-                "Value": "start"
-              },
-              {
-                "Offset": 642031,
-                "Value": "end"
-              },
-              {
-                "Offset": 1253146,
-                "Value": "start"
-              },
-              {
-                "Offset": 1285295,
-                "Value": "end"
-              },
-              {
-                "Offset": 1366566,
-                "Value": "start"
-              },
-              {
-                "Offset": 1392666,
-                "Value": "end"
-              },
-              {
-                "Offset": 1461803,
-                "Value": "start"
-              },
-              {
-                "Offset": 1485080,
-                "Value": "end"
-              },
-              {
-                "Offset": 1627549,
-                "Value": "start"
-              },
-              {
-                "Offset": 1665112,
-                "Value": "end"
-              },
-              {
-                "Offset": 1981974,
-                "Value": "start"
-              },
-              {
-                "Offset": 2045594,
-                "Value": "end"
-              },
-              {
-                "Offset": 2249767,
-                "Value": "start"
-              },
-              {
-                "Offset": 2290684,
-                "Value": "end"
-              }
+            "Genre": "4",
+            "AmbientRadioVol": "0",
+            "RadioName": "RADIO_09_HIPHOP_OLD",
+            "TrackLists": [
+                "radio_09_hiphop_old_dlc_23_2_djsolo"
             ]
-          }
+        },
+        "radio_36_audioplayer": {
+            "FlagsValue": "0xAA9009AA",
+            "Flags": [
+                "SEQUENTIALMUSIC",
+                "ISMIXSTATION"
+            ],
+            "Genre": "16",
+            "AmbientRadioVol": "0",
+            "RadioName": "RADIO_36_AUDIOPLAYER",
+            "TrackLists": [
+                "radio_ap_dlc_23_2"
+            ]
         }
-      ]
+    },
+    "TrackLists": {
+        "radio_09_hiphop_old_dlc_23_2_djsolo": {
+            "FlagsValue": "0xAAAAAAA1",
+            "Category": "5",
+            "Tracks": [
+                {
+                    "Id": "dlc_23_2_dj_mono_solo_dlc_23_2_01",
+                    "Path": "dlc_23_2/dj_mono_solo_dlc_23_2_01",
+                    "Duration": 29791
+                }
+            ]
+        },
+        "radio_ap_dlc_23_2": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_23_2_ap_23_2_df_mix_1",
+                    "Path": "dlc_23_2/ap_23_2_df_mix_1",
+                    "Duration": 2314738,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 328,
+                                "Id": 4173,
+                                "Title": "The Contract - Space",
+                                "Artist": "DaM-FunK"
+                            },
+                            {
+                                "Offset": 147827,
+                                "Id": 4174,
+                                "Title": "Los Santos Drug Wars",
+                                "Artist": "SOULWAX"
+                            },
+                            {
+                                "Offset": 264504,
+                                "Id": 4175,
+                                "Title": "The Diamond Casino Heist",
+                                "Artist": "NICK HOOK"
+                            },
+                            {
+                                "Offset": 456706,
+                                "Id": 4176,
+                                "Title": "The Cayo Perico Heist II",
+                                "Artist": "RAMPA"
+                            },
+                            {
+                                "Offset": 595439,
+                                "Id": 4177,
+                                "Title": "Lowriders",
+                                "Artist": "OH NO"
+                            },
+                            {
+                                "Offset": 734173,
+                                "Id": 4178,
+                                "Title": "Bikers",
+                                "Artist": "HOLY FUCK"
+                            },
+                            {
+                                "Offset": 840299,
+                                "Id": 4179,
+                                "Title": "Arena Wars",
+                                "Artist": "HEALTH"
+                            },
+                            {
+                                "Offset": 1004551,
+                                "Id": 4180,
+                                "Title": "The Cayo Perico Heist I",
+                                "Artist": "&ME"
+                            },
+                            {
+                                "Offset": 1234828,
+                                "Id": 4181,
+                                "Title": "The Contract - The Journey",
+                                "Artist": "DaM-FunK"
+                            },
+                            {
+                                "Offset": 1340549,
+                                "Id": 4182,
+                                "Title": "The Contract - Mass",
+                                "Artist": "DaM-FunK"
+                            },
+                            {
+                                "Offset": 1496903,
+                                "Id": 4183,
+                                "Title": "Smuggler's Run",
+                                "Artist": "SHOW ME THE BODY"
+                            },
+                            {
+                                "Offset": 1608295,
+                                "Id": 4184,
+                                "Title": "Import/Export",
+                                "Artist": "TAKE A DAYTRIP"
+                            },
+                            {
+                                "Offset": 1740750,
+                                "Id": 4185,
+                                "Title": "Executives And Other Criminals",
+                                "Artist": "JAMES CURD AKA GREENSKEEPERS"
+                            },
+                            {
+                                "Offset": 1909660,
+                                "Id": 4186,
+                                "Title": "The Contract - House Call",
+                                "Artist": "DaM-FunK"
+                            },
+                            {
+                                "Offset": 2150672,
+                                "Id": 4187,
+                                "Title": "The Contract - Smooth Kill",
+                                "Artist": "DaM-FunK"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 340,
+                                "Value": 288
+                            },
+                            {
+                                "Offset": 144317,
+                                "Value": 8
+                            },
+                            {
+                                "Offset": 148389,
+                                "Value": 192
+                            },
+                            {
+                                "Offset": 258227,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 267323,
+                                "Value": 384
+                            },
+                            {
+                                "Offset": 456170,
+                                "Value": 240
+                            },
+                            {
+                                "Offset": 589533,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 596266,
+                                "Value": 192
+                            },
+                            {
+                                "Offset": 733776,
+                                "Value": 8
+                            },
+                            {
+                                "Offset": 739566,
+                                "Value": 224
+                            },
+                            {
+                                "Offset": 839841,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 847349,
+                                "Value": 168
+                            },
+                            {
+                                "Offset": 1005066,
+                                "Value": 16
+                            },
+                            {
+                                "Offset": 1012835,
+                                "Value": 384
+                            },
+                            {
+                                "Offset": 1204862,
+                                "Value": 21
+                            },
+                            {
+                                "Offset": 1215418,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1241077,
+                                "Value": 160
+                            },
+                            {
+                                "Offset": 1321750,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1337932,
+                                "Value": 0
+                            },
+                            {
+                                "Offset": 1340575,
+                                "Value": 224
+                            },
+                            {
+                                "Offset": 1461919,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 1496649,
+                                "Value": 224
+                            },
+                            {
+                                "Offset": 1608612,
+                                "Value": 224
+                            },
+                            {
+                                "Offset": 1740442,
+                                "Value": 256
+                            },
+                            {
+                                "Offset": 1898825,
+                                "Value": 18
+                            },
+                            {
+                                "Offset": 1910078,
+                                "Value": 480
+                            },
+                            {
+                                "Offset": 2150048,
+                                "Value": 264
+                            },
+                            {
+                                "Offset": 2304751,
+                                "Value": 0
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 88105,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 144333,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 221475,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 239887,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 464896,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 518041,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 607564,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 642031,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1253146,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1285295,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1366566,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1392666,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1461803,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1485080,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1627549,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 1665112,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 1981974,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 2045594,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 2249767,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 2290684,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
     }
-  }
 }

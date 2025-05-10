@@ -1,242 +1,243 @@
 {
-  "Stations": {
-    "radio_34_dlc_hei4_kult": {
-      "Flags": "0xAA800000",
-      "Genre": "1",
-      "AmbientRadioVol": "0",
-      "RadioName": "RADIO_34_DLC_HEI4_KULT",
-      "TrackLists": [
-        "hei4_radio_kult_music_edit"
-      ]
-    }
-  },
-  "TrackLists": {
-    "hei4_radio_kult_music_edit": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "hei4_radio_kult_age_of_consent",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_alien_crime_lord",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_baby_i_love_you_so",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_cycle",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_deep",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_down_on_the_street",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_drab_measure",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_eisbar",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_faceless",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_four_shadows",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_girls_and_boys",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_hard_to_explain",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_human_fly",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_its_yours",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_liebe_auf_den_ersten_blick",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_many_tears_ago",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_nightclubbing",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_on_the_level",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_pool_song",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_raga_madhuvanti",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_rock_and_roll",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_shes_lost_control",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_so_it_goes",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_tainted_love",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_take_down_the_house",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_the_adults_are_talking",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_this_is_the_day",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_time_bomb",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_too_much_money",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "dlc_24-1_tv_casualty",
-          "Path": "dlc_24-1/tv_casualty",
-          "Duration": 117333,
-          "Markers": {
-            "Track": [
-              {
-                "Offset": 0,
-                "Id": 1917,
-                "Title": "TV Casualty",
-                "Artist": "MISFITS"
-              }
-            ],
-            "Beat": [
-              {
-                "Offset": 140,
-                "Value": 32
-              },
-              {
-                "Offset": 14560,
-                "Value": 32
-              },
-              {
-                "Offset": 28830,
-                "Value": 32
-              },
-              {
-                "Offset": 42910,
-                "Value": 32
-              },
-              {
-                "Offset": 56980,
-                "Value": 32
-              },
-              {
-                "Offset": 70980,
-                "Value": 32
-              },
-              {
-                "Offset": 85180,
-                "Value": 32
-              },
-              {
-                "Offset": 99360,
-                "Value": 32
-              },
-              {
-                "Offset": 113350,
-                "Value": 8
-              }
-            ],
-            "DJ": [
-              {
-                "Offset": 3570,
-                "Value": "intro_start"
-              },
-              {
-                "Offset": 6780,
-                "Value": "intro_end"
-              }
-            ],
-            "Rockout": [
-              {
-                "Offset": 21584,
-                "Value": "start"
-              },
-              {
-                "Offset": 35834,
-                "Value": "end"
-              },
-              {
-                "Offset": 50056,
-                "Value": "start"
-              },
-              {
-                "Offset": 77970,
-                "Value": "end"
-              },
-              {
-                "Offset": 106275,
-                "Value": "start"
-              },
-              {
-                "Offset": 117128,
-                "Value": "end"
-              }
+    "Stations": {
+        "radio_34_dlc_hei4_kult": {
+            "FlagsValue": "0xAA800000",
+            "Flags": [],
+            "Genre": "1",
+            "AmbientRadioVol": "0",
+            "RadioName": "RADIO_34_DLC_HEI4_KULT",
+            "TrackLists": [
+                "hei4_radio_kult_music_edit"
             ]
-          }
-        },
-        {
-          "Id": "hei4_radio_kult_typical_girls",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_lft_me_lonely",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_going_back_to_cali",
-          "TrackList": "hei4_radio_kult_music"
-        },
-        {
-          "Id": "hei4_radio_kult_where_no_eagles_fly",
-          "TrackList": "hei4_radio_kult_music"
         }
-      ]
+    },
+    "TrackLists": {
+        "hei4_radio_kult_music_edit": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "hei4_radio_kult_age_of_consent",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_alien_crime_lord",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_baby_i_love_you_so",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_cycle",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_deep",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_down_on_the_street",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_drab_measure",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_eisbar",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_faceless",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_four_shadows",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_girls_and_boys",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_hard_to_explain",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_human_fly",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_its_yours",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_liebe_auf_den_ersten_blick",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_many_tears_ago",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_nightclubbing",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_on_the_level",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_pool_song",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_raga_madhuvanti",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_rock_and_roll",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_shes_lost_control",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_so_it_goes",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_tainted_love",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_take_down_the_house",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_the_adults_are_talking",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_this_is_the_day",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_time_bomb",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_too_much_money",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "dlc_24-1_tv_casualty",
+                    "Path": "dlc_24-1/tv_casualty",
+                    "Duration": 117333,
+                    "Markers": {
+                        "Track": [
+                            {
+                                "Offset": 0,
+                                "Id": 1917,
+                                "Title": "TV Casualty",
+                                "Artist": "MISFITS"
+                            }
+                        ],
+                        "Beat": [
+                            {
+                                "Offset": 140,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 14560,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 28830,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 42910,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 56980,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 70980,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 85180,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 99360,
+                                "Value": 32
+                            },
+                            {
+                                "Offset": 113350,
+                                "Value": 8
+                            }
+                        ],
+                        "DJ": [
+                            {
+                                "Offset": 3570,
+                                "Value": "intro_start"
+                            },
+                            {
+                                "Offset": 6780,
+                                "Value": "intro_end"
+                            }
+                        ],
+                        "Rockout": [
+                            {
+                                "Offset": 21584,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 35834,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 50056,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 77970,
+                                "Value": "end"
+                            },
+                            {
+                                "Offset": 106275,
+                                "Value": "start"
+                            },
+                            {
+                                "Offset": 117128,
+                                "Value": "end"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "hei4_radio_kult_typical_girls",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_lft_me_lonely",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_going_back_to_cali",
+                    "TrackList": "hei4_radio_kult_music"
+                },
+                {
+                    "Id": "hei4_radio_kult_where_no_eagles_fly",
+                    "TrackList": "hei4_radio_kult_music"
+                }
+            ]
+        }
     }
-  }
 }

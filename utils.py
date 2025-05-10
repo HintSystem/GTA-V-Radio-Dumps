@@ -11,7 +11,7 @@ def delta_time_ms(start: float):
     
 def save_json(file_path: Path | str, object: object):
     with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(object, f, indent=2, ensure_ascii=False)
+        json.dump(object, f, indent=4, ensure_ascii=False)
     
 class ANSI:
     BOLD = "\033[1m"

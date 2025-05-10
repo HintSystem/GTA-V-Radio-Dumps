@@ -13,7 +13,8 @@ This repository contains raw data dumps, scripts and processed JSON files relate
 Each JSON file in `/processed` follows this structure:
 
 ### Radio Station
-- `Flags` – *(unprocessed)*
+- `FlagsValue` - Hex string containing unprocessed flags
+- `Flags` - List of enabled flag names
 - `Genre`
 - `AmbientRadioVol`
 - `RadioName` – Alternative to index
@@ -22,7 +23,7 @@ Each JSON file in `/processed` follows this structure:
 
 ### TrackList
 - `DlcPath` - *(merged JSON only)* Absolute path to the DLC's audio folder 
-- `Flags` – *(unprocessed)*
+- `FlagsValue` – Hex string that usually doesn't contain any meaningful flags
 - `Category` – Usage context (e.g., music, id, mono_solo, ad)
 - `Tracks` – Array of tracks included
 
