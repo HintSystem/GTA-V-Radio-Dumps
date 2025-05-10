@@ -1,1053 +1,1058 @@
 {
-  "Stations": {
-    "radio_19_user": {
-      "Flags": "0xAA810A5A",
-      "Genre": "16",
-      "AmbientRadioVol": "0",
-      "RadioName": "RADIO_19_USER",
-      "TrackLists": [
-        "dlc_radio_19_user_djsolo",
-        "dlc_radio_19_user_idents",
-        "dlc_radio_19_user_music",
-        "dlc_radio_19_user_to_ad",
-        "dlc_radio_19_user_to_news",
-        "dlc_radio_19_user_user_intro",
-        "dlc_radio_19_user_user_outro",
-        "dlc_radio_19_user_intro_evening",
-        "dlc_radio_19_user_intro_morning",
-        "hash_BFEE598E"
-      ]
+    "Stations": {
+        "radio_19_user": {
+            "FlagsValue": "0xAA810A5A",
+            "Flags": [
+                "PLAYWEATHER",
+                "PLAYNEWS",
+                "PLAYSUSERSMUSIC"
+            ],
+            "Genre": "16",
+            "AmbientRadioVol": "0",
+            "RadioName": "RADIO_19_USER",
+            "TrackLists": [
+                "dlc_radio_19_user_djsolo",
+                "dlc_radio_19_user_idents",
+                "dlc_radio_19_user_music",
+                "dlc_radio_19_user_to_ad",
+                "dlc_radio_19_user_to_news",
+                "dlc_radio_19_user_user_intro",
+                "dlc_radio_19_user_user_outro",
+                "dlc_radio_19_user_intro_evening",
+                "dlc_radio_19_user_intro_morning",
+                "hash_BFEE598E"
+            ]
+        }
+    },
+    "TrackLists": {
+        "dlc_radio_19_user_djsolo": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "5",
+            "Tracks": [
+                {
+                    "Id": "dlc_radio_19_user_solo_01",
+                    "Path": "dlc_radio_19_user/solo_01",
+                    "Duration": 12168
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_02",
+                    "Path": "dlc_radio_19_user/solo_02",
+                    "Duration": 23677
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_03",
+                    "Path": "dlc_radio_19_user/solo_03",
+                    "Duration": 28306
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_04",
+                    "Path": "dlc_radio_19_user/solo_04",
+                    "Duration": 31165
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_05",
+                    "Path": "dlc_radio_19_user/solo_05",
+                    "Duration": 30781
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_06",
+                    "Path": "dlc_radio_19_user/solo_06",
+                    "Duration": 17078
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_07",
+                    "Path": "dlc_radio_19_user/solo_07",
+                    "Duration": 18152
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_08",
+                    "Path": "dlc_radio_19_user/solo_08",
+                    "Duration": 12333
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_09",
+                    "Path": "dlc_radio_19_user/solo_09",
+                    "Duration": 18470
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_10",
+                    "Path": "dlc_radio_19_user/solo_10",
+                    "Duration": 26088
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_11",
+                    "Path": "dlc_radio_19_user/solo_11",
+                    "Duration": 24594
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_12",
+                    "Path": "dlc_radio_19_user/solo_12",
+                    "Duration": 21053
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_13",
+                    "Path": "dlc_radio_19_user/solo_13",
+                    "Duration": 16957
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_14",
+                    "Path": "dlc_radio_19_user/solo_14",
+                    "Duration": 19030
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_15",
+                    "Path": "dlc_radio_19_user/solo_15",
+                    "Duration": 17643
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_16",
+                    "Path": "dlc_radio_19_user/solo_16",
+                    "Duration": 21327
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_17",
+                    "Path": "dlc_radio_19_user/solo_17",
+                    "Duration": 15843
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_18",
+                    "Path": "dlc_radio_19_user/solo_18",
+                    "Duration": 16602
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_19",
+                    "Path": "dlc_radio_19_user/solo_19",
+                    "Duration": 25493
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_20",
+                    "Path": "dlc_radio_19_user/solo_20",
+                    "Duration": 16189
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_21",
+                    "Path": "dlc_radio_19_user/solo_21",
+                    "Duration": 17234
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_22",
+                    "Path": "dlc_radio_19_user/solo_22",
+                    "Duration": 17406
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_23",
+                    "Path": "dlc_radio_19_user/solo_23",
+                    "Duration": 20925
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_24",
+                    "Path": "dlc_radio_19_user/solo_24",
+                    "Duration": 32232
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_25",
+                    "Path": "dlc_radio_19_user/solo_25",
+                    "Duration": 15454
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_26",
+                    "Path": "dlc_radio_19_user/solo_26",
+                    "Duration": 15357
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_27",
+                    "Path": "dlc_radio_19_user/solo_27",
+                    "Duration": 16302
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_28",
+                    "Path": "dlc_radio_19_user/solo_28",
+                    "Duration": 36906
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_29",
+                    "Path": "dlc_radio_19_user/solo_29",
+                    "Duration": 29019
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_30",
+                    "Path": "dlc_radio_19_user/solo_30",
+                    "Duration": 29458
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_31",
+                    "Path": "dlc_radio_19_user/solo_31",
+                    "Duration": 21155
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_32",
+                    "Path": "dlc_radio_19_user/solo_32",
+                    "Duration": 25195
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_33",
+                    "Path": "dlc_radio_19_user/solo_33",
+                    "Duration": 26089
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_34",
+                    "Path": "dlc_radio_19_user/solo_34",
+                    "Duration": 20264
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_35",
+                    "Path": "dlc_radio_19_user/solo_35",
+                    "Duration": 20842
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_36",
+                    "Path": "dlc_radio_19_user/solo_36",
+                    "Duration": 30638
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_37",
+                    "Path": "dlc_radio_19_user/solo_37",
+                    "Duration": 19393
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_38",
+                    "Path": "dlc_radio_19_user/solo_38",
+                    "Duration": 19947
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_39",
+                    "Path": "dlc_radio_19_user/solo_39",
+                    "Duration": 21499
+                },
+                {
+                    "Id": "dlc_radio_19_user_solo_40",
+                    "Path": "dlc_radio_19_user/solo_40",
+                    "Duration": 26781
+                }
+            ]
+        },
+        "dlc_radio_19_user_idents": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "1",
+            "Tracks": [
+                {
+                    "Id": "dlc_radio_19_user_id_01",
+                    "Path": "dlc_radio_19_user/id_01",
+                    "Duration": 6218
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_02",
+                    "Path": "dlc_radio_19_user/id_02",
+                    "Duration": 7650
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_03",
+                    "Path": "dlc_radio_19_user/id_03",
+                    "Duration": 7626
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_04",
+                    "Path": "dlc_radio_19_user/id_04",
+                    "Duration": 7008
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_05",
+                    "Path": "dlc_radio_19_user/id_05",
+                    "Duration": 13440
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_06",
+                    "Path": "dlc_radio_19_user/id_06",
+                    "Duration": 14058
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_07",
+                    "Path": "dlc_radio_19_user/id_07",
+                    "Duration": 8160
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_08",
+                    "Path": "dlc_radio_19_user/id_08",
+                    "Duration": 8309
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_09",
+                    "Path": "dlc_radio_19_user/id_09",
+                    "Duration": 8181
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_10",
+                    "Path": "dlc_radio_19_user/id_10",
+                    "Duration": 11893
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_11",
+                    "Path": "dlc_radio_19_user/id_11",
+                    "Duration": 8298
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_12",
+                    "Path": "dlc_radio_19_user/id_12",
+                    "Duration": 5264
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_13",
+                    "Path": "dlc_radio_19_user/id_13",
+                    "Duration": 6709
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_14",
+                    "Path": "dlc_radio_19_user/id_14",
+                    "Duration": 6752
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_15",
+                    "Path": "dlc_radio_19_user/id_15",
+                    "Duration": 7592
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_16",
+                    "Path": "dlc_radio_19_user/id_16",
+                    "Duration": 10780
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_17",
+                    "Path": "dlc_radio_19_user/id_17",
+                    "Duration": 9670
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_18",
+                    "Path": "dlc_radio_19_user/id_18",
+                    "Duration": 8640
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_19",
+                    "Path": "dlc_radio_19_user/id_19",
+                    "Duration": 11109
+                },
+                {
+                    "Id": "dlc_radio_19_user_id_20",
+                    "Path": "dlc_radio_19_user/id_20",
+                    "Duration": 5968
+                }
+            ]
+        },
+        "dlc_radio_19_user_music": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "2",
+            "Tracks": [
+                {
+                    "Id": "dlc_radio_19_user_nulltrack",
+                    "Path": "dlc_radio_19_user/nulltrack",
+                    "Duration": 62325
+                }
+            ]
+        },
+        "dlc_radio_19_user_to_ad": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "7",
+            "Tracks": [
+                {
+                    "Id": "dlc_radio_19_user_to_ad_01",
+                    "Path": "dlc_radio_19_user/to_ad_01",
+                    "Duration": 3014
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_ad_02",
+                    "Path": "dlc_radio_19_user/to_ad_02",
+                    "Duration": 5337
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_ad_03",
+                    "Path": "dlc_radio_19_user/to_ad_03",
+                    "Duration": 4110
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_ad_04",
+                    "Path": "dlc_radio_19_user/to_ad_04",
+                    "Duration": 3945
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_ad_05",
+                    "Path": "dlc_radio_19_user/to_ad_05",
+                    "Duration": 4622
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_ad_06",
+                    "Path": "dlc_radio_19_user/to_ad_06",
+                    "Duration": 4585
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_ad_07",
+                    "Path": "dlc_radio_19_user/to_ad_07",
+                    "Duration": 5294
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_ad_08",
+                    "Path": "dlc_radio_19_user/to_ad_08",
+                    "Duration": 5465
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_ad_09",
+                    "Path": "dlc_radio_19_user/to_ad_09",
+                    "Duration": 10196
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_ad_10",
+                    "Path": "dlc_radio_19_user/to_ad_10",
+                    "Duration": 5550
+                }
+            ]
+        },
+        "dlc_radio_19_user_to_news": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "6",
+            "Tracks": [
+                {
+                    "Id": "dlc_radio_19_user_to_news_01",
+                    "Path": "dlc_radio_19_user/to_news_01",
+                    "Duration": 5456
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_02",
+                    "Path": "dlc_radio_19_user/to_news_02",
+                    "Duration": 5120
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_03",
+                    "Path": "dlc_radio_19_user/to_news_03",
+                    "Duration": 6805
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_04",
+                    "Path": "dlc_radio_19_user/to_news_04",
+                    "Duration": 2896
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_05",
+                    "Path": "dlc_radio_19_user/to_news_05",
+                    "Duration": 3365
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_06",
+                    "Path": "dlc_radio_19_user/to_news_06",
+                    "Duration": 3530
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_07",
+                    "Path": "dlc_radio_19_user/to_news_07",
+                    "Duration": 6357
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_08",
+                    "Path": "dlc_radio_19_user/to_news_08",
+                    "Duration": 4250
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_09",
+                    "Path": "dlc_radio_19_user/to_news_09",
+                    "Duration": 6090
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_10",
+                    "Path": "dlc_radio_19_user/to_news_10",
+                    "Duration": 4858
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_11",
+                    "Path": "dlc_radio_19_user/to_news_11",
+                    "Duration": 5658
+                },
+                {
+                    "Id": "dlc_radio_19_user_to_news_12",
+                    "Path": "dlc_radio_19_user/to_news_12",
+                    "Duration": 3546
+                }
+            ]
+        },
+        "dlc_radio_19_user_user_intro": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "8",
+            "Tracks": [
+                {
+                    "Id": "dlc_radio_19_user_intro_01",
+                    "Path": "dlc_radio_19_user/intro_01",
+                    "Duration": 6506
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_02",
+                    "Path": "dlc_radio_19_user/intro_02",
+                    "Duration": 7434
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_03",
+                    "Path": "dlc_radio_19_user/intro_03",
+                    "Duration": 5552
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_04",
+                    "Path": "dlc_radio_19_user/intro_04",
+                    "Duration": 6901
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_05",
+                    "Path": "dlc_radio_19_user/intro_05",
+                    "Duration": 6368
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_06",
+                    "Path": "dlc_radio_19_user/intro_06",
+                    "Duration": 5034
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_07",
+                    "Path": "dlc_radio_19_user/intro_07",
+                    "Duration": 5418
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_08",
+                    "Path": "dlc_radio_19_user/intro_08",
+                    "Duration": 5077
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_09",
+                    "Path": "dlc_radio_19_user/intro_09",
+                    "Duration": 4448
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_10",
+                    "Path": "dlc_radio_19_user/intro_10",
+                    "Duration": 5157
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_11",
+                    "Path": "dlc_radio_19_user/intro_11",
+                    "Duration": 3690
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_12",
+                    "Path": "dlc_radio_19_user/intro_12",
+                    "Duration": 4085
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_13",
+                    "Path": "dlc_radio_19_user/intro_13",
+                    "Duration": 6400
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_14",
+                    "Path": "dlc_radio_19_user/intro_14",
+                    "Duration": 4373
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_15",
+                    "Path": "dlc_radio_19_user/intro_15",
+                    "Duration": 3274
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_16",
+                    "Path": "dlc_radio_19_user/intro_16",
+                    "Duration": 4453
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_17",
+                    "Path": "dlc_radio_19_user/intro_17",
+                    "Duration": 4704
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_18",
+                    "Path": "dlc_radio_19_user/intro_18",
+                    "Duration": 4944
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_19",
+                    "Path": "dlc_radio_19_user/intro_19",
+                    "Duration": 5114
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_20",
+                    "Path": "dlc_radio_19_user/intro_20",
+                    "Duration": 4442
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_21",
+                    "Path": "dlc_radio_19_user/intro_21",
+                    "Duration": 4442
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_22",
+                    "Path": "dlc_radio_19_user/intro_22",
+                    "Duration": 4821
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_23",
+                    "Path": "dlc_radio_19_user/intro_23",
+                    "Duration": 7221
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_24",
+                    "Path": "dlc_radio_19_user/intro_24",
+                    "Duration": 10048
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_25",
+                    "Path": "dlc_radio_19_user/intro_25",
+                    "Duration": 7125
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_26",
+                    "Path": "dlc_radio_19_user/intro_26",
+                    "Duration": 4458
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_27",
+                    "Path": "dlc_radio_19_user/intro_27",
+                    "Duration": 4704
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_28",
+                    "Path": "dlc_radio_19_user/intro_28",
+                    "Duration": 5573
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_29",
+                    "Path": "dlc_radio_19_user/intro_29",
+                    "Duration": 4677
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_30",
+                    "Path": "dlc_radio_19_user/intro_30",
+                    "Duration": 4090
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_31",
+                    "Path": "dlc_radio_19_user/intro_31",
+                    "Duration": 9205
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_32",
+                    "Path": "dlc_radio_19_user/intro_32",
+                    "Duration": 5472
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_33",
+                    "Path": "dlc_radio_19_user/intro_33",
+                    "Duration": 4624
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_34",
+                    "Path": "dlc_radio_19_user/intro_34",
+                    "Duration": 4832
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_35",
+                    "Path": "dlc_radio_19_user/intro_35",
+                    "Duration": 5989
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_36",
+                    "Path": "dlc_radio_19_user/intro_36",
+                    "Duration": 5733
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_37",
+                    "Path": "dlc_radio_19_user/intro_37",
+                    "Duration": 4869
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_38",
+                    "Path": "dlc_radio_19_user/intro_38",
+                    "Duration": 5376
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_39",
+                    "Path": "dlc_radio_19_user/intro_39",
+                    "Duration": 10261
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_40",
+                    "Path": "dlc_radio_19_user/intro_40",
+                    "Duration": 7776
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_41",
+                    "Path": "dlc_radio_19_user/intro_41",
+                    "Duration": 2298
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_42",
+                    "Path": "dlc_radio_19_user/intro_42",
+                    "Duration": 3514
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_43",
+                    "Path": "dlc_radio_19_user/intro_43",
+                    "Duration": 3541
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_44",
+                    "Path": "dlc_radio_19_user/intro_44",
+                    "Duration": 5088
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_45",
+                    "Path": "dlc_radio_19_user/intro_45",
+                    "Duration": 10314
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_46",
+                    "Path": "dlc_radio_19_user/intro_46",
+                    "Duration": 4896
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_47",
+                    "Path": "dlc_radio_19_user/intro_47",
+                    "Duration": 5130
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_48",
+                    "Path": "dlc_radio_19_user/intro_48",
+                    "Duration": 7552
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_49",
+                    "Path": "dlc_radio_19_user/intro_49",
+                    "Duration": 5306
+                },
+                {
+                    "Id": "dlc_radio_19_user_intro_50",
+                    "Path": "dlc_radio_19_user/intro_50",
+                    "Duration": 7594
+                }
+            ]
+        },
+        "dlc_radio_19_user_user_outro": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "9",
+            "Tracks": [
+                {
+                    "Id": "dlc_radio_19_user_outro_01",
+                    "Path": "dlc_radio_19_user/outro_01",
+                    "Duration": 5349
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_02",
+                    "Path": "dlc_radio_19_user/outro_02",
+                    "Duration": 5216
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_03",
+                    "Path": "dlc_radio_19_user/outro_03",
+                    "Duration": 8938
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_04",
+                    "Path": "dlc_radio_19_user/outro_04",
+                    "Duration": 4970
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_05",
+                    "Path": "dlc_radio_19_user/outro_05",
+                    "Duration": 6954
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_06",
+                    "Path": "dlc_radio_19_user/outro_06",
+                    "Duration": 8437
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_07",
+                    "Path": "dlc_radio_19_user/outro_07",
+                    "Duration": 5573
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_08",
+                    "Path": "dlc_radio_19_user/outro_08",
+                    "Duration": 8138
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_09",
+                    "Path": "dlc_radio_19_user/outro_09",
+                    "Duration": 4661
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_10",
+                    "Path": "dlc_radio_19_user/outro_10",
+                    "Duration": 8704
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_11",
+                    "Path": "dlc_radio_19_user/outro_11",
+                    "Duration": 5306
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_12",
+                    "Path": "dlc_radio_19_user/outro_12",
+                    "Duration": 4848
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_13",
+                    "Path": "dlc_radio_19_user/outro_13",
+                    "Duration": 3845
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_14",
+                    "Path": "dlc_radio_19_user/outro_14",
+                    "Duration": 3344
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_15",
+                    "Path": "dlc_radio_19_user/outro_15",
+                    "Duration": 9930
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_16",
+                    "Path": "dlc_radio_19_user/outro_16",
+                    "Duration": 2768
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_17",
+                    "Path": "dlc_radio_19_user/outro_17",
+                    "Duration": 4506
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_18",
+                    "Path": "dlc_radio_19_user/outro_18",
+                    "Duration": 8042
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_19",
+                    "Path": "dlc_radio_19_user/outro_19",
+                    "Duration": 3301
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_20",
+                    "Path": "dlc_radio_19_user/outro_20",
+                    "Duration": 9269
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_21",
+                    "Path": "dlc_radio_19_user/outro_21",
+                    "Duration": 3205
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_22",
+                    "Path": "dlc_radio_19_user/outro_22",
+                    "Duration": 7541
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_23",
+                    "Path": "dlc_radio_19_user/outro_23",
+                    "Duration": 3232
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_24",
+                    "Path": "dlc_radio_19_user/outro_24",
+                    "Duration": 6634
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_25",
+                    "Path": "dlc_radio_19_user/outro_25",
+                    "Duration": 7530
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_26",
+                    "Path": "dlc_radio_19_user/outro_26",
+                    "Duration": 8362
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_27",
+                    "Path": "dlc_radio_19_user/outro_27",
+                    "Duration": 7242
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_28",
+                    "Path": "dlc_radio_19_user/outro_28",
+                    "Duration": 3221
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_29",
+                    "Path": "dlc_radio_19_user/outro_29",
+                    "Duration": 7776
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_30",
+                    "Path": "dlc_radio_19_user/outro_30",
+                    "Duration": 2618
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_31",
+                    "Path": "dlc_radio_19_user/outro_31",
+                    "Duration": 5082
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_32",
+                    "Path": "dlc_radio_19_user/outro_32",
+                    "Duration": 6762
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_33",
+                    "Path": "dlc_radio_19_user/outro_33",
+                    "Duration": 5440
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_34",
+                    "Path": "dlc_radio_19_user/outro_34",
+                    "Duration": 3541
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_35",
+                    "Path": "dlc_radio_19_user/outro_35",
+                    "Duration": 5962
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_36",
+                    "Path": "dlc_radio_19_user/outro_36",
+                    "Duration": 5269
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_37",
+                    "Path": "dlc_radio_19_user/outro_37",
+                    "Duration": 6677
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_38",
+                    "Path": "dlc_radio_19_user/outro_38",
+                    "Duration": 4432
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_39",
+                    "Path": "dlc_radio_19_user/outro_39",
+                    "Duration": 5546
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_40",
+                    "Path": "dlc_radio_19_user/outro_40",
+                    "Duration": 6304
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_41",
+                    "Path": "dlc_radio_19_user/outro_41",
+                    "Duration": 5765
+                },
+                {
+                    "Id": "dlc_radio_19_user_outro_42",
+                    "Path": "dlc_radio_19_user/outro_42",
+                    "Duration": 4837
+                }
+            ]
+        },
+        "dlc_radio_19_user_intro_evening": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "11",
+            "Tracks": [
+                {
+                    "Id": "dlc_radio_19_user_evening_01",
+                    "Path": "dlc_radio_19_user/evening_01",
+                    "Duration": 5093
+                },
+                {
+                    "Id": "dlc_radio_19_user_evening_02",
+                    "Path": "dlc_radio_19_user/evening_02",
+                    "Duration": 3296
+                },
+                {
+                    "Id": "dlc_radio_19_user_evening_03",
+                    "Path": "dlc_radio_19_user/evening_03",
+                    "Duration": 7434
+                },
+                {
+                    "Id": "dlc_radio_19_user_evening_04",
+                    "Path": "dlc_radio_19_user/evening_04",
+                    "Duration": 6944
+                },
+                {
+                    "Id": "dlc_radio_19_user_evening_05",
+                    "Path": "dlc_radio_19_user/evening_05",
+                    "Duration": 6421
+                },
+                {
+                    "Id": "dlc_radio_19_user_evening_06",
+                    "Path": "dlc_radio_19_user/evening_06",
+                    "Duration": 4853
+                },
+                {
+                    "Id": "dlc_radio_19_user_evening_07",
+                    "Path": "dlc_radio_19_user/evening_07",
+                    "Duration": 4074
+                },
+                {
+                    "Id": "dlc_radio_19_user_evening_08",
+                    "Path": "dlc_radio_19_user/evening_08",
+                    "Duration": 2752
+                },
+                {
+                    "Id": "dlc_radio_19_user_evening_09",
+                    "Path": "dlc_radio_19_user/evening_09",
+                    "Duration": 4090
+                },
+                {
+                    "Id": "dlc_radio_19_user_evening_10",
+                    "Path": "dlc_radio_19_user/evening_10",
+                    "Duration": 8821
+                }
+            ]
+        },
+        "dlc_radio_19_user_intro_morning": {
+            "FlagsValue": "0xAAAAAAA0",
+            "Category": "10",
+            "Tracks": [
+                {
+                    "Id": "dlc_radio_19_user_morning_01",
+                    "Path": "dlc_radio_19_user/morning_01",
+                    "Duration": 3573
+                },
+                {
+                    "Id": "dlc_radio_19_user_morning_02",
+                    "Path": "dlc_radio_19_user/morning_02",
+                    "Duration": 3274
+                },
+                {
+                    "Id": "dlc_radio_19_user_morning_03",
+                    "Path": "dlc_radio_19_user/morning_03",
+                    "Duration": 5408
+                },
+                {
+                    "Id": "dlc_radio_19_user_morning_04",
+                    "Path": "dlc_radio_19_user/morning_04",
+                    "Duration": 6133
+                },
+                {
+                    "Id": "dlc_radio_19_user_morning_05",
+                    "Path": "dlc_radio_19_user/morning_05",
+                    "Duration": 6901
+                },
+                {
+                    "Id": "dlc_radio_19_user_morning_06",
+                    "Path": "dlc_radio_19_user/morning_06",
+                    "Duration": 4277
+                },
+                {
+                    "Id": "dlc_radio_19_user_morning_07",
+                    "Path": "dlc_radio_19_user/morning_07",
+                    "Duration": 5632
+                },
+                {
+                    "Id": "dlc_radio_19_user_morning_08",
+                    "Path": "dlc_radio_19_user/morning_08",
+                    "Duration": 7424
+                },
+                {
+                    "Id": "dlc_radio_19_user_morning_09",
+                    "Path": "dlc_radio_19_user/morning_09",
+                    "Duration": 4197
+                },
+                {
+                    "Id": "dlc_radio_19_user_morning_10",
+                    "Path": "dlc_radio_19_user/morning_10",
+                    "Duration": 3424
+                }
+            ]
+        }
     }
-  },
-  "TrackLists": {
-    "dlc_radio_19_user_djsolo": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "5",
-      "Tracks": [
-        {
-          "Id": "dlc_radio_19_user_solo_01",
-          "Path": "dlc_radio_19_user/solo_01",
-          "Duration": 12168
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_02",
-          "Path": "dlc_radio_19_user/solo_02",
-          "Duration": 23677
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_03",
-          "Path": "dlc_radio_19_user/solo_03",
-          "Duration": 28306
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_04",
-          "Path": "dlc_radio_19_user/solo_04",
-          "Duration": 31165
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_05",
-          "Path": "dlc_radio_19_user/solo_05",
-          "Duration": 30781
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_06",
-          "Path": "dlc_radio_19_user/solo_06",
-          "Duration": 17078
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_07",
-          "Path": "dlc_radio_19_user/solo_07",
-          "Duration": 18152
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_08",
-          "Path": "dlc_radio_19_user/solo_08",
-          "Duration": 12333
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_09",
-          "Path": "dlc_radio_19_user/solo_09",
-          "Duration": 18470
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_10",
-          "Path": "dlc_radio_19_user/solo_10",
-          "Duration": 26088
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_11",
-          "Path": "dlc_radio_19_user/solo_11",
-          "Duration": 24594
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_12",
-          "Path": "dlc_radio_19_user/solo_12",
-          "Duration": 21053
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_13",
-          "Path": "dlc_radio_19_user/solo_13",
-          "Duration": 16957
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_14",
-          "Path": "dlc_radio_19_user/solo_14",
-          "Duration": 19030
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_15",
-          "Path": "dlc_radio_19_user/solo_15",
-          "Duration": 17643
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_16",
-          "Path": "dlc_radio_19_user/solo_16",
-          "Duration": 21327
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_17",
-          "Path": "dlc_radio_19_user/solo_17",
-          "Duration": 15843
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_18",
-          "Path": "dlc_radio_19_user/solo_18",
-          "Duration": 16602
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_19",
-          "Path": "dlc_radio_19_user/solo_19",
-          "Duration": 25493
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_20",
-          "Path": "dlc_radio_19_user/solo_20",
-          "Duration": 16189
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_21",
-          "Path": "dlc_radio_19_user/solo_21",
-          "Duration": 17234
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_22",
-          "Path": "dlc_radio_19_user/solo_22",
-          "Duration": 17406
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_23",
-          "Path": "dlc_radio_19_user/solo_23",
-          "Duration": 20925
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_24",
-          "Path": "dlc_radio_19_user/solo_24",
-          "Duration": 32232
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_25",
-          "Path": "dlc_radio_19_user/solo_25",
-          "Duration": 15454
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_26",
-          "Path": "dlc_radio_19_user/solo_26",
-          "Duration": 15357
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_27",
-          "Path": "dlc_radio_19_user/solo_27",
-          "Duration": 16302
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_28",
-          "Path": "dlc_radio_19_user/solo_28",
-          "Duration": 36906
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_29",
-          "Path": "dlc_radio_19_user/solo_29",
-          "Duration": 29019
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_30",
-          "Path": "dlc_radio_19_user/solo_30",
-          "Duration": 29458
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_31",
-          "Path": "dlc_radio_19_user/solo_31",
-          "Duration": 21155
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_32",
-          "Path": "dlc_radio_19_user/solo_32",
-          "Duration": 25195
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_33",
-          "Path": "dlc_radio_19_user/solo_33",
-          "Duration": 26089
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_34",
-          "Path": "dlc_radio_19_user/solo_34",
-          "Duration": 20264
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_35",
-          "Path": "dlc_radio_19_user/solo_35",
-          "Duration": 20842
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_36",
-          "Path": "dlc_radio_19_user/solo_36",
-          "Duration": 30638
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_37",
-          "Path": "dlc_radio_19_user/solo_37",
-          "Duration": 19393
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_38",
-          "Path": "dlc_radio_19_user/solo_38",
-          "Duration": 19947
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_39",
-          "Path": "dlc_radio_19_user/solo_39",
-          "Duration": 21499
-        },
-        {
-          "Id": "dlc_radio_19_user_solo_40",
-          "Path": "dlc_radio_19_user/solo_40",
-          "Duration": 26781
-        }
-      ]
-    },
-    "dlc_radio_19_user_idents": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "1",
-      "Tracks": [
-        {
-          "Id": "dlc_radio_19_user_id_01",
-          "Path": "dlc_radio_19_user/id_01",
-          "Duration": 6218
-        },
-        {
-          "Id": "dlc_radio_19_user_id_02",
-          "Path": "dlc_radio_19_user/id_02",
-          "Duration": 7650
-        },
-        {
-          "Id": "dlc_radio_19_user_id_03",
-          "Path": "dlc_radio_19_user/id_03",
-          "Duration": 7626
-        },
-        {
-          "Id": "dlc_radio_19_user_id_04",
-          "Path": "dlc_radio_19_user/id_04",
-          "Duration": 7008
-        },
-        {
-          "Id": "dlc_radio_19_user_id_05",
-          "Path": "dlc_radio_19_user/id_05",
-          "Duration": 13440
-        },
-        {
-          "Id": "dlc_radio_19_user_id_06",
-          "Path": "dlc_radio_19_user/id_06",
-          "Duration": 14058
-        },
-        {
-          "Id": "dlc_radio_19_user_id_07",
-          "Path": "dlc_radio_19_user/id_07",
-          "Duration": 8160
-        },
-        {
-          "Id": "dlc_radio_19_user_id_08",
-          "Path": "dlc_radio_19_user/id_08",
-          "Duration": 8309
-        },
-        {
-          "Id": "dlc_radio_19_user_id_09",
-          "Path": "dlc_radio_19_user/id_09",
-          "Duration": 8181
-        },
-        {
-          "Id": "dlc_radio_19_user_id_10",
-          "Path": "dlc_radio_19_user/id_10",
-          "Duration": 11893
-        },
-        {
-          "Id": "dlc_radio_19_user_id_11",
-          "Path": "dlc_radio_19_user/id_11",
-          "Duration": 8298
-        },
-        {
-          "Id": "dlc_radio_19_user_id_12",
-          "Path": "dlc_radio_19_user/id_12",
-          "Duration": 5264
-        },
-        {
-          "Id": "dlc_radio_19_user_id_13",
-          "Path": "dlc_radio_19_user/id_13",
-          "Duration": 6709
-        },
-        {
-          "Id": "dlc_radio_19_user_id_14",
-          "Path": "dlc_radio_19_user/id_14",
-          "Duration": 6752
-        },
-        {
-          "Id": "dlc_radio_19_user_id_15",
-          "Path": "dlc_radio_19_user/id_15",
-          "Duration": 7592
-        },
-        {
-          "Id": "dlc_radio_19_user_id_16",
-          "Path": "dlc_radio_19_user/id_16",
-          "Duration": 10780
-        },
-        {
-          "Id": "dlc_radio_19_user_id_17",
-          "Path": "dlc_radio_19_user/id_17",
-          "Duration": 9670
-        },
-        {
-          "Id": "dlc_radio_19_user_id_18",
-          "Path": "dlc_radio_19_user/id_18",
-          "Duration": 8640
-        },
-        {
-          "Id": "dlc_radio_19_user_id_19",
-          "Path": "dlc_radio_19_user/id_19",
-          "Duration": 11109
-        },
-        {
-          "Id": "dlc_radio_19_user_id_20",
-          "Path": "dlc_radio_19_user/id_20",
-          "Duration": 5968
-        }
-      ]
-    },
-    "dlc_radio_19_user_music": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "2",
-      "Tracks": [
-        {
-          "Id": "dlc_radio_19_user_nulltrack",
-          "Path": "dlc_radio_19_user/nulltrack",
-          "Duration": 62325
-        }
-      ]
-    },
-    "dlc_radio_19_user_to_ad": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "7",
-      "Tracks": [
-        {
-          "Id": "dlc_radio_19_user_to_ad_01",
-          "Path": "dlc_radio_19_user/to_ad_01",
-          "Duration": 3014
-        },
-        {
-          "Id": "dlc_radio_19_user_to_ad_02",
-          "Path": "dlc_radio_19_user/to_ad_02",
-          "Duration": 5337
-        },
-        {
-          "Id": "dlc_radio_19_user_to_ad_03",
-          "Path": "dlc_radio_19_user/to_ad_03",
-          "Duration": 4110
-        },
-        {
-          "Id": "dlc_radio_19_user_to_ad_04",
-          "Path": "dlc_radio_19_user/to_ad_04",
-          "Duration": 3945
-        },
-        {
-          "Id": "dlc_radio_19_user_to_ad_05",
-          "Path": "dlc_radio_19_user/to_ad_05",
-          "Duration": 4622
-        },
-        {
-          "Id": "dlc_radio_19_user_to_ad_06",
-          "Path": "dlc_radio_19_user/to_ad_06",
-          "Duration": 4585
-        },
-        {
-          "Id": "dlc_radio_19_user_to_ad_07",
-          "Path": "dlc_radio_19_user/to_ad_07",
-          "Duration": 5294
-        },
-        {
-          "Id": "dlc_radio_19_user_to_ad_08",
-          "Path": "dlc_radio_19_user/to_ad_08",
-          "Duration": 5465
-        },
-        {
-          "Id": "dlc_radio_19_user_to_ad_09",
-          "Path": "dlc_radio_19_user/to_ad_09",
-          "Duration": 10196
-        },
-        {
-          "Id": "dlc_radio_19_user_to_ad_10",
-          "Path": "dlc_radio_19_user/to_ad_10",
-          "Duration": 5550
-        }
-      ]
-    },
-    "dlc_radio_19_user_to_news": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "6",
-      "Tracks": [
-        {
-          "Id": "dlc_radio_19_user_to_news_01",
-          "Path": "dlc_radio_19_user/to_news_01",
-          "Duration": 5456
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_02",
-          "Path": "dlc_radio_19_user/to_news_02",
-          "Duration": 5120
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_03",
-          "Path": "dlc_radio_19_user/to_news_03",
-          "Duration": 6805
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_04",
-          "Path": "dlc_radio_19_user/to_news_04",
-          "Duration": 2896
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_05",
-          "Path": "dlc_radio_19_user/to_news_05",
-          "Duration": 3365
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_06",
-          "Path": "dlc_radio_19_user/to_news_06",
-          "Duration": 3530
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_07",
-          "Path": "dlc_radio_19_user/to_news_07",
-          "Duration": 6357
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_08",
-          "Path": "dlc_radio_19_user/to_news_08",
-          "Duration": 4250
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_09",
-          "Path": "dlc_radio_19_user/to_news_09",
-          "Duration": 6090
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_10",
-          "Path": "dlc_radio_19_user/to_news_10",
-          "Duration": 4858
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_11",
-          "Path": "dlc_radio_19_user/to_news_11",
-          "Duration": 5658
-        },
-        {
-          "Id": "dlc_radio_19_user_to_news_12",
-          "Path": "dlc_radio_19_user/to_news_12",
-          "Duration": 3546
-        }
-      ]
-    },
-    "dlc_radio_19_user_user_intro": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "8",
-      "Tracks": [
-        {
-          "Id": "dlc_radio_19_user_intro_01",
-          "Path": "dlc_radio_19_user/intro_01",
-          "Duration": 6506
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_02",
-          "Path": "dlc_radio_19_user/intro_02",
-          "Duration": 7434
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_03",
-          "Path": "dlc_radio_19_user/intro_03",
-          "Duration": 5552
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_04",
-          "Path": "dlc_radio_19_user/intro_04",
-          "Duration": 6901
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_05",
-          "Path": "dlc_radio_19_user/intro_05",
-          "Duration": 6368
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_06",
-          "Path": "dlc_radio_19_user/intro_06",
-          "Duration": 5034
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_07",
-          "Path": "dlc_radio_19_user/intro_07",
-          "Duration": 5418
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_08",
-          "Path": "dlc_radio_19_user/intro_08",
-          "Duration": 5077
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_09",
-          "Path": "dlc_radio_19_user/intro_09",
-          "Duration": 4448
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_10",
-          "Path": "dlc_radio_19_user/intro_10",
-          "Duration": 5157
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_11",
-          "Path": "dlc_radio_19_user/intro_11",
-          "Duration": 3690
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_12",
-          "Path": "dlc_radio_19_user/intro_12",
-          "Duration": 4085
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_13",
-          "Path": "dlc_radio_19_user/intro_13",
-          "Duration": 6400
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_14",
-          "Path": "dlc_radio_19_user/intro_14",
-          "Duration": 4373
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_15",
-          "Path": "dlc_radio_19_user/intro_15",
-          "Duration": 3274
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_16",
-          "Path": "dlc_radio_19_user/intro_16",
-          "Duration": 4453
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_17",
-          "Path": "dlc_radio_19_user/intro_17",
-          "Duration": 4704
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_18",
-          "Path": "dlc_radio_19_user/intro_18",
-          "Duration": 4944
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_19",
-          "Path": "dlc_radio_19_user/intro_19",
-          "Duration": 5114
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_20",
-          "Path": "dlc_radio_19_user/intro_20",
-          "Duration": 4442
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_21",
-          "Path": "dlc_radio_19_user/intro_21",
-          "Duration": 4442
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_22",
-          "Path": "dlc_radio_19_user/intro_22",
-          "Duration": 4821
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_23",
-          "Path": "dlc_radio_19_user/intro_23",
-          "Duration": 7221
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_24",
-          "Path": "dlc_radio_19_user/intro_24",
-          "Duration": 10048
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_25",
-          "Path": "dlc_radio_19_user/intro_25",
-          "Duration": 7125
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_26",
-          "Path": "dlc_radio_19_user/intro_26",
-          "Duration": 4458
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_27",
-          "Path": "dlc_radio_19_user/intro_27",
-          "Duration": 4704
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_28",
-          "Path": "dlc_radio_19_user/intro_28",
-          "Duration": 5573
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_29",
-          "Path": "dlc_radio_19_user/intro_29",
-          "Duration": 4677
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_30",
-          "Path": "dlc_radio_19_user/intro_30",
-          "Duration": 4090
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_31",
-          "Path": "dlc_radio_19_user/intro_31",
-          "Duration": 9205
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_32",
-          "Path": "dlc_radio_19_user/intro_32",
-          "Duration": 5472
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_33",
-          "Path": "dlc_radio_19_user/intro_33",
-          "Duration": 4624
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_34",
-          "Path": "dlc_radio_19_user/intro_34",
-          "Duration": 4832
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_35",
-          "Path": "dlc_radio_19_user/intro_35",
-          "Duration": 5989
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_36",
-          "Path": "dlc_radio_19_user/intro_36",
-          "Duration": 5733
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_37",
-          "Path": "dlc_radio_19_user/intro_37",
-          "Duration": 4869
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_38",
-          "Path": "dlc_radio_19_user/intro_38",
-          "Duration": 5376
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_39",
-          "Path": "dlc_radio_19_user/intro_39",
-          "Duration": 10261
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_40",
-          "Path": "dlc_radio_19_user/intro_40",
-          "Duration": 7776
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_41",
-          "Path": "dlc_radio_19_user/intro_41",
-          "Duration": 2298
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_42",
-          "Path": "dlc_radio_19_user/intro_42",
-          "Duration": 3514
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_43",
-          "Path": "dlc_radio_19_user/intro_43",
-          "Duration": 3541
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_44",
-          "Path": "dlc_radio_19_user/intro_44",
-          "Duration": 5088
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_45",
-          "Path": "dlc_radio_19_user/intro_45",
-          "Duration": 10314
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_46",
-          "Path": "dlc_radio_19_user/intro_46",
-          "Duration": 4896
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_47",
-          "Path": "dlc_radio_19_user/intro_47",
-          "Duration": 5130
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_48",
-          "Path": "dlc_radio_19_user/intro_48",
-          "Duration": 7552
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_49",
-          "Path": "dlc_radio_19_user/intro_49",
-          "Duration": 5306
-        },
-        {
-          "Id": "dlc_radio_19_user_intro_50",
-          "Path": "dlc_radio_19_user/intro_50",
-          "Duration": 7594
-        }
-      ]
-    },
-    "dlc_radio_19_user_user_outro": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "9",
-      "Tracks": [
-        {
-          "Id": "dlc_radio_19_user_outro_01",
-          "Path": "dlc_radio_19_user/outro_01",
-          "Duration": 5349
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_02",
-          "Path": "dlc_radio_19_user/outro_02",
-          "Duration": 5216
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_03",
-          "Path": "dlc_radio_19_user/outro_03",
-          "Duration": 8938
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_04",
-          "Path": "dlc_radio_19_user/outro_04",
-          "Duration": 4970
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_05",
-          "Path": "dlc_radio_19_user/outro_05",
-          "Duration": 6954
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_06",
-          "Path": "dlc_radio_19_user/outro_06",
-          "Duration": 8437
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_07",
-          "Path": "dlc_radio_19_user/outro_07",
-          "Duration": 5573
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_08",
-          "Path": "dlc_radio_19_user/outro_08",
-          "Duration": 8138
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_09",
-          "Path": "dlc_radio_19_user/outro_09",
-          "Duration": 4661
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_10",
-          "Path": "dlc_radio_19_user/outro_10",
-          "Duration": 8704
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_11",
-          "Path": "dlc_radio_19_user/outro_11",
-          "Duration": 5306
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_12",
-          "Path": "dlc_radio_19_user/outro_12",
-          "Duration": 4848
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_13",
-          "Path": "dlc_radio_19_user/outro_13",
-          "Duration": 3845
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_14",
-          "Path": "dlc_radio_19_user/outro_14",
-          "Duration": 3344
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_15",
-          "Path": "dlc_radio_19_user/outro_15",
-          "Duration": 9930
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_16",
-          "Path": "dlc_radio_19_user/outro_16",
-          "Duration": 2768
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_17",
-          "Path": "dlc_radio_19_user/outro_17",
-          "Duration": 4506
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_18",
-          "Path": "dlc_radio_19_user/outro_18",
-          "Duration": 8042
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_19",
-          "Path": "dlc_radio_19_user/outro_19",
-          "Duration": 3301
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_20",
-          "Path": "dlc_radio_19_user/outro_20",
-          "Duration": 9269
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_21",
-          "Path": "dlc_radio_19_user/outro_21",
-          "Duration": 3205
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_22",
-          "Path": "dlc_radio_19_user/outro_22",
-          "Duration": 7541
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_23",
-          "Path": "dlc_radio_19_user/outro_23",
-          "Duration": 3232
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_24",
-          "Path": "dlc_radio_19_user/outro_24",
-          "Duration": 6634
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_25",
-          "Path": "dlc_radio_19_user/outro_25",
-          "Duration": 7530
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_26",
-          "Path": "dlc_radio_19_user/outro_26",
-          "Duration": 8362
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_27",
-          "Path": "dlc_radio_19_user/outro_27",
-          "Duration": 7242
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_28",
-          "Path": "dlc_radio_19_user/outro_28",
-          "Duration": 3221
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_29",
-          "Path": "dlc_radio_19_user/outro_29",
-          "Duration": 7776
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_30",
-          "Path": "dlc_radio_19_user/outro_30",
-          "Duration": 2618
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_31",
-          "Path": "dlc_radio_19_user/outro_31",
-          "Duration": 5082
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_32",
-          "Path": "dlc_radio_19_user/outro_32",
-          "Duration": 6762
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_33",
-          "Path": "dlc_radio_19_user/outro_33",
-          "Duration": 5440
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_34",
-          "Path": "dlc_radio_19_user/outro_34",
-          "Duration": 3541
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_35",
-          "Path": "dlc_radio_19_user/outro_35",
-          "Duration": 5962
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_36",
-          "Path": "dlc_radio_19_user/outro_36",
-          "Duration": 5269
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_37",
-          "Path": "dlc_radio_19_user/outro_37",
-          "Duration": 6677
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_38",
-          "Path": "dlc_radio_19_user/outro_38",
-          "Duration": 4432
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_39",
-          "Path": "dlc_radio_19_user/outro_39",
-          "Duration": 5546
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_40",
-          "Path": "dlc_radio_19_user/outro_40",
-          "Duration": 6304
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_41",
-          "Path": "dlc_radio_19_user/outro_41",
-          "Duration": 5765
-        },
-        {
-          "Id": "dlc_radio_19_user_outro_42",
-          "Path": "dlc_radio_19_user/outro_42",
-          "Duration": 4837
-        }
-      ]
-    },
-    "dlc_radio_19_user_intro_evening": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "11",
-      "Tracks": [
-        {
-          "Id": "dlc_radio_19_user_evening_01",
-          "Path": "dlc_radio_19_user/evening_01",
-          "Duration": 5093
-        },
-        {
-          "Id": "dlc_radio_19_user_evening_02",
-          "Path": "dlc_radio_19_user/evening_02",
-          "Duration": 3296
-        },
-        {
-          "Id": "dlc_radio_19_user_evening_03",
-          "Path": "dlc_radio_19_user/evening_03",
-          "Duration": 7434
-        },
-        {
-          "Id": "dlc_radio_19_user_evening_04",
-          "Path": "dlc_radio_19_user/evening_04",
-          "Duration": 6944
-        },
-        {
-          "Id": "dlc_radio_19_user_evening_05",
-          "Path": "dlc_radio_19_user/evening_05",
-          "Duration": 6421
-        },
-        {
-          "Id": "dlc_radio_19_user_evening_06",
-          "Path": "dlc_radio_19_user/evening_06",
-          "Duration": 4853
-        },
-        {
-          "Id": "dlc_radio_19_user_evening_07",
-          "Path": "dlc_radio_19_user/evening_07",
-          "Duration": 4074
-        },
-        {
-          "Id": "dlc_radio_19_user_evening_08",
-          "Path": "dlc_radio_19_user/evening_08",
-          "Duration": 2752
-        },
-        {
-          "Id": "dlc_radio_19_user_evening_09",
-          "Path": "dlc_radio_19_user/evening_09",
-          "Duration": 4090
-        },
-        {
-          "Id": "dlc_radio_19_user_evening_10",
-          "Path": "dlc_radio_19_user/evening_10",
-          "Duration": 8821
-        }
-      ]
-    },
-    "dlc_radio_19_user_intro_morning": {
-      "Flags": "0xAAAAAAA0",
-      "Category": "10",
-      "Tracks": [
-        {
-          "Id": "dlc_radio_19_user_morning_01",
-          "Path": "dlc_radio_19_user/morning_01",
-          "Duration": 3573
-        },
-        {
-          "Id": "dlc_radio_19_user_morning_02",
-          "Path": "dlc_radio_19_user/morning_02",
-          "Duration": 3274
-        },
-        {
-          "Id": "dlc_radio_19_user_morning_03",
-          "Path": "dlc_radio_19_user/morning_03",
-          "Duration": 5408
-        },
-        {
-          "Id": "dlc_radio_19_user_morning_04",
-          "Path": "dlc_radio_19_user/morning_04",
-          "Duration": 6133
-        },
-        {
-          "Id": "dlc_radio_19_user_morning_05",
-          "Path": "dlc_radio_19_user/morning_05",
-          "Duration": 6901
-        },
-        {
-          "Id": "dlc_radio_19_user_morning_06",
-          "Path": "dlc_radio_19_user/morning_06",
-          "Duration": 4277
-        },
-        {
-          "Id": "dlc_radio_19_user_morning_07",
-          "Path": "dlc_radio_19_user/morning_07",
-          "Duration": 5632
-        },
-        {
-          "Id": "dlc_radio_19_user_morning_08",
-          "Path": "dlc_radio_19_user/morning_08",
-          "Duration": 7424
-        },
-        {
-          "Id": "dlc_radio_19_user_morning_09",
-          "Path": "dlc_radio_19_user/morning_09",
-          "Duration": 4197
-        },
-        {
-          "Id": "dlc_radio_19_user_morning_10",
-          "Path": "dlc_radio_19_user/morning_10",
-          "Duration": 3424
-        }
-      ]
-    }
-  }
 }
